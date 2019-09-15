@@ -1,21 +1,25 @@
 <template>
   <div id="recipe-list">
-    <div v-for="(o, i) in items" v-bind:key="i">
-      <b-card
-        :title="o.name"
-        :img-src="o.image"
-        :img-alt="o.name"
-        img-top
-        style="max-width: 20rem;"
-        class="mb-2"
+    <b-card-group deck>
+      <div
+        v-for="(o, i) in items"
+        v-bind:key="i"
       >
-        <b-card-text>
-          {{ o.description }}
-        </b-card-text>
+        <b-card
+          :title="o.name"
+          :img-src="o.image"
+          :img-alt="o.name"
+          img-top
+          style="max-width: 20rem;"
+        >
+          <b-card-text>
+            {{ o.description }}
+          </b-card-text>
 
-        <b-button :href="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
-      </b-card>
-    </div>
+          <b-button :href="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+        </b-card>
+      </div>
+    </b-card-group>
   </div>
 </template>
 
