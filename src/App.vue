@@ -6,7 +6,7 @@
         <img alt="Logo" src="./assets/logo.png" width="50">
         Drink List
         </h1>
-        <p>Crowd Contributed Drink Recipes!</p>
+        <p>Open Source Drinks!</p>
       </div>
 
       <b-nav tabs>
