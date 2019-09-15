@@ -30,6 +30,13 @@
   /* text-align: center; */
   color: #2c3e50;
 }
+
+#app .router-link-exact-active {
+  color: #495057;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
 #nav {
   padding: 30px;
 }
