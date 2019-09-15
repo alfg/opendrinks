@@ -1,5 +1,5 @@
 <template>
-  <div id="recipe-list">
+  <div id="recipe-list" class="container">
     <b-card-group deck>
       <div
         v-for="(o, i) in items"
@@ -44,3 +44,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.card-deck .card {
+  margin-right: 0;
+}
+</style>
