@@ -1,6 +1,5 @@
 <template>
   <div class="explore container">
-    <h2 class="text-center">Explore Drinks</h2>
     <RecipeList />
   </div>
 </template>
