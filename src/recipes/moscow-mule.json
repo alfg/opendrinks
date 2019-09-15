@@ -1,0 +1,14 @@
+{
+    "name": "Moscow Mule",
+    "description": "It's a simple, snappy cocktail. Don't forget the mug.",
+    "ingredients": [
+        "2 oz. vodka ",
+        "1/2 oz. lime juice, freshly squeezed",
+        "6 oz. ginger beer "
+    ],
+    "steps": [
+        "Squeeze lime juice into a Moscow Mule mug (or a Collins glass) and drop in the spent shell.",
+        "Add 2 or 3 ice cubes, then pour in the vodka and fill with cold ginger beer.",
+        "Serve with a stirring rod"
+    ]
+}
