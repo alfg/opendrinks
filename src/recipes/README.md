@@ -21,6 +21,7 @@ This directory contains all the drink recipes. Add your own by following the pro
         "<Step 3>"
     ]
 }
+```
 * Submit a Pull Request with your recipe!
 * Once approved and merged, the latest update will be published to https://drinklist.netlify.com
-```
+
