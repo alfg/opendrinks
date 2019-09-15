@@ -35,10 +35,5 @@ export default {
     const drink = recipes.getRecipe(this.name);
     this.drink = drink;
   },
-  methods: {
-  },
 };
 </script>
-
-<style scoped>
-</style>

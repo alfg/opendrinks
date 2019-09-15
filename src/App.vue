@@ -6,13 +6,12 @@
         <img alt="Logo" src="./assets/logo.png" width="50">
         Drink List
         </h1>
-        <p>Crowd Contributed Drink Recepies!</p>
+        <p>Crowd Contributed Drink Recipes!</p>
       </div>
 
       <b-nav tabs>
         <b-nav-item to="/">Random</b-nav-item>
-        <b-nav-item to="/">Top 50</b-nav-item>
-        <b-nav-item to="/">Explore</b-nav-item>
+        <b-nav-item to="/explore">Explore</b-nav-item>
       </b-nav>
     </div>
     <router-view/>

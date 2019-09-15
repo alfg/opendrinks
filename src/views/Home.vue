@@ -16,7 +16,7 @@ export default {
   data() {
     return {
       name: null,
-    }
+    };
   },
   created() {
     this.getRandom();
@@ -25,7 +25,7 @@ export default {
     getRandom() {
       const randDrink = recipes.getRandom();
       this.name = randDrink;
-    }
-  }
+    },
+  },
 };
 </script>

@@ -7,8 +7,21 @@ function requireAll(r) {
 
 const recipes = requireAll(require.context('./', true, /\.json$/));
 
+function getRecipes() {
+  const items = [];
+
+  recipes.forEach((i) => {
+    const r = i.replace('./', '').replace('.json', '');
+    const item = require(`@/recipes/${r}`);
+    item.filename = r;
+    items.push(item);
+  });
+  return items;
+}
+
 function getRecipe(id) {
-  const item = require(`@/recipes/${id.replace('./', '')}`);
+  const r = id.replace('./', '').replace('.json', '');
+  const item = require(`@/recipes/${r}`);
   return item;
 }
 
@@ -18,6 +31,7 @@ function getRandom() {
 }
 
 export default {
+  getRecipes,
   getRecipe,
   getRandom,
 };
