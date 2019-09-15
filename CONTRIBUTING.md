@@ -1,5 +1,5 @@
 ## 🍸 Submit a Drink Recipe
-This directory contains all the drink recipes. Add your own by following the process below:
+The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a JSON file. Add your own by following the process below:
 
 * Fork the project
 * Create a new json file named after the drink
@@ -8,20 +8,25 @@ This directory contains all the drink recipes. Add your own by following the pro
 
 ```json
 {
-    "name": "<Name of Drink>",
+    "name": "<Name of drink>",
     "description": "<Short description of drink>",
     "ingredients": [
         "<Ingredient 1>",
         "<Ingredient 2>",
         "<Ingredient 3>"
     ],
-    "steps": [
+    "directions": [
         "<Step 1>",
         "<Step 2>",
         "<Step 3>"
-    ]
+    ],
+    "image": "<drink-name.jpg>"
 }
 ```
+
+* Add an image to the [/src/recipes/img](/src/recipes/img/).
+  * Filename should match recipe filename
+  * JPG format, 600x400px if possible, 200KB max in size
 * Submit a Pull Request with your recipe!
 * Once approved and merged, the latest update will be published to https://drinklist.netlify.com
 

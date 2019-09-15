@@ -1,0 +1,15 @@
+{
+    "name": "Margarita",
+    "description": "A margarita is a cocktail consisting of tequila, orange liqueur, and lime juice often served with salt on the rim of the glass.",
+    "ingredients": [
+        "1 (6 oz) can frozen limeade",
+        "2 fl oz. triple sec",
+        "6 fl oz. tequila"
+    ],
+    "directions": [
+        "Fill blender wwith crushed ice.",
+        "Pour in limeade concentrate, tequila and triple sec",
+        "Blend until smooth. Pour into glasses and serve."
+    ],
+    "image": "margarita.jpg"
+}

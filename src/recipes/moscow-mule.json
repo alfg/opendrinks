@@ -6,9 +6,10 @@
         "1/2 oz. lime juice, freshly squeezed",
         "6 oz. ginger beer "
     ],
-    "steps": [
+    "directions": [
         "Squeeze lime juice into a Moscow Mule mug (or a Collins glass) and drop in the spent shell.",
         "Add 2 or 3 ice cubes, then pour in the vodka and fill with cold ginger beer.",
         "Serve with a stirring rod"
-    ]
+    ],
+    "image":"moscow-mule.jpg" 
 }

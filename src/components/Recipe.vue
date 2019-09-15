@@ -3,16 +3,21 @@
     <h1>{{ drink.name }}</h1>
     <p>{{ drink.description }}</p>
 
-    <div><img src="" /></div>
+    <b-img
+      class="mb-4"
+      :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
+      rounded
+      fluid-grow
+    />
 
     <h4>Ingredients</h4>
     <ul>
       <li v-for="(o, i) in drink.ingredients" v-bind:key="i">{{ o }}</li>
     </ul>
 
-    <h4>Steps</h4>
+    <h4>Directions</h4>
     <ol>
-      <li v-for="(o, i) in drink.steps" v-bind:key="i">{{ o }}</li>
+      <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
   </div>
 </template>

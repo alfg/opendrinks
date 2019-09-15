@@ -6,7 +6,9 @@ https://drinklist.netlify.com/
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://drinklist.netlify.com)
 
 ## Submit a drink recipe
-Looking to submit a drink recipe? Check out these Contributing Guidelines first!
+Looking to submit a drink recipe? Check out the Contributing Guidelines first!
+
+See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 * Check existing recipes in [/src/recipes](/src/recipes)
 * Fork and make a pull request with your drink recipe

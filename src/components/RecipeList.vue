@@ -4,10 +4,11 @@
       <div
         v-for="(o, i) in items"
         v-bind:key="i"
+        class="mb-2 p-1"
       >
         <b-card
           :title="o.name"
-          :img-src="o.image"
+          :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
           :img-alt="o.name"
           img-top
           style="max-width: 20rem;"
