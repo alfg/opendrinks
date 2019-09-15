@@ -1,9 +1,9 @@
-# 🍸 Drink List
+# Drink List
 > Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
 https://drinklist.netlify.com/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://app.netlify.com/sites/drinklist/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://drinklist.netlify.com)
 
 ## Submit a drink recipe
 Looking to submit a drink recipe? Check out these Contributing Guidelines first!
