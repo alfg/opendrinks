@@ -3,6 +3,7 @@ import Router from 'vue-router';
 import Home from './views/Home.vue';
 import Recipe from './views/Recipe.vue';
 import Explore from './views/Explore.vue';
+import Search from './views/Search.vue';
 
 Vue.use(Router);
 
@@ -24,6 +25,11 @@ export default new Router({
       path: '/explore',
       name: 'explore',
       component: Explore,
+    },
+    {
+      path: '/search',
+      name: 'search',
+      component: Search,
     },
     {
       path: '/about',
