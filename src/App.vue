@@ -18,7 +18,11 @@
     <router-view/>
 
     <footer class="container mt-4 text-center">
-      <div>View the source on <a href="https://github.com/alfg/drink">GitHub!</a></div>
+      <hr />
+      <div>View the source or contribute a drink recipe on <a href="https://github.com/alfg/drink">GitHub</a>!</div>
+      <a href="https://www.netlify.com">
+        <img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/>
+      </a>
     </footer>
   </div>
 </template>
@@ -28,7 +32,6 @@
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* text-align: center; */
   color: #2c3e50;
 }
 

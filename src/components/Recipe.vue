@@ -30,15 +30,25 @@ export default {
   props: {
     name: String,
   },
+  watch: {
+    name(newVal) {
+      this.getRecipe(newVal);
+    },
+  },
   data() {
     return {
       json: {},
       drink: {},
     };
   },
-  mounted() {
-    const drink = recipes.getRecipe(this.name);
-    this.drink = drink;
+  created() {
+    this.getRecipe(this.name);
+  },
+  methods: {
+    getRecipe(name) {
+      const drink = recipes.getRecipe(name);
+      this.drink = drink;
+    },
   },
 };
 </script>

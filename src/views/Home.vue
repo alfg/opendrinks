@@ -1,5 +1,8 @@
 <template>
   <div class="home container">
+    <div class="float-right">
+      <b-button variant="primary" size="sm" @click="onNext">Next</b-button>
+    </div>
     <Recipe v-bind:name="name" />
   </div>
 </template>
@@ -25,6 +28,9 @@ export default {
     getRandom() {
       const randDrink = recipes.getRandom();
       this.name = randDrink;
+    },
+    onNext() {
+      this.getRandom();
     },
   },
 };
