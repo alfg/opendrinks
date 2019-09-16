@@ -6,6 +6,7 @@
     <b-img
       class="mb-4"
       :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
+      :alt="drink.name"
       rounded
       fluid-grow
     />
