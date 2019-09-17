@@ -1,12 +1,11 @@
 <template>
   <div id="app">
     <div class="container mb-4 mt-4">
-      <div class="text-center">
+      <div class="text-center mb-4">
         <h1>
         <img alt="Logo" src="./assets/logo.png" width="50">
-        Drink List
+        Open Drinks
         </h1>
-        <p>Open Source Drinks!</p>
       </div>
 
       <b-nav tabs>
