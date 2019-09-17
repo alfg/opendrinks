@@ -28,5 +28,5 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
   * Filename should match recipe filename
   * JPG format, 600x400px if possible, 200KB max in size
 * Submit a Pull Request with your recipe!
-* Once approved and merged, the latest update will be published to https://drinklist.netlify.com
+* Once approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
