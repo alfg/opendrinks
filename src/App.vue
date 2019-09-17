@@ -4,9 +4,8 @@
       <div class="text-center">
         <h1>
         <img alt="Logo" src="./assets/logo.png" width="50">
-        Drink List
+        Open Drinks
         </h1>
-        <p>Open Source Drinks!</p>
       </div>
 
       <b-nav tabs>
