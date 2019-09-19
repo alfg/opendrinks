@@ -25,5 +25,11 @@ npm run serve
 npm run build
 ```
 
+### Docker
+```
+docker build -t opendrinks .
+docker run -it -p 8080:80 --rm opendrinks
+```
+
 ## License
 MIT
