@@ -12,7 +12,7 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 * Check existing recipes in [/src/recipes](/src/recipes)
 * Fork and make a pull request with your drink recipe
-* Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.tnetlify.com
+* Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
 ## Development
 ```
