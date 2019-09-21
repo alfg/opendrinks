@@ -10,6 +10,7 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
 {
     "name": "<Name of drink>",
     "description": "<Short description of drink>",
+    "github": "<Your Github username>",
     "ingredients": [
         "<Ingredient 1>",
         "<Ingredient 2>",

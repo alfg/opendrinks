@@ -1,6 +1,7 @@
 {
     "name": "Vodka Martini",
     "description": "Enjoy a vodka martini style. Garnish with one or three olives, but never two.",
+    "github": "alfg",
     "ingredients": [
         "3 fl oz vodka",
         "1 fl oz dry vermouth",
