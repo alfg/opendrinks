@@ -18,7 +18,7 @@
 
     <footer class="container mt-4 text-center">
       <hr />
-      <div>View the source or contribute a drink recipe on <a href="https://github.com/alfg/drink">GitHub</a>!</div>
+      <div>View the source or contribute a drink recipe on <a href="https://github.com/alfg/opendrinks">GitHub</a>!</div>
       <a href="https://www.netlify.com">
         <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
       </a>

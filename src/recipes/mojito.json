@@ -1,6 +1,7 @@
 {
     "name": "Mojito",
     "description": "The Mojito is traditionally served over ice in a highball glass and often associated with summer.",
+    "github": "alfg",
     "ingredients": [
         "ice",
         "6 ounces light rum",

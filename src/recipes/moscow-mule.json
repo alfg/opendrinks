@@ -1,6 +1,7 @@
 {
     "name": "Moscow Mule",
     "description": "It's a simple, snappy cocktail. Don't forget the mug.",
+    "github": "alfg",
     "ingredients": [
         "2 oz. vodka ",
         "1/2 oz. lime juice, freshly squeezed",

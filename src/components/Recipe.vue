@@ -3,6 +3,11 @@
     <h1>{{ drink.name }}</h1>
     <p>{{ drink.description }}</p>
 
+    <p class="text-muted">
+      Contributed by:
+      <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
+    </p>
+
     <b-img
       class="mb-4"
       :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
@@ -49,6 +54,9 @@ export default {
     getRecipe(name) {
       const drink = recipes.getRecipe(name);
       this.drink = drink;
+    },
+    getGithubUrl(name) {
+      return `https://github.com/${name}`;
     },
   },
 };
