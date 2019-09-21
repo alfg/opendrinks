@@ -1,10 +1,10 @@
 <template>
   <div id="app">
     <div class="container mb-4 mt-4">
-      <div class="text-center mb-4">
-        <h1>
-        <img alt="Logo" src="./assets/logo.png" width="50">
-        Open Drinks
+      <div class="mb-4">
+        <h1 class="logo">
+          <img alt="Logo" src="./assets/logo.png" width="50">
+          Open Drinks
         </h1>
       </div>
 
@@ -54,6 +54,10 @@
 }
 
 .container {
-    max-width: 720px;
+  max-width: 720px;
+}
+
+.logo {
+  font-family: 'Pacifico', 'cursive';
 }
 </style>
