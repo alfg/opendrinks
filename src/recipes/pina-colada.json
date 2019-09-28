@@ -1,0 +1,17 @@
+{
+    "name": "Piña Colada",
+    "description": "Voted best national drink in 1978 in Puerto Rico.",
+    "github": "joshuamart",
+    "ingredients": [
+        "1.5 oz white rhum",
+        "0.5 fl oz amber rum ",
+        "4 oz pineapple juice",
+        "1.5 oz coconut milk"
+        "5 or 6 ice cubes"
+    ],
+    "directions": [
+        "In a blender, pour the ingredients with 5 or 6 ice cubes and mix everything together.",
+        "Decorate with a piece of pineapple and a candied cherry."
+    ],
+    "image": "pina-colada.jpg"
+}
