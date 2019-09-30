@@ -1,0 +1,18 @@
+{
+  "name": "Mango Daquiri",
+  "description": "Mango Daquiri is a cocktail based on rum, lime, and mango.",
+  "github": "msRob0t",
+  "ingredients": [
+    "45ml White Rum",
+    "25ml Lime Juice",
+    "15ml Sugar Syrop",
+    "Mango (preferably fresh)"	
+  ],
+  "directions": [
+    "Add a small scoop of ice to the blender.",
+    "Add remaining ingredients.",
+    "Blend for approximately 30 seconds.",
+    "Pour into a cocktail glass."
+  ],
+  "image": "mango-daquiri.jpg"
+}
