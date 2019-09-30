@@ -1,0 +1,21 @@
+{
+  "name": "Manhattan",
+  "description": "The Manhattan is a short drink cocktail that can be served as an aperitif.",
+  "github": "jcolfej",
+  "ingredients": [
+    "50 ml Bourbon",
+    "10 ml Sweet Vermouth",
+    "10 ml Dry Vermouth",
+    "2 dashes Angostura Bitters",
+    "Orange peel"
+  ],
+  "directions": [
+    "Chill cocktail glass with ice and soda.",
+    "Fill a mixing glass with ice and then add all ingredients.",
+    "Using a bar spoon, stir the drink for approximately 20 seconds.",
+    "When stirring, always ensure the glass is topped up with ice.",
+    "Taste and then strain into the chilled cocktail glass, serving straight up.",
+    "Zest the drink and glass with the orange peel and then twist and place in glass."
+  ],
+  "image": "manhattan.jpg"
+}
