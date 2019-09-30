@@ -1,0 +1,16 @@
+{
+    "name": "Smirnoff Black Russian",
+    "description": "Mixing the purity of Smirnoff No. 21 Vodka, and the colour of dark coffee liqueur, this combination of just two ingredients delivers a drink with flavour and great looks.",
+    "github": "cedrvanh",
+    "ingredients": [
+        "50ml. Smirnoff No. 21® Vodka",
+        "25ml. Baileys® Coffee Irish Cream Liqueur",
+        "2.3 units of alcohol per serve"
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Pour Smirnoff No. 21 Vodka and Baileys Coffee Irish Cream Liqueur into the glass.",
+        "Enjoy your drink."
+    ],
+    "image": "smirnoff-black-russian.jpg"
+}
