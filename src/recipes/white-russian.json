@@ -1,0 +1,16 @@
+{
+    "name": "White Russian",
+    "description": "The White Russian is a three-ingredient cocktail based on the erstwhile Black Russian, which turns white on the addition of cream.",
+    "github": "the-bose",
+    "ingredients": [
+        "ice",
+        "3/4 oz coffee liqueur",
+        "1 1/2 oz vodka",
+        "3/4 oz fresh cream"
+    ],
+    "directions": [
+        "Pour coffee liqueur and vodka into an Old Fashioned glass filled with ice.",
+        "Float fresh cream on top and stir slowly."
+    ],
+    "image": "whiterussian.jpg"
+}
