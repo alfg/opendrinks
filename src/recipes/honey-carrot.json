@@ -1,0 +1,21 @@
+{
+    "name": "Honey Carrot Juice",
+    "description": "Indonesian juice which take care of your health, especially your eyes and prevent the emergence of various diseases due to lack of substances contained in carrots and real honey.",
+    "github": "coroo",
+    "ingredients": [
+      "2 medium carrots",
+      "2 tablespoons honey",
+      "1 teaspoon sugar",
+      "1 cup of water"
+    ],
+    "directions": [
+      "Wash carrots thoroughly.",
+      "Slice according to taste so it is easy when blended.",
+      "Add 2 tablespoons of honey or according to taste.",
+      "Give a little sugar 1 teaspoon or according to taste.",
+      "Add 1 small glass of water or use a cup.",
+      "Last but not least, blend until deemed quite smooth."
+    ],
+    "image": "honey-carrot.jpg"
+  }
+  
