@@ -1,0 +1,22 @@
+{
+    "name": "Zombie",
+    "description": "The Zombie is a cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.",
+    "github": "ArelySkywalker",
+    "ingredients": [
+        "1.5 oz Rum",
+        "1.5 oz Gold Rum",
+        "1 oz 151 Proof Rum",
+        "1 tsp Pernod",
+        "1 tsp Grenadine",
+        "1 tsp Lime Juice",
+        "1 drop Angostura Bitters"
+    ],
+    "directions": [
+        "Blend at high speed for no more than 5 seconds.",
+        "Pour into glass.",
+        "Add ice cubes to fill.",
+        "Add garnish to top."
+    ],
+    "image": "zombie.jpg",
+    "source": "https://gummy-bears-and-some-scotch.firebaseapp.com/drink?id=17241"
+}
