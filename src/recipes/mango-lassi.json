@@ -1,0 +1,18 @@
+{
+    "name": "Mango Lassi",
+    "description": "This recipe comes from the cookbook author Madhur Jaffrey, who said, 'Mangoes are supposed to be good for the eyes.'",
+    "github": "prammittal16",
+    "ingredients": [
+        "One cup plain yogurt",
+        "Three-fourth tablespoon sugar",
+        "One-Fourth cup fresh or canned mango pulp",
+        "Three-fourth tablespoon sugar"
+    ],
+    "directions": [
+        "Place all ingredients in a blender and puree until smooth.",
+        "Add sugar to taste.",
+        "Garnish with a pinch of ground cardamom seeds.",
+        "A few extra ice cubes may be added when serving."
+    ],
+    "image": "mango-lassi.jpg"
+}
