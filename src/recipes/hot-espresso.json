@@ -1,7 +1,7 @@
 {
-    "name": "Hot Expresso",
-    "description": "Morning boost expresso shots",
-    "github": "https://github.com/cendekia",
+    "name": "Hot Espresso",
+    "description": "Morning boost espresso shots",
+    "github": "cendekia",
     "ingredients": [
         "2 tablespoons of coffee beans",
         "30 ml of water"
@@ -12,5 +12,5 @@
         "Prepare about 2 tablespoons of coffee by grinding the beans to a fine, table salt-like consistency. Drop them into the filter. Note that adding more coffee than normal during these makeshift brewing sessions might work in your favor—it will create a more reliably concentrated shot.",
         "Add approximately 3.5 fluid ounces of water, heated to about 200 degrees. Stir with the coffee. Then, press down on the plunger—hard. Remember, espresso depends on pressure! Transfer your espresso (or coffee shot) into a demitasse and enjoy!"
     ],
-    "image": "hot-expresso.jpg"
+    "image": "hot-espresso.jpg"
 }
