@@ -1,0 +1,17 @@
+{
+    "name": "Corn Juice",
+    "description": "Besides being rich in carbohydrates, corn also has many benefits such as increasing endurance to prevent heart disease and anemia. Therefore this menu is a recommendation to be given to toddlers.",
+    "github": "coroo",
+    "ingredients": [
+      "4 sweet corn",
+      "Sugar as needed",
+      "Salt as needed"
+    ],
+    "directions": [
+      "Boil sweet corn until cooked (set aside the boiled water and not throw it away).",
+      "Sweet corn stew using a knife.",
+      "Blender sweet corn that has been smeared with sweet corn boiled water according to taste."
+    ],
+    "image": "corn-juice.jpg"
+  }
+  
