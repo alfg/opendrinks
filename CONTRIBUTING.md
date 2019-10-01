@@ -21,13 +21,15 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
         "<Step 2>",
         "<Step 3>"
     ],
-    "image": "<drink-name.jpg>"
+    "image": "<drink-name.jpg>",
+    "source": "<url>"
 }
 ```
 
 * Add an image to the [/src/recipes/img](/src/recipes/img/).
   * Filename should match recipe filename
   * JPG format, 600x400px if possible, 200KB max in size
+* source is an optional field
 * Submit a Pull Request with your recipe!
 * Once approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
