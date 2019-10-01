@@ -49,6 +49,7 @@ export default {
   },
   created() {
     this.getRecipe(this.name);
+    document.title = 'Open Drinks - ' + this.drink.name;
   },
   methods: {
     getRecipe(name) {

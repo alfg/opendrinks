@@ -33,6 +33,17 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'App',
+  watch: {
+    $route(to, from) {
+      document.title = 'Open Drinks';
+    },
+  },
+};
+</script>
+
 <style>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
