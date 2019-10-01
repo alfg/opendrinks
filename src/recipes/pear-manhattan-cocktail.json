@@ -1,0 +1,18 @@
+{
+    "name": "Banana Smoothie",
+    "description": "Enjoy a Banana Smoothie. This recipe contains raw eggs. We recommend that pregnant women, young children, the elderly and the infirm do not consume raw eggs.",
+    "github": "kevinmel2000",
+    "ingredients": [
+        "1 banana",
+        "1 cup milk",
+        "1 teaspoon vanilla extract",
+		"1 egg",
+		"2 tablespoons white sugar",
+		"1 pinch ground cinnamon"
+    ],
+    "directions": [
+        "In a blender, combine banana, milk, vanilla, egg and sugar. Blend until smooth. Pour into a tall glass and top with a pinch of cinnamon. ",
+        "5 Minute"
+    ],
+    "image": "banana-smoothie.jpg"
+}
