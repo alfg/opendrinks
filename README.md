@@ -15,6 +15,15 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 * Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
 ## Development
+Open Drinks is built with the following technologies:
+* [Vue](https://vuejs.org/)
+* [BootstrapVue](https://bootstrap-vue.js.org/)
+* Hosted on [Netlify](https://www.netlify.com/) with [automated deployments](https://www.netlify.com/docs/continuous-deployment/)!
+
+If you are familiar or want to give it a shot, feel free to contribute!
+
+### Install
+
 ```
 npm install
 npm run serve
