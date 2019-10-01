@@ -1,0 +1,22 @@
+{
+    "name": "Singapore Sling",
+    "description": "The Singapore Sling is a gin-based cocktail from Singapore.",
+    "github": "<Your Github username>",
+    "ingredients": [
+        "1/4 oz Cointreau",
+        "4 oz Pineapple juice",
+        "1/2 oz Fresh lime juice",
+        "1/2 oz Cherry brandy",
+        "1/3 oz (2 parts) Grenadine",
+        "1 oz Gin",
+        "1/4 oz DOM Bénédictine",
+        "1 dash Angostura bitters"
+    ],
+    "directions": [
+        "Pour all ingredients into cocktail shaker filled with ice cubes",
+        "Shake well",
+        "Strain into highball glass.",
+        "Garnish with pineapple and cocktail cherry."
+    ],
+    "image": "singapore-slingjpg"
+}
