@@ -1,0 +1,25 @@
+{
+    "name": "Beer Pletok",
+    "description": "Pletok beer is a refreshing drink made from a mixture of several herbs, namely ginger, fragrant pandan leaves, and lemongrass. This traditional drink is known among Betawi ethnic groups",
+    "github": "YogaSakti",
+    "ingredients": [
+        "2 thumb ginger, choose the old one",
+        "2 lemongrass stems, bruised",
+        "1 liter of water, to boil",
+        "150 grams of sappan wood, wash it",
+        "5 cm cinnamon",
+        "150 grams of granulated sugar",
+        "ice cubes as needed",
+        "salt as needed"
+    ],
+    "directions": [
+        "Burn the ginger then peel and crush, set aside.",
+        "boil ginger, lemongrass, secang wood, cinnamon, salt, and sugar until boiling.",
+        "reduce the heat and continue until the boiled water is thick.",
+        "lift and strain.",
+        "chill the pletok beer.",
+        "blender with ice.",
+        "Serve immediately while still cold."
+    ],
+    "image": "bir-pletok.jpg"
+}
