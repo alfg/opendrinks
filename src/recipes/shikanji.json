@@ -1,0 +1,24 @@
+{
+  "name": "Shikanji",
+  "description": "a simple, spiced Indian lemonade from North India. It is known as shikajvi too.",
+  "github": "pujaniceman",
+  "ingredients": [
+    "1 3-4 tablespoons Lemon juice",
+    "2 2 tablespoons Sugar",
+    "3 ½ inch Ginger grated and squeezed into juice",
+    "4 ¼ teaspoon Black salt",
+    "5 Salt to taste",
+    "6 ½ teaspoon Roasted cumin powder",
+    "7 a pinch Black pepper powder",
+    "8 2 ½ cups Chilled water",
+    "9 5-6 Ice cubes"
+  ],
+  "directions": [
+    "Peel the ginger and grate it.",
+    "Squeeze the grated ginger using thumb and fingers to collect the juice and keep it aside.",
+    "Squeeze the fresh lemon in a bowl and add rest of the ingredients except ice cubes.",
+    "Keep stirring till sugar dissolves.",
+    "Pour into the glass, add ice cubes and serve."
+  ],
+  "image": "shikanji.jpeg"
+}
