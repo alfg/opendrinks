@@ -1,0 +1,17 @@
+{
+    "name": "Aviation",
+    "description": "A classic cocktail made with gin, maraschino liqueur, creme de violette (optional), and lemon juice. This drink is meant to be served straight, and in a cocktail glass.",
+    "github": "hganavak",
+    "ingredients": [
+        "45 ml gin",
+        "15 ml lemon juice",
+        "15 ml maraschino liqueur",
+        "15 ml creme de violette (optional)"
+    ],
+    "directions": [
+        "Add all ingredients into a cocktail shaker filled with ice.",
+        "Shake well and strain into cocktail glass.",
+        "Garnish with cherry."
+    ],
+    "image": "aviation.jpg"
+}
