@@ -1,0 +1,20 @@
+{
+    "name": "The Perfect Storm",
+    "description": "Live a pirate's life, and sail through the Perfect Storm. This drink be sure to get ye some sea legs!",
+    "github": "kbernou",
+    "ingredients": [
+        "1 part Dark Rum (Kraken if ye be a brave soul)",
+        "3 parts Ginger Beer (Crabbies be the pirate's favorite)",
+        "2 dashes Bitters (if ye be feelin' fancy)",
+        "Half Lime (for juice... and to prevent scurvy)",
+        "Lime Wheel (for garnish)",
+        "Ice (if ye be wantin' it cool)"
+    ],
+    "directions": [
+        "Fill glass with ice",
+        "Add rum and lime juice into glass",
+        "Pour the ginger beer on top, and follow with the bitters",
+        "Garnish"
+    ],
+    "image": "the-perfect-storm.jpg"
+}
