@@ -1,18 +1,18 @@
 {
-    "name": "Banana Smoothie",
-    "description": "Enjoy a Banana Smoothie. This recipe contains raw eggs. We recommend that pregnant women, young children, the elderly and the infirm do not consume raw eggs.",
+    "name": "Pear Manhattan Cocktail",
+    "description": "Enjoy a Cocktail of Whiskey mixed with pear and Vodka.",
     "github": "kevinmel2000",
     "ingredients": [
-        "1 banana",
-        "1 cup milk",
-        "1 teaspoon vanilla extract",
-		"1 egg",
-		"2 tablespoons white sugar",
-		"1 pinch ground cinnamon"
+        "2 fluid ounces rye whiskey",
+        "2 fluid ounces pear vodka",
+        "1 3/4 fluid ounces sweet vermouth",
+		"1-2 ice cube",
+		"1 maraschino cherry",
+		"1 slice pear"
     ],
     "directions": [
-        "In a blender, combine banana, milk, vanilla, egg and sugar. Blend until smooth. Pour into a tall glass and top with a pinch of cinnamon. ",
-        "5 Minute"
+        "Pour whiskey, vodka, sweet vermouth, and ice into a cocktail shaker. Cover and shake until chilled.",
+        "Strain into a chilled martini glass and garnish with maraschino cherry and pear slice. "
     ],
-    "image": "banana-smoothie.jpg"
+    "image": "pear-manhattan.jpg"
 }
