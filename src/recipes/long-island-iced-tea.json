@@ -1,0 +1,19 @@
+{
+  "name": "Long Island Iced Tea",
+  "description": "A Long Island Iced Tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
+  "github": "zacho112",
+  "ingredients": [
+    "1.5 cl Tequila",
+    "1.5 cl Vodka",
+    "1.5 cl White rum",
+    "1.5 cl Triple sec",
+    "1.5 cl Gin",
+    "2.5 cl Lemon juice",
+    "3.0 cl Gomme Syrup",
+    "1 dash of Coke"
+  ],
+  "directions": [
+    "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw.",
+  ],
+  "image": "long-island-iced-tea.jpg"
+}
