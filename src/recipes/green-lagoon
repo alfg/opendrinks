@@ -1,0 +1,18 @@
+  
+{
+    "name": "Green Lagoon",
+    "description": "It was created by Andy MacElhone at Harry's New York Bar in Paris in 1960. Andy MacElhone is none other than Harry's son, founder of Harry's New York Bar and inventor of the White Lady.",
+    "github": "KasperZutterman",
+    "ingredients": [
+        "1.5 oz vodka",
+        "1 oz blue curacao",
+        "1 oz pineapple juice ",
+        "Ice cube"
+    ],
+    "directions": [
+        "Add the pineapple juice to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
+        "To make it fresher and lighter, fill the glass with crushed ice beforehand. ",
+        "Serve in a martini glass."
+    ],
+    "image": "green-lagoon.jpg"
+}
