@@ -1,0 +1,18 @@
+{
+    "name": "Pineapple Juice",
+    "description": "Pineapple juice is a healthy and delicious drink. Pineapple juice contains bromelain which helps digestion, making it ideal for a meal cover.",
+    "github": "coroo",
+    "ingredients": [
+      "1 pineapple",
+      "2 glasses of mineral water",
+      "Granulated sugar to taste, or can be replaced with coco pandan syrup."
+    ],
+    "directions": [
+      "Peel Pineapple Skin",
+      "Cut pineapple to make the blender easier, put it in a blender glass with water and sugar.",
+      "Blend for about 2 minutes until smooth.",
+      "Last but not least, its ready to be served with sweetener according to taste."
+    ],
+    "image": "pineapple-juice.jpg"
+  }
+  
