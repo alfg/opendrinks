@@ -1,0 +1,16 @@
+{
+    "name": "Flamin_Raymon",
+    "description": "This Drink is name after a friend who createded it and since passed away",
+    "github": "Kat35601",
+    "ingredients": [
+        "Southern Comfort Whiskey",
+        "Galliano Liqueur",
+        "Fire"       
+    ],
+    "directions": [
+       "fill a shot glass with Southern Comfort and then with a spoon float Galliano Liqueur on top. Light the shot on fire with a ligther. ",
+       "then toast with somethin like",
+       "Here is to the bee that stung the bull that started the bull to bucking. Here is to Eve who gave Adam the apple and started the world to ...... or eating Apples"
+    ],
+    "image": "FlaminRaymon.jpg"
+}
