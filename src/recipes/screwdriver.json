@@ -1,0 +1,17 @@
+{
+    "name": "Screwdriver",
+    "description": "A screwdriver is a popular alcoholic highball drink. The drink has many variations which have different names in different parts of the world.",
+    "github": "LucasG04",
+    "ingredients": [
+        "1.5 oz vodka",
+        "5 oz orange juice",
+        "1 slice orange",
+        "Ice cubes"
+    ],
+    "directions": [
+        "Fill a long drink glass with ice cubes.",
+        "Add all ingredients.",
+        "Then garnish with orange."
+    ],
+    "image": "screwdriver.jpg"
+}
