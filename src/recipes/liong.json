@@ -1,0 +1,16 @@
+{
+    "name": "Liong Coffe",
+    "description": "Liong Coffee is Black Coffee from bogor indonesia",
+    "ingredients": [
+        "1 sachet Liong Coffe",
+        "Hot Water",
+    ],
+    "directions": [
+        "First, boil water until boiling.",
+        "Second, put 1 sachet liong coffe into a glass",
+        "Next,pour the hot water into the glass",
+        "Then, stir the coffee until purely mixed",
+        "Your coffee goes best with cigarette and your friend too",
+    ],
+    "image": "liong.jpg"
+}
