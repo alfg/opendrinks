@@ -1,9 +1,5 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Home from './views/Home.vue';
-import Recipe from './views/Recipe.vue';
-import Explore from './views/Explore.vue';
-import Search from './views/Search.vue';
 
 Vue.use(Router);
 
@@ -14,22 +10,22 @@ export default new Router({
     {
       path: '/',
       name: 'home',
-      component: Home,
+      component: () => import('./views/Home.vue'),
     },
     {
       path: '/recipe/:id',
       name: 'recipe',
-      component: Recipe,
+      component: () => import('./views/Recipe.vue'),
     },
     {
       path: '/explore',
       name: 'explore',
-      component: Explore,
+      component: () => import('./views/Explore.vue'),
     },
     {
       path: '/search',
       name: 'search',
-      component: Search,
+      component: () => import('./views/Search.vue'),
     },
     {
       path: '/about',
