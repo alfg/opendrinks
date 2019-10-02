@@ -16,6 +16,7 @@
 
 <script>
 import recipes from '../recipes';
+import Fuse from 'fuse.js';
 
 const limit = 10; // Limit filtered results.
 
@@ -23,22 +24,32 @@ export default {
   name: 'RecipeFind',
   data() {
     return {
-      data: [],
       search: '',
+      fuse: {},
     };
   },
   computed: {
     filterResults() {
-      const filtered = this.data.filter(item => (
-        item.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1
-      ));
-      return filtered.slice(0, limit);
+      const res = this.fuse.search(this.search);
+      return res.slice(0, limit);
     },
   },
   created() {
     const data = recipes.getRecipes();
-    this.data = data;
     window.document.title = 'Open Drinks - Search';
+
+    this.fuse = new Fuse(data, {
+      shouldSort: true,
+      threshold: 0.6,
+      location: 0,
+      distance: 100,
+      maxPatternLength: 32,
+      minMatchCharLength: 1,
+      keys: [
+        { name: "name", weight: 0.75 },
+        { name: "ingredients", weight: 0.25 },
+      ]
+    });
   },
   methods: {
     onEnter() {
