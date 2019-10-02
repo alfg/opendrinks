@@ -30,8 +30,9 @@ export default {
   },
   computed: {
     filterResults() {
-      const res = this.fuse.search(this.search);
-      return res.slice(0, limit);
+      return this.fuse
+        .search(this.search)
+        .slice(0, limit);
     },
   },
   created() {
@@ -40,7 +41,7 @@ export default {
 
     this.fuse = new Fuse(data, {
       shouldSort: true,
-      threshold: 0.6,
+      threshold: 0.4,
       location: 0,
       distance: 100,
       maxPatternLength: 32,
