@@ -1,5 +1,7 @@
 <template>
   <div id="app" class="mb-4">
+    <GitHubCorner />
+    
     <div class="container mb-4 mt-4">
       <div class="mb-4">
         <h1 class="logo">
@@ -32,6 +34,17 @@
     </footer>
   </div>
 </template>
+
+<script>
+import GitHubCorner from '@/components/GitHubCorner.vue';
+
+export default {
+  name: 'App',
+  components: {
+    GitHubCorner,
+  },
+};
+</script>
 
 <style>
 #app {
