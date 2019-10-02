@@ -14,6 +14,6 @@
         "Sugar(optional)",
         "Ice Cube as needed"
     ],
-    "image": "<drink-name.jpg>",
-    "source": "<url if available>" 
+    "image": "drink-name.jpg"
+    
 }
