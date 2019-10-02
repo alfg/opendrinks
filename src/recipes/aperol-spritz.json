@@ -1,0 +1,18 @@
+{
+    "name": "Aperol Spritz",
+    "description": "A really great cocktail for a summer weekend",
+    "github": "duongoku",
+    "ingredients": [
+        "30ml Prosecco",
+        "20ml Aperol",
+        "20ml Club Soda",
+        "Ice",
+        "Sliced orange or lemon for garnish"
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Add prosecco, aperol and soda.",
+        "Stir gently to combine and garnish with a slice of orange."
+    ],
+    "image": "aperol-spritz.jpg"
+}

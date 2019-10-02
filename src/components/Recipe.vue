@@ -25,6 +25,9 @@
     <ol>
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
+    <div v-if="drink.source">
+      <span>View full recipe at: <a :href="drink.source">{{drink.source}}</a></span>
+    </div>
   </div>
 </template>
 
@@ -39,6 +42,7 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
+      window.document.title = `Open Drinks - ${this.drink.name}`;
     },
   },
   data() {
@@ -49,6 +53,7 @@ export default {
   },
   created() {
     this.getRecipe(this.name);
+    window.document.title = `Open Drinks - ${this.drink.name}`;
   },
   methods: {
     getRecipe(name) {

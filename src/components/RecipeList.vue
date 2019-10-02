@@ -36,6 +36,7 @@ export default {
   },
   mounted() {
     this.getDrinks();
+    window.document.title = 'Open Drinks - Explore';
   },
   methods: {
     getDrinks() {
