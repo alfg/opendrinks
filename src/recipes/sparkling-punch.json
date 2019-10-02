@@ -1,0 +1,20 @@
+{
+    "name": "Sparkling Punch",
+    "description": "Sparkling apple cider, fresh orange juice, and lemonade concentrate blend into light and refreshing non-alcoholic punch in this easy recipe.",
+    "github": "kevinmel2000",
+    "ingredients": [
+        "2 lemons",
+        "3 large oranges",
+        "1 (6 ounce) can frozen lemonade concentrate",
+		"1 liter club soda",
+		"2 (750 milliliter) bottles sparkling apple cider",
+		"1 tablespoon white sugar",
+		"2 trays ice cubes"
+    ],
+    "directions": [
+        "Thinly slice the lemons and the oranges and place in a large punch bowl.",
+        "Pour in the thawed lemonade. Gently stir in the club soda and the sparkling apple cider.",
+		"Add sugar to taste. Add ice."
+    ],
+    "image": "sparkling-punch.jpg"
+}

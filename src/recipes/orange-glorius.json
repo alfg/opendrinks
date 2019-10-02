@@ -1,0 +1,18 @@
+{
+    "name": "Orange Glorious",
+    "description": "Special Orange Juice Mixed latte this beverage tastes better than the over-priced commercial version.",
+    "github": "kevinmel2000",
+    "ingredients": [
+        "1 cup milk",
+        "1 cup ice water",
+        "1 (6 ounce) can frozen orange juice concentrate",
+		"12 cubes ic",
+		"1/4 teaspoon vanilla extract",
+		"1/8 cup white sugar"
+    ],
+    "directions": [
+        "In a blender combine milk, water, orange juice concentrate, ice cubes, vanilla and sugar. ",
+        "Blend until smooth. Pour into three 12 oz glasses and enjoy with a straw. "
+    ],
+    "image": "orange-glorius.jpg"
+}
