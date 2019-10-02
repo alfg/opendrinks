@@ -22,7 +22,11 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
         "<Step 3>"
     ],
     "image": "<drink-name.jpg>",
-    "source": "<url if available>" 
+    "source": "<url if available>",
+    "keywords": [
+        "<keywords if available>",
+        "...",
+    ]
 }
 ```
 
