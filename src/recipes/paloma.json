@@ -17,7 +17,9 @@
         "Add the ice",
         "Add the tequila",
         "Fill with the grapefruit soda and stir",
-        "Garnish with a wedge of lime and enjoy!"
+        "Garnish with a wedge of lime and enjoy!",
+        "Photo credit: Sarah Stierch (CC BY 4.0)
     ],
-    "image": "paloma.jpg"
+    "image": "paloma.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Casa_Restaurant_-_Stierch_-_April_2019_02.jpg"
 }
