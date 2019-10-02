@@ -17,5 +17,9 @@
     "Steep the teabag in the hot water according to the manufacturer instruction.",
     "Pour the milk and the ginger syrup. Stir to combine. Serve immediately."
   ],
-  "image": "ginger-milk-tea.jpg"
+  "image": "ginger-milk-tea.jpg",
+  "tags": [
+    "tea",
+    "milk"
+  ]
 }

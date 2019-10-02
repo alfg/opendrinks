@@ -1,6 +1,14 @@
 <template>
   <div id="recipe">
     <h1>{{ drink.name }}</h1>
+    <div v-if="drink.tags">
+      <b-badge
+        v-for="(o, i) in drink.tags"
+        v-bind:key="i"
+        variant="secondary"
+        :style="badgeStyle"
+      >{{ o }}</b-badge>
+    </div>
     <p>{{ drink.description }}</p>
 
     <p class="text-muted">
@@ -26,29 +34,35 @@
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
     <div v-if="drink.source">
-      <span>View full recipe at: <a :href="drink.source">{{drink.source}}</a></span>
+      <span>
+        View full recipe at:
+        <a :href="drink.source">{{drink.source}}</a>
+      </span>
     </div>
   </div>
 </template>
 
 <script>
-import recipes from '../recipes';
+import recipes from "../recipes";
 
 export default {
-  name: 'Recipe',
+  name: "Recipe",
   props: {
-    name: String,
+    name: String
   },
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
-    },
+    }
   },
   data() {
     return {
       json: {},
       drink: {},
+      badgeStyle: {
+        "margin-right": "0.2vw"
+      }
     };
   },
   created() {
@@ -62,7 +76,7 @@ export default {
     },
     getGithubUrl(name) {
       return `https://github.com/${name}`;
-    },
-  },
+    }
+  }
 };
 </script>
