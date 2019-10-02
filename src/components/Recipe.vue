@@ -42,7 +42,7 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      window.document.title = `Open Drinks - ${this.drink.name}`
+      window.document.title = `Open Drinks - ${this.drink.name}`;
     },
   },
   data() {
@@ -50,10 +50,10 @@ export default {
       json: {},
       drink: {},
     };
-  }, 
+  },
   created() {
     this.getRecipe(this.name);
-    window.document.title = `Open Drinks - ${this.drink.name}`
+    window.document.title = `Open Drinks - ${this.drink.name}`;
   },
   methods: {
     getRecipe(name) {
