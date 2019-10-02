@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="mb-4">
     <GitHubCorner />
-    
+
     <div class="container mb-4 mt-4">
       <div class="mb-4">
         <h1 class="logo">
