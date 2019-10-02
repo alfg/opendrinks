@@ -1,0 +1,19 @@
+{
+    "name": "Tea Ais",
+    "description": "Tea Ais is Ice Tea with condensed milk. It's name is derived from the pouring of 'pulling' the drink during preparation.",
+    "github": "Akuntamvan",
+    "ingredients": [
+        "<Ingredient 1>",
+        "<Ingredient 2>",
+        "<Ingredient 3>"
+    ],
+    "directions": [
+        "4 black tea bags",
+        "3 cups water, boiling hot",
+        "4 tbs sweetened condensed milk",
+        "Sugar(optional)",
+        "Ice Cube as needed"
+    ],
+    "image": "<drink-name.jpg>",
+    "source": "<url if available>" 
+}
