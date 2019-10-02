@@ -38,6 +38,7 @@ export default {
   created() {
     const data = recipes.getRecipes();
     this.data = data;
+    window.document.title = 'Open Drinks - Search'
   },
   methods: {
     onEnter() {

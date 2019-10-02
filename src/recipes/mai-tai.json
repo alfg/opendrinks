@@ -1,0 +1,22 @@
+{
+    "name": "Mai Tai",
+    "description": "Fruity and refreshing, a sip of this will have you laid back on the beach in no time!",
+    "github": "JakeVdub",
+    "ingredients": [
+        "1.5oz White Rum",
+        "0.5oz Lime Juice",
+        "0.5oz Orange Curaçao",
+        "0.5oz Orgeat Syrup",
+        "0.75oz Dark Rum",
+        "0.25oz Simple Syrup",
+        "Pineapple",
+        "Ice"
+    ],
+    "directions": [
+        "1. Combine all the ingredients except the dark rum into a shaker with ice and shake well.",
+        "2. Strain into tall glass.",
+        "3. Add the dark rum, pouring gently to 'float' it on top of the drink.",
+        "4. Garnish with a slice of pineapple."
+    ],
+    "image": "mai-tai.jpg"
+}

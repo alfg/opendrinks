@@ -1,0 +1,18 @@
+{
+    "name": "Old Fashioned",
+    "description": "The Old Fashioned is a cocktail made by muddling sugar with bitters, adding whiskey, garnished with a citrus rind",
+    "github": "here1am1",
+    "ingredients": [
+        "1/4oz Simple Syrup",
+        "4-6 Dashes of Bitters",
+        "2-4oz Whiskey"
+    ],
+    "directions": [
+        "In a Low-ball Glass Place one large ice cube.",
+        "Then add 1/4oz of simple syrup, 4-6 Dashes of Bitters of your choice.",
+        "Last but not least 2-4oz of whiskey for a true old-fashioned use Rye Whiskey.",
+        "For a less traditional version use Bourbon.",
+        "Once all in the glass gently stir till combined."
+    ],
+    "image": "old-fashioned.jpg"
+} 

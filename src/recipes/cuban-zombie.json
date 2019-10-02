@@ -1,0 +1,25 @@
+{
+    "name": "Cuban Zombie",
+    "description": "A sip of this cocktail can bring the dead back to life",
+    "github": "darren-welch",
+    "ingredients": [
+        "Havana Club 3 year",
+        "Havana Club 7 year",
+        "Orange juice",
+        "Pineapple juice",
+        "Lime juice",
+        "Ice",
+        "Passion fruit",
+        "Grenadine"
+    ],
+    "directions": [
+        "Pour a shot of Havana 3 year old & a shot of Havana 7 year old into a glass.",
+        "Add Orange, Pineapple & Lime Juice",
+        "Add lots of ice",
+        "Add ingredients into a cocktail shaker & Shake",
+        "Pour the mixture into a larger glass filled with ice",
+        "Squeeze some Passion",
+        "Pour the Grenadine & decorate with fresh Passion fruit"
+    ],
+    "image": "cuban-zombie.jpg"
+}
