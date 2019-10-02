@@ -1,0 +1,18 @@
+{
+    "name": "Bloody Kirby",
+    "description": "Don’t let the Bloody Mary steal all of the limelight.",
+    "github": "zzyzy",
+    "ingredients": [
+        "1 1⁄2 oz Grey Goose Le Citron vodka",
+        "1 1⁄2 Kirby cucumber slice, peeled",
+        "1 dash Tabasco sauce",
+        "1⁄4 oz Dry vermouth",
+        "1 1⁄2 oz Tomato juice"
+    ],
+    "directions": [
+        "In a shaker, muddle the vodka, cucumber, Tabasco and vermouth.",
+        "Strain into a rocks glass filled with ice.",
+        "Top with the tomato juice and garnish with a Kirby cucumber spear."
+    ],
+    "image": "bloody-kirby.jpg"
+}
