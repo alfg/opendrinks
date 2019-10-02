@@ -25,9 +25,9 @@
     <ol>
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
-    <div v-if="drink.tags">
+    <div v-if="drink.keywords">
       <b-badge
-        v-for="(o, i) in drink.tags"
+        v-for="(o, i) in drink.keywords"
         v-bind:key="i"
         variant="secondary"
         :style="badgeStyle"

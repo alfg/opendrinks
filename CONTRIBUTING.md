@@ -23,8 +23,8 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
     ],
     "image": "<drink-name.jpg>",
     "source": "<url if available>",
-    "tags": [
-        "<tags if available>",
+    "keywords": [
+        "<keywords if available>",
         "...",
     ]
 }
