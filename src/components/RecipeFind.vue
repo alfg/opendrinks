@@ -39,40 +39,26 @@ export default {
   },
   computed: {
     filterResults() {
-      let filtered = [];
+      let searchParts = this.search.toLowerCase().split(" ");
 
-      // First, display the drinks where the name matches
-      if (this.searchParameters.includes("name")) {
-        const matchingName = this.data.filter(
-          item =>
-            item.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1
-        );
-        filtered.push(...matchingName);
-      }
-
-      // Then display the drinks whose ingredients match
-      if (this.searchParameters.includes("ingredients")) {
-        let matchingIngredient = this.data.filter(
-          item =>
-            // To prevent adding the same drink multiple times
-            item.name.toLowerCase().indexOf(this.search.toLowerCase()) == -1
-        );
-
-        // Allow for multiple ingredients to match, seperated by space
-        this.search
-          .toLowerCase()
-          .split(" ")
-          .forEach(searchIngredient => {
-            matchingIngredient = matchingIngredient.filter(
-              recipe =>
-                recipe.ingredients.filter(
-                  ingredient =>
-                    ingredient.toLowerCase().indexOf(searchIngredient) > -1
-                ).length > 0
-            );
-          });
-        filtered.push(...matchingIngredient);
-      }
+      let filtered = this.data.filter(recipe =>
+        // If enabled, find the drinks which names match
+        (this.searchParameters.includes("name") ? recipe.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 : false)
+        ||
+        // If enabled, find the drinks which ingredients contain all of the searched ingredients
+        (this.searchParameters.includes("ingredients") ?
+          recipe.ingredients.filter(ingredient =>
+            searchParts.filter(searchPart =>
+              ingredient.toLowerCase().indexOf(searchPart) > -1
+            ).length > 0
+          ).length == searchParts.length
+        : false)
+      )
+      .sort((recipeA, recipeB) => 
+        // Name-matches to the top if the user wanted to find a drink based on the name
+        !this.searchParameters.includes("name") ? 0 :
+        recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1
+      );
 
       return filtered.slice(0, limit);
     }
