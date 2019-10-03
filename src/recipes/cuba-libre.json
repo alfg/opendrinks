@@ -1,6 +1,6 @@
 {
-  "name": "Cuba Libra",
-  "description": "Cuba Libra is a cocktail based on rum, lime, and cola.",
+  "name": "Cuba Libre",
+  "description": "Cuba Libre is a cocktail based on rum, lime, and cola.",
   "github": "jcolfej",
   "ingredients": [
     "50 ml Añejo Rum",
@@ -8,9 +8,9 @@
     "100 ml Cola"
   ],
   "directions": [
-    "Add rum into rocks glass and squeeze the lime wedges over the top.",
+    "Add rum into a glass filed with ice and squeeze the lime wedges over the top.",
     "Give quick churn with bar spoon and top up with ice.",
     "Fill to brim with cola and add in lime wedge as garnish."
   ],
-  "image": "cuba-libra.jpg"
+  "image": "cuba-libre.jpg"
 }
