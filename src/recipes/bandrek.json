@@ -1,0 +1,27 @@
+{
+    "name": "Bandrek",
+    "description": " Indonesian tradisional drink",
+    "github": "criedchild",
+    "ingredients": [
+        "2 1/2 cups of water",
+        "2 cinnamon sticks",
+        "10 whole cloves",
+        "10 cardamon seeds",
+        "2 lemongrass stalks",
+        "4 big-ish slices of ginger",
+        "1 young coconut",
+        "1/2 disk palm sugar"
+    ],
+    "directions": [
+        "Add cardamon seeds to mortar and pestle and pound to release the seeds. Then add to pot.",
+        "Cut lemongrass into 6 inch pieces. discard the the top green part. Peel the outer layer off and discard, pound in mortar and pestle then add to pot.",
+        "Cut ginger into 4, 1/2 inch pieces. Add cinnamon sticks, whole cloves and cut ginger to pot",
+        "Add water and bring to a boil, Reduce heat and let simmer for 10 min",
+        "While pot is simmering, cut your coconut. With the heel of your knife, make four deep cuts around the top of your coconut. Pry open one of the cuts with the heel of your knife to open the the coconut. Discard the milk and scrape out the meat with a spoon.",
+        "Add desired amount of coconut meat into two glasses, set aside.",
+        "After simmering for 10 min, add palm sugar into the pot. Once the sugar has dissolved (around 2 minutes) your Bandrek will be ready.",
+        "Using a small strainer pour out the liquid into your glasses with young coconut meat inside. Serve warm.",
+        "Enjoy!"
+    ],
+    "image": "bandrek.jpg"
+}
