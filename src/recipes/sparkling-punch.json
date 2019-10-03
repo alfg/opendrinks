@@ -16,5 +16,11 @@
         "Pour in the thawed lemonade. Gently stir in the club soda and the sparkling apple cider.",
 		"Add sugar to taste. Add ice."
     ],
-    "image": "sparkling-punch.jpg"
+    "image": "sparkling-punch.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "mocktail",
+        "non-alcoholic"
+    ]
 }
