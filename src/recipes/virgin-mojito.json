@@ -1,0 +1,25 @@
+{
+    "name": "Virgin Mojito",
+    "description": "A refreshing mix of lime and mint",
+    "github": "FarhiaM",
+    "ingredients": [
+        "4-5 mintmleaves",
+        "1/2 lime cut into small bits",
+        "1 tablespoon of raw sugar",
+        "1/4 cup of honey syrup",
+        "Crushed ice",
+        "8 cl sparkling water or soda"
+    ],
+    "directions": [
+        "Crush and mix the mint leaves and lime juice in a glass.",
+        "Add the raw sugar into the mix.",
+        "Mix it together with the honey syrup.",
+        "Add sparkling water.",
+        "Garnish with some slices of lime and a spring of mint."
+    ],
+    "image": "virgin-mojito.jpg",
+    "keywords": [
+       "Virgin mojito",
+       "Non-alcoholic drinks",
+   ]
+}
