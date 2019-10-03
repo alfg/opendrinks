@@ -18,5 +18,9 @@
         "Add garnish to top."
     ],
     "image": "zombie.jpg",
-    "source": "https://gummy-bears-and-some-scotch.firebaseapp.com/drink?id=17241"
+    "source": "https://gummy-bears-and-some-scotch.firebaseapp.com/drink?id=17241",
+    "keywords": [
+        "cocktail",
+        "rum"
+    ]
 }
