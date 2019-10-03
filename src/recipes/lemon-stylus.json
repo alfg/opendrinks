@@ -1,0 +1,24 @@
+{
+    "name": "Lemon Stylus",
+    "description": "One adult lemonade, if you will.",
+    "github": "vikwilliamson",
+    "ingredients": [
+        "Lemon Vodka",
+        "Lemonade",
+        "Lemon-Lime Soda"
+    ],
+    "directions": [
+        "Add 1 part vodka to glass",
+        "Add 1 part Lemon-Lime Soda",
+        "Add 2 parts Lemonade", 
+        "Stir and serve!"
+    ],
+    "image": "lemon-stylus.jpg",
+    "keywords": [
+        "lemon",
+        "vodka",
+        "sprite",
+        "simple",
+        "lemonade"
+    ]
+}

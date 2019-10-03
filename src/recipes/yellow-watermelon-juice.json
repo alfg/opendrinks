@@ -16,5 +16,10 @@
         "If it's already smooth, put it in the glass. ",
         "Add ice cubes and the juice is ready to serve"
     ],
-    "image": "yellow-watermelon-juice.jpg"
+    "image": "yellow-watermelon-juice.jpg",
+    "keywords": [
+        "ice",
+        "fruit",
+        "juice"
+    ]
 }

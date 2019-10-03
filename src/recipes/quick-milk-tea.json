@@ -15,5 +15,9 @@
         "add some ice cubes",
         "enjoy!"
     ],
-    "image": "quick-milk-tea.jpg"
+    "image": "quick-milk-tea.jpg",
+    "keywords": [
+      "tea",
+      "milk"
+    ]
 }

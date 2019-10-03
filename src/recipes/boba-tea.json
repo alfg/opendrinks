@@ -19,5 +19,8 @@
         "Stir with a wide-opening straw, then serve.",
         "Enjoy!"
     ],
-    "image": "boba-tea.jpg"
+    "image": "boba-tea.jpg",
+    "keywords": [
+    "tea"
+  ]
 }
