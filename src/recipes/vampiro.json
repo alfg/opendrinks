@@ -1,0 +1,23 @@
+ {
+    "name": "Vampiro",
+    "description": " This cocktail is called vampiro because the sangrita has the color of blood and the taste of the drink bites the senses with that spicy and sweet taste of juices.",
+    "github": "RDLL",
+    "ingredients": [
+        " 2 ounces of Tequila (one ounce per glass)",
+        "1 cup ice cubes",
+        "1 cup tomato juice",
+        "1/2 teaspoon Sriracha sauce",
+        "1/2 cup orange juice",
+        "1/2 cup grapefruit juice",
+        "2 slices of fresh pink grapefruit or grapefruit",
+        "2 slices of natural orange"
+    ],
+    "directions": [
+        "Add the ice cubes and Don Julio tequila (one ounce) in each glass.",
+        "Then add the siracha sauce to the tomato juice and stir.",
+        "This cocktail is prepared in layers, so start with the first layer by pouring a little of the tomato juice, then add the grapefruit or grapefruit juice and, finally, the orange juice.",
+        "Garnish with a slice of pink grapefruit and a slice of natural orange.",
+        "Drink this vampire cocktail slowly and enjoy while you drip with fresh Mexican sauce and corn chips before the strong meal."
+    ],
+    "image": "vampiro.jpg"
+}
