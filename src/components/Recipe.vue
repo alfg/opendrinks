@@ -33,6 +33,9 @@
         :style="badgeStyle"
       >{{ o }}</b-badge>
     </div>
+    <div class="print-button">
+      <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank">Print</b-button>
+    </div>
     <div v-if="drink.source">
       <span>
         View full recipe at:
@@ -61,8 +64,8 @@ export default {
       json: {},
       drink: {},
       badgeStyle: {
-        'margin-right': '0.2vw',
-      },
+        "margin-right": "0.2vw"
+      }
     };
   },
   created() {
@@ -80,3 +83,9 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.print-button {
+  margin-top: 1em;
+}
+</style>
