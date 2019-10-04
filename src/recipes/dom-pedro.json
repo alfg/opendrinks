@@ -1,0 +1,22 @@
+{
+  "name": "Dom Pedro",
+  "description": "Dom Pedro is a deliciously creamy drink, this particular recipe is a bit spiced up, so it packs a good punch!",
+  "github": "jessicavrooyen",
+  "ingredients": [
+      "2 Tots Amarula Cream",
+      "1 Tot Frangelico",
+      "150 ml Vanilla Ice-cream",
+      "25 ml Coconut cream",
+      "Pinch of cinnamon",
+      "1-2 Blocks of grated chocolate"
+  ],
+  "directions": [
+      "Add your ice-cream, coconut cream, and amarula cream into a blender.",
+      "Add a few cubes of ice (optional)",
+      "Blend it all up & pour into glass",
+      "Drizzle Frangelico on top",
+      "Garnish with cinnamon and chocolate"
+  ],
+  "image": "dom-pedro.jpg",
+  "source": "https://www.greedygourmet.com/recipes-by-course/desserts/don-pedro/"
+}
