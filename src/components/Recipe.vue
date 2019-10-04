@@ -43,18 +43,18 @@
 </template>
 
 <script>
-import recipes from '../recipes';
+import recipes from "../recipes";
 
 export default {
-  name: 'Recipe',
+  name: "Recipe",
   props: {
-    name: String,
+    name: String
   },
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
-    },
+    }
   },
   data() {
     return {
@@ -76,7 +76,7 @@ export default {
     },
     getGithubUrl(name) {
       return `https://github.com/${name}`;
-    },
-  },
+    }
+  }
 };
 </script>
