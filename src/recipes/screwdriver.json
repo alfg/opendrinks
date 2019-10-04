@@ -13,5 +13,10 @@
         "Add all ingredients.",
         "Then garnish with orange."
     ],
-    "image": "screwdriver.jpg"
+    "image": "screwdriver.jpg",
+    "keywords": [
+        "vodka",
+        "orange",
+        "alcoholic"
+    ]
 }

@@ -21,5 +21,10 @@
         "Put everything in a jug and then add the wine and the soda on top;",
         "Finally, add the cinnamon sticks and ice to your taste. Enjoy!"
     ],
-    "image": "portuguese-sangria.jpg"
+    "image": "portuguese-sangria.jpg",
+    "keywords": [
+        "red wine",
+        "fruits",
+        "alcoholic"
+    ]
 }

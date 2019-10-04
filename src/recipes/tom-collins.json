@@ -17,5 +17,10 @@
         "Optional: Garnish with cherry or lemon slice",
         "Serve and enjoy!"
     ],
-    "image": "tom-collins.jpg"
+    "image": "tom-collins.jpg",
+    "keywords": [
+        "gin",
+        "lemon juice",
+        "alcoholic"
+    ]
 }
