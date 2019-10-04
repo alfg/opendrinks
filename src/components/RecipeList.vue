@@ -1,18 +1,38 @@
 <template>
   <div id="recipe-list" class="container">
+    <b-container>
+      <b-row>
+        <b-col>
+        <b-pagination
+          @change="onPageChanged"
+          :total-rows="rows"
+          :per-page="selected"
+          v-model="currentPage"
+        ></b-pagination>
+        </b-col>
+        <b-col>
+        <b-form-select 
+        v-model="selected" 
+        :options="options" 
+        v-on:change="getSelectedItem" 
+        size="sm">
+        </b-form-select>
+        </b-col>
+      </b-row>
+    </b-container>
     <b-card-group deck>
       <div
-        v-for="(o, i) in items"
+        v-for="(o, i) in paginatedItems"
         v-bind:key="i"
         class="mb-2 p-1"
       >
         <b-card
-          :title="o.name"
-          :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
-          :img-alt="o.name"
-          img-top
-          style="max-width: 20rem;"
-        >
+            :title="o.name"
+            :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
+            :img-alt="o.name"
+            img-top
+            style="max-width: 20rem;"
+          >
           <b-card-text>
             {{ o.description }}
           </b-card-text>
@@ -32,17 +52,47 @@ export default {
   data() {
     return {
       items: [],
+      paginatedItems: [],
+      currentPage: 1,
+      perPage: 6,
+      selected: 10,
+      options: [
+        { value: 10, text: '10'},
+        { value: 25, text: '25'},
+        { value: 50, text: '50'}
+      ]
     };
   },
   mounted() {
     this.getDrinks();
     window.document.title = 'Open Drinks - Explore';
+    this.paginate(this.perPage, 0);
+  },
+  computed: {
+      rows() {
+        return this.items.length
+      }
   },
   methods: {
     getDrinks() {
       const drinks = recipes.getRecipes();
       this.items = drinks;
     },
+    paginate(page_size, page_number) {
+      let itemsToParse = this.items;
+      this.paginatedItems = itemsToParse.slice(
+        page_number * page_size,
+        (page_number + 1) * page_size
+      );
+    },
+    onPageChanged(page) {
+      this.paginate(this.perPage, page - 1);
+    },
+    getSelectedItem(event) {
+      console.log(event) //dropdown num
+      this.perPage = event;
+      this.paginate(this.perPage, 0);
+    }
   },
 };
 </script>
