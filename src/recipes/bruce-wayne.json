@@ -12,5 +12,11 @@
         "Add Coffee, Bourbon and Maple Syrup into a cocktail shaker with ice.",
         "Shake until chilled and foamy and strain into your cocktail glass with ice."
     ],
-    "image": "bruce-wayne-cocktail.jpg"
+    "image": "bruce-wayne-cocktail.jpg",
+    "keywords": [
+        "bourbon",
+        "maple syrup",
+        "coffee",
+        "alcoholic"
+	]
 }
