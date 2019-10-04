@@ -3,16 +3,16 @@
     "description": "This sour concoction may be a little too tart and bitter for some tastes, but the sour family is one of our favourite type of drinks and the Gin Sour sits at the top",
     "github": "cemuka",
     "ingredients": [
-        "50 ml Gin", 
-        "25 ml Lemon Juice", 
-        "12 1/2 ml Simple Syrup", 
+        "50 ml Gin",
+        "25 ml Lemon Juice",
+        "12 1/2 ml Simple Syrup",
         "Splash Egg-White"
     ],
     "directions": [
-        "Begin by chilling glass with ice and soda water. Add the gin, simple syrup, lemon juice and egg white to a mixing tin and dry shake for 10 seconds.",
+        "Begin by chilling glass with ice and soda water. Add the gin, simple syrup, lemon juice, and egg white to a mixing tin and dry shake for 10 seconds.",
         "Add ice to the mixing tin and shake for a further 10 seconds.",
-        "Fill glass with ice and strain drink into glass.",
-        "Squeeze some lemon zest over drink and add lemon twist into glass."
+        "Fill glass with ice and strain drink into a glass.",
+        "Squeeze some lemon zest over the drink and add a lemon twist into the glass."
     ],
     "image": "gin-sour.jpg"
 }
