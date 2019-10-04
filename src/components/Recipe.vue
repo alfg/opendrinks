@@ -25,8 +25,19 @@
     <ol>
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
+    <div v-if="drink.keywords">
+      <b-badge
+        v-for="(o, i) in drink.keywords"
+        v-bind:key="i"
+        variant="secondary"
+        :style="badgeStyle"
+      >{{ o }}</b-badge>
+    </div>
     <div v-if="drink.source">
-      <span>View full recipe at: <a :href="drink.source">{{drink.source}}</a></span>
+      <span>
+        View full recipe at:
+        <a :href="drink.source">{{drink.source}}</a>
+      </span>
     </div>
   </div>
 </template>
@@ -42,18 +53,21 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      window.document.title = `Open Drinks - ${this.drink.name}`
+      window.document.title = `Open Drinks - ${this.drink.name}`;
     },
   },
   data() {
     return {
       json: {},
       drink: {},
+      badgeStyle: {
+        'margin-right': '0.2vw',
+      },
     };
-  }, 
+  },
   created() {
     this.getRecipe(this.name);
-    window.document.title = `Open Drinks - ${this.drink.name}`
+    window.document.title = `Open Drinks - ${this.drink.name}`;
   },
   methods: {
     getRecipe(name) {

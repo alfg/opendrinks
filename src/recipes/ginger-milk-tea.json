@@ -12,10 +12,14 @@
     "250 ml water"
   ],
   "directions": [
-    "Boil all ginger syrup ingredients on a stove top. Reduce heat and simmer for 5-10 minutes until all the sugar has dissolved.",
+    "Boil all ginger syrup ingredients on a stovetop. Reduce heat and simmer for 5-10 minutes until all the sugar has dissolved.",
     "Strain to get a clear syrup.",
     "Steep the teabag in the hot water according to the manufacturer instruction.",
     "Pour the milk and the ginger syrup. Stir to combine. Serve immediately."
   ],
-  "image": "ginger-milk-tea.jpg"
+  "image": "ginger-milk-tea.jpg",
+  "keywords": [
+    "tea",
+    "milk"
+  ]
 }

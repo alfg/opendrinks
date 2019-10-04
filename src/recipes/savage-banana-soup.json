@@ -1,0 +1,22 @@
+{
+    "name": "Savage Banana Soup",
+    "description": "A smoothie that bites back!",
+    "github": "PatrickLohan",
+    "ingredients": [
+        "50g Spinach or Kale",
+        "10g Ground Ginger",
+        "30g Peanut Butter",
+        "10g Ground Flax/Linseed",
+        "200g Banana, ripe",
+        "100g Blueberries",
+        "300ml Almond/Coconut Milk"
+    ],
+    "directions": [
+        "Put spinach/kale in bottom of a smoothie maker.",
+        "Next is the ginger, peanut butter, and flax/linseed.",
+        "Bananas and blueberries go on top, followed by the milk.",
+        "Blend.",
+        "Enjoy! Go get 'em, tiger!'"
+    ],
+    "image": "savage-banana-soup.jpg"
+}
