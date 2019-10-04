@@ -12,5 +12,10 @@
         "Strain into a chilled coupe.",
         "Garnish with a lime twist."
     ],
-    "image": "daiquiri.jpg"
+    "image": "daiquiri.jpg",
+    "keywords": [
+        "rum",
+        "lemon juice",
+        "alcoholic"
+	]
 }

@@ -12,5 +12,9 @@
         "Pour in limeade concentrate, tequila and triple sec.",
         "Blend until smooth. Pour into glasses and serve."
     ],
-    "image": "margarita.jpg"
+    "image": "margarita.jpg",
+    "keywords": [
+        "tequila",
+        "alcoholic"
+    ]
 }

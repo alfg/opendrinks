@@ -14,5 +14,10 @@
         "Fill glass with ice and strain drink into a glass.",
         "Squeeze some lemon zest over the drink and add a lemon twist into the glass."
     ],
-    "image": "gin-sour.jpg"
+    "image": "gin-sour.jpg",
+    "keywords": [
+        "gin",
+        "egg",
+        "alcoholic"
+    ]
 }
