@@ -6,7 +6,7 @@
         "1 tea bag",
         "1 cup boiling water",
         "some ice cubes",
-        "few teaspoons sweet condensed condensed milk"
+        "few teaspoons sweet condensed milk"
     ],
     "directions": [
         "make a cup of hot tea you like with tea bag and boiling water.",
@@ -15,5 +15,9 @@
         "add some ice cubes",
         "enjoy!"
     ],
-    "image": "quick-milk-tea.jpg"
+    "image": "quick-milk-tea.jpg",
+    "keywords": [
+      "tea",
+      "milk"
+    ]
 }

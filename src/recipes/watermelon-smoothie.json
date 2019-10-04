@@ -1,0 +1,19 @@
+{
+    "name": "Watermelon Smoothie",
+    "description": " Simple, light, sweet and refreshing drink.Perfect for summer!",
+    "github": "deeptiagg16",
+    "ingredients": [
+        " 5 cups fresh watermelon",
+        " 1 lime",
+        "1 cup frozen strawberries",
+        " 2 tbsp hemp seeds ",
+        "1/2 cup almond milk",
+        "sweetener of your choice"
+    ],
+    "directions": [
+        "Place all ingredient in a blender and blend until smooth",
+        "Serve immediately"
+    ],
+    "image": "watermelon-smoothie.jpg"
+   
+}

@@ -61,8 +61,8 @@ export default {
       json: {},
       drink: {},
       badgeStyle: {
-        "margin-right": "0.2vw"
-      }
+        'margin-right': '0.2vw',
+      },
     };
   },
   created() {

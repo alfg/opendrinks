@@ -1,0 +1,16 @@
+{
+    "name": "Daiquiri",
+    "description": "Daiquiri is the granddaddy of rum cocktails having been created over 130 years ago in Havana.",
+    "github": "ratracegrad",
+    "ingredients": [
+        "2.0 oz light rum",
+        "1.0 oz fresh lemon juice",
+        "3/4 oz Demerara sugar syrup"
+    ],
+    "directions": [
+        "Combine all the ingredients in a shaker with ice and shake until well-chilled.",
+        "Strain into a chilled coupe.",
+        "Garnish with a lime twist."
+    ],
+    "image": "daiquiri.jpg"
+}

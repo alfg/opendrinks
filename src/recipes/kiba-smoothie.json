@@ -1,0 +1,17 @@
+{
+    "name": "Kiba - A german smoothie",
+    "description": "Kiba is a smoothie made with bananas, cherries, and milk. It is a popular smoothie during warms days in Germany.",
+    "github": "hasukmistry",
+    "ingredients": [
+        "2 frozen bananas",
+        "1 banana, peeled and sliced",
+        "400ml almond milk",
+        "A large handful of cherries, pitted"
+    ],
+    "directions": [
+        "Place one frozen banana, the sliced banana and 200ml almond milk in a blender and blend until smooth. Pour into two glasses or glass bottles.",
+        "Put the leftover frozen banana with the cherries and 200ml almond milk in the blender and blend until smooth. Carefully pour the liquid on top of the first layer, pouring it on the back of a spoon to prevent the two layers from mixing. Serve."
+    ],
+    "image": "kiba_smoothie.jpg",
+    "source": "https://honestcooking.com/kiba-german-smoothie/"
+}

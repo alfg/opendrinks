@@ -1,0 +1,19 @@
+{
+    "name": "Coconut Mint Collins",
+    "description": "Beat the summer heat with this minty sweet and neat tasty Malibu cocktail. What a delicious treat!",
+    "github": "melda94",
+    "ingredients": [
+        "1 part Malibu Original",
+        "1/2 part Fresh Lime Juie",
+        "10 Mint Leaves",
+        "Top with Soda water & lime"
+    ],
+    "directions": [
+        "Pour all ingredients into a chilled glass.",
+        "Add crushed ice, stir and fill with soda water.",
+        "Top off with a wedge of lime and mint leaves."
+    ],
+    "image": "coconut-mint-collins.jpg",
+    "source": "https://www.maliburumdrinks.com/en/drinks/coconut-mint-collins/"
+
+}
