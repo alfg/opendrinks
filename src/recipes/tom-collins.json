@@ -6,8 +6,8 @@
         "1 1/2 ounces gin",
         "1 ounce lemon juice",
         "1/2 ounce simple syrup",
-	"3 ounces club soda",
-	"Optional: maraschino cherry or lemon slice for garnish"
+        "3 ounces club soda",
+        "Optional: maraschino cherry or lemon slice for garnish"
     ],
     "directions": [
         "Gather the ingredients.",
@@ -17,5 +17,11 @@
         "Optional: Garnish with cherry or lemon slice",
         "Serve and enjoy!"
     ],
-    "image": "tom-collins.jpg"
+    "image": "tom-collins.jpg",
+    "keywords": [
+        "gin",
+        "alcoholic",
+        "lemon",
+        "soda"
+    ]
 }
