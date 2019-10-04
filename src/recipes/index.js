@@ -1,6 +1,12 @@
 /* eslint-disable import/no-dynamic-require */
 /* eslint-disable global-require */
 
+async function forEachParallel(arr, func) {
+  await Promise.all(
+    arr.map(async item => func(item)),
+  );
+}
+
 function requireAll(r) {
   return r.keys();
 }
@@ -30,10 +36,10 @@ function getRandom() {
   return rand;
 }
 
-function getSimilarRecipe(id) {
+async function getSimilarRecipe(id) {
   const { keywords, ingredients, name } = getRecipe(id);
   const similarities = [];
-  recipes.forEach((recipe) => {
+  await forEachParallel(recipes, (recipe) => {
     const {
       keywords: currKeywords, ingredients: currIngredients,
       name: currName,
