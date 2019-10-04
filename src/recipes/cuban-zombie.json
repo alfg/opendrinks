@@ -21,5 +21,12 @@
         "Squeeze some Passion",
         "Pour the Grenadine & decorate with fresh Passion fruit"
     ],
-    "image": "cuban-zombie.jpg"
+    "image": "cuban-zombie.jpg",
+    "keywords": [
+        "rum",
+        "orange juice",
+        "pineapple juice",
+        "lime juice",
+        "alcoholic"
+	]
 }

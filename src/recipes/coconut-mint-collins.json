@@ -4,7 +4,7 @@
     "github": "melda94",
     "ingredients": [
         "1 part Malibu Original",
-        "1/2 part Fresh Lime Juie",
+        "1/2 part Fresh Lime Juice",
         "10 Mint Leaves",
         "Top with Soda water & lime"
     ],
@@ -14,6 +14,13 @@
         "Top off with a wedge of lime and mint leaves."
     ],
     "image": "coconut-mint-collins.jpg",
-    "source": "https://www.maliburumdrinks.com/en/drinks/coconut-mint-collins/"
+    "source": "https://www.maliburumdrinks.com/en/drinks/coconut-mint-collins/",
+    "keywords": [
+        "malibu",
+        "lime juice",
+        "mint leaves",
+        "soda",
+        "alcoholic"
+	]
 
 }
