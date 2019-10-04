@@ -1,0 +1,23 @@
+{
+    "name": "Bourbon Mule",
+    "description": "Mules are traditionally served in a copper mug, a handsome vessel that keeps them delightfully frigid",
+    "github": "brittanyjoiner15",
+    "ingredients": [
+        "1 1/2 ounces bourbon",
+        "1 tablespoon fresh lime juice",
+        "1/2 cup light ginger beer, such as Fever-Tree Naturally Light",
+        "1 fresh mint sprig",
+        "1 lime slice"
+    ],
+    "directions": [
+        "In a copper mug or highball glass, combine bourbon and lime juice.",
+        "Fill cup with ice. Add ginger beer; stir gently to combine.",
+        "Garnish with mint sprig and lime slice."
+    ],
+    "image": "bourbon-mule.jpg",
+    "source": "https://www.cookinglight.com/recipes/bourbon-mule",
+    "keywords": [
+        "bourbon mule",
+        "bourbon"
+    ]
+}
