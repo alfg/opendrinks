@@ -1,0 +1,28 @@
+{
+  "name": "French Pearl",
+  "description": "A refreshingly tart drink suitable for a hot summer day. Great for gin lovers",
+  "github": "BenjaminCivitico",
+  "ingredients": [
+      "2 oz Gin",
+      "3/4 oz Simple Syrup",
+      "3/4 oz Fresh Lime Juice",
+      "1 Large Mint Leaf",
+      "1 Dash Absinthe"
+  ],
+  "directions": [
+      "Add gin, simple syrup, and lime juice into a cocktail shaker",
+      "Add ice and shake well untill cocktail is cool",
+      "Pour cocktail into a coupe glass, add a dash of absinthe",
+      "Clap the mint leaf and float it on top of the cocktail"
+  ],
+  "image": "french-pearl.jpg",
+  "keywords":[
+    "lime",
+    "french",
+    "pearl",
+    "absinthe",
+    "sour",
+    "tart",
+    "summer"
+  ]
+}
