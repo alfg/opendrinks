@@ -1,14 +1,14 @@
 {
     "name": "Pear Manhattan Cocktail",
-    "description": "Enjoy a Cocktail of Whiskey mixed with pear and Vodka.",
+    "description": "Enjoy a Cocktail of Whiskey mixed with pear and vodka.",
     "github": "kevinmel2000",
     "ingredients": [
         "2 fluid ounces rye whiskey",
         "2 fluid ounces pear vodka",
         "1 3/4 fluid ounces sweet vermouth",
-		"1-2 ice cube",
-		"1 maraschino cherry",
-		"1 slice pear"
+	"1-2 ice cubes",
+	"1 maraschino cherry",
+	"1 slice pear"
     ],
     "directions": [
         "Pour whiskey, vodka, sweet vermouth, and ice into a cocktail shaker. Cover and shake until chilled.",
