@@ -16,5 +16,8 @@
         "Garnish with a lime peel.",
         "Serve and enjoy!"
     ],
-    "image":"april-rain.jpg" 
+    "image":"april-rain.jpg",
+    "keywords": [
+        "alcoholic"
+    ]
 }
