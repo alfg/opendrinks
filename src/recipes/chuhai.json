@@ -1,0 +1,21 @@
+{
+    "name": "Chuhai",
+    "description": "Short for Shochu Highball, it is a carbonated fruit drink made from shochu or sometimes vodka.",
+    "github": "jenzk",
+    "ingredients": [
+        "1/4 cup Shochu",
+        "1/4 cup Yuzu Juice or any fruit juice of choice",
+        "3/4 cup Club Soda",
+        "1 Tbsp of simple syrup (optional)"
+    ],
+    "directions": [
+        "Add Shochu, Yuzu juice, Simple Syrup and ice to your cup",
+        "Stir the ingredients together",
+        "Top your glass with the club soda"
+    ],
+    "image": "chuhai.jpg",
+    "keywords": [
+        "highball",
+        "alcoholic"
+    ]
+}
