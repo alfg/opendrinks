@@ -3,10 +3,26 @@
     "description": "Shembot a Filipino Legacy drink of all time Filipino favorite low budget drink for small time occasion or parties",
     "github": "joamarderije",
     "ingredients": [
-        "1 Bottle of Ginebra San Miguel ",
-        "1 25g Pack of Melon Juice Flavor",
-        "1 25g pack of Coffee",
-        "a pack of cube ice"
+        {
+            "quantity": "1",
+            "measure": "350ml",
+            "ingredient": "Ginebra Gin Round"
+        },
+        {
+            "quantity": "1",
+            "measure": "25g/pack",
+            "ingredient": "Any Brand of Melon Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "25g/pack",
+            "ingredient": "Any Brand of Brown Coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "pack",
+            "ingredient": "Cube Ice"
+        },
     ],
     "directions": [
         "get a pitcher filled with water(3/4).",
@@ -19,6 +35,9 @@
         "Melon",
         "Gin",
         "Coffee",
-        "Filipino"
+        "Filipino",
+        "Proud Mix",
+        "Barkada Mix",
+        "Low budget Liquir Mix",
     ]
 }
