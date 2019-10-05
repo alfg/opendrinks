@@ -12,9 +12,21 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
     "description": "<Short description of drink>",
     "github": "<Your Github username>",
     "ingredients": [
-        "<Ingredient 1>",
-        "<Ingredient 2>",
-        "<Ingredient 3>"
+        {
+            "quantity": "<quantity of ingredient 1>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 1>"
+        },
+        {
+            "quantity": "<quantity of ingredient 2>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 2>"
+        },
+        {
+            "quantity": "<quantity of ingredient 3>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 3>"
+        },
     ],
     "directions": [
         "<Step 1>",
