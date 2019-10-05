@@ -26,7 +26,7 @@
 <script>
 import recipes from "../recipes";
 
-const limit = 10; // Limit filtered results.
+const limit = 50; // Limit filtered results.
 
 export default {
   name: "RecipeFind",
@@ -54,7 +54,7 @@ export default {
           ).length == searchParts.length
         : false)
       )
-      .sort((recipeA, recipeB) => 
+      .sort((recipeA, recipeB) =>
         // Name-matches to the top if the user wanted to find a drink based on the name
         !this.searchParameters.includes("name") ? 0 :
         recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1
