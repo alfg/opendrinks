@@ -3,9 +3,21 @@
     "description": "A Tequila Slammer is a cocktail served in a rocks glass. It is made with tequila",
     "github": "Mythicmrmun",
     "ingredients": [
-        "1.5 oz Tquila",
-        "5 oz 7-up",
-        "Ice cubes"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Tquila"
+        },
+        {
+            "quantity": "5",
+            "measure": "oz",
+            "ingredient": "7-up"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
     ],
     "directions": [
         "Fill a rocks drinking glass with ice cubes.",

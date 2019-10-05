@@ -3,14 +3,46 @@
     "description": "Fruity and refreshing, a sip of this will have you laid back on the beach in no time!",
     "github": "JakeVdub",
     "ingredients": [
-        "1.5oz White Rum",
-        "0.5oz Lime Juice",
-        "0.5oz Orange Curaçao",
-        "0.5oz Orgeat Syrup",
-        "0.75oz Dark Rum",
-        "0.25oz Simple Syrup",
-        "Pineapple",
-        "Ice"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "White Rum"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Orange Curaçao"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Orgeat Syrup"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "Dark Rum"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Pineapple"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
     ],
     "directions": [
         "1. Combine all the ingredients except the dark rum into a shaker with ice and shake well.",

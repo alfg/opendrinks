@@ -3,11 +3,31 @@
     "description": "The Pisco Sour is a cocktail of Peruvian origin that uses pisco as the base liquor and lemon or lime juice for the sour component.",
     "github": "Jason-Hoang",
     "ingredients": [
-        "1oz Lemon/Lime Juice",
-        "1 Egg White",
-        "3/4oz Simple Syrup",
-        "1 1/2oz Pisco",
-        "2 Drops of Bitters"
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Lemon/Lime Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Egg White"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Pisco"
+        },
+        {
+            "quantity": "2",
+            "measure": "Drops",
+            "ingredient": "of Bitters"
+        }
     ],
     "directions": [
         "Fill a cocktail shaker with ice.",
@@ -16,11 +36,5 @@
         "Strain the contents into a 6-ounce cocktail glass.",
         "Top with a few drops of bitters."
     ],
-    "image": "pisco-sour.jpg",
-    "keywords": [
-        "pisco",
-        "egg",
-        "lemon",
-        "alcoholic"
-    ]
+    "image": "pisco-sour.jpg"
 }

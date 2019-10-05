@@ -3,10 +3,26 @@
     "description": "The most famous drink at pubs in Brazil, very simple to prepare and it taste like sugar when drunk.",
     "github": "rzorzal",
     "ingredients": [
-        "1 oz Red Gooseberry Liquor",
-        "1 oz White Cachaça (Cachaça Branca)",
-        "1/2 Lemon",
-        "Ice, optional"
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Red Gooseberry Liquor"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "White Cachaça (Cachaça Branca)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice, optional"
+        }
     ],
     "directions": [
         "Put the ice in the cup.",

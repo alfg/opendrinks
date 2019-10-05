@@ -3,10 +3,26 @@
     "description": "A highball cocktail made with dark rum and ginger beer, served over ice.",
     "github": "jenzk",
     "ingredients": [
-        "2 oz, Dark Rum",
-        "3 oz. Ginger Beer",
-        "1/2 oz. Lime juice",
-        "1 Lime wedge for garnish"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Dark Rum"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Ginger Beer"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lime wedge for garnish"
+        }
     ],
     "directions": [
         "Combine the Dark Rum, Ginger Beer and Lime juice in a glass full of ice cubes.",

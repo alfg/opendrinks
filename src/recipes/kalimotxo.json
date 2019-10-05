@@ -3,10 +3,26 @@
     "description": "A cheap and refreshing drink that is easy to make with common ingredients",
     "github": "joshyap",
     "ingredients": [
-        "1/2 cup cheap red wine of your choice",
-        "1/2 cup carbonated cola",
-        "Lime or Lemon wedge, depending on preference or available ingredients",
-        "ice"
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "cheap red wine of your choice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "carbonated cola"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime or Lemon wedge, depending on preference or available ingredients"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
     ],
     "directions": [
         "Fill glass with ice",

@@ -28,6 +28,9 @@ export default {
     getRandom() {
       const randDrink = recipes.getRandom();
       this.name = randDrink;
+      this.$router.push({
+        path: `recipe/${randDrink.replace('.json', '')}`,
+      });
     },
     onNext() {
       this.getRandom();

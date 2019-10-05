@@ -3,10 +3,26 @@
     "description": "Milk tea that is very easy to make",
     "github": "tomial",
     "ingredients": [
-        "1 tea bag",
-        "1 cup boiling water",
-        "some ice cubes",
-        "few teaspoons sweet condensed milk"
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "tea bag"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "boiling water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "some ice cubes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "few teaspoons sweet condensed milk"
+        }
     ],
     "directions": [
         "make a cup of hot tea you like with tea bag and boiling water.",

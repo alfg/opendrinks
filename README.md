@@ -14,6 +14,8 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 * Fork and make a pull request with your drink recipe
 * Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
+Also check out [Issues](https://github.com/alfg/opendrinks/issues) for any open bug fixes or feature requests!
+
 ## Development
 Open Drinks is built with the following technologies:
 * [Vue](https://vuejs.org/)

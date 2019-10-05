@@ -3,9 +3,21 @@
     "description": "A fun and popular mixed drink - typically, this drink includes vodka, fruit liqueur and a splash of soda.",
     "github": "RyanJamesCaldwell",
     "ingredients": [
-        "1 1/2 ounces vodka",
-        "1/2 ounce black raspberry liqueur",
-        "2 ounces cranberry juice"
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "black raspberry liqueur"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "cranberry juice"
+        }
     ],
     "directions": [
         "Gather your ingredients.",

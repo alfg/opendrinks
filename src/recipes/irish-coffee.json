@@ -3,10 +3,26 @@
     "description": "Irish coffee is a cocktail of coffee, sugar, whiskey and cream. This drink was created by Joseph Sheridan in the late 1930s in Foynes, Ireland.",
     "github": "vanoux",
     "ingredients": [
-        "1 1/2 to 2 ounces Irish whiskey, to taste",
-        "4 ounces fresh-brewed coffee",
-        "1/2 to 1 ounce sugar syrup",
-        "Heavy cream"
+        {
+            "quantity": "1 1/2 to 2",
+            "measure": "ounces",
+            "ingredient": "Irish whiskey,"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "fresh-brewed coffee"
+        },
+        {
+            "quantity": "1/2 to 1",
+            "measure": "ounce",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Heavy cream"
+        }
     ],
     "directions": [
         "Whip the cream until thick, but not stiff. In a pre-warmed toddy mug, Irish coffee glass or sturdy wine glass, combine the whiskey, sugar syrup and coffee (for more richness of flavor without added sweetness, try making the simple syrup using brown sugar or demerara sugar). Stir to combine, and gently spoon between 1/2-inch and an inch of cream atop the coffee mixture, to taste."

@@ -3,11 +3,31 @@
     "description": "A classic and popular mixed drink. This drink resembles a sparkling lemonade and typically includes gin, lemon and soda.",
     "github": "small-ac",
     "ingredients": [
-        "1 1/2 ounces gin",
-        "1 ounce lemon juice",
-        "1/2 ounce simple syrup",
-	"3 ounces club soda",
-	"Optional: maraschino cherry or lemon slice for garnish"
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "3",
+            "measure": "ounces",
+            "ingredient": "club soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Optional: maraschino cherry or lemon slice for garnish"
+        }
     ],
     "directions": [
         "Gather the ingredients.",

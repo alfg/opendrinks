@@ -3,9 +3,21 @@
     "description": "Mixing the purity of Smirnoff No. 21 Vodka, and the colour of dark coffee liqueur, this combination of just two ingredients delivers a drink with flavour and great looks.",
     "github": "cedrvanh",
     "ingredients": [
-        "50ml. Smirnoff No. 21® Vodka",
-        "25ml. Baileys® Coffee Irish Cream Liqueur",
-        "2.3 units of alcohol per serve"
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Smirnoff No. 21® Vodka"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Baileys® Coffee Irish Cream Liqueur"
+        },
+        {
+            "quantity": "2.3",
+            "measure": "units",
+            "ingredient": "of alcohol per serve"
+        }
     ],
     "directions": [
         "Fill a glass with ice.",

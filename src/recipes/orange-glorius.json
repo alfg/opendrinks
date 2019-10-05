@@ -3,12 +3,36 @@
     "description": "Special Orange Juice Mixed latte this beverage tastes better than the over-priced commercial version.",
     "github": "kevinmel2000",
     "ingredients": [
-        "1 cup milk",
-        "1 cup ice water",
-        "1 (6 ounce) can frozen orange juice concentrate",
-		"12 cubes ic",
-		"1/4 teaspoon vanilla extract",
-		"1/8 cup white sugar"
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice water"
+        },
+        {
+            "quantity": "1 (6 oz.)",
+            "measure": "can",
+            "ingredient": "frozen orange juice concentrate"
+        },
+        {
+            "quantity": "12",
+            "measure": "cubes",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "cup",
+            "ingredient": "white sugar"
+        }
     ],
     "directions": [
         "In a blender combine milk, water, orange juice concentrate, ice cubes, vanilla, and sugar. ",

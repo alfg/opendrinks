@@ -3,11 +3,31 @@
     "description": "A really great cocktail for a summer weekend",
     "github": "duongoku",
     "ingredients": [
-        "30ml Prosecco",
-        "20ml Aperol",
-        "20ml Club Soda",
-        "Ice",
-        "Sliced orange or lemon for garnish"
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sliced orange or lemon for garnish"
+        }
     ],
     "directions": [
         "Fill a glass with ice.",

@@ -3,11 +3,31 @@
     "description": "Dole Whip is a soft serve dairy-free frozen dessert to bring island vibes to your backyard",
     "github": "TheRealDarkCoder",
     "ingredients": [
-        "1 c. frozen pineapple",
-        "1 c. lemonade",
-        "1/2 c. coconut milk",
-        "Pineapple wedges, (garnishing)",
-        "Maraschino cherries, (garnishing)"
+        {
+            "quantity": "1",
+            "measure": "c",
+            "ingredient": "frozen pineapple"
+        },
+        {
+            "quantity": "1",
+            "measure": "c",
+            "ingredient": "lemonade"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "c",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Pineapple wedges, (garnishing)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Maraschino cherries, (garnishing)"
+        }
     ],
     "directions": [
         "Blend frozen pineapple, lemonade, and coconut milk in a blender.",

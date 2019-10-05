@@ -3,13 +3,41 @@
     "description": "The Zombie is a cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934. It was popularized on the East coast soon afterward at the 1939 New York World's Fair.",
     "github": "ArelySkywalker",
     "ingredients": [
-        "1.5 oz Rum",
-        "1.5 oz Gold Rum",
-        "1 oz 151 Proof Rum",
-        "1 tsp Pernod",
-        "1 tsp Grenadine",
-        "1 tsp Lime Juice",
-        "1 drop Angostura Bitters"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Gold Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "151 Proof Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Pernod"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "drop",
+            "ingredient": "Angostura Bitters"
+        }
     ],
     "directions": [
         "Blend at high speed for no more than 5 seconds.",

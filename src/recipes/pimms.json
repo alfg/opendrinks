@@ -3,12 +3,36 @@
     "description": "A quintessentially British cocktail. A true taste of summer, serve this fruity punch with fresh Mint leaves, Cucumber, Orange and Strawberries",
     "github": "MorkWood2",
     "ingredients": [
-        "40ml Pimm's No. 1",
-        "50ml lemonade",
-        "1 Mint sprig",
-        "1 sliced Cucumber",
-        "1 sliced Orange",
-        "1 whole Strawberry"
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "Pimm's No. 1"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "lemonade"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Mint sprig"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "sliced Cucumber"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "sliced Orange"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "whole Strawberry"
+        }
     ],
     "directions": [
         "Add ice to glass ",

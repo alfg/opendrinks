@@ -3,10 +3,26 @@
     "description": "Beat the summer heat with this minty sweet and neat tasty Malibu cocktail. What a delicious treat!",
     "github": "melda94",
     "ingredients": [
-        "1 part Malibu Original",
-        "1/2 part Fresh Lime Juice",
-        "10 Mint Leaves",
-        "Top with Soda water & lime"
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Malibu Original"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "Fresh Lime Juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "Mint Leaves"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Top with Soda water & lime"
+        }
     ],
     "directions": [
         "Pour all ingredients into a chilled glass.",
