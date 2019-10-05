@@ -3,11 +3,31 @@
     "description": "Tea Ais is Ice Tea with condensed milk. It's name is derived from the pouring of 'pulling' the drink during preparation.",
     "github": "Akuntamvan",
     "ingredients": [
-        "4 black tea bags",
-        "3 cups water, boiling hot",
-        "4 tbs sweetened condensed milk",
-        "Sugar(optional)",
-        "Ice Cube as needed"
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "black tea bags"
+        },
+        {
+            "quantity": "3",
+            "measure": "cups",
+            "ingredient": "water, boiling hot"
+        },
+        {
+            "quantity": "4",
+            "measure": "tbs",
+            "ingredient": "sweetened condensed milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "super (optional)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes as needed"
+        }
     ],
     "directions": [
         "Steep the tea bags covered in the hot water for 5-8 minutes",
