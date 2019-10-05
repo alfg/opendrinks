@@ -100,4 +100,13 @@ export default {
 .card-deck .card {
   margin-right: 0;
 }
+.card-text {
+  display: block;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-height: 6rem;
+}
 </style>
