@@ -1,26 +1,31 @@
 <template>
-  <div id="recipe-find">
-    <b-form-input @keydown.enter="onEnter" @input="onInput"></b-form-input>
+	<div id="recipe-find">
+		<b-form-input @keydown.enter="onEnter" @input="onInput"></b-form-input>
 
-    <b-form-group class="mt-2" label="Filter by:">
-      <b-form-checkbox-group
-        id="checkbox-group-2"
-        v-model="searchParameters"
-        name="searchParameters"
-      >
-        <b-form-checkbox value="name">Name</b-form-checkbox>
-        <b-form-checkbox v-b-tooltip.hover title="You can search for multiple ingredients by seperating them with a space" value="ingredients">Ingredients</b-form-checkbox>
-      </b-form-checkbox-group>
-    </b-form-group>
+		<b-form-group class="mt-2" label="Filter by:">
+			<b-form-checkbox-group id="checkbox-group-2" v-model="searchParameters" name="searchParameters">
+				<b-form-checkbox value="name">Name</b-form-checkbox>
+				<b-form-checkbox
+					v-b-tooltip.hover
+					title="You can search for multiple ingredients by seperating them with a space"
+					value="ingredients"
+				>Ingredients</b-form-checkbox>
+				<b-form-checkbox
+					v-b-tooltip.hover
+					title="You can search for multiple ketwords by seperating them with a space"
+					value="keywords"
+				>Keywords</b-form-checkbox>
+			</b-form-checkbox-group>
+		</b-form-group>
 
-    <b-list-group class="mt-4" v-if="search.length > 0">
-      <b-list-group-item
-        v-for="o in filterResults"
-        v-bind:key="o.name"
-        :href="'/recipe/' + o.filename"
-      >{{ o.name }}</b-list-group-item>
-    </b-list-group>
-  </div>
+		<b-list-group class="mt-4" v-if="search.length > 0">
+			<b-list-group-item
+				v-for="o in filterResults"
+				v-bind:key="o.name"
+				:href="'/recipe/' + o.filename"
+			>{{ o.name }}</b-list-group-item>
+		</b-list-group>
+	</div>
 </template>
 
 <script>
@@ -52,7 +57,18 @@ export default {
               ingredient.ingredient.toLowerCase().indexOf(searchPart) > -1
             ).length > 0
           ).length == searchParts.length
-        : false)
+		: false)
+		||
+		// If enabled, find the drinks which ingredients contain all of the searched ingredients
+		(this.searchParameters.includes("keywords") ?
+			// ensure drink has keywords
+		  (recipe.keywords != undefined) ? recipe.keywords.filter(keyword =>
+		  	// opening keyword array
+			searchParts.filter(searchPart =>
+               keyword.toLowerCase().indexOf(searchPart) > -1 
+            ).length > 0
+          ).length == searchParts.length : false
+		: false)
       )
       .sort((recipeA, recipeB) =>
         // Name-matches to the top if the user wanted to find a drink based on the name
