@@ -1,0 +1,17 @@
+{
+  "name": "Sunshine Cocktail",
+  "description": "A drink perfect for beach days and working on your tan.",
+  "github": "ragrag",
+  "ingredients": [
+    "2 oz. white rum",
+    "1/2 oz. French vermouth",
+    "1 oz. pineapple juice",
+    "1 dash grenadine "
+  ],
+  "directions": [
+    "Shake ingredients well with cracked ice.",
+    "Lightly strain into a chilled cocktail glass."
+  ],
+  "image": "sunshine-cocktail.jpg",
+  "keywords": ["sunshine", "cocktail", "beach"]
+}
