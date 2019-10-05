@@ -57,10 +57,10 @@ export default {
       perPage: 10,
       selected: 10,
       options: [
-        { value: 10, text: '10'},
-        { value: 25, text: '25'},
-        { value: 50, text: '50'}
-      ]
+        { value: 10, text: '10' },
+        { value: 25, text: '25' },
+        { value: 50, text: '50' },
+      ],
     };
   },
   mounted() {
@@ -69,20 +69,20 @@ export default {
     this.paginate(this.perPage, 0);
   },
   computed: {
-      rows() {
-        return this.items.length
-      }
+    rows() {
+      return this.items.length;
+    },
   },
   methods: {
     getDrinks() {
       const drinks = recipes.getRecipes();
       this.items = drinks;
     },
-    paginate(page_size, page_number) {
-      let itemsToParse = this.items;
+    paginate(pageSize, pageNumber) {
+      const itemsToParse = this.items;
       this.paginatedItems = itemsToParse.slice(
-        page_number * page_size,
-        (page_number + 1) * page_size
+        pageNumber * pageSize,
+        (pageNumber + 1) * pageSize,
       );
     },
     onPageChanged(page) {
@@ -91,7 +91,7 @@ export default {
     getSelectedItem(event) {
       this.perPage = event;
       this.paginate(this.perPage, 0);
-    }
+    },
   },
 };
 </script>
