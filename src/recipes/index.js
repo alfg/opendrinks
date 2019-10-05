@@ -64,7 +64,6 @@ async function getSimilarRecipe(id) {
       currKeywords.forEach((keyword) => {
         if (keywords.includes(keyword)) {
           similarities[similarities.length - 1].tags.push(keyword);
-          console.log(similarities.length - 1);
         }
       });
     }
