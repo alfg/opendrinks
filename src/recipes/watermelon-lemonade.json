@@ -3,12 +3,36 @@
     "description": "A light and refreshing summer drink",
     "github": "FarhiaM",
     "ingredients": [
-        "1/2 cup of white sugar  ",
-        "1/2 cup of water",
-        "4 cups of cubed watermelon",
-        "1/2 cup fresh lemon juice",
-        "3 cups of cold water",
-        "6 ice cubes"
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "White sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "4",
+            "measure": "cup",
+            "ingredient": "Cubed watermelon"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Fresh lemon juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "cup",
+            "ingredient": "Cold water"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "cup",
+            "ingredient": "Ice cubes"
+        }
     ],
     "directions": [
         "Place the watermelon into a blender and mix unter it's smooth.",
