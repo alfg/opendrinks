@@ -28,6 +28,7 @@
     <ol>
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
+
     <div v-if="drink.keywords">
       <b-badge
         v-for="(o, i) in drink.keywords"
@@ -36,12 +37,14 @@
         :style="badgeStyle"
       >{{ o }}</b-badge>
     </div>
-    <div v-if="drink.source">
+
+    <div class="mt-4" v-if="drink.source">
       <span>
         View full recipe at:
         <a :href="drink.source">{{drink.source}}</a>
       </span>
     </div>
+
     <div class="print-button mt-4">
       <b-button
         variant="outline-primary"
