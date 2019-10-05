@@ -27,5 +27,9 @@
         "Top with cranberry juice.",
         "Serve and enjoy!"
     ],
-    "image": "purple-haze.jpg"
+    "image": "purple-haze.jpg",
+    "keywords": [
+        "cranberry juice",
+        "vodka"
+    ]
 }
