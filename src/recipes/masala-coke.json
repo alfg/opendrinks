@@ -3,14 +3,46 @@
     "description": "Masala coke is a favorite Indian drink that spices up your taste buds",
     "github": "redfly1",
     "ingredients": [
-        "1 Lemon wedge",
-        "1 Lime wedge",
-        "4 oz Coke or Pepsi",
-        "2 dashes Tabasco sauce",
-        "1 pinch salt",
-        "1 pinch Celery salt",
-        "1 pinch Ground black pepper",
-        "3 spoons of chat masala"
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "lemon wedge"
+        },
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "lime wedge"
+        },
+        {
+          "quantity": "4",
+          "measure": "oz",
+          "ingredient": "Coke or Pepsei"
+        },
+        {
+          "quantity": "2",
+          "measure": "dashes",
+          "ingredient": "Tabasco sauce"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "Celery salt"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "Ground black pepper"
+        },
+        {
+          "quantity": "3 spoons",
+          "measure": "spoons",
+          "ingredient": "chat masala"
+        }
     ],
     "directions": [
         "Pour some salt onto a small plate.",
