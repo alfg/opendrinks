@@ -3,9 +3,21 @@
     "description": "Bellini is sparkling Italian cocktail.",
     "github": "forsas",
     "ingredients": [
-        "2 fluid ounces peach juice",
-        "4 fluid ounces chilled sparkling wine",
-        "1 tablespoon raspberry juice"
+        {
+            "quantity": "2",
+            "measure": "fl oz",
+            "ingredient": "peach juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "fl oz",
+            "ingredient": "chilled sparkling wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "raspberry juice"
+        }
     ],
     "directions": [
         "Pour peach juice into a champagne flute.",
