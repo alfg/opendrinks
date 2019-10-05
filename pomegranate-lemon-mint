@@ -1,0 +1,26 @@
+{
+    "name": "<Pomegranate Lemon Mint (adapted from Jamie Oliver the wonderful chef>",
+    "description": "<Refreshing>",
+    "github": "<bookish>",
+    "ingredients": [
+        "<One litre bottle of sparkling water>",
+        "<One whole pomegranate>",
+        "<One bunch of fresh mint>"
+        "<One whole lemon>"
+         "<large ice cubes>"
+    ],
+    "directions": [
+        "<Pour ice cubes into a large glass pitcher.>",
+        "<Slice the pomegranate in half, then squeeze the juice from both halves over the ice cubes in the pitcher.  It is okay if a few of the seeds end up in the pitcher because they are edible.>",
+        "<Slice the lemon in half and squeeze the lemon juice into the pitcher.>"
+        "<Pour the sparkling water into the pitcher.>"
+        "<Wash the mint and put the nicest leaves into the pitcher.>"
+        "<Pour in a tall glass and enjoy!>"
+    ],
+    "image": "<drink-name.jpg>",
+    "source": "<http://cheekeelee.blogspot.com/2012/03/jamie-olivers-pomegranate-soda.html>",
+    "keywords": [
+        "<Jamie Oliver sparkling water pomegranate mint lemon ice non-alcoholic fruit>",
+        "...",
+    ]
+}
