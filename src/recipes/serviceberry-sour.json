@@ -1,0 +1,45 @@
+{
+    "name": "Serviceberry Sour",
+    "description": "Also known as a \"Saskatoon Berry Sour\", this sweet whiskey sour is perfect to beat the summer heat.",
+    "github": "Assisting",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Whiskey"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Serviceberry syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "meringue foam"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "serviceberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon slice (optional)"
+        }
+    ],
+    "directions": [
+        "Shake whiskey and serviceberry syrup with ice and pour into an old fashioned glass",
+        "Add serviceberries",
+        "Spoon over meringue foam",
+        "Garnish with lemon wedge or berries and serve"
+    ],
+    "image": "serviceberry-sour.jpg",
+    "keywords": [
+        "whiskey",
+        "Canada",
+        "egg",
+        "alcoholic"
+    ]
+}
