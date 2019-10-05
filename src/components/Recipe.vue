@@ -36,17 +36,17 @@
         :style="badgeStyle"
       >{{ o }}</b-badge>
     </div>
-    <div class="print-button">
-      <b-button
-        variant="outline-primary"
-        :href="`/recipe/${this.name}/print`"
-        target="_blank">Print</b-button>
-    </div>
     <div v-if="drink.source">
       <span>
         View full recipe at:
         <a :href="drink.source">{{drink.source}}</a>
       </span>
+    </div>
+    <div class="print-button mt-4">
+      <b-button
+        variant="outline-primary"
+        :href="`/recipe/${this.name}/print`"
+        target="_blank">Print</b-button>
     </div>
   </div>
 </template>
