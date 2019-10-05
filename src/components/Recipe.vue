@@ -18,7 +18,10 @@
 
     <h4>Ingredients</h4>
     <ul>
-      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}</li>
+      <li
+        v-for="(o, i) in drink.ingredients"
+        v-bind:key="i">{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+      </li>
     </ul>
 
     <h4>Directions</h4>
@@ -34,7 +37,10 @@
       >{{ o }}</b-badge>
     </div>
     <div class="print-button">
-      <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank">Print</b-button>
+      <b-button
+        variant="outline-primary"
+        :href="`/recipe/${this.name}/print`"
+        target="_blank">Print</b-button>
     </div>
     <div v-if="drink.source">
       <span>
@@ -46,26 +52,26 @@
 </template>
 
 <script>
-import recipes from "../recipes";
+import recipes from '../recipes';
 
 export default {
-  name: "Recipe",
+  name: 'Recipe',
   props: {
-    name: String
+    name: String,
   },
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
-    }
+    },
   },
   data() {
     return {
       json: {},
       drink: {},
       badgeStyle: {
-        "margin-right": "0.2vw"
-      }
+        'margin-right': '0.2vw',
+      },
     };
   },
   created() {
@@ -79,8 +85,8 @@ export default {
     },
     getGithubUrl(name) {
       return `https://github.com/${name}`;
-    }
-  }
+    },
+  },
 };
 </script>
 
