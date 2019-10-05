@@ -50,6 +50,7 @@ async function getSimilarRecipe(id) {
     }
 
     similarities.push({
+      id: recipe,
       recipe: currName,
       tags: [],
     });

@@ -45,20 +45,32 @@
       </span>
     </div>
 
-    <div class="print-button mt-4">
+    <div class="print-button mt-4 mb-4">
       <b-button
         variant="outline-primary"
         :href="`/recipe/${this.name}/print`"
         target="_blank">Print</b-button>
     </div>
+
+    <h4>Similar drinks</h4>
+    <div class="d-flex flex-row">
+      <div v-for="similarRecipe in similarRecipes" v-bind:key="similarRecipe.recipe" class="col-3">
+        <RecipeTile v-bind:id="similarRecipe.id"/>
+      </div>
+    </div>
   </div>
+
 </template>
 
 <script>
 import recipes from '../recipes';
+import RecipeTile from '@/components/RecipeTile.vue';
 
 export default {
   name: 'Recipe',
+  components: {
+    RecipeTile,
+  },
   props: {
     name: String,
   },
@@ -72,14 +84,16 @@ export default {
     return {
       json: {},
       drink: {},
+      similarRecipes: {},
       badgeStyle: {
         'margin-right': '0.2vw',
       },
     };
   },
-  created() {
+  async created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
+    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(0, 4);
   },
   methods: {
     getRecipe(name) {
