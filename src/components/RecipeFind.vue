@@ -49,7 +49,7 @@ export default {
         (this.searchParameters.includes("ingredients") ?
           recipe.ingredients.filter(ingredient =>
             searchParts.filter(searchPart =>
-              ingredient.toLowerCase().indexOf(searchPart) > -1
+              ingredient.ingredient.toLowerCase().indexOf(searchPart) > -1
             ).length > 0
           ).length == searchParts.length
         : false)

@@ -3,10 +3,26 @@
     "description": "Yellow watermelon juice, will help boost your day",
     "github": "2pai",
     "ingredients": [
-        "4 slices of yellow watermelon",
-        "2 glasses of cold water",
-        "3 Tbsp sugar",
-        "1 Scope of ice cubes"
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "slices of yellow watermelon"
+        },
+        {
+            "quantity": "2",
+            "measure": "glasses",
+            "ingredient": "of cold water"
+        },
+        {
+            "quantity": "3",
+            "measure": "Tbsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "Scope",
+            "ingredient": "of ice cubes"
+        }
     ],
     "directions": [
         "Cut the watermelon",

@@ -18,7 +18,7 @@
 
     <h4>Ingredients</h4>
     <ul>
-      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">{{ o }}</li>
+      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}</li>
     </ul>
 
     <h4>Directions</h4>

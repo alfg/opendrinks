@@ -3,12 +3,36 @@
     "description": "A simple, light, sweet and refreshing drink. Perfect for summer!",
     "github": "deeptiagg16",
     "ingredients": [
-        "5 cups fresh watermelon",
-        "1 lime",
-        "1 cup frozen strawberries",
-        "2 tbsp hemp seeds",
-        "1/2 cup almond milk",
-        "Sweetener of your choice"
+        {
+            "quantity": "5",
+            "measure": "cups",
+            "ingredient": "fresh watermelon"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "frozen strawberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "hemp seeds"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "almond milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sweetener of your choice"
+        }
     ],
     "directions": [
         "Place all ingredients in a blender and blend until smooth.",
@@ -16,8 +40,7 @@
     ],
     "image": "watermelon-smoothie.jpg",
     "keywords": [
-       "watermelon",
-       "non-alcoholic"
-   ]
-   
+        "watermelon",
+        "non-alcoholic"
+    ]
 }

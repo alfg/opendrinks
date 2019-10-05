@@ -3,11 +3,31 @@
     "description": "Aam pana is an Indian drink renowned for its heat-resistant properties. It is made from raw mangoes and is yellow to very light green in color, and is consumed as a tasty and healthy beverage to fight against the intense Indian summer heat. In most instances, mint leaves are added which enhances the green colour.",
     "github": "connectnitish",
     "ingredients": [
-        "1 Sugar",
-        "2 Unripe Green Mango",
-        "3 Cardamom",
-        "4 Fresh Mint",
-        "5 Black Salt"
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Unripe Green Mango"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "Cardamom"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "Fresh Mint"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Black Salt"
+        }
     ],
     "directions": [
         "Choose the raw mangoes which are tart.",
@@ -27,5 +47,5 @@
         "mocktail",
         "non-alcoholic",
         "vegan"
-	]
+    ]
 }
