@@ -1,0 +1,42 @@
+{
+    "name": "Leaves of Grass",
+    "description": "Daiquiri is the granddaddy of rum cocktails having been created over 130 years ago in Havana.",
+    "github": "divyhshah",
+    "ingredients": [
+        {
+            "quantity": "2.0",
+            "measure": "oz",
+            "ingredient": "Botanist Gin"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "blueberry liqueur"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "fresh thyme cordial"
+        }
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": " fresh blood orange juice"
+        }
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "ginger-mint syrup"
+        }
+    ],
+    "directions": [
+        "Add all ingredients to an ice-filled shaker.",
+        "Strain into a coupe glass.",
+        "Top with club soda and garnish with wild mint leaves."
+    ],
+    "image": "leaves-of-grass.jpg",
+    "keywords":[
+        "club Soda",
+        "Gin"
+    ]
+}
