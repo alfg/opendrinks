@@ -3,11 +3,31 @@
     "description": "Mules are traditionally served in a copper mug, a handsome vessel that keeps them delightfully frigid",
     "github": "brittanyjoiner15",
     "ingredients": [
-        "1 1/2 ounces bourbon",
-        "1 tablespoon fresh lime juice",
-        "1/2 cup light ginger beer, such as Fever-Tree Naturally Light",
-        "1 fresh mint sprig",
-        "1 lime slice"
+      {
+           "quantity": "1 1/2",
+           "measure": "ounces",
+           "ingredient": "bourbon"
+       },
+       {
+           "quantity": "1",
+           "measure": "tablespoon",
+           "ingredient": "fresh lime juice"
+       },
+       {
+           "quantity": "1/2",
+           "measure": "cup",
+           "ingredient": "light ginger beer, such as Fever-Tree Naturally Light"
+       },
+       {
+           "quantity": "1",
+           "measure": "",
+           "ingredient": "fresh mint sprig"
+       },
+       {
+           "quantity": "1",
+           "measure": "",
+           "ingredient": "lime slice"
+       }
     ],
     "directions": [
         "In a copper mug or highball glass, combine bourbon and lime juice.",
