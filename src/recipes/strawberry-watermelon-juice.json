@@ -3,10 +3,26 @@
     "description": "refreshing, healthy, delicious fruit juice",
     "github": "Amr905",
     "ingredients": [
-        "1 cup Strawberries",
-        "1 ½ cups Watermelon cut into large cubes",
-        "2 teaspoons Lemon juice",
-        "6 Ice cubes"
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Strawberries"
+        },
+        {
+            "quantity": "1 ½",
+            "measure": "cups",
+            "ingredient": "Watermelon cut into large cubes"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
     ],
     "directions": [
         "Take all the ingredients into the blender",

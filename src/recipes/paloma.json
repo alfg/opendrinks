@@ -3,12 +3,36 @@
     "description": "A simple tequila cocktail made with grapefruit soda",
     "github": "estudioChispa",
     "ingredients": [
-        "2 or 3 oz tequila (I prefer a silver or blanco, but use what you like)",
-        "Grapefruite soda (like Fresca, Squirt, or Jarritos)",
-        "2 Limes",
-        "Salt",
-        "(optional) Tajin - a seasoning mix of lime, chilies, and salt ",
-        "Ice"
+        {
+            "quantity": "2 or 3",
+            "measure": "oz",
+            "ingredient": "tequila (I prefer a silver or blanco, but use what you like)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Grapefruite soda (like Fresca, Squirt, or Jarritos)"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Limes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "(optional) Tajin - a seasoning mix of lime, chilies, and salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
     ],
     "directions": [
         "Rim your glass with a wedge of lime and the Tajin (if using) or salt",

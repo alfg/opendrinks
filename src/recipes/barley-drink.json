@@ -3,11 +3,31 @@
     "description": "Barley drink is a drink consumed in various parts of the world. It is made by boiling barley grains in water, then straining to remove the grains and adding sugar.",
     "github": "connectnitish",
     "ingredients": [
-        "½ cup pearl barley",
-        "2 litres water",
-        "6 stalks of pandan leaves - tied into a knot",
-        "½ cup candied wintermelon",
-        "Rock sugar to taste"
+        {
+            "quantity": "½",
+            "measure": "cup",
+            "ingredient": "pearl barley"
+        },
+        {
+            "quantity": "2",
+            "measure": "litres",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "6",
+            "measure": "stalks",
+            "ingredient": "of pandan leaves - tied into a knot"
+        },
+        {
+            "quantity": "½",
+            "measure": "cup",
+            "ingredient": "candied wintermelon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Rock sugar to taste"
+        }
     ],
     "directions": [
         "Wash and drain the pearl barley until the water is much clearer.",
