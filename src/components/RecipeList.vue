@@ -1,25 +1,5 @@
 <template>
   <div id="recipe-list" class="container">
-    <b-container>
-      <b-row>
-        <b-col>
-        <b-pagination
-          @change="onPageChanged"
-          :total-rows="rows"
-          :per-page="selected"
-          v-model="currentPage"
-        ></b-pagination>
-        </b-col>
-        <b-col>
-        <b-form-select 
-        v-model="selected" 
-        :options="options" 
-        v-on:change="getSelectedItem" 
-        size="sm">
-        </b-form-select>
-        </b-col>
-      </b-row>
-    </b-container>
     <b-card-group deck>
       <div
         v-for="(o, i) in paginatedItems"
@@ -41,6 +21,26 @@
         </b-card>
       </div>
     </b-card-group>
+
+    <b-container>
+      <b-row>
+        <b-col cols="12" md="10">
+          <b-pagination
+            @change="onPageChanged"
+            :total-rows="rows"
+            :per-page="selected"
+            v-model="currentPage"
+          ></b-pagination>
+        </b-col>
+        <b-col cols="12" md="2">
+          <b-form-select
+            v-model="selected"
+            :options="options"
+            v-on:change="getSelectedItem">
+          </b-form-select>
+        </b-col>
+      </b-row>
+    </b-container>
   </div>
 </template>
 
@@ -54,7 +54,7 @@ export default {
       items: [],
       paginatedItems: [],
       currentPage: 1,
-      perPage: 6,
+      perPage: 10,
       selected: 10,
       options: [
         { value: 10, text: '10'},
@@ -89,7 +89,6 @@ export default {
       this.paginate(this.perPage, page - 1);
     },
     getSelectedItem(event) {
-      console.log(event) //dropdown num
       this.perPage = event;
       this.paginate(this.perPage, 0);
     }
