@@ -12,7 +12,7 @@
 				>Ingredients</b-form-checkbox>
 				<b-form-checkbox
 					v-b-tooltip.hover
-					title="You can search for multiple ketwords by seperating them with a space"
+					title="You can search for multiple keywords by seperating them with a space"
 					value="keywords"
 				>Keywords</b-form-checkbox>
 			</b-form-checkbox-group>
@@ -59,7 +59,7 @@ export default {
           ).length == searchParts.length
 		: false)
 		||
-		// If enabled, find the drinks which ingredients contain all of the searched ingredients
+		// If enabled, find the drinks which ingredients contain all of the searched keywords
 		(this.searchParameters.includes("keywords") ?
 			// ensure drink has keywords
 		  (recipe.keywords != undefined) ? recipe.keywords.filter(keyword =>
