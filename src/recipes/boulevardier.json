@@ -1,0 +1,21 @@
+{
+    "name": "Boulevardier",
+    "description": "The Negroni but with bourbon! This strange creation is surprisingly brilliant and a wonderful choice if you’re interested in trying a new take on a traditional favorite.",
+    "github": "Chrispy404",
+    "ingredients": [
+        "1 oz Bourbon",
+        "1 oz Campari",
+        "1 oz Sweet Vermouth",
+        "Orange peel"
+    ],
+    "directions": [
+        "Combine the spirits into a mixing glass with ice. Stir until chilled. Strain into a coup glass without ice.",
+        "Garnish with an orange peel."
+    ],
+	"image": "boulevardier.jpg",
+	"keywords": [
+		"negroni",
+		"italian",
+		"bourban"
+	]
+}
