@@ -109,4 +109,8 @@ export default {
   text-overflow: ellipsis;
   min-height: 6rem;
 }
+.card-img-top {
+  height: 212px;
+  object-fit: cover;
+}
 </style>
