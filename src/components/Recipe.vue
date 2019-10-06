@@ -57,11 +57,12 @@
         <a :href="drink.source">{{drink.source}}</a>
       </span>
     </div>
-
+    <div class="similarDrinks">
     <h4>Similar drinks</h4>
-    <div class="d-flex flex-row">
-      <div v-for="(similarRecipe, i) in similarRecipes" v-bind:key="i" class="col-3 pr-0 pl-0">
-        <RecipeTile v-bind:id="similarRecipe.id"/>
+      <div class="d-flex flex-row">
+        <div v-for="(similarRecipe, i) in similarRecipes" v-bind:key="i" class="col-3 pr-0 pl-0">
+          <RecipeTile v-bind:id="similarRecipe.id"/>
+        </div>
       </div>
     </div>
   </div>

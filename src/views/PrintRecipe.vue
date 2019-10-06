@@ -5,23 +5,21 @@
 </template>
 
 <script>
-import Recipe from "@/components/Recipe.vue";
+import Recipe from '@/components/Recipe.vue';
+
 export default {
-  name: "recipe",
+  name: 'recipe',
   components: {
-    Recipe
-  }
+    Recipe,
+  },
 };
 </script>
 
 <style>
-.container.mb-4.mb-4 {
-  display: none;
-}
-footer.container {
-  display: none;
-}
-.print-button {
+.container.mb-4.mb-4,
+footer.container,
+.print-button,
+.similarDrinks {
   display: none;
 }
 </style>
