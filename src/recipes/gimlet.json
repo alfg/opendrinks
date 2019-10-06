@@ -30,5 +30,10 @@
         "Strain the cocktail into a chilled martini or cocktail glass.",
         "Garnish with the lime wedge/wheel."
     ],
-    "image": "gimlet.jpg"
+    "image": "gimlet.jpg",
+    "keywords":[
+        "alcoholic",
+        "vegan",
+        "gin"
+    ] 
 }
