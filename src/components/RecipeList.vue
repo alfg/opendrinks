@@ -64,6 +64,11 @@ export default {
       ],
     };
   },
+  watch: {
+    items() {
+      this.pageNumber = 0;
+    },
+  },
   mounted() {
     window.document.title = this.title;
   },
@@ -80,11 +85,10 @@ export default {
   },
   methods: {
     onPageChanged(page) {
-      this.paginate(this.perPage, page - 1);
+      this.pageNumber = page - 1;
     },
     getSelectedItem(event) {
       this.perPage = event;
-      this.paginate(this.perPage, 0);
     },
   },
 };
