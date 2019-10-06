@@ -20,7 +20,7 @@
         v-bind:key="i"
         variant="secondary"
         :style="badgeStyle"
-        :href="'/keyword/' + o"
+        :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
       >{{ o }}</b-badge>
     </div>
 
