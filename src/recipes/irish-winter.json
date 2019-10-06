@@ -8,21 +8,24 @@
             "measure": "ounces",
             "ingredient": "Irish Whiskey"
         },
+        
         {
             "quantity": "3/4",
             "measure": "ounces",
             "ingredient": "coffee liqueur"
         },
-{
+
+        {
             "quantity": "3/4",
             "measure": "ounces",
             "ingredient": "Irish cream liqueur"
         },
+
         {
             "quantity": "4",
             "measure": "ounces",
             "ingredient": "coffee"
-        },
+        }
         
     
     ],
