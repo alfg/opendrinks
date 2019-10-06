@@ -27,7 +27,7 @@
             "quantity": "1",
             "measure": "sprig",
             "ingredient": "mint leaf"
-        },
+        }
     ],
     "directions": [
         "Place mint leaves and Mint Simple Syrup in a chilled julep cup. Gently press leaves against cup with back of spoon to release flavors. ",
@@ -38,6 +38,6 @@
     "source": "https://www.myrecipes.com/recipe/classic-mint-julep-1",
     "keywords": [
         "mint",
-        "julep",
+        "julep"
     ]
 }
