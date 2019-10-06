@@ -20,6 +20,7 @@
         v-bind:key="i"
         variant="secondary"
         :style="badgeStyle"
+        :href="'/keyword/' + o"
       >{{ o }}</b-badge>
     </div>
 
