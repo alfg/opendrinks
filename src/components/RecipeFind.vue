@@ -1,6 +1,6 @@
 <template>
-  <div id="recipe-find">
-    <b-form-input @keydown.enter="onEnter" @input="onInput"></b-form-input>
+	<div id="recipe-find">
+		<b-form-input @keydown.enter="onEnter" v-model.trim="search"></b-form-input>
 
     <b-form-group class="mt-2" label="Filter by:">
       <b-form-radio-group
@@ -92,10 +92,7 @@ export default {
         name: 'recipe',
         params: { id: this.filterResults[0].filename },
       });
-    },
-    onInput(evt) {
-      this.search = evt;
-    },
-  },
+    }
+  }
 };
 </script>
