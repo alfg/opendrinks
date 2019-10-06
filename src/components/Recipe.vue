@@ -1,6 +1,28 @@
 <template>
   <div id="recipe">
+
+    <div class="print-button">
+      <b-button
+        variant="outline-primary"
+        :href="`/recipe/${this.name}/print`"
+        target="_blank"
+        class="float-right"
+      >
+        Print
+      </b-button>
+    </div>
+
     <h1>{{ drink.name }}</h1>
+
+    <div v-if="drink.keywords" class="mb-2">
+      <b-badge
+        v-for="(o, i) in drink.keywords"
+        v-bind:key="i"
+        variant="secondary"
+        :style="badgeStyle"
+      >{{ o }}</b-badge>
+    </div>
+
     <p>{{ drink.description }}</p>
 
     <p class="text-muted">
@@ -25,31 +47,15 @@
     </ul>
 
     <h4>Directions</h4>
-    <ol>
+    <ol class="mb-4">
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
-
-    <div v-if="drink.keywords">
-      <b-badge
-        v-for="(o, i) in drink.keywords"
-        v-bind:key="i"
-        variant="secondary"
-        :style="badgeStyle"
-      >{{ o }}</b-badge>
-    </div>
 
     <div class="mt-4" v-if="drink.source">
       <span>
         View full recipe at:
         <a :href="drink.source">{{drink.source}}</a>
       </span>
-    </div>
-
-    <div class="print-button mt-4 mb-4">
-      <b-button
-        variant="outline-primary"
-        :href="`/recipe/${this.name}/print`"
-        target="_blank">Print</b-button>
     </div>
 
     <h4>Similar drinks</h4>
