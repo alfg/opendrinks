@@ -20,11 +20,7 @@
             "measure": "ounces",
             "ingredient": "splash orange juice"
         }
-
-        
-        
-    
-    ],
+  ],
     "directions": [
         "Gather the ingredients.",
         "Build the whiskey, schnapps, and juice in a collins glass filled with ice.​",
@@ -36,6 +32,6 @@
         "gold",
         "irish",
         "wishkey",
-        "Cocktail"
+        "cocktail"
     ]
 }
