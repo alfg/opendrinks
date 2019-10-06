@@ -3,23 +3,22 @@
     <b-form-input @keydown.enter="onEnter" @input="onInput"></b-form-input>
 
     <b-form-group class="mt-2" label="Filter by:">
-      <b-form-checkbox-group
-        id="checkbox-group-2"
+      <b-form-radio-group
         v-model="searchParameters"
         name="searchParameters"
       >
-        <b-form-checkbox value="name">Name</b-form-checkbox>
-        <b-form-checkbox
+        <b-form-radio value="name">Name</b-form-radio>
+        <b-form-radio
           v-b-tooltip.hover
           title="You can search for multiple ingredients by seperating them with a space"
           value="ingredients"
-        >Ingredients</b-form-checkbox>
-        <b-form-checkbox
+        >Ingredients</b-form-radio>
+        <b-form-radio
           v-b-tooltip.hover
           title="You can search for multiple keywords by seperating them with a space"
           value="keywords"
-        >Keywords</b-form-checkbox>
-      </b-form-checkbox-group>
+        >Keywords</b-form-radio>
+      </b-form-radio-group>
     </b-form-group>
 
     <b-list-group class="mt-4" v-if="search.length > 0">
