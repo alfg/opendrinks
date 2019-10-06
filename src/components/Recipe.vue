@@ -109,6 +109,9 @@ export default {
     getGithubUrl(name) {
       return `https://github.com/${name}`;
     },
+    urlEncode(item) {
+      return window.encodeURI(item);
+    },
   },
 };
 </script>

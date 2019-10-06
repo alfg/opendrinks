@@ -25,6 +25,12 @@ function getRecipes() {
   return items;
 }
 
+function getRecipesByKeywords(keyword) {
+  return getRecipes()
+    .filter(recipe => recipe.keywords)
+    .filter(recipe => recipe.keywords.some(recipeKey => recipeKey.toLowerCase() === keyword));
+}
+
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
   const item = require(`@/recipes/${r}`);
@@ -74,8 +80,25 @@ async function getSimilarRecipe(id) {
   return similarities;
 }
 
+function getAllKeywords() {
+  const keywords = new Set();
+  const drinks = getRecipes();
+
+  drinks.forEach((drink) => {
+    if (drink.keywords) {
+      drink.keywords.forEach((keyword) => {
+        keywords.add(keyword.toLowerCase());
+      });
+    }
+  });
+
+  return Array.from(keywords);
+}
+
 export default {
+  getAllKeywords,
   getRecipes,
+  getRecipesByKeywords,
   getRecipe,
   getRandom,
   getSimilarRecipe,

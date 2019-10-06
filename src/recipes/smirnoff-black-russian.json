@@ -24,5 +24,9 @@
         "Pour Smirnoff No. 21 Vodka and Baileys Coffee Irish Cream Liqueur into the glass.",
         "Enjoy your drink."
     ],
-    "image": "smirnoff-black-russian.jpg"
+    "image": "smirnoff-black-russian.jpg",
+    "keywords": [
+        "coffee",
+        "vodka"
+    ]
 }
