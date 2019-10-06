@@ -15,6 +15,7 @@
       <b-nav tabs>
         <b-nav-item to="/">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
+        <b-nav-item to="/keyword">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
       </b-nav>
     </div>

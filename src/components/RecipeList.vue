@@ -45,13 +45,14 @@
 </template>
 
 <script>
-import recipes from '../recipes';
-
 export default {
   name: 'RecipeList',
+  props: {
+    windowTitle: String,
+    items: Array,
+  },
   data() {
     return {
-      items: [],
       paginatedItems: [],
       currentPage: 1,
       perPage: 10,
@@ -64,8 +65,7 @@ export default {
     };
   },
   mounted() {
-    this.getDrinks();
-    window.document.title = 'Open Drinks - Explore';
+    window.document.title = this.windowTitle;
     this.paginate(this.perPage, 0);
   },
   computed: {
@@ -74,10 +74,6 @@ export default {
     },
   },
   methods: {
-    getDrinks() {
-      const drinks = recipes.getRecipes();
-      this.items = drinks;
-    },
     paginate(pageSize, pageNumber) {
       const itemsToParse = this.items;
       this.paginatedItems = itemsToParse.slice(
