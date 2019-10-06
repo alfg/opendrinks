@@ -2,7 +2,7 @@
   <div class="explore container">
     Filter by keyword
     <b-form-select v-model="selectedKeyword" :options="keywordFilter"></b-form-select>
-    <RecipeList title="Open Drinks - Explore" :items="drinks"/>
+    <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
 </template>
 
@@ -10,7 +10,8 @@
 import RecipeList from '@/components/RecipeList.vue';
 import recipes from '../recipes';
 
-const KEYWORD_COUNT_LIMIT = 3;
+const KEYWORD_COUNT_LIMIT = 5;
+const ALL_RECIPES_KEYWORD = 'All recipes';
 
 export default {
   name: 'explore',
@@ -21,7 +22,7 @@ export default {
     const drinks = recipes.getRecipes();
     return {
       drinks,
-      selectedKeyword: null,
+      selectedKeyword: ALL_RECIPES_KEYWORD,
       keywordFilter: [],
     };
   },
@@ -30,8 +31,10 @@ export default {
     this.keywordFilter = keywords;
   },
   computed: {
-    filterByKeyword() {
-      return null;
+    filterResults() {
+      if (this.selectedKeyword === ALL_RECIPES_KEYWORD) return this.drinks;
+      return this.drinks
+        .filter(drink => drink.keywords && drink.keywords.includes(this.selectedKeyword));
     },
   },
   methods: {
@@ -40,6 +43,7 @@ export default {
         .filter(keyword => keyword.count >= KEYWORD_COUNT_LIMIT)
         .sort((keywordA, keywordB) => keywordA.count < keywordB.count)
         .map(keyword => keyword.keyword);
+      keywords.unshift(ALL_RECIPES_KEYWORD);
       return keywords;
     },
   },

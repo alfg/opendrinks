@@ -53,10 +53,10 @@ export default {
   },
   data() {
     return {
-      paginatedItems: [],
       currentPage: 1,
       perPage: 10,
       selected: 10,
+      pageNumber: 0,
       options: [
         { value: 10, text: '10' },
         { value: 25, text: '25' },
@@ -66,21 +66,19 @@ export default {
   },
   mounted() {
     window.document.title = this.title;
-    this.paginate(this.perPage, 0);
   },
   computed: {
     rows() {
       return this.items.length;
     },
-  },
-  methods: {
-    paginate(pageSize, pageNumber) {
-      const itemsToParse = this.items;
-      this.paginatedItems = itemsToParse.slice(
-        pageNumber * pageSize,
-        (pageNumber + 1) * pageSize,
+    paginatedItems() {
+      return this.items.slice(
+        this.pageNumber * this.perPage,
+        (this.pageNumber + 1) * this.perPage,
       );
     },
+  },
+  methods: {
     onPageChanged(page) {
       this.paginate(this.perPage, page - 1);
     },
