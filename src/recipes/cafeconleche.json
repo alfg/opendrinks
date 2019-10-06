@@ -17,16 +17,16 @@
             "quantity": "1-3",
             "measure": "teaspoons",
             "ingredient": "sugar, optional and to taste"
-        },
+        }
     ],
     "directions": [
         "Prepare espresso shot, Cubans commonly use a Moka stovetop pot.",
         "Add your sugar to bottom of drink cup. Heat milk, either by slowly warming on the stove, microwaving, or steaming.",
         "Pour piping hot espresso over sugar and stir until dissolved. Then pour hot milk into the cup and combine."
     ],
-    "image": "<cafeconleche.jpg>",
+    "image": "cafeconleche.jpg",
     "keywords": [
         "coffee",
-        "breakfast",
+        "breakfast"
     ]
 }
