@@ -34,6 +34,7 @@ function getRecipesByKeywords(keyword) {
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
   const item = require(`@/recipes/${r}`);
+  item.filename = r;
   return item;
 }
 
@@ -56,6 +57,7 @@ async function getSimilarRecipe(id) {
     }
 
     similarities.push({
+      id: recipe,
       recipe: currName,
       tags: [],
     });
@@ -70,7 +72,6 @@ async function getSimilarRecipe(id) {
       currKeywords.forEach((keyword) => {
         if (keywords.includes(keyword)) {
           similarities[similarities.length - 1].tags.push(keyword);
-          console.log(similarities.length - 1);
         }
       });
     }
