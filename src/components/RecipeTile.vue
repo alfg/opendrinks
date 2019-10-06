@@ -4,9 +4,9 @@
     <div class="text">
       <a :href="'/recipe/' + drink.filename" class="d-flex align-items-center flex-column">
         <b>{{drink.name}}</b>
-        <div v-if="drink.keywords">
+        <div v-if="keywords">
           <b-badge
-            v-for="(o, i) in drink.keywords"
+            v-for="(o, i) in keywords"
             v-bind:key="i"
             variant="primary"
             :style="badgeStyle"
@@ -23,6 +23,8 @@
 <script>
 import recipes from '../recipes';
 
+const MAX_KEYWORDS = 3;
+
 export default {
   name: 'recipeTile',
   props: {
@@ -32,6 +34,16 @@ export default {
     return {
       drink: {},
     };
+  },
+  computed: {
+    keywords() {
+      let { keywords } = this.drink;
+      if (keywords.length > MAX_KEYWORDS) {
+        keywords = keywords.slice(0, 3);
+        keywords.push('...');
+      }
+      return keywords;
+    },
   },
   created() {
     const drink = recipes.getRecipe(this.id);
@@ -71,7 +83,7 @@ export default {
   color: #000;
   text-decoration: none;
   padding: 10px;
-  padding-top: 20%;
+  padding-top: 15%;
   text-align: center;
   display: inline-block;
   width: 100%;

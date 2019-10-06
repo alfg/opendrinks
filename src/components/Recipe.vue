@@ -61,7 +61,11 @@
     <div class="similarDrinks">
     <h4>Similar drinks</h4>
       <div class="d-flex flex-row">
-        <div v-for="(similarRecipe, i) in similarRecipes" v-bind:key="i" class="col-3 pr-0 pl-0">
+        <div
+          v-for="(similarRecipe, i) in similarRecipes"
+          v-bind:key="i"
+          class="col-3 pr-0 pl-0 mr-2"
+        >
           <RecipeTile v-bind:id="similarRecipe.id"/>
         </div>
       </div>
