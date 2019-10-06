@@ -28,6 +28,7 @@ function getRecipes() {
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
   const item = require(`@/recipes/${r}`);
+  item.filename = r;
   return item;
 }
 
