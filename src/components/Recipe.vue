@@ -35,6 +35,7 @@
         v-bind:key="i"
         variant="secondary"
         :style="badgeStyle"
+        :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
       >{{ o }}</b-badge>
     </div>
 
@@ -88,6 +89,9 @@ export default {
     },
     getGithubUrl(name) {
       return `https://github.com/${name}`;
+    },
+    urlEncode(item) {
+      return window.encodeURI(item);
     },
   },
 };
