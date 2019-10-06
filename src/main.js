@@ -11,7 +11,6 @@ Vue.config.productionTip = false;
 
 Vue.use(BoostrapVue);
 
-
 new Vue({
   router,
   render: h => h(App),
