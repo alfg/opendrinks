@@ -48,7 +48,7 @@
 export default {
   name: 'RecipeList',
   props: {
-    windowTitle: String,
+    title: String,
     items: Array,
   },
   data() {
@@ -65,7 +65,7 @@ export default {
     };
   },
   mounted() {
-    window.document.title = this.windowTitle;
+    window.document.title = this.title;
     this.paginate(this.perPage, 0);
   },
   computed: {

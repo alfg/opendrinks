@@ -29,5 +29,11 @@
         "Add tequila and then orange juice to the glass",
         "Top the drink with grenadine"
     ],
-    "image": "tequila-sunrise.jpg"
+    "image": "tequila-sunrise.jpg",
+    "keywords": [
+        "orange juice",
+        "tequila",
+        "grenadine",
+        "ice"
+    ]
 }
