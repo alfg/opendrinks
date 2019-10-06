@@ -1,0 +1,41 @@
+{
+    "name": "Irish Gold Whiskey Cocktail",
+    "description": "Irish whiskey with orange juice and peach schnapps, then tops it all off with ginger ale. The result is a fruity Irish whiskey cocktail that is super refreshing.",
+    "github": "divyshah-1712",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "Irish Whiskey"
+        },
+        
+        {
+            "quantity": "1/2",
+            "measure": "ounces",
+            "ingredient": "peach schnapps"
+        },
+
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "splash orange juice"
+        }
+
+        
+        
+    
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "Build the whiskey, schnapps, and juice in a collins glass filled with ice.​",
+        "Top with ginger ale. Garnish with a lime wheel.",
+        "Served and Enjoy"
+    ],
+    "image": "irish-gold.jpg",
+    "keywords": [
+        "gold",
+        "irish",
+        "wishkey",
+        "Cocktail"
+    ]
+}
