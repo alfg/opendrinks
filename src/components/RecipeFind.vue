@@ -4,8 +4,8 @@
 
     <b-form-group class="mt-2" label="Filter by:">
       <b-form-radio-group
-        v-model="searchParameters"
-        name="searchParameters"
+        v-model="selectedSearch"
+        name="selectedSearch"
       >
         <b-form-radio value="name">Name</b-form-radio>
         <b-form-radio
@@ -41,16 +41,16 @@ export default {
   data() {
     return {
       data: [],
-      searchParameters: ['name'],
+      selectedSearch: 'name',
       search: '',
     };
   },
   computed: {
     filterResults() {
       const searchParts = this.search.toLowerCase().split(' ');
-      const isNameEnabled = this.searchParameters.includes('name');
-      const isIngredientsEnabled = this.searchParameters.includes('ingredients');
-      const isKeywordsEnabled = this.searchParameters.includes('keywords');
+      const isNameEnabled = this.selectedSearch === 'name';
+      const isIngredientsEnabled = this.selectedSearch === 'ingredients';
+      const isKeywordsEnabled = this.selectedSearch === 'keywords';
 
       let filtered = [];
 
