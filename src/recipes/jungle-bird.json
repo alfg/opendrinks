@@ -3,11 +3,31 @@
     "description": "This classic Tiki drink was created in 1978 at the Aviary bar of the Kuala Lumpur Hilton.",
     "github": "caseydierking",
     "ingredients": [
-        "1 1/2 oz dark rum",
-        "3/4 oz Campari",
-        "1/2 oz Simple Syrup",
-        "1 1/2 oz Fresh Pineapple Juice",
-        "1/2 oz fresh lime juice"
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "dark rum"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Fresh Pineapple Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "fresh lime juice"
+        }
     ],
     "directions": [
         "Fill a mixing glass three-quarters with ice, and add all of the ingredients.",

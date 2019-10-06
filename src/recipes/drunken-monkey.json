@@ -3,14 +3,46 @@
     "description": "Drunken Monkey Cocktail - a vibrant fruity tiki drink just like we experienced in the Caribbean.",
     "github": "caseydierking",
     "ingredients": [
-        "6 ounces orange-pineapple juice blend",
-        "3 ounces coconut rum",
-        "1 ounce spiced rum",
-        "4-5 dashes bitters",
-        "Fresh ground nutmeg",
-        "Maraschino cherries in juices",
-        "Lime slices",
-        "Fresh Pineapple wedges"
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "orange-pineapple juice blend"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "coconut rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "spiced rum"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "dashes",
+            "ingredient": "bitters"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh ground netmeg"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Maraschino cherries in juices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime slices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh Pineapple wedges"
+        }
     ],
     "directions": [
         "Fill a cocktail shaker with ice and add the juice, coconut rum, spiced rum, and 4-5 shakes of bitters. Shake for 30 seconds.",
