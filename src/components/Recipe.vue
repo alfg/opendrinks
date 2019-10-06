@@ -2,7 +2,7 @@
   <div id="recipe">
     <h1>{{ drink.name }}</h1>
     <p>{{ drink.description }}</p>
-
+    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited"></FavoriteStar>
     <p class="text-muted">
       Contributed by:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
@@ -20,8 +20,8 @@
     <ul>
       <li
         v-for="(o, i) in drink.ingredients"
-        v-bind:key="i">{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
-      </li>
+        v-bind:key="i"
+      >{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}</li>
     </ul>
 
     <h4>Directions</h4>
@@ -47,40 +47,47 @@
     </div>
 
     <div class="print-button mt-4">
-      <b-button
-        variant="outline-primary"
-        :href="`/recipe/${this.name}/print`"
-        target="_blank">Print</b-button>
+      <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank">Print</b-button>
     </div>
   </div>
 </template>
 
 <script>
-import recipes from '../recipes';
+import recipes from "../recipes";
+import FavoriteStar from "../components/FavoriteStar";
 
 export default {
-  name: 'Recipe',
+  name: "Recipe",
   props: {
-    name: String,
+    name: String
+  },
+  components: {
+    FavoriteStar
   },
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
-    },
+    }
   },
   data() {
     return {
       json: {},
       drink: {},
       badgeStyle: {
-        'margin-right': '0.2vw',
+        "margin-right": "0.2vw"
       },
+      isFavorited: false,
+      favorites: []
     };
   },
   created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
+    this.favorites = JSON.parse(window.localStorage.getItem("favorites")) || [];
+    if (this.favorites.indexOf(this.drink.name) !== -1) {
+      this.isFavorited = true;
+    }
   },
   methods: {
     getRecipe(name) {
@@ -93,7 +100,15 @@ export default {
     urlEncode(item) {
       return window.encodeURI(item);
     },
-  },
+    favorited() {
+      const index = this.favorites.indexOf(this.drink.name);
+      index !== -1
+        ? this.favorites.splice(index, 1)
+        : this.favorites.push(this.drink.name);
+      this.isFavorited ? (this.isFavorited = false) : (this.isFavorited = true);
+      window.localStorage.setItem("favorites", JSON.stringify(this.favorites));
+    }
+  }
 };
 </script>
 
