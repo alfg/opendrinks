@@ -1,0 +1,46 @@
+{
+    "name": "London Fog",
+    "description": "A tea based latte with vanilla and honey",
+    "github": "Just-Sieb",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bag",
+            "ingredient": "Earl Grey Tea"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Boiling Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Steamed Milk"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "Vanilla Extract"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "Honey"
+        }
+    ],
+    "directions": [
+        "Steep the tea in the water for 5 minutes and dispose of bag once done.",
+        "Mix in the vanilla and honey.",
+        "Pour in the steamed milk.",
+        "Enjoy!"
+
+    ],
+    "image": "london-fog.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "tea",
+        "hot",
+        "latte"
+    ]
+}
