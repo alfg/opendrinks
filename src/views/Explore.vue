@@ -1,7 +1,9 @@
 <template>
   <div class="explore container">
-    Filter by keyword
-    <b-form-select v-model="selectedKeyword" :options="keywordFilter"></b-form-select>
+    <div class="d-flex flex-row align-items-center mb-2">
+      <span class="text-nowrap mr-2">Filter by keyword</span>
+      <b-form-select v-model="selectedKeyword" :options="keywordFilter"></b-form-select>
+    </div>
     <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
 </template>
