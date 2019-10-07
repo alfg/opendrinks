@@ -1,0 +1,45 @@
+{
+    "name": "Tinto de Verano",
+    "description": "It's the perfect refreshing drink for summer. Tinto de Verano means 'summer red wine.' Essentially, it’s a mixture of Spanish red wine with a fruity soft drink.",
+    "github": "josej30",
+    "ingredients": [
+        {
+            "quantity": "750",
+            "measure": "ml",
+            "ingredient": "Spanish red wine"
+        },
+        {
+            "quantity": "750",
+            "measure": "ml",
+            "ingredient": "Lemon-flavored soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Orange"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "Sweet vermouth (optional)"
+        }
+    ],
+    "directions": [
+        "Uncork the wine and pour it into a large pitcher",
+        "Add the soda and stir well.",
+        "Add the lemon and orange slices, as well as the vermouth if using. Stir to combine.",
+        "Serve over ice"
+    ],
+    "image": "tinto-de-verano.jpg",
+    "source": "https://spanishsabores.com",
+    "keywords": [
+        "summer",
+        "wine",
+        "alcohol"
+    ]
+}
