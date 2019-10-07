@@ -60,21 +60,33 @@ export default {
       }
 
       if (isIngredientsEnabled) {
-        filtered = this.data
-          .filter(recipe => recipe.ingredients
-            .some(i => searchParts.includes(i.ingredient.toLowerCase())));
+        filtered = this.data.filter(recipe =>
+          searchParts.every(s =>
+            recipe.ingredients.some(i =>
+              i.ingredient.toLowerCase().includes(s.toLowerCase())
+            )
+          )
+        );
       }
 
       if (isKeywordsEnabled) {
-        filtered = this.data
-          .filter(recipe => recipe.keywords && recipe.keywords
-            .some(i => searchParts.includes(i.toLowerCase())));
+        filtered = this.data.filter(recipe =>
+          searchParts.every(
+            s =>
+              recipe.keywords &&
+              recipe.keywords.some(k =>
+                k.toLowerCase().includes(s.toLowerCase())
+              )
+          )
+        );
       }
 
       // Sort the results.
       filtered = filtered.sort((recipeA, recipeB) => {
         // Name-matches to the top if the user wanted to find a drink based on the name
         const hasName = recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1;
+        const alphabetical =
+          recipeB.name.toLowerCase() > recipeB.name.toLowerCase() ? -1 : 1;
         return !isNameEnabled ? 0 : hasName;
       });
 
