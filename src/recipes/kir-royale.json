@@ -25,5 +25,10 @@
         "Garnish with fresh berries.",
         "Serve immediately."
     ],
-    "image": "kir-royale.jpg"
+    "image": "kir-royale.jpg",
+    "keywords": [
+        "champagne",
+        "berries",
+        "alcoholic"
+    ]
 }
