@@ -64,15 +64,13 @@
     </div>
     <div class="similarDrinks">
     <h4>Similar drinks</h4>
-      <div class="d-flex flex-row">
-        <div
-          v-for="(similarRecipe, i) in similarRecipes"
-          v-bind:key="i"
-          class="col-3 pr-0 pl-0 mr-2"
-        >
-          <RecipeTile v-bind:id="similarRecipe.id"/>
-        </div>
-      </div>
+      <b-card-group deck>
+          <RecipeTile
+            v-for="(similarRecipe, i) in similarRecipes"
+            v-bind:key="i"
+            v-bind:id="similarRecipe.id"
+          />
+      </b-card-group>
 
     <div class="print-button mt-4">
       <b-button
