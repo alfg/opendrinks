@@ -1,18 +1,38 @@
 {
-  "name": "El Diablo",
-  "description": "A popular tequila cocktail with the cassis melding perfectly with the ginger and the agave flavour of the tequila.",
-  "github": "jcolfej",
-  "ingredients": [
-    "37 1/2 ml Tequila",
-    "12 1/2 ml Crème de Cassis",
-    "12 1/2 ml Lime Juice",
-    "Ginger Beer"
-  ],
-  "directions": [
-    "Pour the tequila, cassis, and lime juice into a cocktail shaker filled with ice.",
-    "Shake well.",
-    "Strain into a Collins glass filled with ice.",
-    "Top with ginger beer."
-  ],
-  "image": "el-diablo.jpg"
+    "name": "El Diablo",
+    "description": "A popular tequila cocktail with the cassis melding perfectly with the ginger and the agave flavour of the tequila.",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "37 1/2",
+            "measure": "ml",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "12 1/2",
+            "measure": "ml",
+            "ingredient": "Crème de Cassis"
+        },
+        {
+            "quantity": "12 1/2",
+            "measure": "ml",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ginger Beer"
+        }
+    ],
+    "directions": [
+        "Pour the tequila, cassis, and lime juice into a cocktail shaker filled with ice.",
+        "Shake well.",
+        "Strain into a Collins glass filled with ice.",
+        "Top with ginger beer."
+    ],
+    "image": "el-diablo.jpg",
+    "keywords":[
+        "alcoholic",
+        "cocktail"    
+    ]
 }

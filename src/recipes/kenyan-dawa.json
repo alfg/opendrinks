@@ -3,11 +3,31 @@
     "description": "Dawa which means medicine in Swahili is used to cure absolutely everything. It is best enjoyed as a sundowner drink",
     "github": "orama254",
     "ingredients": [
-        "2 oz vodka (Smirnoff Red preferred)",
-        "1 tbsp honey",
-        "1 tbsp tsp brown sugar 1 lime, quartered then cut into chunks, plus lime wheel garnish Ice",
-        "1 lime, cut into chunks, plus lime wheel garnish",
-        "Crushed ice"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "vodka (Smirnoff Red preferred)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "tsp brown sugar 1 lime, quartered then cut into chunks, plus lime wheel garnish Ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime, cut into chunks, plus"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Crushed ice"
+        }
     ],
     "directions": [
         "Into a rocks glass place lime chunks, honey and sugar.",

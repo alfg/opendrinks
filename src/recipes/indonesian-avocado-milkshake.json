@@ -3,11 +3,31 @@
     "description": "a yummy and healthy milkshake drink made from avocado blended with sweet condensed milk and chocolate syrup",
     "github": "cendekia",
     "ingredients": [
-        "1 ripe Hass avocado",
-        "2 1/2 cups of whole milk",
-        "1 tablespoon agave",
-        "1/2 tablespoon lime juice",
-        "Chocolate syrup"
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "ripe Hass avocado"
+        },
+        {
+            "quantity": "2 1/2",
+            "measure": "cups",
+            "ingredient": "of whole milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "agave"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Chocolate syrup"
+        }
     ],
     "directions": [
         "Add the avocado flesh, the milk, the agave and the lime juice to a blender and blend until smooth and creamy.",
@@ -15,4 +35,4 @@
         "Pour the shake into the glasses and serve."
     ],
     "image": "indonesian-avocado-milkshake.jpg"
-} 
+}

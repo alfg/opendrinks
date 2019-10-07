@@ -3,11 +3,31 @@
     "description": "Trending Boba Tea",
     "github": "cendekia",
     "ingredients": [
-        "1 cups  water (240 ml)",
-        "3 black tea bags",
-        "25 gram black tapioca pearls",
-        "220 gram brown sugar",
-        "1 cup  hot water (120 ml)"
+        {
+            "quantity": "240",
+            "measure": "ml",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "black tea bags"
+        },
+        {
+            "quantity": "25",
+            "measure": "gram",
+            "ingredient": "black tapioca pearls"
+        },
+        {
+            "quantity": "220",
+            "measure": "gram",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "hot water"
+        }
     ],
     "directions": [
         "In a medium pot over high heat, combine the water and tea bags. Bring to a boil, then remove the pan from the heat and let the tea cool to room temperature.",
@@ -21,6 +41,8 @@
     ],
     "image": "boba-tea.jpg",
     "keywords": [
-    "tea"
-  ]
+        "tea",
+        "mocktail",
+        "non-alcoholic"
+    ]
 }

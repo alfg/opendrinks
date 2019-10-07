@@ -3,16 +3,56 @@
     "description": "The Bloody Mary is a vodka-soaked nutritional breakfast and hangover cure all in one",
     "github": "hilsmann",
     "ingredients": [
-        "1 Lemon wedge",
-        "1 Lime wedge",
-        "2 oz Vodka",
-        "4 oz Tomato juice",
-        "2 dashes Tabasco sauce",
-        "2 tsp Prepared horseradish",
-        "2 dashes Worcestershire sauce",
-        "1 pinch Celery salt",
-        "1 pinch Ground black pepper",
-        "1 pinch smoked paprika"
+        {
+            "quantity": "1",
+            "measure": "Lemon",
+            "ingredient": "wedge"
+        },
+        {
+            "quantity": "1",
+            "measure": "Lime",
+            "ingredient": "wedge"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Tomato juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Tabasco sauce"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Prepared horseradish"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Worcestershire sauce"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Celery salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Ground black pepper"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "smoked paprika"
+        }
     ],
     "directions": [
         "Pour some celery salt onto a small plate.",
@@ -24,5 +64,13 @@
         "Strain into the prepared glass.",
         "Garnish with a parsley sprig, 2 speared green olives, and a lime wedge and a celery stalk (optional)."
     ],
-    "image": "bloody-mary.jpg"
+    "image": "bloody-mary.jpg",
+    "keywords": [
+        "vodka",
+        "tabasco",
+        "lemon",
+        "tomato juice",
+        "worcestershire sauce",
+        "alcoholic"
+    ]
 }

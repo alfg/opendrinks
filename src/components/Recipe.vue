@@ -1,6 +1,29 @@
 <template>
   <div id="recipe">
+
+    <div class="print-button">
+      <b-button
+        variant="outline-primary"
+        :href="`/recipe/${this.name}/print`"
+        target="_blank"
+        class="float-right"
+      >
+        Print
+      </b-button>
+    </div>
+
     <h1>{{ drink.name }}</h1>
+
+    <div v-if="drink.keywords" class="mb-2">
+      <b-badge
+        v-for="(o, i) in drink.keywords"
+        v-bind:key="i"
+        variant="secondary"
+        :style="badgeStyle"
+        :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+      >{{ o }}</b-badge>
+    </div>
+
     <p>{{ drink.description }}</p>
 
     <p class="text-muted">
@@ -18,35 +41,48 @@
 
     <h4>Ingredients</h4>
     <ul>
-      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">{{ o }}</li>
+      <li
+        v-for="(o, i) in drink.ingredients"
+        v-bind:key="i">{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+      </li>
     </ul>
 
     <h4>Directions</h4>
-    <ol>
+    <ol class="mb-4">
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
-    <div v-if="drink.keywords">
-      <b-badge
-        v-for="(o, i) in drink.keywords"
-        v-bind:key="i"
-        variant="secondary"
-        :style="badgeStyle"
-      >{{ o }}</b-badge>
-    </div>
-    <div v-if="drink.source">
+
+    <div class="mt-4" v-if="drink.source">
       <span>
         View full recipe at:
         <a :href="drink.source">{{drink.source}}</a>
       </span>
     </div>
+    <div class="similarDrinks">
+    <h4>Similar drinks</h4>
+      <div class="d-flex flex-row">
+        <div
+          v-for="(similarRecipe, i) in similarRecipes"
+          v-bind:key="i"
+          class="col-3 pr-0 pl-0 mr-2"
+        >
+          <RecipeTile v-bind:id="similarRecipe.id"/>
+        </div>
+      </div>
+    </div>
   </div>
+
 </template>
 
 <script>
 import recipes from '../recipes';
+import RecipeTile from '@/components/RecipeTile.vue';
 
 export default {
   name: 'Recipe',
+  components: {
+    RecipeTile,
+  },
   props: {
     name: String,
   },
@@ -60,14 +96,16 @@ export default {
     return {
       json: {},
       drink: {},
+      similarRecipes: {},
       badgeStyle: {
         'margin-right': '0.2vw',
       },
     };
   },
-  created() {
+  async created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
+    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(0, 4);
   },
   methods: {
     getRecipe(name) {
@@ -77,6 +115,15 @@ export default {
     getGithubUrl(name) {
       return `https://github.com/${name}`;
     },
+    urlEncode(item) {
+      return window.encodeURI(item);
+    },
   },
 };
 </script>
+
+<style scoped>
+.print-button {
+  margin-top: 1em;
+}
+</style>

@@ -3,14 +3,37 @@
     "description": "One thing is certain, the Cosmopolitan is outdated, but just like the cocktail as a whole, it just needs a little help to get back on track!",
     "github": "joshuamart",
     "ingredients": [
-        "1.5 oz vodka",
-        "0.5 oz green lemon juice",
-        "0.5 oz triple sec (Curacao, Grand Marnier, Cointreau)",
-        "0.5 oz Cranberry juice "
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "green lemon juice"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "triple sec (Curacao, Grand Marnier, Cointreau)"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Cranberry juice"
+        }
     ],
     "directions": [
         "Combine all the ingredients in a shaker and mix vigorously for 15 seconds.",
         "If you wish to respect the original recipe of the cosmo, take an orange peel and press it over the glass and in front of a match to ignite the orange essential oils on the surface of the peel."
     ],
-    "image": "cosmopolitan.jpg"
-} 
+    "image": "cosmopolitan.jpg",
+    "keywords": [
+        "vodka",
+        "lemon juice",
+        "triple sec",
+        "cranberry juice",
+        "alcoholic"
+    ]
+}

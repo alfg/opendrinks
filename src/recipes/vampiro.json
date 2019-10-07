@@ -1,16 +1,48 @@
- {
+{
     "name": "Vampiro",
     "description": " This cocktail is called vampiro because the sangria has the color of blood and the taste of the drink bites the senses with that spicy and sweet taste of juices.",
     "github": "RDLL",
     "ingredients": [
-        " 2 ounces of Tequila (one ounce per glass)",
-        "1 cup ice cubes",
-        "1 cup tomato juice",
-        "1/2 teaspoon Sriracha sauce",
-        "1/2 cup orange juice",
-        "1/2 cup grapefruit juice",
-        "2 slices of fresh pink grapefruit or grapefruit",
-        "2 slices of natural orange"
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "of Tequila (one ounce per glass)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "tomato juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Sriracha sauce"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "grapefruit juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "of fresh pink grapefruit or grapefruit"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "of natural orange"
+        }
     ],
     "directions": [
         "Add the ice cubes and Don Julio tequila (one ounce) in each glass.",
@@ -19,5 +51,10 @@
         "Garnish with a slice of pink grapefruit and a slice of natural orange.",
         "Drink this vampire cocktail slowly and enjoy while you drip with fresh Mexican sauce and corn chips before the strong meal."
     ],
-    "image": "vampiro.jpg"
+    "image": "vampiro.jpg",
+    "keywords": [
+        "tequila",
+        "alcoholic",
+        "sangria"
+    ]
 }

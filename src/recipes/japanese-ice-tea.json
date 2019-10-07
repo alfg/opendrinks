@@ -3,18 +3,37 @@
     "description": "",
     "github": "cdterry87",
     "ingredients": [
-        "1/2 oz Vodka",
-        "1/2 oz Gin",
-        "1/2 oz Midori Melon Liquor",
-        "2 1/2 oz Sweet & Sour Mix",
-        "Sprite (or other lemon soda)"
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Midori Melon Liquor"
+        },
+        {
+            "quantity": "2 1/2",
+            "measure": "oz",
+            "ingredient": "Sweet & Sour Mix"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sprite (or other lemon soda)"
+        }
     ],
     "directions": [
         "Add vodka, gin, melon liquor, and sweet & sour mix into a glass filled with ice.",
         "Top with sprite or other lemon soda.",
         "(Optional) Garnish with a cherry, lime, lemon, or orange.",
         "Stir and enjoy."
-
     ],
     "image": "japanese-ice-tea.jpg"
 }

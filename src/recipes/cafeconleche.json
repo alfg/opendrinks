@@ -1,0 +1,32 @@
+{
+    "name": "Café Con Leche - Cuban Style",
+    "description": "The Cuban version of café au lait! A classic Miami breakfast beverage, usually dipped into with a slice of thick buttered toast.",
+    "github": "eprendes",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "shot (or 1-2 ounces)",
+            "ingredient": "espresso coffee - the Café Bustelo brand is common in Miami"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "hot or steamed milk"
+        },
+        {
+            "quantity": "1-3",
+            "measure": "teaspoons",
+            "ingredient": "sugar, optional and to taste"
+        }
+    ],
+    "directions": [
+        "Prepare espresso shot, Cubans commonly use a Moka stovetop pot.",
+        "Add your sugar to bottom of drink cup. Heat milk, either by slowly warming on the stove, microwaving, or steaming.",
+        "Pour piping hot espresso over sugar and stir until dissolved. Then pour hot milk into the cup and combine."
+    ],
+    "image": "cafeconleche.jpg",
+    "keywords": [
+        "coffee",
+        "breakfast"
+    ]
+}

@@ -27,5 +27,20 @@ export default new Router({
       name: 'search',
       component: () => import('./views/Search.vue'),
     },
+    {
+      path: '/recipe/:id/print',
+      name: 'printRecipe',
+      component: () => import('./views/PrintRecipe.vue'),
+    },
+    {
+      path: '/keyword',
+      name: 'keywordList',
+      component: () => import('./views/KeywordList.vue'),
+    },
+    {
+      path: '/keyword/:keyword',
+      name: 'keyword',
+      component: () => import('./views/Keyword.vue'),
+    },
   ],
 });

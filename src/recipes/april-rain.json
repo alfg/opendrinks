@@ -3,10 +3,26 @@
     "description": "Bright, refreshing, and just slightly dry, the April rain is a wonderful cocktail that's sure to put you in a spring mood.",
     "github": "Sai-Adarsh",
     "ingredients": [
-        "2 oz. vodka ",
-        "1/2 oz. lime juice, freshly squeezed",
-        "1/2 oz. dry vermouth",
-        "Garnish: lime peel"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "lime juice, freshly squeezed"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "dry vermouth"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: lime peel"
+        }
     ],
     "directions": [
         "Gather the ingredients.",
@@ -16,5 +32,8 @@
         "Garnish with a lime peel.",
         "Serve and enjoy!"
     ],
-    "image":"april-rain.jpg" 
+    "image": "april-rain.jpg",
+    "keywords": [
+        "alcoholic"
+    ]
 }
