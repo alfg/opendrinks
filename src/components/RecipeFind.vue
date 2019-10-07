@@ -1,6 +1,6 @@
 <template>
-	<div id="recipe-find">
-		<b-form-input @keydown.enter="onEnter" v-model.trim="search"></b-form-input>
+  <div id="recipe-find">
+    <b-form-input @keydown.enter="onEnter" v-model.trim="search"></b-form-input>
 
     <b-form-group class="mt-2" label="Filter by:">
       <b-form-radio-group
@@ -60,33 +60,24 @@ export default {
       }
 
       if (isIngredientsEnabled) {
-        filtered = this.data.filter(recipe =>
-          searchParts.every(s =>
-            recipe.ingredients.some(i =>
-              i.ingredient.toLowerCase().includes(s.toLowerCase())
-            )
-          )
-        );
+        filtered = this.data.filter(recipe => searchParts
+          .every(s => recipe.ingredients
+            .some(i => i.ingredient.toLowerCase().includes(s.toLowerCase()))));
       }
 
       if (isKeywordsEnabled) {
-        filtered = this.data.filter(recipe =>
-          searchParts.every(
-            s =>
-              recipe.keywords &&
-              recipe.keywords.some(k =>
-                k.toLowerCase().includes(s.toLowerCase())
-              )
-          )
-        );
+        filtered = this.data.filter(recipe => searchParts
+          .every(s => recipe.keywords && recipe.keywords.some(k => k
+            .toLowerCase().includes(s.toLowerCase()))));
       }
 
       // Sort the results.
       filtered = filtered.sort((recipeA, recipeB) => {
         // Name-matches to the top if the user wanted to find a drink based on the name
         const hasName = recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1;
-        const alphabetical =
-          recipeB.name.toLowerCase() > recipeB.name.toLowerCase() ? -1 : 1;
+
+        // Doesn't seem to be used. Disabling for now.
+        // const alphabetical = recipeB.name.toLowerCase() > recipeB.name.toLowerCase() ? -1 : 1;
         return !isNameEnabled ? 0 : hasName;
       });
 
@@ -104,7 +95,7 @@ export default {
         name: 'recipe',
         params: { id: this.filterResults[0].filename },
       });
-    }
-  }
+    },
+  },
 };
 </script>
