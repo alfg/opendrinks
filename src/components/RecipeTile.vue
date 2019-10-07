@@ -9,7 +9,6 @@
             v-for="(o, i) in keywords"
             v-bind:key="i"
             variant="primary"
-            :style="badgeStyle"
             class="mr-1"
           >
             {{ o }}
