@@ -16,13 +16,10 @@ export default {
 </script>
 
 <style>
-.container.mb-4.mb-4 {
-  display: none;
-}
-footer.container {
-  display: none;
-}
-.print-button {
+.container.mb-4.mb-4,
+footer.container,
+.print-button,
+.similarDrinks {
   display: none;
 }
 </style>
