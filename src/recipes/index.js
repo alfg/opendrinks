@@ -95,8 +95,29 @@ function getAllKeywords() {
   return Array.from(keywords);
 }
 
+function getAllKeywordsWithCount() {
+  const keywordMap = new Map();
+  const keywords = [];
+  const drinks = getRecipes();
+
+  drinks.forEach((drink) => {
+    if (drink.keywords) {
+      drink.keywords
+        .map(keyword => keyword.toLowerCase())
+        .forEach((keyword) => {
+          keywordMap.set(keyword, keywordMap.has(keyword) ? keywordMap.get(keyword) + 1 : 1);
+        });
+    }
+  });
+
+  keywordMap.forEach((value, key) => keywords.push({ keyword: key, count: value }));
+
+  return keywords;
+}
+
 export default {
   getAllKeywords,
+  getAllKeywordsWithCount,
   getRecipes,
   getRecipesByKeywords,
   getRecipe,
