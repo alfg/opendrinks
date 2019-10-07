@@ -5,12 +5,13 @@
 </template>
 
 <script>
-import Recipe from "@/components/Recipe.vue";
+import Recipe from '@/components/Recipe.vue';
+
 export default {
-  name: "recipe",
+  name: 'recipe',
   components: {
-    Recipe
-  }
+    Recipe,
+  },
 };
 </script>
 

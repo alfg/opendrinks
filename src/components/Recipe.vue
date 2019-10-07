@@ -2,7 +2,11 @@
   <div id="recipe">
     <h1>{{ drink.name }}</h1>
     <p>{{ drink.description }}</p>
-    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited"></FavoriteStar>
+    <FavoriteStar
+      class="float-right"
+      @favorite="favorited"
+      :isFavorited="isFavorited">
+    </FavoriteStar>
     <p class="text-muted">
       Contributed by:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
@@ -47,44 +51,48 @@
     </div>
 
     <div class="print-button mt-4">
-      <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank">Print</b-button>
+      <b-button
+        variant="outline-primary"
+        :href="`/recipe/${this.name}/print`"
+        target="_blank">Print
+      </b-button>
     </div>
   </div>
 </template>
 
 <script>
-import recipes from "../recipes";
-import FavoriteStar from "../components/FavoriteStar";
+import recipes from '../recipes';
+import FavoriteStar from './FavoriteStar.vue';
 
 export default {
-  name: "Recipe",
+  name: 'Recipe',
   props: {
-    name: String
+    name: String,
   },
   components: {
-    FavoriteStar
+    FavoriteStar,
   },
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
-    }
+    },
   },
   data() {
     return {
       json: {},
       drink: {},
       badgeStyle: {
-        "margin-right": "0.2vw"
+        'margin-right': '0.2vw',
       },
       isFavorited: false,
-      favorites: []
+      favorites: [],
     };
   },
   created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
-    this.favorites = JSON.parse(window.localStorage.getItem("favorites")) || [];
+    this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     if (this.favorites.indexOf(this.drink.name) !== -1) {
       this.isFavorited = true;
     }
@@ -102,13 +110,15 @@ export default {
     },
     favorited() {
       const index = this.favorites.indexOf(this.drink.name);
-      index !== -1
-        ? this.favorites.splice(index, 1)
-        : this.favorites.push(this.drink.name);
-      this.isFavorited ? (this.isFavorited = false) : (this.isFavorited = true);
-      window.localStorage.setItem("favorites", JSON.stringify(this.favorites));
-    }
-  }
+      if (index !== -1) {
+        this.favorites.splice(index, 1);
+      } else {
+        this.favorites.push(this.drink.name);
+      }
+      this.isFavorited = !this.isFavorited;
+      window.localStorage.setItem('favorites', JSON.stringify(this.favorites));
+    },
+  },
 };
 </script>
 
