@@ -30,8 +30,8 @@
         }
     ],
     "directions": [
-        "Blend all",
-        "Pour into cup",
+        "Blend all the ingredients.",
+        "Pour into into a cup.",
         "Add the lemon and the raisins."
     ],
     "image": "christmas-tonic.jpg",
@@ -43,4 +43,4 @@
         "lemon",
         "alcoholic"
 	]
-} 
+}
