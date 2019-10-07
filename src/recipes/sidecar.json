@@ -1,0 +1,45 @@
+{
+    "name": "Sidecar",
+    "description": "A perfect introduction to what a truly great sour drink can be.",
+    "github": "maenad",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cognac"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Cointreau orange liqueur"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "Garnish:",
+            "measure": "",
+            "ingredient": "lemon twist/orange twist"
+        },
+        {
+            "quantity": "Garnish:",
+            "measure": "",
+            "ingredient": "granulated sugar"
+        }
+    ],
+    "directions": [
+        "Pour the ingredients into a cocktail shaker with ice cubes.",
+        "Shake well.",
+        "Wet rim of the glass and cover it with sugar,",
+        "Pour drink into glass",
+        "Garnish with a lemon twist.",
+        "Serve"
+    ],
+    "image": "sidecar.jpg",
+    "source": "https://www.thespruceeats.com/classic-sidecar-cocktail-recipe-760601",
+    "keywords": [
+        "cocktail", "sour", "american", "bourbon", "cognac"
+    ]
+}
