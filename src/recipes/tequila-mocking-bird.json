@@ -1,0 +1,40 @@
+{
+    "name": "Tequila Mockingbird",
+    "description": "Tequila for the literarally astute.  Fruity, plesant and highbrow",
+    "github": "tomlandis",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "cubes",
+            "ingredient": "watermelon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Very cold, or frozen watermelon cubes in a small glass",
+        "Add tequila and then lime juice to the glass",
+        "When serving, make a literary reference if at all possible",
+        "other fruit can substitute for watermelon when needed or desired"
+    ],
+    "image": "tequila-mockingbird.jpg",
+    "keywords": [
+        "lime",
+        "tequila",
+        "watermelon",
+        "ice"
+    ]
+}
