@@ -12,7 +12,7 @@
         </h1>
       </div>
 
-      <b-nav tabs>
+      <b-nav tabs fill>
         <b-nav-item to="/">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
         <b-nav-item to="/keyword">Keywords</b-nav-item>
@@ -84,5 +84,11 @@ export default {
 .logo a {
   text-decoration: none;
   color: inherit;
+}
+
+@media (max-width: 576px) {
+  .nav {
+    font-size: 0.9rem;
+  }
 }
 </style>
