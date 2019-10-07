@@ -82,7 +82,7 @@
       </b-button>
     </div>
   </div>
-
+</div>
 </template>
 
 <script>
@@ -92,13 +92,11 @@ import FavoriteStar from './FavoriteStar.vue';
 
 export default {
   name: 'Recipe',
-  components: {
-    RecipeTile,
-  },
   props: {
     name: String,
   },
   components: {
+    RecipeTile,
     FavoriteStar,
   },
   watch: {
