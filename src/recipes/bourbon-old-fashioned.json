@@ -23,7 +23,7 @@
             "quantity": "1",
             "measure": "whole",
             "ingredient": "orange peel"
-        },
+        }
     ],
     "directions": [
         "Add the sugar, bitters and water into a rocks glass, and stir until sugar is nearly dissolved.",
@@ -34,6 +34,6 @@
     "source": "https://www.liquor.com/recipes/bourbon-old-fashioned/#gs.892391",
     "keywords": [
         "bourbon",
-        "bourbon old-fashioned",
+        "bourbon old-fashioned"
     ]
 }
