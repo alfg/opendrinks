@@ -10,24 +10,24 @@
         },
         {
             "quantity": "1",
-            "measure": "oz>",
+            "measure": "oz",
             "ingredient": "Rum"
         },
         {
             "quantity": "3",
             "measure": "oz",
             "ingredient": "Coke"
-        },
+        }
     ],
     "directions": [
         "Pour 1oz Rum into old-fashioned glass",
         "Add 3oz Coke",
         "Place lime wedge on edge of glass"
     ],
-    "image": "<rum-and-coke.jpg",
+    "image": "rum-and-coke.jpg",
     "keywords": [
-        "Rum and Coke",
-        "Coke",
-        "Rum"
+        "rum and coke",
+        "coke",
+        "rum"
     ]
 }
