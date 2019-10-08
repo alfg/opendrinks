@@ -57,6 +57,12 @@ npm run build
 npm run lint
 ```
 
+### Test
+
+```
+npm test
+```
+
 ### Docker
 
 ```
