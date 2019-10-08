@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import TestExample from '@/components/TestExample.vue'
+import Example from './Example.vue'
 
 // helper function that mounts and returns the rendered text 
 function getRenderedText (Component, propsData) {
@@ -9,17 +9,17 @@ function getRenderedText (Component, propsData) {
 }
   
 // What is being tested
-describe('TestExample.vue', () => {
+describe('Example.vue', () => {
   
   // What are you testing
   it('renders correctly with different props', () => {
-	expect(getRenderedText(TestExample, {
+	expect(getRenderedText(Example, {
 	  // tested data
 	  msg: 'Hello'
 	//Expected result
 	})).toBe('Hello')
 
-	expect(getRenderedText(TestExample, {
+	expect(getRenderedText(Example, {
 	  msg: 'Bye'
 	})).toBe('Bye')
   })
