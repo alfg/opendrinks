@@ -1,0 +1,46 @@
+{
+    "name": "Chocolate White Russian",
+    "description": "Chocolate White Russian with a Brownie Garnish.",
+    "github": "tampert",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "cubes",
+            "ingredient": "ice crushed"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "cold whole milk"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Kahlua"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "chocolate syrup add more or less to taste"
+        }
+    ],
+    "directions": [
+        "Cut brownies into squares.",
+        "Mix the cocktail ingredients together in a large frosted glass.",
+        "Make a small slice into the brownie. Place brownie garnish on the rim of the glass.",
+        "Serve immediately."
+    ],
+    "image": "Chocolate-White-Russian.jpg",
+    "keywords": [
+        "alcoholic",
+        "milk",
+        "cocktail",
+        "Kahlua",
+        "Vodka"
+    ]
+}
