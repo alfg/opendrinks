@@ -25,9 +25,7 @@
       <hr />
       <div>
         View the source or contribute a drink recipe on
-        <a
-          href="https://github.com/alfg/opendrinks"
-        >GitHub</a>!
+        <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
         <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
@@ -49,7 +47,7 @@ export default {
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
@@ -79,7 +77,7 @@ export default {
 }
 
 .logo {
-  font-family: "Pacifico", "cursive";
+  font-family: 'Pacifico', 'cursive';
 }
 .logo a {
   text-decoration: none;

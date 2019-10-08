@@ -1,6 +1,6 @@
 <template>
   <div class="explore container">
-    <RecipeList :title="`Open Drinks - ${keyword}`" :items="drinks"/>
+    <RecipeList :title="`Open Drinks - ${keyword}`" :items="drinks" />
   </div>
 </template>
 

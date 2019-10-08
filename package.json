@@ -7,7 +7,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -23,9 +24,12 @@
     "@vue/cli-plugin-pwa": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
     "@vue/eslint-config-airbnb": "^4.0.0",
+    "@vue/eslint-config-prettier": "^5.0.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
+    "eslint": "^6.5.1",
+    "eslint-plugin-vue": "^5.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2",
     "vue-template-compiler": "^2.6.10"
   }
 }
