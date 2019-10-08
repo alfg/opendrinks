@@ -8,9 +8,9 @@
       img-top
       footer-tag="footer"
       :header="drink.name"
-      style="max-width: 25%"
       tag="article"
-      class="mb-2"
+      class="mb-4"
+      style="width: 100%;"
       no-body
     >
       <b-card-body>
