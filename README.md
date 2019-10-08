@@ -6,6 +6,12 @@ https://opendrinks.netlify.com/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
 
+**OpenDrinks** is powered and hosted by [Netlify](https://www.netlify.com)!
+
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
+</a>
+
 ## Submit a drink recipe
 
 Looking to submit a drink recipe? Check out the Contributing Guidelines first!

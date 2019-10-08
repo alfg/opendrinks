@@ -9,8 +9,12 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: () => import('./views/Home.vue'),
+      redirect: 'random',
+    },
+    {
+      path: '/random',
+      name: 'random',
+      component: () => import('./views/Random.vue'),
     },
     {
       path: '/recipe/:id',
