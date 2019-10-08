@@ -35,13 +35,15 @@ export default {
   computed: {
     filterResults() {
       if (this.selectedKeyword === ALL_RECIPES_KEYWORD) return this.drinks;
-      return this.drinks
-        .filter(drink => drink.keywords && drink.keywords.includes(this.selectedKeyword));
+      return this.drinks.filter(
+        drink => drink.keywords && drink.keywords.includes(this.selectedKeyword),
+      );
     },
   },
   methods: {
     getKeywords() {
-      const keywords = recipes.getAllKeywordsWithCount()
+      const keywords = recipes
+        .getAllKeywordsWithCount()
         .filter(keyword => keyword.count >= KEYWORD_COUNT_LIMIT)
         .sort((keywordA, keywordB) => keywordA.count < keywordB.count)
         .map(keyword => keyword.keyword);

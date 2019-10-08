@@ -1,6 +1,5 @@
 <template>
   <div id="recipe">
-
     <div class="print-button">
       <b-button
         variant="outline-primary"
@@ -21,14 +20,12 @@
         variant="secondary"
         :style="badgeStyle"
         :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-      >{{ o }}</b-badge>
+        >{{ o }}</b-badge
+      >
     </div>
 
     <p>{{ drink.description }}</p>
-    <FavoriteStar
-      class="float-right"
-      @favorite="favorited"
-      :isFavorited="isFavorited">
+    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited">
     </FavoriteStar>
     <p class="text-muted">
       Contributed by:
@@ -45,10 +42,9 @@
 
     <h4>Ingredients</h4>
     <ul>
-      <li
-        v-for="(o, i) in drink.ingredients"
-        v-bind:key="i"
-      >{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}</li>
+      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+        {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+      </li>
     </ul>
 
     <h4>Directions</h4>
@@ -59,7 +55,7 @@
     <div class="mt-4" v-if="drink.source">
       <span>
         View full recipe at:
-        <a :href="drink.source">{{drink.source}}</a>
+        <a :href="drink.source">{{ drink.source }}</a>
       </span>
     </div>
     <div class="similarDrinks">
@@ -72,15 +68,13 @@
           />
       </b-card-group>
 
-    <div class="print-button mt-4">
-      <b-button
-        variant="outline-primary"
-        :href="`/recipe/${this.name}/print`"
-        target="_blank">Print
-      </b-button>
+      <div class="print-button mt-4">
+        <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank"
+          >Print
+        </b-button>
+      </div>
     </div>
   </div>
-</div>
 </template>
 
 <script>

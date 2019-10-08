@@ -1,18 +1,14 @@
 <template>
   <div id="recipe-list" class="container">
     <b-card-group deck>
-      <div
-        v-for="(o, i) in paginatedItems"
-        v-bind:key="i"
-        class="mb-2 p-1"
-      >
+      <div v-for="(o, i) in paginatedItems" v-bind:key="i" class="mb-2 p-1">
         <b-card
-            :title="o.name"
-            :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
-            :img-alt="o.name"
-            img-top
-            style="max-width: 20rem;"
-          >
+          :title="o.name"
+          :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
+          :img-alt="o.name"
+          img-top
+          style="max-width: 20rem;"
+        >
           <b-card-text>
             {{ o.description }}
           </b-card-text>
@@ -33,10 +29,7 @@
           ></b-pagination>
         </b-col>
         <b-col cols="12" md="2">
-          <b-form-select
-            v-model="selected"
-            :options="options"
-            v-on:change="getSelectedItem">
+          <b-form-select v-model="selected" :options="options" v-on:change="getSelectedItem">
           </b-form-select>
         </b-col>
       </b-row>
@@ -57,11 +50,7 @@ export default {
       perPage: 10,
       selected: 10,
       pageNumber: 0,
-      options: [
-        { value: 10, text: '10' },
-        { value: 25, text: '25' },
-        { value: 50, text: '50' },
-      ],
+      options: [{ value: 10, text: '10' }, { value: 25, text: '25' }, { value: 50, text: '50' }],
     };
   },
   watch: {
@@ -77,10 +66,7 @@ export default {
       return this.items.length;
     },
     paginatedItems() {
-      return this.items.slice(
-        this.pageNumber * this.perPage,
-        (this.pageNumber + 1) * this.perPage,
-      );
+      return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
     },
   },
   methods: {
