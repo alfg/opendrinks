@@ -59,20 +59,14 @@
       </span>
     </div>
     <div class="similarDrinks">
-    <h4>Similar drinks</h4>
+      <h4>Similar drinks</h4>
       <b-card-group deck>
-          <RecipeTile
-            v-for="(similarRecipe, i) in similarRecipes"
-            v-bind:key="i"
-            v-bind:id="similarRecipe.id"
-          />
+        <RecipeTile
+          v-for="(similarRecipe, i) in similarRecipes"
+          v-bind:key="i"
+          v-bind:id="similarRecipe.id"
+        />
       </b-card-group>
-
-      <div class="print-button mt-4">
-        <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank"
-          >Print
-        </b-button>
-      </div>
     </div>
   </div>
 </template>
@@ -114,7 +108,10 @@ export default {
   async created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
-    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
+    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(
+      0,
+      NUMBER_OF_SIMILAR_RECIPES,
+    );
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     if (this.favorites.indexOf(this.drink.name) !== -1) {
       this.isFavorited = true;
