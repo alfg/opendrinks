@@ -9,14 +9,14 @@
 				"ingredient": "Pure Sugar 7 Up"
 			},
 			{
-					"quantity": "0.7",
-					"measure": "oz",
-					"ingredient": "Grenadine"
+				"quantity": "0.7",
+				"measure": "oz",
+				"ingredient": "Grenadine"
 			},
 			{
-					"quantity": "7",
-					"measure": "pitted",
-					"ingredient": "Maraschino Cherry"
+				"quantity": "7",
+				"measure": "pitted",
+				"ingredient": "Maraschino Cherry"
 			}
 	],
 	"directions": [
