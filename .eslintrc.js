@@ -7,7 +7,9 @@ module.exports = {
 
   extends: [
     'plugin:vue/essential',
-    '@vue/airbnb',
+	'@vue/airbnb',
+	'@vue/eslint-config-airbnb', 
+	'@vue/eslint-config-prettier'
   ],
 
   rules: {

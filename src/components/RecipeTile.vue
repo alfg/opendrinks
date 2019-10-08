@@ -3,14 +3,9 @@
     <b-img :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null" :alt="drink.name" />
     <div class="text">
       <a :href="'/recipe/' + drink.filename" class="d-flex align-items-center flex-column">
-        <b>{{drink.name}}</b>
+        <b>{{ drink.name }}</b>
         <div v-if="keywords">
-          <b-badge
-            v-for="(o, i) in keywords"
-            v-bind:key="i"
-            variant="primary"
-            class="mr-1"
-          >
+          <b-badge v-for="(o, i) in keywords" v-bind:key="i" variant="primary" class="mr-1">
             {{ o }}
           </b-badge>
         </div>

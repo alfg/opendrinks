@@ -51,6 +51,12 @@ npm run serve
 npm run build
 ```
 
+### Lint
+
+```
+npm run lint
+```
+
 ### Docker
 
 ```
