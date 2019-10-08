@@ -10,7 +10,7 @@
       :header="drink.name"
       tag="article"
       class="mb-4"
-      style="width: 100%;"
+      style="min-width: calc( 50% - 30px )"
       no-body
     >
       <b-card-body>
