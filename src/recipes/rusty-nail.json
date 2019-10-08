@@ -1,0 +1,33 @@
+{
+    "name": "Rusty nail",
+    "description": "Has a huge flavour and lots of alcohol, good for your rusty throat. Created in 1942 in Hawai. You can play with the proportions, usually between 1:2 and 1:3.",
+    "github": "danitulp",
+    "ingredients": [
+    {
+        "quantity": "1 1/2",
+        "measure": "ounces",
+        "ingredient": "Scotch whiskey"
+    },
+    {
+        "quantity": "3/4",
+        "measure": "ounce",
+        "ingredient": "Drambuie"
+    },
+    {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Lemon twist"
+    }],
+    "directions": [
+        "Pour all ingredients directly into old-fashioned glass filled with ice.",
+        "Stir gently.",
+        "Garnish with a lemon twist. (optional)",
+        "Serve!"
+    ],
+    "image": "rusty-nail.jpg",
+    "keywords": [
+        "alcoholic",
+        "whiskey",
+        "scotch"
+    ]
+}
