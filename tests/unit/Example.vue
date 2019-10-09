@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  export default {
-    props: ['msg']
-  }
+export default {
+  props: ['msg'],
+};
 </script>
