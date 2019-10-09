@@ -32,12 +32,12 @@
         },
     ],
     "directions": [
-        "<Step 1:-Place all the ingredients in a blender and blend well.>",
-        "<Step 2:-Sieve the lassi to avoid lumps and make it smooth.>",
-		"<Step 3:-Garnish with almond and more dry fruits.>",
-        "<Step 4:-Serve it cold.>"
+        Step 1:-Place all the ingredients in a blender and blend well.
+        Step 2:-Sieve the lassi to avoid lumps and make it smooth.
+        Step 3:-Garnish with almond and more dry fruits.
+        Step 4:-Serve it cold.
     ],
-    "image": "<Chickoo Lassi Recipe.jpg>",
+    "image": "<src/img/chickoo_lassi.jpg>",
    
     "keywords": [
         "Chickoo",
