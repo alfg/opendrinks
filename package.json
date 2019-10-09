@@ -19,7 +19,7 @@
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:unit"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
