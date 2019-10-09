@@ -1,13 +1,25 @@
 {
   "name": "opendrinks",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alfg/opendrinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfg/opendrinks/issues"
+  },
+  "homepage": "https://github.com/alfg/opendrinks",
+  "license": "MIT",
+  "engines": {
+    "node": "10.16.3"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
-    "test": "echo test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -34,8 +46,5 @@
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.18.2",
     "vue-template-compiler": "^2.6.10"
-  },
-  "engines": {
-    "node": "10.16.3"
   }
 }

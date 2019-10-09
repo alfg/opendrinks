@@ -60,21 +60,13 @@
     </div>
     <div class="similarDrinks">
       <h4>Similar drinks</h4>
-      <div class="d-flex flex-row">
-        <div
+      <b-card-group deck>
+        <RecipeTile
           v-for="(similarRecipe, i) in similarRecipes"
           v-bind:key="i"
-          class="col-3 pr-0 pl-0 mr-2"
-        >
-          <RecipeTile v-bind:id="similarRecipe.id" />
-        </div>
-      </div>
-
-      <div class="print-button mt-4">
-        <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank"
-          >Print
-        </b-button>
-      </div>
+          v-bind:id="similarRecipe.id"
+        />
+      </b-card-group>
     </div>
   </div>
 </template>
@@ -83,6 +75,8 @@
 import recipes from '../recipes';
 import RecipeTile from '@/components/RecipeTile.vue';
 import FavoriteStar from './FavoriteStar.vue';
+
+const NUMBER_OF_SIMILAR_RECIPES = 4;
 
 export default {
   name: 'Recipe',
@@ -114,7 +108,10 @@ export default {
   async created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
-    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(0, 4);
+    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(
+      0,
+      NUMBER_OF_SIMILAR_RECIPES,
+    );
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     if (this.favorites.indexOf(this.drink.name) !== -1) {
       this.isFavorited = true;
