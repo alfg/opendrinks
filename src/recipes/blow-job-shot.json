@@ -1,0 +1,34 @@
+{
+    "name": "Blow Job Shot",
+    "description": "This layered shot originated around the early ’90s in the U.S. and is meant to be imbibed hands-free.",
+    "github": "angrammenos97",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Amaretto liqueur"
+        },
+        {
+            "quantity": "1/5",
+            "measure": "oz",
+            "ingredient": "Irish cream liqueur"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Whipped cream"
+        },
+    ],
+    "directions": [
+        "In a shot glass, slowly pour the amaretto.",
+        "Then pour the Irish cream.",
+        "Finally top it with the whipped cream without mixing."
+    ],
+    "image": "blow-job-shot.jpg",
+    "source": "https://www.liquor.com/recipes/blow-job/#gs.8likgb",
+    "keywords": [
+        "shot",
+        "sweet",
+        "amaretto"
+    ]
+}
