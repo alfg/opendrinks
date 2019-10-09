@@ -50,9 +50,10 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
 * An automated preview link will be generated towards the bottom of the PR so your changes can be previewed while in review.
 * Once approved and merged, the latest update will be published to https://opendrinks.netlify.com
 
+---
 
-## Add a test 
-We are using the [jest](https://jestjs.io/) testing framework. 
+## ✅ Add a Test
+If you are adding a unit test, we are using the [jest](https://jestjs.io/) testing framework. 
 
 All tests are located in [/tests](/tests). If you're unfamiliar with testing, or this project, take a look at the [example test](tests/unit/example.spec.js) located there. 
 
