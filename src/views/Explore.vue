@@ -1,8 +1,46 @@
 <template>
   <div class="explore container">
-    <div class="d-flex flex-row align-items-center mb-2">
-      <span class="text-nowrap mr-2">Filter by keyword</span>
-      <b-form-select v-model="selectedKeyword" :options="keywordFilter"></b-form-select>
+    <div v-if="showFilter">
+      <div class="row">
+        <div class="col-12">
+          <h4>Filters</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 d-flex flex-row align-items-center mb-2">
+          <span class="text-nowrap mr-2">Add Keyword</span>
+          <b-form-select
+            v-model="selectedKeyword"
+            @change="addNewKeywordToFilter($event)"
+            :options="keywordFilter"
+          ></b-form-select>
+        </div>
+        <div v-if="filteredKeywords" class="col-6 d-flex flex-row align-items-center mb-2">
+          <p class="mb-0">
+            <b-badge
+              v-for="(o, i) in filteredKeywords"
+              v-bind:key="i"
+              variant="secondary"
+              class="mr-2 filterItem"
+              @click="removeKeywordFromFilter(i)"
+            >
+              {{ o }}
+            </b-badge>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="d-flex flex-row justify-content-end mb-2">
+      <b-button
+        variant="outline-warning"
+        @click="resetFilters()"
+        class="mr-2"
+        size="sm"
+        v-if="showFilter"
+      >
+        Reset Filters
+      </b-button>
+      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm">Filters</b-button>
     </div>
     <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
@@ -13,7 +51,6 @@ import RecipeList from '@/components/RecipeList.vue';
 import recipes from '../recipes';
 
 const KEYWORD_COUNT_LIMIT = 5;
-const ALL_RECIPES_KEYWORD = 'All recipes';
 
 export default {
   name: 'explore',
@@ -24,7 +61,9 @@ export default {
     const drinks = recipes.getRecipes();
     return {
       drinks,
-      selectedKeyword: ALL_RECIPES_KEYWORD,
+      showFilter: false,
+      filteredKeywords: [],
+      selectedKeyword: '',
       keywordFilter: [],
     };
   },
@@ -34,9 +73,11 @@ export default {
   },
   computed: {
     filterResults() {
-      if (this.selectedKeyword === ALL_RECIPES_KEYWORD) return this.drinks;
+      if (this.filteredKeywords.length === 0) return this.drinks;
       return this.drinks.filter(
-        drink => drink.keywords && drink.keywords.includes(this.selectedKeyword),
+        drink =>
+          drink.keywords &&
+          this.filteredKeywords.every(keyword => drink.keywords.includes(keyword)),
       );
     },
   },
@@ -47,9 +88,34 @@ export default {
         .filter(keyword => keyword.count >= KEYWORD_COUNT_LIMIT)
         .sort((keywordA, keywordB) => keywordA.count < keywordB.count)
         .map(keyword => keyword.keyword);
-      keywords.unshift(ALL_RECIPES_KEYWORD);
       return keywords;
+    },
+    addNewKeywordToFilter(newKeyword) {
+      if (!this.filteredKeywords.includes(newKeyword)) {
+        this.filteredKeywords.push(newKeyword);
+      }
+      this.selectedKeyword = null;
+    },
+    removeKeywordFromFilter(keywordIndex) {
+      this.filteredKeywords.splice(keywordIndex, 1);
+    },
+    resetFilters() {
+      this.filteredKeywords = [];
     },
   },
 };
 </script>
+
+<style scoped>
+.filterItem {
+  cursor: pointer;
+}
+
+.filterItem:hover {
+  background-color: #363a3e;
+}
+
+.filterItem:hover::after {
+  content: '×';
+}
+</style>
