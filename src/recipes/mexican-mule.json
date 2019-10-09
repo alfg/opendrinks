@@ -22,7 +22,7 @@
             "quantity": "4",
             "measure": "dashes",
             "ingredient": "Angostura Bitters"
-        },
+        }
     ],
     "directions": [
         "Pour Tequila, fresh lime juice, bitters and Ginger beer over ice in glass or copper mug",
@@ -31,9 +31,9 @@
     ],
     "image": "mexican-mule.jpg",
     "keywords": [
-        "Tequila",
-        "Mule",
-        "Alcoholic",
-        "Ginger Beer",
+        "tequila",
+        "mule",
+        "alcoholic",
+        "ginger beer"
     ]
 }
