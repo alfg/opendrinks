@@ -1,17 +1,24 @@
 <template>
   <b-card
-    :title="drink.name"
-    :img-src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
-    :img-alt="drink.name"
-    img-top
-    footer-tag="footer"
-    :header="drink.name"
-    tag="article"
     class="mb-4"
     style="min-width: calc( 50% - 30px )"
+    :href="'/recipe/' + drink.filename"
     no-body
   >
+    <b-link :href="'/recipe/' + drink.filename">
+      <b-card-img-lazy
+        :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
+        :alt="drink.name"
+        top
+      />
+    </b-link>
+
     <b-card-body>
+      <b-card-title>
+        <b-link :href="'/recipe/' + drink.filename">
+          <h5>{{ drink.name }}</h5>
+        </b-link>
+      </b-card-title>
       <b-card-text>
         {{ croppedDescription }}
       </b-card-text>
@@ -29,12 +36,6 @@
         </div>
       </b-card-text>
     </b-card-body>
-
-    <b-card-footer>
-      <b-button :href="'/recipe/' + drink.filename" variant="primary" size="sm">
-        View Recipe
-      </b-button>
-    </b-card-footer>
   </b-card>
 </template>
 
@@ -71,3 +72,13 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.card-body {
+  padding: 0.9rem;
+}
+
+.card-text p {
+  margin-bottom: 0.5rem;
+}
+</style>

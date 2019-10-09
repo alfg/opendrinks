@@ -52,13 +52,14 @@
       <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
     </ol>
 
-    <div class="mt-4" v-if="drink.source">
+    <div class="mt-4 mb-4" v-if="drink.source">
       <span>
         View full recipe at:
         <a :href="drink.source">{{ drink.source }}</a>
       </span>
     </div>
-    <div class="similarDrinks">
+
+    <div class="similarDrinks mt-4 mb-4">
       <h4>Similar drinks</h4>
       <b-card-group deck>
         <RecipeTile
