@@ -58,7 +58,7 @@ export default {
     croppedDescription() {
       const { description } = this.drink;
       const cropped = description.substring(0, MAX_DESCRIPTION_LENGTH);
-      return description.length > MAX_DESCRIPTION_LENGTH ? `${cropped} …` : description;
+      return description.length > MAX_DESCRIPTION_LENGTH ? `${cropped} ...` : description;
     },
   },
   created() {
