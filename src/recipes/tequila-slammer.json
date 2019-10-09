@@ -6,7 +6,7 @@
         {
             "quantity": "1.5",
             "measure": "oz",
-            "ingredient": "Tquila"
+            "ingredient": "Tequila"
         },
         {
             "quantity": "5",
@@ -22,7 +22,7 @@
     "directions": [
         "Fill a rocks drinking glass with ice cubes.",
         "Add all ingredients carefully to not release the CO2.",
-        "slam on the counter to make it fizz up and drink"
+        "Slam on the counter to make it fizz up and drink."
     ],
     "image": "tequila-slammer.jpg",
     "keywords": [

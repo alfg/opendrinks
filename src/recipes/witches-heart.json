@@ -1,0 +1,46 @@
+{
+    "name": "Witches Heart",
+    "description": "A perfect cocktail for October made with Blackberry Shimmery liqueur.",
+    "github": "DanFCo",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Apple Brandy or Apple Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Blackberry Liqueur"
+        },
+        {
+            "quantity": "1/2 - 1",
+            "measure": "teaspoon",
+            "ingredient": "Powdered dry ice (optional)"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Martini glass to serve"
+        }
+    ],
+    "directions": [
+        "Add about 1/2 - 1 tsp of powdered dry ice to the bottom of the glass (optional).",
+        "Place the apple brandy and purple shimmery liqueur in a shaker.",
+        "Add 1 ice cube and shake for a few seconds to chill the drink.",
+        "Strain the drink into a martini glass.",
+        "Top up with more Blackberry liqueur if necessary. ",
+        "Pour 1 tsp of grenadine syrup, about an inch from the surface of the drink - the grenadine should sink to the bottom, creating a bleeding effect.",
+        "Add about 1/2 tsp of powdered dry ice on top and serve with a stirrer, so that your guests can stir the potion to create that shimmery, smoky effect"
+    ],
+    "image": "witches-heart.jpg",
+    "source": "https://www.theflavorbender.com/the-witchs-heart-halloween-cocktail/",
+    "keywords": [
+        "Halloween"
+    ]
+}

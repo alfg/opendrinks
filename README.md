@@ -5,6 +5,7 @@
 https://opendrinks.netlify.com/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
+[![Build Status](https://travis-ci.org/alfg/opendrinks.svg?branch=master)](https://travis-ci.org/alfg/opendrinks)
 
 **OpenDrinks** is powered and hosted by [Netlify](https://www.netlify.com)!
 
@@ -61,6 +62,12 @@ npm run build
 
 ```
 npm run lint
+```
+
+### Test
+
+```
+npm test
 ```
 
 ### Docker
