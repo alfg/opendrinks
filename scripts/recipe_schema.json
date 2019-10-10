@@ -63,6 +63,7 @@
       "keywords": {
         "description": "Keywords that describe the drink",
         "type": "array",
+        "minItems": 1,
         "items": {
           "type": "string"
         }
@@ -73,6 +74,7 @@
       "description",
       "ingredients",
       "directions",
-      "image"
+      "image",
+      "keywords"
     ]
   }
