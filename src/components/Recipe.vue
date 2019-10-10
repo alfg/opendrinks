@@ -32,41 +32,54 @@
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
 
-    <b-img
-      class="mb-4"
-      :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
-      :alt="drink.name"
-      rounded
-      fluid-grow
-    />
+    <section class="recipe-hero-container">
+      <div class="recipe-ingredients">
+        <h4>Ingredients</h4>
+        <ul>
+          <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+            {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+          </li>
+        </ul>
+      </div>
 
-    <h4>Ingredients</h4>
-    <ul>
-      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
-        {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
-      </li>
-    </ul>
+      <div class="recipe-image">
+        <b-img right
+          class="mb-4"
+          :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
+          :alt="drink.name"
+          rounded
+          fluid-grow
+        />
+      </div>
+    </section>
+    
+    <section class="recipe-directions-container">
+      <div class="recipe-directions-list">
+        <h4>Directions</h4>
+        <ol class="mb-4">
+          <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
+        </ol>
+      </div>
 
-    <h4>Directions</h4>
-    <ol class="mb-4">
-      <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
-    </ol>
+      <div class="mt-4" v-if="drink.source">
+        <span>
+          View full recipe at:
+          <a :href="drink.source">{{ drink.source }}</a>
+        </span>
+      </div>
+    </section>
 
-    <div class="mt-4" v-if="drink.source">
-      <span>
-        View full recipe at:
-        <a :href="drink.source">{{ drink.source }}</a>
-      </span>
-    </div>
-    <div class="similarDrinks">
-      <h4>Similar drinks</h4>
-      <div class="d-flex flex-row">
-        <div
-          v-for="(similarRecipe, i) in similarRecipes"
-          v-bind:key="i"
-          class="col-3 pr-0 pl-0 mr-2"
-        >
-          <RecipeTile v-bind:id="similarRecipe.id" />
+    <section class="similarDrinks similar-drinks-container">
+      <div class="similar-drinks-list">
+        <h4>Similar drinks</h4>
+        <div class="d-flex flex-row">
+          <div
+            v-for="(similarRecipe, i) in similarRecipes"
+            v-bind:key="i"
+            class="col-3 pr-0 pl-0 mr-2"
+          >
+            <RecipeTile v-bind:id="similarRecipe.id" />
+          </div>
         </div>
       </div>
 
@@ -75,7 +88,7 @@
           >Print
         </b-button>
       </div>
-    </div>
+    </section>
   </div>
 </template>
 
@@ -146,7 +159,33 @@ export default {
 </script>
 
 <style scoped>
-.print-button {
-  margin-top: 1em;
-}
+  .print-button {
+    margin-top: 1em;
+  }
+
+  @media (min-width: 768px){
+    .recipe-hero-container .recipe-directions-container .similar-drinks-container{
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .recipe-ingredients{
+      width: 37%;
+      float: left;
+      margin-top: 1em;
+      margin-right: 1em; 
+    }
+    .recipe-image{
+      width: 60%;
+      float: left;
+      margin-bottom: 2em;
+    }
+
+    .recipe-directions-list .similar-drinks-list{
+      width: 100%;
+      float: left;
+      margin-top: 1em;
+    }
+  }
 </style>
