@@ -1,26 +1,25 @@
 {
-    "name": "<Pomegranate Lemon Mint (adapted from Jamie Oliver the wonderful chef>",
-    "description": "<Refreshing>",
-    "github": "<bookish>",
+    "name": "pomegranate-lemon-mint.json",
+    "description": "Refreshing Cold Lemonade",
+    "github": "bookish",
     "ingredients": [
-        "<One litre bottle of sparkling water>",
-        "<One whole pomegranate>",
-        "<One bunch of fresh mint>"
-        "<One whole lemon>"
-         "<large ice cubes>"
+        "2 one-litre bottles of sparkling water",
+        "1 whole pomegranate",
+        "1 bunch of fresh mint, washed"
+        "1 whole lemon"
+        "2 cups of large ice cubes"
     ],
     "directions": [
-        "<Pour ice cubes into a large glass pitcher.>",
-        "<Slice the pomegranate in half, then squeeze the juice from both halves over the ice cubes in the pitcher.  It is okay if a few of the seeds end up in the pitcher because they are edible.>",
-        "<Slice the lemon in half and squeeze the lemon juice into the pitcher.>"
-        "<Pour the sparkling water into the pitcher.>"
-        "<Wash the mint and put the nicest leaves into the pitcher.>"
-        "<Pour in a tall glass and enjoy!>"
+        "Pour ice cubes into a large glass pitcher.",
+        "Slice the pomegranate in half, then squeeze the juice from both halves over the ice cubes in the pitcher.  It is okay if a few of the seeds end up in the pitcher because they are edible.",
+        "Slice the lemon in half and squeeze the lemon juice into the pitcher."
+        "Pour the sparkling water into the pitcher."
+        "Put the nicest leaves into the pitcher."
+        "Pour in a tall glass and enjoy!"
     ],
-    "image": "<drink-name.jpg>",
-    "source": "<http://cheekeelee.blogspot.com/2012/03/jamie-olivers-pomegranate-soda.html>",
+    "image": "pomegranate-lemon-mint.jpg",
+    "source": "http://cheekeelee.blogspot.com/2012/03/jamie-olivers-pomegranate-soda.html",
     "keywords": [
-        "<Jamie Oliver sparkling water pomegranate mint lemon ice non-alcoholic fruit>",
-        "...",
+        "sparkling water", "pomegranate", "mint", "lemon", "ice", "non-alcoholic", "fruit",
     ]
 }
