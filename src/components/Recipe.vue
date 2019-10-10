@@ -69,26 +69,23 @@
       </div>
     </section>
 
-    <section class="similarDrinks similar-drinks-container">
-      <div class="similar-drinks-list">
-        <h4>Similar drinks</h4>
-        <div class="d-flex flex-row">
-          <div
-            v-for="(similarRecipe, i) in similarRecipes"
-            v-bind:key="i"
-            class="col-3 pr-0 pl-0 mr-2"
-          >
-            <RecipeTile v-bind:id="similarRecipe.id" />
-          </div>
-        </div>
-      </div>
+    <div class="mt-4 mb-4" v-if="drink.source">
+      <span>
+        View full recipe at:
+        <a :href="drink.source">{{ drink.source }}</a>
+      </span>
+    </div>
 
-      <div class="print-button mt-4">
-        <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank"
-          >Print
-        </b-button>
-      </div>
-    </section>
+    <div class="similarDrinks mt-4 mb-4">
+      <h4>Similar drinks</h4>
+      <b-card-group deck>
+        <RecipeTile
+          v-for="(similarRecipe, i) in similarRecipes"
+          v-bind:key="i"
+          v-bind:id="similarRecipe.id"
+        />
+      </b-card-group>
+    </div>
   </div>
 </template>
 
@@ -96,6 +93,8 @@
 import recipes from '../recipes';
 import RecipeTile from '@/components/RecipeTile.vue';
 import FavoriteStar from './FavoriteStar.vue';
+
+const NUMBER_OF_SIMILAR_RECIPES = 4;
 
 export default {
   name: 'Recipe',
@@ -127,7 +126,10 @@ export default {
   async created() {
     this.getRecipe(this.name);
     window.document.title = `Open Drinks - ${this.drink.name}`;
-    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(0, 4);
+    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(
+      0,
+      NUMBER_OF_SIMILAR_RECIPES,
+    );
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     if (this.favorites.indexOf(this.drink.name) !== -1) {
       this.isFavorited = true;

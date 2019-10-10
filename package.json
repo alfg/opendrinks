@@ -1,6 +1,15 @@
 {
   "name": "opendrinks",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alfg/opendrinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfg/opendrinks/issues"
+  },
+  "homepage": "https://github.com/alfg/opendrinks",
+  "license": "MIT",
   "engines": {
     "node": "10.16.3"
   },
@@ -8,8 +17,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "test:unit": "vue-cli-service test:unit",
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
-    "test": "echo test"
+    "test": "npm run test:unit"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -23,13 +33,18 @@
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-eslint": "^3.11.0",
     "@vue/cli-plugin-pwa": "^3.11.0",
+    "@vue/cli-plugin-unit-jest": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
     "@vue/eslint-config-airbnb": "^4.0.0",
     "@vue/eslint-config-prettier": "^5.0.0",
+    "@vue/test-utils": "1.0.0-beta.29",
+    "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "babel-plugin-require-context-hook": "^1.0.0",
     "eslint": "^6.5.1",
-    "eslint-plugin-vue": "^5.2.3",
     "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^5.2.3",
     "prettier": "^1.18.2",
     "vue-template-compiler": "^2.6.10"
   }
