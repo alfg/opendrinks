@@ -1,0 +1,39 @@
+{
+    "name": "Strawberry Milkshake",
+    "description": "Yummy and Creamy Strawberry Milkshake ",
+    "github": "Nishtha3512",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "strawberry ice cream"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "7",
+            "measure": "",
+            "ingredient": "fresh strawberries"
+        }
+       
+    ],
+    "directions": [
+        "combine ice cream, milk, and 5 of the strawberries in your blender", 
+        "Blend until pourable and pour into a glass",
+        " Take two more strawberries and cut into slices   ",
+        " add the slices to the the top of your shake to decorate or you may use these two strawberries to decorate in ur own way also",
+        "add a straw, and enjoy!"
+       
+        
+    ],
+    "image": "strawberry-milkshake.jpg",
+   
+    "keywords": [
+        "strawberries",
+        "milk",
+        "strawberry ice cream"
+	]
+}
