@@ -11,6 +11,7 @@ const findRecipeFiles = (err, files) => {
 };
 
 const validateRecipe = files => {
+  let foundError = false;
   files.forEach(file => {
     var contents = fs.readFileSync(__dirname + '/../src/recipes/' + file, 'utf8');
     var jsonContents = JSON.parse(contents);
@@ -19,8 +20,11 @@ const validateRecipe = files => {
     if (!valid) {
       console.log(`Validation failed for ${file}!`);
       console.log(ajv.errorsText());
+      foundError = true;
     }
   });
+
+  if (foundError) process.exit(1);
 };
 
 const schema = fs.readFileSync('scripts/recipe_schema.json', 'utf-8');
