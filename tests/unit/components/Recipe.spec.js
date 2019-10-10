@@ -9,12 +9,17 @@ const localVue = createLocalVue();
 localVue.use(BootstrapVue);
 
 describe('Recipe', () => {
+  const wrapper = mount(Recipe, {
+    propsData: { name: 'mango-juice.json' },
+    localVue,
+    router,
+  });
+
   test('is a Vue instance', () => {
-    const wrapper = mount(Recipe, {
-      propsData: { name: 'mango-juice.json' },
-      localVue,
-      router,
-    });
     expect(wrapper.isVueInstance()).toBeTruthy();
+  });
+
+  test('renders correctly', () => {
+    expect(wrapper.element).toMatchSnapshot();
   });
 });
