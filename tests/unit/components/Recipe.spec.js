@@ -15,28 +15,22 @@ describe('Recipe', () => {
     router,
   });
 
-  describe('', () => {
-    test('is a Vue instance', () => {
-      expect(wrapper.isVueInstance()).toBeTruthy();
-    });
-
-    test('renders the correct props', () => {
-      const props = wrapper.props();
-      expect(props.name).toBe('mango-juice.json');
-    });
-
-    test('renders the correct title', () => {
-      const title = wrapper.find('h1').text();
-      expect(title).toMatch(/Mango Juice/);
-    });
-
-    test('', () => {});
+  test('is a Vue instance', () => {
+    expect(wrapper.isVueInstance()).toBeTruthy();
   });
 
-  describe('events', () => {
-    test('first keyword badge of recipe should correspond to first keyword array element in data', () => {
-      const btn = wrapper.find('b-badge-stub');
-      expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
-    });
+  test('renders the correct props', () => {
+    const props = wrapper.props();
+    expect(props.name).toBe('mango-juice.json');
+  });
+
+  test('renders the correct title', () => {
+    const title = wrapper.find('h1').text();
+    expect(title).toMatch(/Mango Juice/);
+  });
+
+  test('first keyword badge of recipe should correspond to first keyword array element in data', () => {
+    const btn = wrapper.find('b-badge-stub');
+    expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
   });
 });
