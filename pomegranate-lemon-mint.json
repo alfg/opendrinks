@@ -1,6 +1,6 @@
 {
-    "name": "pomegranate-lemon-mint.json",
-    "description": "Refreshing Cold Lemonade",
+    "name": "Pomegranate Lemon Mint Refresher",
+    "description": "Refreshingly Cold Lemonade with pink pomegranate and mint",
     "github": "bookish",
     "ingredients": [
         "2 one-litre bottles of sparkling water",
@@ -11,11 +11,11 @@
     ],
     "directions": [
         "Pour ice cubes into a large glass pitcher.",
-        "Slice the pomegranate in half, then squeeze the juice from both halves over the ice cubes in the pitcher.  It is okay if a few of the seeds end up in the pitcher because they are edible.",
+        "Slice the pomegranate in half, then squeeze the juice from both halves over the ice cubes in the pitcher.  It is okay if a few of the arils end up in the pitcher because they are edible.",
         "Slice the lemon in half and squeeze the lemon juice into the pitcher."
         "Pour the sparkling water into the pitcher."
         "Put the nicest leaves into the pitcher."
-        "Pour in a tall glass and enjoy!"
+        "Pour into a tall glass and enjoy!"
     ],
     "image": "pomegranate-lemon-mint.jpg",
     "source": "http://cheekeelee.blogspot.com/2012/03/jamie-olivers-pomegranate-soda.html",
