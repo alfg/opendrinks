@@ -6,7 +6,9 @@
         :href="`/recipe/${this.name}/print`"
         target="_blank"
         class="float-right"
-      >Print</b-button>
+      >
+        Print
+      </b-button>
     </div>
 
     <h1>{{ drink.name }}</h1>
@@ -18,11 +20,13 @@
         variant="secondary"
         :style="badgeStyle"
         :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-      >{{ o }}</b-badge>
+        >{{ o }}</b-badge
+      >
     </div>
 
     <p>{{ drink.description }}</p>
-    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited"></FavoriteStar>
+    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited">
+    </FavoriteStar>
     <p class="text-muted">
       Contributed by:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
@@ -38,10 +42,9 @@
 
     <h4>Ingredients</h4>
     <ul>
-      <li
-        v-for="(o, i) in drink.ingredients"
-        v-bind:key="i"
-      >{{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}</li>
+      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+        {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+      </li>
     </ul>
 
     <h4>Directions</h4>
