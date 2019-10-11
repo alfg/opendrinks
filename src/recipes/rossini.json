@@ -1,0 +1,25 @@
+{
+  "name": "Rossini",
+  "description": "It's a kind of alcoholic drink made with sparkling candy and strawberry.",
+  "github": "bgildson",
+  "ingredients": [
+      {
+          "quantity": "100",
+          "measure": "ml",
+          "ingredient": "sparkling candy"
+      },
+      {
+          "quantity": "1",
+          "measure": "unit",
+          "ingredient": "strawberry"
+      }
+  ],
+  "directions": [
+      "Crush the strawberry in a sieve muddling with a spoon and after mix in a bowl the sparkling and the strawberry."
+  ],
+  "image": "rossini.jpg",
+  "keywords": [
+      "sparkling-candy",
+      "strawberry"
+  ]
+}
