@@ -1,22 +1,16 @@
 const fs = require('fs');
-var Ajv = require('ajv');
-var ajv = new Ajv();
+// eslint-disable-next-line import/no-extraneous-dependencies
+const Ajv = require('ajv');
 
-const findRecipeFiles = (err, files) => {
-  if (err) {
-    console.log(err);
-  } else {
-    validateRecipe(files.filter(file => file.endsWith('.json')));
-  }
-};
+const ajv = new Ajv();
 
 const validateRecipe = files => {
   let foundError = false;
   files.forEach(file => {
-    var contents = fs.readFileSync(__dirname + '/../src/recipes/' + file, 'utf8');
-    var jsonContents = JSON.parse(contents);
+    const contents = fs.readFileSync(`${__dirname}/../src/recipes/${file}`, 'utf8');
+    const jsonContents = JSON.parse(contents);
 
-    var valid = ajv.validate('recipeSchema', jsonContents);
+    const valid = ajv.validate('recipeSchema', jsonContents);
     if (!valid) {
       console.log(`Validation failed for ${file}!`);
       console.log(ajv.errorsText());
@@ -27,7 +21,15 @@ const validateRecipe = files => {
   if (foundError) process.exit(1);
 };
 
+const findRecipeFiles = (err, files) => {
+  if (err) {
+    console.log(err);
+  } else {
+    validateRecipe(files.filter(file => file.endsWith('.json')));
+  }
+};
+
 const schema = fs.readFileSync('scripts/recipe_schema.json', 'utf-8');
 const schemaJson = JSON.parse(schema);
 ajv.addSchema(schemaJson, 'recipeSchema');
-fs.readdir(__dirname + '/../src/recipes', findRecipeFiles);
+fs.readdir(`${__dirname}/../src/recipes`, findRecipeFiles);
