@@ -13,7 +13,7 @@ const parseIngredientQuantities = files => {
     const contents = fs.readFileSync(file, 'utf8');
     const jsonContents = JSON.parse(contents);
     if (jsonContents.hasOwnProperty('ingredients')) {
-      letingredientArray = [];
+      let ingredientArray = [];
       for (let ingredient of jsonContents.ingredients) {
         try {
           const newIngredient = {};
