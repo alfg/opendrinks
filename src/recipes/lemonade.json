@@ -3,9 +3,21 @@
     "description": "Lemonade can be any one of a variety of sweetened or unsweetened beverages found throughout the world, but which are traditionally all characterized by a lemon flavor",
     "github": "danie007",
     "ingredients": [
-        "Lemon",
-        "Sugar",
-        "Water"
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
     ],
     "directions": [
         "Simple syrup:  Place the sugar and water in a small saucepan and stir so that the sugar dissolves completely.",
@@ -15,7 +27,7 @@
     ],
     "image": "lemonade.jpg",
     "keywords": [
-      "non-alcoholic",
-      "sweet"
+        "non-alcoholic",
+        "sweet"
     ]
 }

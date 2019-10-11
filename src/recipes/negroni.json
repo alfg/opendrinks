@@ -3,14 +3,35 @@
     "description": "The Negroni is an iconic Italian cocktail, also considered an apéritif",
     "github": "Iaggelis",
     "ingredients": [
-        "1 oz Gin",
-        "1 oz Campari",
-        "1 oz Sweet Vermouth",
-        "Orange peel"
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Sweet Vermouth"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Orange peel"
+        }
     ],
     "directions": [
         "Combine the spirits into a mixing glass with ice. Stir until chilled. Strain into a rocks glass filled with large ice cubes.",
         "Garnish with an orange peel."
     ],
-    "image": "negroni.jpg"
+    "image": "negroni.jpg",
+    "keywords": [
+        "gin",
+        "vermouth",
+        "alcoholic"
+    ]
 }

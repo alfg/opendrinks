@@ -3,8 +3,16 @@
     "description": "Morning boost espresso shots",
     "github": "cendekia",
     "ingredients": [
-        "2 tablespoons of coffee beans",
-        "30 ml of water"
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "of coffee beans"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "of water"
+        }
     ],
     "directions": [
         "Tools that you need are AeroPress or similar, tablespoon and grinder",
@@ -15,5 +23,5 @@
     "image": "hot-espresso.jpg",
     "keywords": [
     "coffee"
-  ]
+    ]
 }

@@ -1,0 +1,55 @@
+{
+  "name": "Pink Grapefruit Margarita",
+  "description": "This Pink Grapefruit Margarita is similar to a Paloma but without the soda! This recipe is vegan, gluten-free, and refined sugar-free.",
+  "github": "sherribooher",
+  "ingredients": [
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Sea salt, to rim the glass"
+      },
+      {
+          "quantity": "2",
+          "measure": "oz",
+          "ingredient": "white tequila"
+      },
+      {
+          "quantity": "1",
+          "measure": "oz",
+          "ingredient": "pink grapefruit juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "oz",
+          "ingredient": "lime juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "oz",
+          "ingredient": "agave"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Slices of grapefruit, for garnish"
+      }
+  ],
+  "directions": [
+    "Wet the rim of a glass with a cut piece of the grapefruit or lime",
+    "Pour the sea salt on a plate and dip the wet rim into the salt",
+    "Fill the glass with ice",
+    "Fill a cocktail shaker with ice then add the tequila, pink grapefruit juice, lime juice, and agave",
+    "Shake until cold then strain into the prepared glass",
+    "Garnish with a slice of grapefruit"
+  ],
+  "image": "pink-grapefruit-margarita.jpg",
+  "source": "https://theendlessmeal.com/grapefruit-margarita",
+  "keywords": [
+    "alcoholic",
+    "tequila",
+    "margarita",
+    "grapefruit",
+    "vegan",
+    "gluten-free"
+  ]
+}

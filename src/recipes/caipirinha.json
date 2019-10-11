@@ -3,10 +3,26 @@
     "description": "Caipirinha is a Brazilian cocktail prepared with cachaça, cane sugar, and lime. Created by the farmers from whom it derives its name.",
     "github": "joshuamart",
     "ingredients": [
-        "2 oz cachaça",
-        "1 green lime",
-        "1 tablespoon sugar ",
-        "Ice cube"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "green lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
     ],
     "directions": [
         "Wash the lime and cut off both ends. Cut the lime into 8 or 9 pieces and remove the central white part responsible for the bitterness.",
@@ -14,5 +30,11 @@
         "Cover the lime-sugar mixture with a good layer of crushed ice or simple ice cubes (close to the rim), then level it to a finger from the rim.",
         "Serve in an old fashioned glass. "
     ],
-    "image": "caipirinha.jpg"
+    "image": "caipirinha.jpg",
+    "keywords": [
+        "cachaça",
+        "green lime",
+        "sugar",
+        "alcoholic"
+	]
 }

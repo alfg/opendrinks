@@ -9,8 +9,12 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: () => import('./views/Home.vue'),
+      redirect: 'random',
+    },
+    {
+      path: '/random',
+      name: 'random',
+      component: () => import('./views/Random.vue'),
     },
     {
       path: '/recipe/:id',
@@ -26,6 +30,21 @@ export default new Router({
       path: '/search',
       name: 'search',
       component: () => import('./views/Search.vue'),
+    },
+    {
+      path: '/recipe/:id/print',
+      name: 'printRecipe',
+      component: () => import('./views/PrintRecipe.vue'),
+    },
+    {
+      path: '/keyword',
+      name: 'keywordList',
+      component: () => import('./views/KeywordList.vue'),
+    },
+    {
+      path: '/keyword/:keyword',
+      name: 'keyword',
+      component: () => import('./views/Keyword.vue'),
     },
   ],
 });

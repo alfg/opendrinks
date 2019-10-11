@@ -1,0 +1,40 @@
+{
+    "name": "Strawberry watermelon juice",
+    "description": "refreshing, healthy, delicious fruit juice",
+    "github": "Amr905",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Strawberries"
+        },
+        {
+            "quantity": "1 ½",
+            "measure": "cups",
+            "ingredient": "Watermelon cut into large cubes"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Take all the ingredients into the blender",
+        "Blend it till it get smooth and runny",
+        "Pour the juice into individual serving glass and serve"
+    ],
+    "image": "strawberry-watermelon-juice.jpg",
+    "source": "https://www.spiceupthecurry.com/strawberry-watermelon-juice-recipe/",
+    "keywords": [
+        "Strawberry",
+        "watermelon",
+        "healthy",
+        "non-alcoholic"
+    ]
+}

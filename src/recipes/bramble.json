@@ -1,19 +1,46 @@
 {
-  "name": "Bramble",
-  "description": "The Bramble is a spring cocktail created by Dick Bradsell in 1980s London, England. Bradsell suggests finishing off the cocktail with some fresh red fruits and a slice of lemon.",
-  "github": "jammerstho",
-  "ingredients": [
-    "35ml gin",
-    "20ml lemon juice",
-    "1tsp sugar syrup",
-    "15ml blackberry liqueur",
-    "Garnish – slice of lemon and a blackberry"
-  ],
-  "directions": [
-    "Shake the gin, lemon juice and sugar syrup in a cocktail shaker with a good handful of ice cubes.",
-    "Then strain into a rocks glass full of crushed ice.",
-    "Drizzle the crème de mure over the top so it ‘bleeds’ into the drink.",
-    "Garnish with the lemon slice and blackberry."
-  ],
-  "image": "bramble.jpg"
-} 
+    "name": "Bramble",
+    "description": "The Bramble is a spring cocktail created by Dick Bradsell in 1980s London, England. Bradsell suggests finishing off the cocktail with some fresh red fruits and a slice of lemon.",
+    "github": "jammerstho",
+    "ingredients": [
+        {
+            "quantity": "35",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "blackberry liqueur"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish – slice of lemon and a blackberry"
+        }
+    ],
+    "directions": [
+        "Shake the gin, lemon juice and sugar syrup in a cocktail shaker with a good handful of ice cubes.",
+        "Then strain into a rocks glass full of crushed ice.",
+        "Drizzle the crème de mure over the top so it ‘bleeds’ into the drink.",
+        "Garnish with the lemon slice and blackberry."
+    ],
+    "image": "bramble.jpg",
+    "keywords": [
+        "gin",
+        "sugar syrup",
+        "lemon juice",
+        "blackberry liqueur",
+        "alcoholic"
+    ]
+}

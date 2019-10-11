@@ -1,0 +1,32 @@
+{
+    "name": "Pink Gin",
+    "description": "A deliciously spiced spin on drinking gin. A great way to enhance a sweet gin",
+    "github": "BenjaminCivitico",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "3",
+            "measure": "Dashes",
+            "ingredient": "Angostura bitters"
+        }
+    ],
+    "directions": [
+        "Add gin and bitters to a cocktail shaker",
+        "Add ice and stir untill gin is chilled",
+        "Pour cocktail into a martini glass and garnish as desired"
+    ],
+    "image": "pink-gin.jpg",
+    "keywords": [
+        "gin",
+        "Deadwood",
+        "historical",
+        "bitter",
+        "sour",
+        "tart",
+        "summer"
+    ]
+}

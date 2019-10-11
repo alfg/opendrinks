@@ -3,9 +3,21 @@
     "description": "A variation to the traditional Kir recipe where Burgundy Aligote wine has been replaced with Champagne. This quick and easy recipe is perfect for the holidays and all major celebrations.",
     "github": "arxcdr",
     "ingredients": [
-        "1 tbsp Crème de cassis",
-        "Champagne",
-        "Fresh seasonal berries"
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "Crème de cassis"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Champagne"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh seasonal berries"
+        }
     ],
     "directions": [
         "Pour the Crème de cassis in the bottom of a Champagne glass.",
@@ -13,5 +25,10 @@
         "Garnish with fresh berries.",
         "Serve immediately."
     ],
-    "image": "kir-royale.jpg"
+    "image": "kir-royale.jpg",
+    "keywords": [
+        "champagne",
+        "berries",
+        "alcoholic"
+    ]
 }

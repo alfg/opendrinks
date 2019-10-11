@@ -1,0 +1,36 @@
+{
+  "name": "Seven Devils",
+  "description": "A sweet and bubbly non-alcoholic drink for the malevolent participant. Cherries are consumed last to ensure total carbonation absorption.",
+  "github": "mookman288",
+  "ingredients": [
+      {
+        "quantity": "7",
+        "measure": "oz",
+        "ingredient": "Pure Sugar 7 Up"
+      },
+      {
+        "quantity": "0.7",
+        "measure": "oz",
+        "ingredient": "Grenadine"
+      },
+      {
+        "quantity": "7",
+        "measure": "pitted",
+        "ingredient": "Maraschino Cherry"
+      }
+  ],
+  "directions": [
+      "Place pitted maraschino cherries in the base of a heavy bottomed glass.",
+      "Pour grenadine directly onto the cherries until exhausted.",
+      "Pour 7 Up slowly into the direct center of the cherries until exhausted."
+  ],
+  "image": "seven-devils.jpg",
+  "keywords": [
+      "non-alcoholic",
+      "virgin",
+      "7 Up",
+      "cherry",
+      "cherries",
+      "grenadine"
+  ]
+}
