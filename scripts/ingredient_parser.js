@@ -10,13 +10,13 @@ const findJsonFiles = (err, files) => {
 
 const parseIngredientQuantities = files => {
   files.forEach(file => {
-    var contents = fs.readFileSync(file, 'utf8');
-    var jsonContents = JSON.parse(contents);
+    const contents = fs.readFileSync(file, 'utf8');
+    const jsonContents = JSON.parse(contents);
     if (jsonContents.hasOwnProperty('ingredients')) {
-      var ingredientArray = [];
-      for (var ingredient of jsonContents.ingredients) {
+      letingredientArray = [];
+      for (let ingredient of jsonContents.ingredients) {
         try {
-          var newIngredient = {};
+          const newIngredient = {};
           newIngredient.quantity = ingredient.match(/^[^a-zA-Z]+/)[0].trim();
           newIngredient.measure = ingredient
             .split(newIngredient.quantity)[1]
@@ -32,11 +32,9 @@ const parseIngredientQuantities = files => {
       }
 
       jsonContents.ingredients = ingredientArray;
-
-      console.log(jsonContents);
     }
 
-    var fixedContents = JSON.stringify(jsonContents, null, 4);
+    const fixedContents = JSON.stringify(jsonContents, null, 4);
 
     fs.writeFileSync(file, fixedContents);
   });
