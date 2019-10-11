@@ -1,0 +1,31 @@
+{
+    "name": "Soro Caseiro",
+    "description": "A drink used to hydrate and prevent intestinal disorders.",
+    "github": "ffelixneto",
+    "ingredients": [
+        {
+            "quantity": "7",
+            "measure": "oz",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "salt"
+        }
+    ],
+    "directions": [
+        "Mix water, sugar and salt until they homogenize.",
+        "It's ready to drink and hydrate your body"
+    ],
+    "image": "soro-caseiro.jpg",
+    "keywords": [
+        "health",
+        "cheap"
+    ]
+}
