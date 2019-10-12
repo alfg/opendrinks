@@ -1,0 +1,61 @@
+{
+    "name": "Caesar",
+    "description": "A true Canadian classic.",
+    "github": "airbornelamb",
+    "ingredients": [
+        {
+            "quantity": "½",
+            "measure": "tsp",
+            "ingredient": "Celery salt"
+        },
+        {
+            "quantity": "½",
+            "measure": "tsp",
+            "ingredient": "Garlic salt"
+        },
+        {
+            "quantity": "½",
+            "measure": "tsp",
+            "ingredient": "Steak seasoning"
+        },
+        {
+            "quantity": "¼",
+            "measure": "ounce",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Worcestershire sauce"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Hot sauce"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "Clamato juice"
+        },
+        {
+            "quantity": "⅓",
+            "measure": "stalk",
+            "ingredient": "Celery"
+        }
+    ],
+    "directions": [
+        "Blend the celery salt, garlic salt, and steak seasoning. Dip the rim of the a glass/jar into the lime juice, then dip it into the spice mix to coat the rim.",
+        "Add the vodka to the glass and fill it with ice. Now add the Worcestershire sauce, hot sauce, and lime juice. Fill the rest of the glass with the clamato juice.",
+        "Stir for a few seconds, then garnish with part of a celery stalk."
+    ],
+    "image": "caesar.jpg",
+    "keywords": [
+        "alcoholic", "Canada"
+    ]
+}
