@@ -90,7 +90,6 @@ export default {
     },
     favorited(name) {
       const index = this.favorites.indexOf(name);
-      console.log(index);
       if (index !== -1) {
         this.favorites.splice(index, 1);
       } else {
