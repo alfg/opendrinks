@@ -165,28 +165,42 @@ export default {
     margin-top: 1em;
   }
 
-  @media (min-width: 768px){
-    .recipe-hero-container .recipe-directions-container{
+  .recipe-hero-container .recipe-directions-container {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  .recipe-ingredients{
+    width: 37%;
+    float: left;
+    margin-right: 1em; 
+  }
+  .recipe-image{
+    width: 60%;
+    float: left;
+    margin-bottom: 2em;
+  }
+
+  .recipe-directions-list{
+    width: 100%;
+    float: left;
+    margin-top: 1em;
+  }
+
+  @media (max-width: 768px){
+    .recipe-hero-container {
+      display: grid;
+    }
+
+    .recipe-image{
+      order: 1;
       width: 100%;
-      height: 100%;
-      display: block;
     }
 
     .recipe-ingredients{
-      width: 37%;
-      float: left;
-      margin-right: 1em; 
-    }
-    .recipe-image{
-      width: 60%;
-      float: left;
-      margin-bottom: 2em;
-    }
-
-    .recipe-directions-list{
+      order: 2;
       width: 100%;
-      float: left;
-      margin-top: 1em;
     }
   }
 </style>
