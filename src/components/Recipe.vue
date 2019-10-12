@@ -175,7 +175,6 @@ export default {
     .recipe-ingredients{
       width: 37%;
       float: left;
-      margin-top: 1em;
       margin-right: 1em; 
     }
     .recipe-image{
