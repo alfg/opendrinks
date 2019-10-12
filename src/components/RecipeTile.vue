@@ -7,7 +7,7 @@
   >
     <b-link :href="'/recipe/' + drink.filename">
       <b-card-img-lazy
-        :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
+        :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
         :alt="drink.name"
         top
       />
