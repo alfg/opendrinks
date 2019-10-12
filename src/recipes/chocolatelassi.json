@@ -1,0 +1,53 @@
+{
+    "name": "Chocolate lassi",
+    "description": "In hot summer make a chocolate lassi to feel coolness by just a simple and awesome recipe. make your chocolate lassi using chocolate syrup,chocolate powder, curd, honey and some water",
+    "github": "sunainasapna",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Curd"
+        },
+        {
+            "quantity": "3",
+            "measure": "teaspoon",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+		 {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "cocoa powder"
+        },
+		 {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "chocolate syrup"
+        }
+        {
+            "quantity":"1/2",
+            "measure":"teaspoon",
+            "ingredient":"caradamon"
+        }
+    ],
+    "directions": [
+       "blend curd and add all the ingredients properly",
+       "avoid lumps and make it smooth.",
+       "mix all the ingredient well"
+       "Garnish with chocolate syrup and more dry fruits.",
+       "Serve it cold."
+    ],
+    "image": "chocolatelassi.jpg",
+   
+    "keywords": [
+        "chocolate syrup",
+        "dabur honey",
+	    "fresh verka curd",
+	    "cocoa powder",
+	    "cold water"
+    ]
+}
