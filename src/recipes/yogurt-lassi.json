@@ -41,9 +41,9 @@
         "Blend lassi until frothy. Pour to serving glasses.",
         "Lassi is best served chilled garnished with mint leaves."
     ],
-    "image": "<yogurt-lassi.jpg>",
+    "image": "yogurt-lassi.jpg",
     "keywords": [
-        "Lassi",
-        "Dahi"
+        "lassi",
+        "dahi"
     ]
 }
