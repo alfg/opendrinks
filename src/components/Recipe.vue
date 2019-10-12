@@ -166,7 +166,7 @@ export default {
   }
 
   @media (min-width: 768px){
-    .recipe-hero-container .recipe-directions-container .similar-drinks-container{
+    .recipe-hero-container .recipe-directions-container{
       width: 100%;
       height: 100%;
       display: block;
@@ -183,7 +183,7 @@ export default {
       margin-bottom: 2em;
     }
 
-    .recipe-directions-list .similar-drinks-list{
+    .recipe-directions-list{
       width: 100%;
       float: left;
       margin-top: 1em;
