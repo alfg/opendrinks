@@ -17,6 +17,7 @@
         <b-nav-item to="/explore">Explore</b-nav-item>
         <b-nav-item to="/keyword">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
+        <b-nav-item to="/favorites">My Favs</b-nav-item>
       </b-nav>
     </div>
     <router-view />
