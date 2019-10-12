@@ -28,4 +28,9 @@ describe('Recipe', () => {
     const title = wrapper.find('h1').text();
     expect(title).toMatch(/Mango Juice/);
   });
+
+  test('first keyword badge of recipe should correspond to first keyword array element in data', () => {
+    const btn = wrapper.find('b-badge-stub');
+    expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
+  });
 });
