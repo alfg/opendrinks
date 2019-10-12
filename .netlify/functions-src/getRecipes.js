@@ -7,6 +7,7 @@ exports.handler = function(event, context, callback) {
     statusCode: 200,
     headers: {
       'Content-Type': 'application/json',
+      'Cache-Control': 'public, s-max-age=3600' // 60 minutes.
     },
     body: JSON.stringify({ recipes: r }),
   });
