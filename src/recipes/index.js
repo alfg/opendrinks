@@ -16,7 +16,7 @@ function getRecipes() {
 
   recipes.forEach(i => {
     const r = i.replace('./', '').replace('.json', '');
-    const item = require(`@/recipes/${r}`);
+    const item = require(`./${r}`);
     item.filename = r;
     items.push(item);
   });
@@ -31,7 +31,7 @@ function getRecipesByKeywords(keyword) {
 
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
-  const item = require(`@/recipes/${r}`);
+  const item = require(`./${r}`);
   item.filename = r;
   return item;
 }
