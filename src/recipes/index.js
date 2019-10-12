@@ -13,7 +13,6 @@ const recipes = requireAll(require.context('./json/', true, /\.json$/));
 
 function getRecipes() {
   const items = [];
-
   recipes.forEach(i => {
     const r = i.replace('./', '').replace('.json', '');
     const item = require(`./json/${r}`);
