@@ -1,0 +1,116 @@
+{
+    "name": "Thandai",
+    "description": "A drink native to India and is often associated with the Maha Shivaratri and Holi or Holla mahalla festival.",
+    "github": "sounak98",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Half and Half Milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Whole Milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Rose Water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Cashews"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Melon Seeds"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Saffron Strands"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Cinnamon Powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Nutmeg Powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Rose Petal Spread (Gulkand)"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "teaspoons",
+            "ingredient": "Fennel Seed Powder"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "teaspoons",
+            "ingredient": "Cardamom Powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Poppy Seeds"
+        },
+        {
+            "quantity": "12",
+            "measure": "pieces",
+            "ingredient": "Almonds"
+        },
+        {
+            "quantity": "15",
+            "measure": "pieces",
+            "ingredient": "Pistachios"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "teaspoon",
+            "ingredient": "Black Peppercorns"
+        }
+    ],
+    "directions": [
+        "Boil milk in a bowl and soak saffron strands in it. Allow it to sit for 15 - 20 minutes. Soaking saffron strands in hot milk releases its color and flavor.",
+        "Stir it with a spoon and milk will have a beautiful pale yellow color. Set it aside.",
+        "Let's assemble our thandai masala ingredients. Feel free to adjust spices according to taste.",
+        "Add all the nuts and spices to a grinder.",
+        "Grind spices to their powdered form. Set it aside.",
+        "You can ground the spices in a motor and pestle too.",
+        "Boil milk in a heavy bottomed pan.",
+        "When it comes to a full boil, stir in the nuts and spices one by one.",
+        "Whisk so that no lumps remain. Add sugar and keep stirring the liquid. Give it a good boil and take it off the flame. Allow it to cool completely.",
+        "Stir in saffron flavored milk, rose spread and rose water. If no rose spread available add 2 tablespoons of rose water.",
+        "Allow it to sit for a while (an hour or more) so that it can soak in all the flavors. Later sieve it through a strainer, add water and refrigerate this drink for at least 3-4 hours or until chilled.",
+        "Thandai tastes best when served chilled."
+    ],
+    "image": "thandai.jpg",
+    "source": "https://www.ruchiskitchen.com/thandai-recipe/",
+    "keywords": [
+        "cool",
+        "refreshing",
+        "non-alcoholic",
+        "indian",
+        "milk",
+        "saffron"
+    ]
+}
