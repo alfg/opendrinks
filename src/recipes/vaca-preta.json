@@ -1,6 +1,6 @@
 {
   "name": "Vaca preta",
-  "description": "Vaca preta, wich means Black cow in Portuguese, is a drink that can also be a dessert. Blends the creaminess of ice cream with the freshness of Coke.",
+  "description": "Vaca preta, wich means black cow in Portuguese, is a drink that can also be a dessert. Blends the creaminess of ice cream with the freshness of Coke.",
   "github": "estevam31",
   "ingredients": [
       {
@@ -12,10 +12,10 @@
           "quantity": "1",
           "measure": "glass",
           "ingredient": "coke"
-      },
+      }
   ],
   "directions": [
-      "Mix all ingredients in a blender."
+      "Mix all ingredients in a blender or just pour Coke on ice cream."
   ],
   "image": "vaca-preta.jpg",
   "keywords": [
