@@ -9,13 +9,13 @@ function requireAll(r) {
   return r.keys();
 }
 
-const recipes = requireAll(require.context('./', true, /\.json$/));
+const recipes = requireAll(require.context('./json/', true, /\.json$/));
 
 function getRecipes() {
   const items = [];
   recipes.forEach(i => {
     const r = i.replace('./', '').replace('.json', '');
-    const item = require(`@/recipes/${r}`);
+    const item = require(`./json/${r}`);
     item.filename = r;
     items.push(item);
   });
@@ -30,7 +30,7 @@ function getRecipesByKeywords(keyword) {
 
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
-  const item = require(`@/recipes/${r}`);
+  const item = require(`./json/${r}`);
   item.filename = r;
   return item;
 }
