@@ -1,0 +1,46 @@
+{
+    "name": "Concrete Junglebird",
+    "description": "Concrete JungleBird is a classic Tiki drink created in 1978 at the Aviary bar of the Kuala Lumpur Hilton",
+    "github": "PrajapatiAnkit",
+    "ingredients": [
+        {
+            "quantity": "0.25",
+            "measure": "oz",
+            "ingredient": "demerara"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "caramelized pineapple concentrate"
+        },
+         {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "Appleton Reserve Jamaican Rum"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "chai infused Jameson Black Barrel"
+        }
+    ],
+    "directions": [
+        "Add all ingredients to a mixer with ice",
+        "Shake vigorously, strain into a double rocks glass and garnish with a pineapple leaf."
+    ],
+    "image": https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-2868-1546986659.jpg?crop=0.444581154516559xw:1xh;center,top&resize=980:*",
+    "keywords": [
+        "fruit",
+        "juice"
+    ]
+}
