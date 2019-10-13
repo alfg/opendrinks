@@ -52,7 +52,7 @@ export default {
             localStorage.removeItem('favorites');
             this.drinks = [];
           }
-        })
+        });
     },
     favoriteClick(name) {
       const index = this.drinks.findIndex(drink => drink.name === name);

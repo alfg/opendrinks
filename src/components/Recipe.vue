@@ -32,7 +32,7 @@
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
 
-    <section class="recipe-hero-container">
+    <section class="recipe-hero-container row">
       <div class="recipe-ingredients">
         <h4>Ingredients</h4>
         <ul>
@@ -43,7 +43,8 @@
       </div>
 
       <div class="recipe-image">
-        <b-img right
+        <b-img
+          right
           class="mb-4"
           :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
           :alt="drink.name"
@@ -52,8 +53,8 @@
         />
       </div>
     </section>
-    
-    <section class="recipe-directions-container">
+
+    <section class="recipe-directions-container row">
       <div class="recipe-directions-list">
         <h4>Directions</h4>
         <ol class="mb-4">
@@ -68,13 +69,6 @@
         </span>
       </div>
     </section>
-
-    <div class="mt-4 mb-4" v-if="drink.source">
-      <span>
-        View full recipe at:
-        <a :href="drink.source">{{ drink.source }}</a>
-      </span>
-    </div>
 
     <div class="similar-drinks mt-4 mb-4">
       <h4>Similar drinks</h4>
@@ -161,46 +155,46 @@ export default {
 </script>
 
 <style scoped>
-  .print-button {
-    margin-top: 1em;
+.print-button {
+  margin-top: 1em;
+}
+
+.recipe-hero-container .recipe-directions-container {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.recipe-ingredients {
+  width: 37%;
+  float: left;
+  margin-right: 1em;
+}
+.recipe-image {
+  width: 60%;
+  float: left;
+  margin-bottom: 2em;
+}
+
+.recipe-directions-list {
+  width: 100%;
+  float: left;
+  margin-top: 1em;
+}
+
+@media (max-width: 768px) {
+  .recipe-hero-container {
+    display: grid;
   }
 
-  .recipe-hero-container .recipe-directions-container {
+  .recipe-image {
+    order: 1;
     width: 100%;
-    height: 100%;
-    display: block;
   }
 
-  .recipe-ingredients{
-    width: 37%;
-    float: left;
-    margin-right: 1em; 
-  }
-  .recipe-image{
-    width: 60%;
-    float: left;
-    margin-bottom: 2em;
-  }
-
-  .recipe-directions-list{
+  .recipe-ingredients {
+    order: 2;
     width: 100%;
-    float: left;
-    margin-top: 1em;
   }
-
-  @media (max-width: 768px){
-    .recipe-hero-container {
-      display: grid;
-    }
-
-    .recipe-image{
-      order: 1;
-      width: 100%;
-    }
-
-    .recipe-ingredients{
-      order: 2;
-      width: 100%;
-    }
-  }
+}
 </style>
