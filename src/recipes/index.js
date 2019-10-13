@@ -111,6 +111,10 @@ function getAllKeywordsWithCount() {
   return keywords;
 }
 
+function getFavoritedRecipes(favorites) {
+  return getRecipes().filter(recipe => favorites.some(favorite => favorite === recipe.name));
+}
+
 export default {
   getAllKeywords,
   getAllKeywordsWithCount,
@@ -119,4 +123,5 @@ export default {
   getRecipe,
   getRandom,
   getSimilarRecipe,
+  getFavoritedRecipes,
 };
