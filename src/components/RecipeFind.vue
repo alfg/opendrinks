@@ -47,7 +47,12 @@ export default {
   },
   computed: {
     filterResults() {
-      const searchParts = this.search.toLowerCase().split(' ');
+      const searchParts = this.search
+        .toLowerCase()
+        .normalize('NFD') // remove accents from string
+        .replace(/[\u0300-\u036f]/g, '') // remove accents and diacritics in the Combining Diacritical Marks Unicode block
+        .split(' ');
+
       const isNameEnabled = this.selectedSearch === 'name';
       const isIngredientsEnabled = this.selectedSearch === 'ingredients';
       const isKeywordsEnabled = this.selectedSearch === 'keywords';
@@ -56,14 +61,25 @@ export default {
 
       if (isNameEnabled) {
         filtered = this.data.filter(
-          recipe => recipe.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1,
+          recipe =>
+            recipe.name
+              .toLowerCase()
+              .normalize('NFD')
+              .replace(/[\u0300-\u036f]/g, '')
+              .indexOf(this.search.toLowerCase()) > -1,
         );
       }
 
       if (isIngredientsEnabled) {
         filtered = this.data.filter(recipe =>
           searchParts.every(s =>
-            recipe.ingredients.some(i => i.ingredient.toLowerCase().includes(s.toLowerCase())),
+            recipe.ingredients.some(i =>
+              i.ingredient
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .includes(s.toLowerCase()),
+            ),
           ),
         );
       }
