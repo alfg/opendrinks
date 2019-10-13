@@ -4,7 +4,7 @@
       <div v-for="(o, i) in paginatedItems" v-bind:key="i" class="mb-2 p-1">
         <b-card
           :title="o.name"
-          :img-src="o.image ? require(`@/recipes/img/${o.image}`) : null"
+          :img-src="o.image ? require(`@/assets/recipes/${o.image}`) : null"
           :img-alt="o.name"
           img-top
           style="max-width: 20rem;"
@@ -14,6 +14,11 @@
           </b-card-text>
 
           <b-button :href="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+          <FavoriteStar
+            class="mt-2 float-right"
+            @favorite="favorited(o.name)"
+            :isFavorited="favorites.includes(o.name)"
+          ></FavoriteStar>
         </b-card>
       </div>
     </b-card-group>
@@ -38,11 +43,16 @@
 </template>
 
 <script>
+import FavoriteStar from './FavoriteStar.vue';
+
 export default {
   name: 'RecipeList',
   props: {
     title: String,
     items: Array,
+  },
+  components: {
+    FavoriteStar,
   },
   data() {
     return {
@@ -51,6 +61,7 @@ export default {
       selected: 10,
       pageNumber: 0,
       options: [{ value: 10, text: '10' }, { value: 25, text: '25' }, { value: 50, text: '50' }],
+      favorites: [],
     };
   },
   watch: {
@@ -60,6 +71,7 @@ export default {
   },
   mounted() {
     window.document.title = this.title;
+    this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
   },
   computed: {
     rows() {
@@ -75,6 +87,16 @@ export default {
     },
     getSelectedItem(event) {
       this.perPage = event;
+    },
+    favorited(name) {
+      const index = this.favorites.indexOf(name);
+      if (index !== -1) {
+        this.favorites.splice(index, 1);
+      } else {
+        this.favorites.push(name);
+      }
+      window.localStorage.setItem('favorites', JSON.stringify(this.favorites));
+      this.$emit('favoriteClick', name);
     },
   },
 };

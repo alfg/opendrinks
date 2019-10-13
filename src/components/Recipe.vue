@@ -32,32 +32,45 @@
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
 
-    <b-img
-      class="mb-4"
-      :src="drink.image ? require(`@/recipes/img/${drink.image}`) : null"
-      :alt="drink.name"
-      rounded
-      fluid-grow
-    />
+    <b-container>
+      <b-row>
+        <div class="recipe-ingredients">
+          <h4>Ingredients</h4>
+          <ul>
+            <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+              {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+            </li>
+          </ul>
+        </div>
 
-    <h4>Ingredients</h4>
-    <ul>
-      <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
-        {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
-      </li>
-    </ul>
+        <div class="recipe-image">
+          <b-img
+            right
+            class="mb-4"
+            :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
+            :alt="drink.name"
+            rounded
+            fluid-grow
+          />
+        </div>
+      </b-row>
 
-    <h4>Directions</h4>
-    <ol class="mb-4">
-      <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
-    </ol>
+      <b-row>
+        <div class="recipe-directions-list">
+          <h4>Directions</h4>
+          <ol class="mb-4">
+            <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
+          </ol>
+        </div>
 
-    <div class="mt-4 mb-4" v-if="drink.source">
-      <span>
-        View full recipe at:
-        <a :href="drink.source">{{ drink.source }}</a>
-      </span>
-    </div>
+        <div class="mt-4" v-if="drink.source">
+          <span>
+            View full recipe at:
+            <a :href="drink.source">{{ drink.source }}</a>
+          </span>
+        </div>
+      </b-row>
+    </b-container>
 
     <div class="similar-drinks mt-4 mb-4">
       <h4>Similar drinks</h4>
@@ -146,5 +159,38 @@ export default {
 <style scoped>
 .print-button {
   margin-top: 1em;
+}
+
+.recipe-ingredients {
+  width: 37%;
+  float: left;
+  margin-right: 1em;
+}
+.recipe-image {
+  width: 60%;
+  float: left;
+  margin-bottom: 2em;
+}
+
+.recipe-directions-list {
+  width: 100%;
+  float: left;
+  margin-top: 1em;
+}
+
+@media (max-width: 768px) {
+  .recipe-hero-container {
+    display: grid;
+  }
+
+  .recipe-image {
+    order: 1;
+    width: 100%;
+  }
+
+  .recipe-ingredients {
+    order: 2;
+    width: 100%;
+  }
 }
 </style>

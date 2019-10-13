@@ -46,5 +46,10 @@ export default new Router({
       name: 'keyword',
       component: () => import('./views/Keyword.vue'),
     },
+    {
+      path: '/favorites',
+      name: 'favorites',
+      component: () => import('./views/Favorites.vue'),
+    },
   ],
 });

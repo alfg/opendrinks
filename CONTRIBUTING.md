@@ -42,7 +42,7 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
 }
 ```
 
-* Add an image to the [/src/recipes/img](/src/recipes/img/).
+* Add an image to the [/src/assets/recipes/](/src/assets/recipes/).
   * Filename should match recipe filename
   * JPG format, **600x400px** if possible, 200KB max in size
 * source is an optional field
