@@ -1,0 +1,49 @@
+{
+    "name": "Yogurt-Lassi",
+    "description": "Indian Lassi with atint of mint, cardamom and cumin flavours.",
+    "github": "vatikagupta",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "Curd or Yogurt"
+        },
+        {
+            "quantity": "As Desired",
+            "measure": " ",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/2 to 3/4",
+            "measure": "teaspoon",
+            "ingredient": "Powdered Mint Leaves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Powdered Cumin"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Salt"
+        }
+    ],
+    "directions": [
+        "Chill the curd or yogurt and water.",
+        "Add curd to a large bowl. Whisk it well to break lumps and make it smooth.",
+        "Pour curd, water, salt, sugar, mint powder and cumin powder to a blender.",
+        "Blend lassi until frothy. Pour to serving glasses.",
+        "Lassi is best served chilled garnished with mint leaves."
+    ],
+    "image": "yogurt-lassi.jpg",
+    "keywords": [
+        "lassi",
+        "dahi"
+    ]
+}

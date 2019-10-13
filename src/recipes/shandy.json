@@ -1,0 +1,31 @@
+{
+    "name": "Shandy",
+    "description": "This makes for a luscious beer with a hint of lemonade.",
+    "github": "alanpaulprice",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "oz",
+            "ingredient": "Lager-style beer"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Prepared lemonade"
+        }
+    ],
+    "directions": [
+        "Pour the beer into a pint glass.",
+        "Slowly add the lemonade.",
+        " Stir gently."
+    ],
+    "image": "shandy.jpg",
+    "source": "https://www.allrecipes.com/recipe/149943/shandy/",
+    "keywords": [
+        "alcoholic",
+        "beer",
+        "lager",
+        "lemonade",
+        "cold"
+    ]
+}

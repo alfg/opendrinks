@@ -13,10 +13,9 @@ const recipes = requireAll(require.context('./', true, /\.json$/));
 
 function getRecipes() {
   const items = [];
-
   recipes.forEach(i => {
     const r = i.replace('./', '').replace('.json', '');
-    const item = require(`@/recipes/${r}`);
+    const item = require(`./${r}`);
     item.filename = r;
     items.push(item);
   });
@@ -31,7 +30,7 @@ function getRecipesByKeywords(keyword) {
 
 function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
-  const item = require(`@/recipes/${r}`);
+  const item = require(`./${r}`);
   item.filename = r;
   return item;
 }
@@ -112,6 +111,10 @@ function getAllKeywordsWithCount() {
   return keywords;
 }
 
+function getFavoritedRecipes(favorites) {
+  return getRecipes().filter(recipe => favorites.some(favorite => favorite === recipe.name));
+}
+
 export default {
   getAllKeywords,
   getAllKeywordsWithCount,
@@ -120,4 +123,5 @@ export default {
   getRecipe,
   getRandom,
   getSimilarRecipe,
+  getFavoritedRecipes,
 };

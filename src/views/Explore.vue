@@ -21,7 +21,7 @@
               v-for="(o, i) in filteredKeywords"
               v-bind:key="i"
               variant="secondary"
-              class="mr-2 filterItem"
+              class="mr-2 filter-item"
               @click="removeKeywordFromFilter(i)"
             >
               {{ o }}
@@ -107,15 +107,15 @@ export default {
 </script>
 
 <style scoped>
-.filterItem {
+.filter-item {
   cursor: pointer;
 }
 
-.filterItem:hover {
+.filter-item:hover {
   background-color: #363a3e;
 }
 
-.filterItem:hover::after {
+.filter-item:hover::after {
   content: '×';
 }
 </style>
