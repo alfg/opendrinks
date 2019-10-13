@@ -32,43 +32,45 @@
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
 
-    <section class="recipe-hero-container row">
-      <div class="recipe-ingredients">
-        <h4>Ingredients</h4>
-        <ul>
-          <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
-            {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
-          </li>
-        </ul>
-      </div>
+    <b-container>
+      <b-row>
+        <div class="recipe-ingredients">
+          <h4>Ingredients</h4>
+          <ul>
+            <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+              {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+            </li>
+          </ul>
+        </div>
 
-      <div class="recipe-image">
-        <b-img
-          right
-          class="mb-4"
-          :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
-          :alt="drink.name"
-          rounded
-          fluid-grow
-        />
-      </div>
-    </section>
+        <div class="recipe-image">
+          <b-img
+            right
+            class="mb-4"
+            :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
+            :alt="drink.name"
+            rounded
+            fluid-grow
+          />
+        </div>
+      </b-row>
 
-    <section class="recipe-directions-container row">
-      <div class="recipe-directions-list">
-        <h4>Directions</h4>
-        <ol class="mb-4">
-          <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
-        </ol>
-      </div>
+      <b-row>
+        <div class="recipe-directions-list">
+          <h4>Directions</h4>
+          <ol class="mb-4">
+            <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
+          </ol>
+        </div>
 
-      <div class="mt-4" v-if="drink.source">
-        <span>
-          View full recipe at:
-          <a :href="drink.source">{{ drink.source }}</a>
-        </span>
-      </div>
-    </section>
+        <div class="mt-4" v-if="drink.source">
+          <span>
+            View full recipe at:
+            <a :href="drink.source">{{ drink.source }}</a>
+          </span>
+        </div>
+      </b-row>
+    </b-container>
 
     <div class="similar-drinks mt-4 mb-4">
       <h4>Similar drinks</h4>
@@ -157,12 +159,6 @@ export default {
 <style scoped>
 .print-button {
   margin-top: 1em;
-}
-
-.recipe-hero-container .recipe-directions-container {
-  width: 100%;
-  height: 100%;
-  display: block;
 }
 
 .recipe-ingredients {
