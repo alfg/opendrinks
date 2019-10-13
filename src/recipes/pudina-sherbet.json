@@ -1,0 +1,59 @@
+{
+    "name": "Pudina Sherbet",
+    "description": "An Indian style of making pudina juice with mint leaves, honey, lemon juice and few Indian spices.",
+    "github": "sounak98",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Mint Leaves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "Honey or Sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Black Pepper Powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Rock Salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Roasted Cumin Powder"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "tablespoons",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "cups",
+            "ingredient": "Chilled Water or Ice Cubes"
+        }
+    ],
+    "directions": [
+        "Remove the mint leaves from stems and wash it very well.",
+        "Take all the ingredients in the blender with only ½ cup of water.",
+        "Blend it into smooth puree.",
+        "Add remaining water and swirl again 2-3 times or till just all get incorporated.",
+        "If you want you can strain the juice using strainer. I skipped this step because I like this way then why do extra step.",
+        "If your water is not chilled then chill it in the refrigerator or serve with ice cubes.",
+        "If juice is refrigerated then stir first and then pour into the serving glass."
+    ],
+    "image": "pudina-sherbet.jpg",
+    "source": "https://www.spiceupthecurry.com/mint-juice-recipe-phudina-sherbet/",
+    "keywords": [
+        "cool",
+        "refreshing",
+        "non-alcoholic",
+        "indian"
+    ]
+}

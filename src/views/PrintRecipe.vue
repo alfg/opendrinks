@@ -19,7 +19,7 @@ export default {
 .container.mb-4.mb-4,
 footer.container,
 .print-button,
-.similarDrinks {
+.similar-drinks {
   display: none;
 }
 </style>

@@ -76,7 +76,7 @@
       </span>
     </div>
 
-    <div class="similarDrinks mt-4 mb-4">
+    <div class="similar-drinks mt-4 mb-4">
       <h4>Similar drinks</h4>
       <b-card-group deck>
         <RecipeTile
