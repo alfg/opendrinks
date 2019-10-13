@@ -1,0 +1,23 @@
+{
+    "name": "Avocado Juice",
+    "description": "The avocado, also known as butter pear or alligator pear, is a fruit that is widely acknowledged to have properties that reduce cholesterol levels in the body. To top it off, it's absolutely delicious. so this is avocado juice recipe",
+    "github": "misspuff55",
+    "ingredients": [
+        "5 Tablespoons sugar",
+        "5 Tablespoons water",
+        "2 avocados, peeled and pit removed",
+        "½ cup milk,
+        "1 cup chocolate milk",
+        "Ice, crushed"
+    ],
+    "directions": [
+        "To make the simple syrup, combine the sugar and water in a small saucepan over medium to high heat",
+        "Stir until clear. Remove from heat and let cool.",
+        "Spoon out the avocado pulp and place in a blender",
+        "Add the syrup and blend to mix, then add cold milk and blend.",
+        "Divide the mixture between two tall glasses.",
+        "Top each serving with ½ cup chocolate milk (to form a separate layer) and crushed ice",
+        "Serve immediately while still cold."
+    ],
+    "image": "avocado-juice.jpg"
+}
