@@ -1,0 +1,50 @@
+
+{
+    "name": "Bael Panna (Woodapple Juice)",
+    "description": "This juice is not something you might find on a mocktail menu, but will surely soothe your heart on a hot summer day.",
+    "github": "sounak98",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tablespoons",
+            "ingredient": "Instant Coffee"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cups",
+            "ingredient": "Full fat milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "6",
+            "measure": "count",
+            "ingredient": "Ice Cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Vanilla Ice Cream"
+        }
+    ],
+    "directions": [
+        "Add instant coffee and water into a container.",
+        "Use full fat milk to add to the flavouring.",
+        "Add sugar to the mixture.",
+        "Add ice cubes to the container.",
+        "Add one cup vanilla ice cream to the mixture. Shake the ingredients well until light brown texture appears.",
+        "Pour the mixture into cocktail glasses and add a slice of vanilla ice cream on top. Bon Appetit"
+        
+    ],
+    "image": "cold-coffee.jpg",
+    "source": "https://www.vegrecipesofindia.com/cold-coffee-recipe-coffee-milkshake/",
+    "keywords": [
+        "coffee",
+        "cold",
+        "creamy",
+        "non-alcoholic"
+    ]
+}
