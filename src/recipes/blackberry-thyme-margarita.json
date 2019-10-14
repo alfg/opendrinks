@@ -1,0 +1,66 @@
+{
+    "name": "Blackberry Thyme Margarita",
+    "description": "Margaritas served with a not so usual combination of blackberries and thyme.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "number",
+            "ingredient": "fresh blackberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "fresh thyme"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "number",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "orange zest"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "silver tequila"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sparkling water for topping"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "tablespoon",
+            "ingredient": "Optional: Honey for sweetening"
+        },
+        {
+            "quantity": "1",
+            "measure": "number",
+            "ingredient": "Optional: red plum quartered"
+        }
+    ],
+    "directions": [
+        "Run a lime wedge around the rim of glass and coat in flaky salt.",
+        "In a cocktail shaker or glass jar, add blackberries, plums, thyme, lime juice, honey (if using), and orange zest.",
+        "Muddle all of the ingredients together, squashing everything to release the juices from the fruit. ",
+        "Add the tequila.",
+        "Fill with ice and shake until combined.",
+        "Strain into your prepared glass.",
+        "Top with sparkling water, if desired.",
+        "Serve with fresh thyme.",
+        "Cheers!"
+    ],
+    "image": "blackberry-thyme-margarita.jpg",
+    "source": "https://www.halfbakedharvest.com/blackberry-thyme-margarita/",
+    "keywords": [
+        "tequila",
+        "blackberry",
+        "thyme",
+        "alcoholic"
+    ]
+}
