@@ -21,7 +21,7 @@
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
     "test": "npm run test:unit",
     "function-serve": "netlify-lambda serve .netlify/functions-src -c .netlify/functions-src/webpack.functions.js",
-    "function-build": "netlify-lambda build .netlify/functions-src -c netlify/functions-src/webpack.functions.js"
+    "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/functions-src/webpack.functions.js"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
