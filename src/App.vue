@@ -12,12 +12,12 @@
         </h1>
       </div>
 
-      <b-nav tabs fill>
+      <b-nav tabs align="center">
         <b-nav-item to="/">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
         <b-nav-item to="/keyword">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
-        <b-nav-item to="/favorites">Favorites</b-nav-item>
+        <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
     <router-view />
