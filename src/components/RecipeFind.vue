@@ -1,6 +1,7 @@
 <template>
   <div id="recipe-find">
-    <b-form-input @keydown.enter="onEnter" v-model.trim="search"></b-form-input>
+    <b-form-input @keydown.enter="onEnter" v-on:keydown="onKeydown" v-model.trim="search">
+    </b-form-input>
 
     <b-form-group class="mt-2" label="Filter by:">
       <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
@@ -103,6 +104,33 @@ export default {
         params: { id: this.filterResults[0].filename },
       });
     },
+    onKeydown(event) {
+      const listElements = document.getElementsByClassName('list-group-item');
+      const currentHighlightedElement = document.getElementsByClassName('highlight')[0];
+      const firstListElement = listElements[0];
+      const lastListElement = listElements[listElements.length - 1];
+      let nextElement;
+
+      if (event.keyCode === 40) {
+        // key down
+        nextElement = currentHighlightedElement
+          ? currentHighlightedElement.nextSibling
+          : firstListElement;
+      } else if (event.keyCode === 38) {
+        // key up
+        nextElement = currentHighlightedElement
+          ? currentHighlightedElement.previousSibling
+          : lastListElement;
+      }
+      if (currentHighlightedElement) currentHighlightedElement.classList.remove('highlight');
+      if (nextElement) nextElement.classList.add('highlight');
+    },
   },
 };
 </script>
+
+<style scoped>
+.highlight {
+  background-color: #f8f9fa;
+}
+</style>
