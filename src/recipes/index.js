@@ -32,6 +32,7 @@ function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
   const item = require(`./${r}`);
   item.filename = r;
+  item.img = require(`../assets/recipes/${item.image}`);
   return item;
 }
 
