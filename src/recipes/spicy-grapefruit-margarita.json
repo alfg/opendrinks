@@ -1,0 +1,71 @@
+{
+    "name": "Spicy Grapefruit Margarita",
+    "description": "Spicy twist to your regular margarita.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1 1/2 - 2",
+            "measure": "ounces",
+            "ingredient": "silver tequila"
+        },
+        {
+            "quantity": "2 1/2",
+            "measure": "ounces",
+            "ingredient": "grapefruit juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "agave nectar: to taste"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "slices",
+            "ingredient": "jalapeno: depending on spiciness of drink"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "chilli powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "kosher salt"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "granulated sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "slices of lime + grapefruit: for serving"
+        }
+    ],
+    "directions": [
+        "In a bowl, combine the chili power salt and sugar.",
+        "Mix well to combine.",
+        "Use this mixture to rim your glasses.",
+        "Combine all the ingredients in a cocktail shaker and fill with ice.",
+        "Shake until combined and then strain into your prepared glass.",
+        "he longer you shake the drink, the spicier it will become.",
+        "Add a grapefruit wedge and a slice of jalapeño if desired.",
+        "Cheers!"
+    ],
+    "image": "spicy-grapefruit-margarita.jpg",
+    "source": "https://www.halfbakedharvest.com/spicy-grapefruit-margarita/",
+    "keywords": [
+        "tequila",
+        "spicy",
+        "grapefruit",
+        "alcoholic",
+        "jalapeno"
+    ]
+}
