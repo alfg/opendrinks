@@ -8,7 +8,14 @@ const validateRecipe = files => {
   let foundError = false;
   files.forEach(file => {
     const contents = fs.readFileSync(`${__dirname}/../src/recipes/${file}`, 'utf8');
-    const jsonContents = JSON.parse(contents);
+
+    let jsonContents;
+    try {
+      jsonContents = JSON.parse(contents);
+    } catch (error) {
+      console.log(`Error reading: ${file}!`);
+      foundError = true;
+    }
 
     const valid = ajv.validate('recipeSchema', jsonContents);
     if (!valid) {
