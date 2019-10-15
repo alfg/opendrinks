@@ -90,7 +90,7 @@ import recipes from '../recipes';
 import RecipeTile from '@/components/RecipeTile.vue';
 import FavoriteStar from './FavoriteStar.vue';
 
-const NUMBER_OF_SIMILAR_RECIPES = 4;
+const NUMBER_OF_SIMILAR_RECIPES = 3;
 
 export default {
   name: 'Recipe',

@@ -1,7 +1,7 @@
 <template>
   <b-card
     class="mb-4"
-    style="min-width: calc( 50% - 30px )"
+    style="min-width: calc( 33.333% - 30px )"
     :href="'/recipe/' + drink.filename"
     no-body
   >
@@ -42,7 +42,7 @@
 <script>
 import recipes from '../recipes';
 
-const MAX_DESCRIPTION_LENGTH = 50;
+const MAX_DESCRIPTION_LENGTH = 80;
 
 export default {
   name: 'recipeTile',
