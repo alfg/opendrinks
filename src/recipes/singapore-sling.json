@@ -1,0 +1,59 @@
+{
+    "name": "Singapore Sling",
+    "description": "The Singapore Sling is a noble cocktail and known in international bars.",
+    "github": "haannnees",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1,5",
+            "measure": "cl",
+            "ingredient": "Cherry Brandy"
+        },
+        {
+            "quantity": "0,7",
+            "measure": "cl",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "0,7",
+            "measure": "cl",
+            "ingredient": "DOM Bénédictine"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "12",
+            "measure": "cl",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1,5",
+            "measure": "cl",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Angostura bitter"
+        }
+    ],
+    "directions": [
+        "Pour all ingredients one by one into the cocktail shaker and then mix it.",
+        "Mix until foam is formed.",
+        "Pour it in a glass and arrange with a pineapple slice and a cocktail cherry."
+    ],
+    "image": "singaore-sling.jpg",
+    "keywords": [
+        "alcoholic",
+        "gin",
+        "cocktail",
+        "singapore"
+    ]
+}
