@@ -14,9 +14,9 @@
 
       <b-nav tabs align="center">
         <b-nav-item to="/">Featured</b-nav-item>
-        <b-nav-item to="/random">Random</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
-        <b-nav-item to="/keyword">Keywords</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
@@ -43,6 +43,13 @@ export default {
   name: 'App',
   components: {
     GitHubCorner,
+  },
+  computed: {
+    isMobile() {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      );
+    },
   },
 };
 </script>
