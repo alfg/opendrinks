@@ -105,24 +105,32 @@ export default {
       });
     },
     onKeydown(event) {
-      const listElements = document.getElementsByClassName('list-group-item');
-      const currentHighlightedElement = document.getElementsByClassName('highlight')[0];
-      const firstListElement = listElements[0];
-      const lastListElement = listElements[listElements.length - 1];
+      const listElements = this.$children.filter(component => {
+        return component.$el && component.$el.classList.contains('list-group-item');
+      });
+      if (listElements.length === 0) {
+        return;
+      }
+      const currentHighlightedComponent = listElements.find(component => {
+        return component.$el && component.$el.classList.contains('highlight');
+      });
+      const firstListElement = listElements[0].$el;
+      const lastListElement = listElements[listElements.length - 1].$el;
       let nextElement;
 
       if (event.keyCode === 40) {
         // key down
-        nextElement = currentHighlightedElement
-          ? currentHighlightedElement.nextSibling
+        nextElement = currentHighlightedComponent
+          ? currentHighlightedComponent.$el.nextSibling
           : firstListElement;
       } else if (event.keyCode === 38) {
         // key up
-        nextElement = currentHighlightedElement
-          ? currentHighlightedElement.previousSibling
+        nextElement = currentHighlightedComponent
+          ? currentHighlightedComponent.$el.previousSibling
           : lastListElement;
       }
-      if (currentHighlightedElement) currentHighlightedElement.classList.remove('highlight');
+      if (currentHighlightedComponent)
+        currentHighlightedComponent.$el.classList.remove('highlight');
       if (nextElement) nextElement.classList.add('highlight');
     },
   },
