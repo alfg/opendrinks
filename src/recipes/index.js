@@ -1,6 +1,8 @@
 /* eslint-disable import/no-dynamic-require */
 /* eslint-disable global-require */
 
+import featured from '../featured.json';
+
 async function forEachParallel(arr, func) {
   await Promise.all(arr.map(async item => func(item)));
 }
@@ -116,6 +118,10 @@ function getFavoritedRecipes(favorites) {
   return getRecipes().filter(recipe => favorites.some(favorite => favorite === recipe.name));
 }
 
+function getFeaturedRecipes() {
+  return featured;
+}
+
 export default {
   getAllKeywords,
   getAllKeywordsWithCount,
@@ -125,4 +131,5 @@ export default {
   getRandom,
   getSimilarRecipe,
   getFavoritedRecipes,
+  getFeaturedRecipes,
 };

@@ -13,7 +13,8 @@
       </div>
 
       <b-nav tabs align="center">
-        <b-nav-item to="/">Random</b-nav-item>
+        <b-nav-item to="/">Featured</b-nav-item>
+        <b-nav-item to="/random">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
         <b-nav-item to="/keyword">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>

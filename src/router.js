@@ -9,7 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: 'random',
+      name: 'home',
+      component: () => import('./views/Featured.vue'),
+    },
+    {
+      path: '/featured',
+      name: 'featured',
+      component: () => import('./views/Featured.vue'),
     },
     {
       path: '/random',
