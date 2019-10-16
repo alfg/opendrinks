@@ -20,5 +20,16 @@
             "cuban-zombie",
             "vampiro"
         ]
+    },
+    {
+        "title": "Christmas Drinks",
+        "description": "Cozy drinks to warm your heart and get you in christmas mood",
+        "items": [
+            "mulled-wine",
+            "grog",
+            "punch",
+            "gingerbread-latte",
+            "baked-apple-tea"
+        ]
     }
 ]
