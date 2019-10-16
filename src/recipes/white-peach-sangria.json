@@ -1,0 +1,52 @@
+{
+    "name": "White Peach Sangria",
+    "description": "A refreshing white wine sangria that is always a hit at parties.",
+    "github": "impostor1001",
+    "ingredients": [
+        {
+            "quantity": "750",
+            "measure": " milliliter",
+            "ingredient": "white wine"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "peach flavored vodka"
+        },
+        {
+            "quantity": "6",
+            "measure": "tablespoons",
+            "ingredient": "frozen lemonade concentrate, thawed"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pound",
+            "ingredient": "white peaches, pitted and sliced"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "seedless red grapes, halved"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "seedless green grapes, halved"
+        },
+    ],
+    "directions": [
+        "In a large pitcher, combine dry white wine, peach vodka, lemonade concentrate and sugar. Stir until sugar is dissolved. Add sliced peaches, red and green grapes.",
+        "Refrigerate sangria until well chilled, at least 2 hours, or overnight to blend flavors. Serve over ice, and use a slotted spoon to include sliced peaches and grapes with each serving.",
+    ],
+    "image": "white-peach-sangria.jpg",
+    "keywords": [
+        "peach",
+        "sangria",
+        "wine",
+    ]
+}
