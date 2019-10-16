@@ -99,9 +99,17 @@ export default {
   },
   methods: {
     onEnter() {
+      const listElements = this.$children.filter(component => {
+        return component.$el && component.$el.classList.contains('list-group-item');
+      });
+      const currentHighlightedComponentIndex = listElements.findIndex(component => {
+        return component.$el && component.$el.classList.contains('highlight');
+      });
+      const index = currentHighlightedComponentIndex > 0 ? currentHighlightedComponentIndex : 0;
+
       this.$router.push({
         name: 'recipe',
-        params: { id: this.filterResults[0].filename },
+        params: { id: this.filterResults[index].filename },
       });
     },
     onKeydown(event) {
