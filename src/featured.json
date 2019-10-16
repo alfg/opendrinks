@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Featured Drinks",
+        "description": "Selected drinks to try!",
+        "items": [
+            "mai-tai",
+            "pineapple-juice",
+            "bramble"
+        ]
+    },
+    {
+        "title": "Halloween Drinks",
+        "description": "👻 Spooky Drinks for October! 👻",
+        "items": [
+            "zombie",
+            "witches-heart",
+            "bloody-kirby",
+            "seven-devils",
+            "corpse-reviver-no2",
+            "cuban-zombie",
+            "vampiro"
+        ]
+    }
+]
