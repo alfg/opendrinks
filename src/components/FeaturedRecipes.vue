@@ -4,7 +4,11 @@
       <h2>{{ feature.title }}</h2>
       <p>{{ feature.description }}</p>
       <b-card-group deck>
-        <RecipeTile v-for="(item, j) in feature.items" v-bind:key="j" v-bind:id="item" />
+        <RecipeTile
+          v-for="(item, j) in feature.items.slice(0, featuredLimit)"
+          v-bind:key="j"
+          v-bind:id="item"
+        />
       </b-card-group>
       <hr v-if="featuredList.length !== i + 1" />
     </div>
@@ -22,6 +26,7 @@ export default {
   },
   data() {
     return {
+      featuredLimit: 6,
       featuredList: [],
     };
   },
