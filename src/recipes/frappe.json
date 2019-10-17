@@ -1,0 +1,50 @@
+{
+    "name": "Frappe",
+    "description": "Frappe is a Greek invention of a cold instant coffee mixed in high speed electric shaker machine.",
+    "github": "anksos",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "tea spoon",
+            "ingredient": "Instant Coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice Cubes"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Milk"
+        },
+        {
+			"quantity": "1"
+			"measure": "teaspoon"
+			"ingredient": "Sugar"
+		}
+    ],
+    "directions": [
+        "Take a tall glass of water and add the 1 1/2 teaspoon of Instant Coffee.",
+        "Add 1 teaspoon of sugar.",
+        "Add tap water until it just covers the coffee and sugar.",
+        "Take an electric shaker and mix it for 15 seconds.",
+        "Add the Ice Cubes up to the top of the glass.",
+        "Add the milk.",
+        "Add the water up to the top of the glass." 
+        "Enjoy your Frappe xD ."
+    ],
+    "image": "frappe.jpg",
+    "keywords": [
+        "frappe",
+        "greek coffee",
+        "iced coffee",
+        "instant coffee",
+        "coffee"
+    ]
+}
