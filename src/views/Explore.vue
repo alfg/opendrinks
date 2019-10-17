@@ -105,17 +105,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.filter-item {
-  cursor: pointer;
-}
-
-.filter-item:hover {
-  background-color: #363a3e;
-}
-
-.filter-item:hover::after {
-  content: '×';
-}
-</style>

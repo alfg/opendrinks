@@ -37,20 +37,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-svg {
-  transition: 0.2s;
-}
-
-svg:hover {
-  transition: 0.2s;
-  transform: scale(1.2);
-  cursor: pointer;
-}
-
-.favorited {
-  fill: hsl(56, 74%, 52%);
-  stroke: hsl(56, 74%, 52%);
-}
-</style>

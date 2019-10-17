@@ -1,0 +1,179 @@
+/* Main app */
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+}
+
+#app .router-link-exact-active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+#nav {
+    padding: 30px;
+}
+
+#nav a {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+    color: #42b983;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.logo {
+    font-family: 'Pacifico', 'cursive';
+}
+
+.logo a {
+    text-decoration: none;
+    color: inherit;
+}
+
+@media (max-width: 576px) {
+    .nav {
+        font-size: 0.9rem;
+    }
+}
+
+/* Favorited Star */
+svg {
+    transition: 0.2s;
+}
+
+svg:hover {
+    transition: 0.2s;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.favorited {
+    fill: hsl(56, 74%, 52%);
+    stroke: hsl(56, 74%, 52%);
+}
+
+/* GitHub Corner */
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+}
+@keyframes octocat-wave {
+    0%,
+    100% {
+        transform: rotate(0);
+    }
+    20%,
+    60% {
+        transform: rotate(-25deg);
+    }
+    40%,
+    80% {
+        transform: rotate(10deg);
+    }
+}
+
+@media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+        animation: none;
+    }
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out;
+    }
+}
+
+/* Explore */
+.filter-item {
+    cursor: pointer;
+}
+
+.filter-item:hover {
+    background-color: #363a3e;
+}
+
+.filter-item:hover::after {
+    content: '×';
+}
+
+/* Main Recipe Component */
+.print-button {
+    margin-top: 1em;
+}
+
+.recipe-ingredients {
+    width: 37%;
+    float: left;
+    margin-right: 1em;
+}
+.recipe-image {
+    width: 60%;
+    float: left;
+    margin-bottom: 2em;
+}
+
+.recipe-directions-list {
+    width: 100%;
+    float: left;
+    margin-top: 1em;
+}
+
+@media (max-width: 768px) {
+    .recipe-hero-container {
+        display: grid;
+    }
+
+    .recipe-image {
+        order: 1;
+        width: 100%;
+    }
+
+    .recipe-ingredients {
+        order: 2;
+        width: 100%;
+    }
+}
+
+/* Recipe List Component*/
+.card-wrapper {
+    width: 315px;
+}
+
+@media (max-width: 768px) {
+    .card-wrapper {
+        width: 100%;
+    }
+}
+
+.card-deck .card {
+    margin-right: 0;
+}
+
+.card-text {
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 6rem;
+}
+
+.card-img-top {
+    height: 212px;
+    object-fit: cover;
+}
+
+/* Recipe Tile Component*/
+.card-body {
+    padding: 0.9rem;
+}
+
+.card-text p {
+    margin-bottom: 0.5rem;
+}

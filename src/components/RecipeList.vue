@@ -100,31 +100,3 @@ export default {
 };
 </script>
 
-<style scoped>
-.card-wrapper {
-  width: 315px;
-}
-
-@media (max-width: 768px) {
-  .card-wrapper {
-    width: 100%;
-  }
-}
-
-.card-deck .card {
-  margin-right: 0;
-}
-.card-text {
-  display: block;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-height: 6rem;
-}
-.card-img-top {
-  height: 212px;
-  object-fit: cover;
-}
-</style>

@@ -72,13 +72,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.card-body {
-  padding: 0.9rem;
-}
-
-.card-text p {
-  margin-bottom: 0.5rem;
-}
-</style>
