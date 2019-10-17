@@ -20,5 +20,29 @@
             "cuban-zombie",
             "vampiro"
         ]
+    },
+    {
+        "title": "Under the weather Drinks",
+        "description": "Drinks to help you warm up when you're sick, or just to help boost your immune system! 🤧🤧",
+        "items": [
+            "bandrek",
+            "beer-pletok",
+            "bloody-mary",
+            "corn-juice",
+            "gazpacho",
+            "ginger-milk-tea",
+            "golden-glow-water",
+            "honey-carrot",
+            "hot-toddy",
+            "indonesian-avocado-milkshake",
+            "jamun-shots",
+            "kenyan-dawa",
+            "london-fog",
+            "medicine-ball-tea",
+            "mulled-apple-crumble-cider",
+            "rusty-nail",
+            "sangria",
+            "warm-lemon-honey-tea"
+        ]
     }
 ]
