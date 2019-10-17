@@ -6,7 +6,8 @@
             "mai-tai",
             "pineapple-juice",
             "bramble"
-        ]
+        ],
+        "size": 3
     },
     {
         "title": "Halloween Drinks",
@@ -19,7 +20,8 @@
             "corpse-reviver-no2",
             "cuban-zombie",
             "vampiro"
-        ]
+        ],
+        "size": 6
     },
     {
         "title": "Under the Weather Drinks",
@@ -43,6 +45,7 @@
             "rusty-nail",
             "sangria",
             "warm-lemon-honey-tea"
-        ]
+        ],
+        "size": 6
     }
 ]
