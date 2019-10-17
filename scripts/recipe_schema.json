@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://raw.githubusercontent.com/alfg/opendrinks/master/scripts/recipe_schema.json",
+    "title": "Recipe",
+    "description": "A recipe of a drink or cocktail for opendrinks",
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "The name of the drink",
+        "type": "string"
+      },
+      "description": {
+        "description": "A short text describing the drink",
+        "type": "string"
+      },
+      "github": {
+        "description": "Github-Username of the contributor",
+        "type": "string"
+      },
+      "ingredients": {
+        "description": "The ingredients used for the drink",
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "description": "An ingredient",
+          "type" :"object",
+          "properties": {
+            "quantity": {
+              "description": "How much of the ingredient is needed",
+              "type": "string"
+            },
+            "measure": {
+              "description": "The unit of measurement of what is needed",
+              "type": "string"
+            },
+            "ingredient": {
+              "description": "The name of the ingredient",
+              "type": "string"
+            }
+          },
+          "required": [
+            "quantity",
+            "ingredient"
+          ] 
+        }
+      },
+      "directions": {
+        "description": "How the drink is made",
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string"
+        }
+      },
+      "image": {
+        "description": "An image of the drink",
+        "type": "string"
+      },
+      "source": {
+        "description": "Source of the recipe",
+        "type": "string"
+      },
+      "keywords": {
+        "description": "Keywords that describe the drink",
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "name",
+      "description",
+      "ingredients",
+      "directions",
+      "image",
+      "keywords"
+    ]
+  }

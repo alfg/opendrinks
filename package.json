@@ -1,6 +1,5 @@
 {
   "name": "opendrinks",
-  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/alfg/opendrinks.git"
@@ -19,12 +18,16 @@
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
-    "test": "npm run test:unit"
+    "validate": "node scripts/validate_recipes.js",
+    "test": "npm run validate && npm run test:unit",
+    "function-serve": "netlify-lambda serve .netlify/functions-src -c .netlify/webpack.functions.js",
+    "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/webpack.functions.js"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.1",
     "core-js": "^2.6.5",
+    "netlify-lambda": "^1.6.3",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
@@ -46,6 +49,7 @@
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-vue": "^5.2.3",
     "prettier": "^1.18.2",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "ajv": "^6.10.2"
   }
 }

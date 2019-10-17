@@ -1,0 +1,49 @@
+{
+    "name": "Strawberry Margarita",
+    "description": "A strawberry margarita is a delicious summer cocktail made with tequila, strawberries, lime juice, triple sec and honey",
+    "github": "gustsu",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Fresh Strawberries"
+        },
+        {
+            "quantity": "4",
+            "measure": "fl oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "fl oz",
+            "ingredient": "Fresh Lime Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "Triple Sec"
+        },
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Ice"
+        }    
+    ],
+    "directions": [
+        "Fill a blender with strawberries, tequila, lime juice, triple sec, honey, and ice.",
+        "Pulse the mixture until it is smooth.",
+        "Taste and add extra tequila or sweetener if desired.",
+        "Pour into glass and serve."
+    ],
+    "image": "strawberry-margarita.jpg",
+    "keywords": [
+        "tequila",
+        "alcoholic",
+        "strawberry"
+    ]
+}

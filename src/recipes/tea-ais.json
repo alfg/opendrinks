@@ -40,6 +40,9 @@
         "Tea will splatter. Repeat 4-6 times",
         "Adds some ice cube"
     ],
-    "image": "tea-ais.jpg"
-    
+    "image": "tea-ais.jpg",
+    "keywords": [
+        "tea",
+        "non-alcoholic"
+    ]
 }
