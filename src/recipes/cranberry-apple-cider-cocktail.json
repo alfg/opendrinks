@@ -1,0 +1,39 @@
+{
+  "name": "Cranberry Apple Cider Cocktail",
+  "description": "A flavorful carnberry apple cider with orange juice and vodka.",
+  "github": "nitish03",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Cranberry juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "fresh squeezed Orange juice, strained"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "1",
+      "measure": "bottle",
+      "ingredient": "hard cider (Angry Orchard/ Stella Artois Cidre)"
+    }
+  ],
+  "directions": [
+    "Fill glass and cocktail shaker with ice",
+    "then Add cranberry juice, orange juice and vodka to the cocktail shaker and shake until chilled. Strain into ice filled glass.",
+    "Top off the glass with the hard cider and garnish with apple slice"
+  ],
+  "image": "Cranberry-Apple-Cider-Cocktail.jpg",
+  "source": "https://jellytoastblog.com/cranberry-apple-cider-cocktail/",
+  "keywords": [
+    "Apple Cider Cocktail",
+    "Cranberry Apple Cider Cocktail",
+    "Apple cider cocktail with orange juice"
+  ]
+}
