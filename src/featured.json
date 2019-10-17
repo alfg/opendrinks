@@ -47,5 +47,17 @@
             "warm-lemon-honey-tea"
         ],
         "size": 6
+    },
+    {
+        "title": "Everything is Chocolate",
+        "description": "All drink made from chocolate",
+        "items": [
+            "chocolate-milk",
+            "chocolate-monkey",
+            "clavis-riga",
+            "dom-pedro",
+            "indonesian-avocado-milkshake"
+        ],
+        "size": 6
     }
 ]
