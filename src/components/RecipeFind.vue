@@ -25,6 +25,9 @@
       <b-list-group-item
         v-for="o in filterResults"
         v-bind:key="o.name"
+        v-on:mouseover="onMouseOverOrMove"
+        v-on:mouseleave="onMouseLeave"
+        v-on:mousemove="onMouseOverOrMove"
         :href="'/recipe/' + o.filename"
         >{{ o.name }}</b-list-group-item
       >
@@ -98,6 +101,23 @@ export default {
     window.document.title = 'Open Drinks - Search';
   },
   methods: {
+    onMouseOverOrMove(event) {
+      // we add 'highlight' class when ever mouse is active on an element
+      const hoveredElement = event.target;
+      if (hoveredElement.classList.contains('highlight')) return;
+
+      const currentHighlightedComponent = this.$children.find(component => {
+        return component.$el && component.$el.classList.contains('highlight');
+      });
+      if (currentHighlightedComponent)
+        currentHighlightedComponent.$el.classList.remove('highlight');
+      hoveredElement.classList.add('highlight');
+    },
+    onMouseLeave(event) {
+      // we remove the "highlight" class after mouse leave
+      const hoveredElement = event.target;
+      hoveredElement.classList.remove('highlight');
+    },
     onEnter() {
       const listElements = this.$children.filter(component => {
         return component.$el && component.$el.classList.contains('list-group-item');
@@ -146,7 +166,11 @@ export default {
 </script>
 
 <style scoped>
-.highlight {
+.list-group .list-group-item-action.highlight {
   background-color: #f8f9fa;
+}
+/* we had to overrride bootstrap default hover color */
+.list-group-item-action:hover {
+  background-color: #fff;
 }
 </style>
