@@ -1,0 +1,71 @@
+{
+    "name": "Golden Glow Water",
+    "description": "A drink to refresh you for the rest of the day.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "ground ginger"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "ground turmeric"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "ground cayenne pepper"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "molasses"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "lemon: juiced"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sparkling water or kombucha for topping"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Optinal: Citrus slice and fresh mint for garnishing"
+        }
+
+    ],
+    "directions": [
+        "In a glass jar, combine the water, ginger, turmeric, cayenne, honey, molasses, and lemon juice.",
+        "Shake well to combine.",
+        "Chill until ready to drink.",
+        "Shake before serving.",
+        "Add ice to 2 glasses, pour over the water and top with sparkling water.",
+        "Garnish with citrus slices and fresh mint.",
+        "Enjoy!"
+
+    ],
+    "image": "golden-glow-water.jpg",
+    "source": "https://www.halfbakedharvest.com/golden-glow-water/",
+    "keywords": [
+        "ginger",
+        "turmeric",
+        "honey",
+        "non-alcoholic"
+    ]
+}
