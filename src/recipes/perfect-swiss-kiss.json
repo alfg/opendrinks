@@ -1,0 +1,31 @@
+{
+    "name": "Perfect Swiss Kiss",
+    "description": "The Perfect Swiss Kiss is a sweet libation brought to us by the show Danger 5.",
+    "github": "kwalker1977",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "Creme de Cacao"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Vodka"
+        }
+    ],
+    "directions": [
+        "Pour over crushed ice.",
+        "Add Milk to taste.",
+        "Garnish with chocolate flakes."
+    ],
+    "image": "perfect-swiss-kiss.jpg",
+    "keywords": [
+        "chocolate",
+        "vodka",
+        "sweet",
+        "milk",
+        "danger 5",
+        "tv"
+    ]
+}
