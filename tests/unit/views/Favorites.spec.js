@@ -22,4 +22,8 @@ describe('Favorites', () => {
     expect(wrapper.find('#recipe-list').html()).toContain('Aam Panna');
     expect(wrapper.find('#recipe-list').html()).toContain('Aperol Spritz');
   });
+
+  test('shows favorite star', () => {
+    expect(wrapper.find('#star').exists()).toBe(true);
+  });
 });
