@@ -1,4 +1,5 @@
-# 🍸 Open Drinks
+🍸 Open Drinks
+===
 
 > Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
@@ -79,4 +80,4 @@ docker run -it -p 8080:80 --rm opendrinks
 
 ## License
 
-MIT
+The [MIT](https://opensource.org/licenses/MIT) License
