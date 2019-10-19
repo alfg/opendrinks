@@ -5,9 +5,9 @@
     "ingredients": [
         {
             "quantity": "1/2",
-            "measure": "whole fruit",
+            "measure": "",
             "ingredient": "lemon"
-        }
+        },
         {
             "quantity": "15",
             "measure": "gr",
@@ -36,6 +36,6 @@
     "image": "aviation.jpg",
     "source": "https://archive.org/details/isbn_9788424117672/page/20",
     "keywords": [
-        "alcoholic", "bitter", "fruity"
+        "alcoholic", "bitter", "juice"
     ]
 }
