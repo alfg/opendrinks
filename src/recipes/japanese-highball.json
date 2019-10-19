@@ -1,0 +1,32 @@
+{
+    "name": "Japanese Highball",
+    "description": "A simple yet refreshing whiskey drink that is a Happy Hour staple.",
+    "github": "jenzk",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Japanese Whiskey"
+        },
+        {
+            "quantity": "5",
+            "measure": "oz",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon twist peel"
+        }
+    ],
+    "directions": [
+        "Pour Whiskey into a chilled highball glass filled with large ice cubes.",
+        "Add Club Soda or Ginger Ale to fill.",
+        "Garnish with citrus peel such as a lemon or tangerine."
+    ],
+    "image": "japanese-highball.jpg",
+    "keywords": [
+        "whiskey",
+        "alcoholic"
+    ]
+}

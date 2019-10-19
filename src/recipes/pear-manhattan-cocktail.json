@@ -1,0 +1,47 @@
+{
+    "name": "Pear Manhattan Cocktail",
+    "description": "Enjoy a Cocktail of Whiskey mixed with pear and vodka.",
+    "github": "kevinmel2000",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "fluid ounces",
+            "ingredient": "rye whiskey"
+        },
+        {
+            "quantity": "2",
+            "measure": "fluid ounces",
+            "ingredient": "pear vodka"
+        },
+        {
+            "quantity": "1 3/4",
+            "measure": "fluid ounces",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "maraschino cherry"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "slice pear"
+        }
+    ],
+    "directions": [
+        "Pour whiskey, vodka, sweet vermouth, and ice into a cocktail shaker. Cover and shake until chilled.",
+        "Strain into a chilled martini glass and garnish with maraschino cherry and pear slice. "
+    ],
+    "image": "pear-manhattan.jpg",
+    "keywords": [
+        "whiskey",
+        "vermouth",
+        "vodka"
+    ]
+}

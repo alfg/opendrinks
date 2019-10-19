@@ -1,0 +1,53 @@
+{
+    "name": "Paloma",
+    "description": "A simple tequila cocktail made with grapefruit soda",
+    "github": "estudioChispa",
+    "ingredients": [
+        {
+            "quantity": "2 or 3",
+            "measure": "oz",
+            "ingredient": "tequila (I prefer a silver or blanco, but use what you like)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Grapefruite soda (like Fresca, Squirt, or Jarritos)"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Limes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "(optional) Tajin - a seasoning mix of lime, chilies, and salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Rim your glass with a wedge of lime and the Tajin (if using) or salt",
+        "Squeeze the other lime into the glass",
+        "Add a pinch of salt to the glass",
+        "Add the ice",
+        "Add the tequila",
+        "Fill with the grapefruit soda and stir",
+        "Garnish with a wedge of lime and enjoy!",
+        "Photo credit: Sarah Stierch (CC BY 4.0)"
+    ],
+    "image": "paloma.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Casa_Restaurant_-_Stierch_-_April_2019_02.jpg",
+    "keywords": [
+        "tequila",
+        "lime"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Sonic Screwdriver",
+    "description": "Like a Screwdriver, with a little Timey-Wimey.",
+    "github": "AjaxIronside",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Blue Curaçao."
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Fill a 12 oz glass halfway with ice.",
+        "Mix soda and alcohol and pour over ice.",
+        "Enjoy with your favorite companion."
+    ],
+    "image": "sonic-screwdriver.jpg",
+    "keywords": [
+        "vodka",
+        "soda"
+    ]
+}

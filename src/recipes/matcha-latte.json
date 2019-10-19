@@ -1,0 +1,39 @@
+{
+    "name": "Matcha Latte",
+    "description": "This vegan Matcha Latte is smooth, creamy and lightly sweetened.",
+    "github": "jenzk",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Matcha powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "of Agave Negtar or Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Oat Milk"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "Sift Matcha powder into your cup.",
+        "Add hot water and continue whisking until Matcha dissolves.",
+        "Add in Agave Nectar",
+        "Pour in hot milk (don't boil)"
+    ],
+    "image": "matcha-latte.jpg",
+    "keywords": [
+        "matcha",
+        "vegan",
+        "non-alcoholic"
+    ]
+}

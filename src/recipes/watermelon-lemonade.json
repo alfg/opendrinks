@@ -1,0 +1,50 @@
+{
+    "name": "Watermelon Lemonade",
+    "description": "A light and refreshing summer drink",
+    "github": "FarhiaM",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "White sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "4",
+            "measure": "cup",
+            "ingredient": "Cubed watermelon"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Fresh lemon juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "cup",
+            "ingredient": "Cold water"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "cup",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Place the watermelon into a blender and mix unter it's smooth.",
+        "Boil the sugear and 1/2 cup of water on medium heat until sugar dissolves.",
+        "Remove the mix from the heat and and stir 3 cups of cold water and lemon juice.",
+        "Scoop 2-3 tablespoons of watermelon into a cup.",
+        "Add the ice cubes and the lemonade.",
+        "Gently stir before serving."
+    ],
+    "image": "watermelon-lemonade.jpg",
+    "keywords": [
+       "Watermelon",
+       "non-alcoholic"
+   ]
+}

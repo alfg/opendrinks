@@ -1,0 +1,47 @@
+{
+    "name": "Blue Oasis",
+    "description": "Blue Oasis is a delicious gin cocktail that you can prepare for your guests in a kitty party o a game night! This drink goes well on a hot summer night to unwind with your friends.",
+    "github": "elquimeras",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "blue curacao"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "soda"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Lemon wedges"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes as required"
+        }
+    ],
+    "directions": [
+        "Take a cocktail shaker and fill it half with crushed ice.",
+        "Add gin along with blue curacao and soda, and shake well until frosted.",
+        "Take a chilled cocktail glass and strain the liquid mixture into it.",
+        "Serve in a martini glass.",
+        "Garnish with a lemon wedge or slice, and serve immediately.",
+        "(Note: You can even put salt on the rim of the glass for an exciting flavour."
+    ],
+    "image": "blue-oasis.jpg",
+    "keywords": [
+        "gin",
+        "blue curacao",
+        "soda",
+        "alcoholic"
+	]
+}

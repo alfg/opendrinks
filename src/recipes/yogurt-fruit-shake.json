@@ -1,0 +1,61 @@
+{
+    "name": "Yogurt Fruit Shake",
+    "description": "Assorted fruits, juice, and milk combined to make a delicious cold drink, perfect for after work or school for recharging.",
+    "github": "davidshan",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "blender"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoons",
+            "ingredient": "frozen blueberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "frozen strawberries"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "banana, frozen"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "container",
+            "ingredient": "yogurt (plain/vanilla/blueberry/strawberry work well)"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "cup",
+            "ingredient": "milk (can substitute with almond/soy/cashew milk)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "A dash of honey"
+        }
+    ],
+    "directions": [
+        "Add yogurt, orange juice, and milk to blender.",
+        "Add frozen fruits (strawberries, blueberries, bananas)",
+        "Blend on medium/high power until mushy, stopping occasionally to stir the mixture around (especially if frozen fruits don't look like they're blending)",
+        "Once the mixture has been turned to a thick mush, add the honey for taste, and pulse on low for a few seconds",
+        "And you're done! Serve in a cup with a straw, or spoon"
+    ],
+    "image": "yogurt-fruit-shake.jpg",
+    "source": "",
+    "keywords": [
+        "smoothie",
+        "fruit",
+        "non-alcoholic"
+    ]
+}

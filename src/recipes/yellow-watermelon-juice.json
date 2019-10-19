@@ -1,0 +1,43 @@
+{
+    "name": "Yellow watermelon juice",
+    "description": "Yellow watermelon juice, will help boost your day",
+    "github": "2pai",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "slices of yellow watermelon"
+        },
+        {
+            "quantity": "2",
+            "measure": "glasses",
+            "ingredient": "of cold water"
+        },
+        {
+            "quantity": "3",
+            "measure": "Tbsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "Scope",
+            "ingredient": "of ice cubes"
+        }
+    ],
+    "directions": [
+        "Cut the watermelon",
+        "Put the watermelon in the blender & pour with water ",
+        "Don't forget to add sugar",
+        "Blend until the watermelon is smooth",
+        "If it's already smooth, put it in the glass. ",
+        "Add ice cubes and the juice is ready to serve"
+    ],
+    "image": "yellow-watermelon-juice.jpg",
+    "keywords": [
+        "ice",
+        "fruit",
+        "juice",
+        "smoothie",
+        "non-alcoholic"
+    ]
+}

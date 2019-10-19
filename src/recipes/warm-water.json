@@ -1,0 +1,31 @@
+{
+    "name": "Warm Water",
+    "description": "Everyone's favorite drink, not too hot, not too cold: just right.",
+    "github": "KevinLu",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Dihydrogen Monoxide"
+        }
+    ],
+    "directions": [
+        "Take your water and put it in the kettle (as much or as little as you want).",
+        "Wait for the water to boil or reach your preferred temperature (90°C to 100°C should suffice).",
+        "Pour the hot water out from the kettle into a cup.",
+        "Add Dihydrogen Monoxide to cup (again, this is my preference; the more you add, the colder your water becomes)."
+    ],
+    "image": "warm-water.jpg",
+    "source": "Multiple years of water-making experience.",
+    "keywords": [
+        "water",
+        "pure",
+        "easy",
+        "non-alcoholic"
+    ]
+}

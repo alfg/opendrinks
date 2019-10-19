@@ -1,0 +1,38 @@
+{
+    "name": "Barraquito",
+    "description": "A multi-layered coffee drink.",
+    "github": "RichardVerbraak",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Coffee"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Licor 43"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Frothed Milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Condensed Milk"
+        }
+    ],
+    "directions": [
+        "Add the condensed milk to the coffee, followed by the licor.",
+        "Add the espresso and optional lemon peel.",
+        "Add the frothed milk and sprinkle some cinammon for some extra flavor."
+    ],
+    "image": "barraquito.jpg",
+    "keywords": [
+        "coffee",
+        "spanish",
+        "canary isles"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Panty Ripper",
+    "description": "It is one of Belize’s most popular cocktails, a sweet concoction of coconut rum and pineapple juice that is specifically tailored for women. Actually guys equally love drinking Panty Rippers, but for whatever reason, they seem to not be too comfortable ordering it at bars.",
+    "github": "enabet",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Coconut Rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Pineapple Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "splash",
+            "ingredient": "of Grenadine syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "cherry"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Orange or pineapple slice for garnish"
+        }
+    ],
+    "directions": [
+        "Mix all the ingredients in a cup of ice and enjoy with a straw.",
+        "Panty Rippers are great to enjoy in hot sunny days and if you’re either poolside or on the beach – that would be perfection."
+    ],
+    "image": "panty-ripper.jpg",
+    "source": "https://www.belizeadventure.ca/panty-ripper/",
+    "keywords": [
+        "coconut rum",
+        "pineapple juice"
+    ]
+}

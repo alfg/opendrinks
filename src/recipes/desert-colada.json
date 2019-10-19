@@ -1,0 +1,47 @@
+{
+    "name": "Desert Colada",
+    "description": "A new take on the classic Pina Colada, using Prickly Pear Syrup",
+    "github": "spotts9",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "Oz",
+            "ingredient": "Prickly Pear Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "Oz",
+            "ingredient": "Cream of Coconut"
+        },
+        {
+            "quantity": "1.25",
+            "measure": "Oz",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "2",
+            "measure": "Oz",
+            "ingredient": "Pineapple Juice"
+        }
+    ],
+    "directions": [
+        "Prickly Pear Syrup In The Bottom Of A Hurricane Glass.",
+        "Combine Next Four Ingredients In A Blender Carafe.",
+        "Blend Until Smooth And Pour Over Top of Prickly Pear Syrup.",
+        "Swirl With Spoon.",
+        "Garnish With Pineapple And Cherry."
+    ],
+    "image": "desert-colada.jpg",
+    "keywords": [
+        "rum",
+        "cream of coconut",
+        "prickly pear syrup",
+        "pineapple",
+        "frozen"
+    ]
+}

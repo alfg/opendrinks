@@ -1,0 +1,39 @@
+{
+    "name": "Dutchman’s Daiquiri",
+    "description": "Genever, lime and a chile pepper apparently they like it spicy in Holland.",
+    "github": "zzyzy",
+    "ingredients": [
+        {
+            "quantity": "1 1⁄2",
+            "measure": "oz",
+            "ingredient": "Bols genever"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "",
+            "ingredient": "Red chile pepper, seeded and sliced"
+        },
+        {
+            "quantity": "3⁄4",
+            "measure": "oz",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "1⁄2",
+            "measure": "oz",
+            "ingredient": "Rich sugar syrup (2 parts sugar, 1 part water)"
+        }
+    ],
+    "directions": [
+        "In a shaker, muddle the chile.",
+        "Add the remaining ingredients and fill with ice.",
+        "Shake, and double-strain into a Martini glass.",
+        "Garnish with a red chile pepper."
+    ],
+    "image": "dutchmans-daiquiri.jpg",
+    "keywords":[
+        "alcoholic",
+        "vegan",
+        "spicy"
+    ]
+}

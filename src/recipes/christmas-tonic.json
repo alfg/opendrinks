@@ -1,0 +1,47 @@
+{
+    "name": "Christmas Tonic",
+    "description": "This gin and sparkling apple juice makes an easy seasonal twist on a gin and tonic which is ideal to serve at a Christmas party.",
+    "github": "marimendes",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Gin Bombay Sapphire"
+        },
+        {
+            "quantity": "0.2",
+            "measure": "oz",
+            "ingredient": "Cedilla"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Tonic"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "Raisins"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        }
+    ],
+    "directions": [
+        "Blend all the ingredients.",
+        "Pour into into a cup.",
+        "Add the lemon and the raisins."
+    ],
+    "image": "christmas-tonic.jpg",
+    "source": "https://mdemulher.abril.com.br/gastronomia/gin-receitas-de-bebidas-para-o-verao/",
+    "keywords": [
+        "gin",
+        "tonic",
+        "raisin",
+        "lemon",
+        "alcoholic",
+        "christmas"
+	]
+}

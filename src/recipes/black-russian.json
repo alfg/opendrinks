@@ -1,0 +1,29 @@
+{
+    "name": "Black Russian",
+    "description": "This is a drink similar to White Russian, made with just vodka and coffee liqueur.",
+    "github": "evoticone",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "coffee liqueur, such as Kahlua"
+        }
+    ],
+    "directions": [
+        "Fill a rocks glass with ice",
+        "Add one part Kahlua, two parts of vodka",
+        "Mix, add a cherry on top and enjoy"
+    ],
+    "image": "black-russian.jpg",
+    "keywords": [
+        "coffee",
+        "cocktail",
+        "alcoholic",
+        "vodka"
+    ]
+}

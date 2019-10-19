@@ -1,0 +1,43 @@
+{
+    "name": "Sea Breeze",
+    "description": "A light and fruity drink for hot days.",
+    "github": "AjaxIronside",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Grapefruit Juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime wedge"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Fill high ball glass with ice.",
+        "Stir together juices and vodka.",
+        "Garnish with lime."
+    ],
+    "image": "sea-breeze.jpg",
+    "source": "https://www.liquor.com/recipes/sea-breeze/#gs.7m86tk",
+    "keywords": [
+        "juice",
+        "vodka"
+    ]
+}

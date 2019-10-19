@@ -1,0 +1,38 @@
+{
+    "name": "Brandy Alexander",
+    "description": "A chocolately, sweet, and creamy dessert cocktail consisting of cognac, crème de cacao, and cream.",
+    "github": "tamarbuta",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Brandy"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Dark Crème de Cacao"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Cream"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh Nutmeg"
+        }
+    ],
+    "directions": [
+        "Pour brandy, crème de cacao and cream into a cocktail shaker.",
+        "Shake well and strain into a cup.",
+        "Grate a little nutmeg on top."
+    ],
+    "image": "brandy-alexander.jpg",
+    "source": "https://drizly.com/brandy-alexander/r-8b033efecd352701",
+    "keywords": [
+        "brandy alexander",
+        "alexander"
+    ]
+}

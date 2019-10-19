@@ -3,14 +3,36 @@
     "description": "Enjoy a vodka martini style. Garnish with one or three olives, but never two.",
     "github": "alfg",
     "ingredients": [
-        "3 fl oz vodka",
-        "1 fl oz dry vermouth",
-        "1 cup ice cubes",
-        "3 olives"
+        {
+            "quantity": "3",
+            "measure": "fl oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "dry vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "olives"
+        }
     ],
     "directions": [
         "Combine vodka and dry vermouth in a cocktail mixing glass. Fill with ice and stir until chilled. Strain into a chilled martini glass.",
         "Garnish with three olives on a toothpick"
     ],
-    "image": "vodka-martini.jpg"
+    "image": "vodka-martini.jpg",
+    "keywords": [
+        "vodka",
+        "vermouth",
+        "olives",
+        "alcoholic"
+    ]
 }

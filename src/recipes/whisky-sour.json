@@ -1,0 +1,43 @@
+{
+    "name": "Whisky Sour",
+    "description": "The whiskey sour is a mixed drink containing whiskey, lemon juice, sugar, and optionally, a dash of egg white.",
+    "github": "soer7022",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "egg white"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cubed ice"
+        }
+    ],
+    "directions": [
+        "Put ice and all of the ingredients into a shaker and shake hard for about 20 seconds to chill the liquid really well",
+        "Strain the mix into a glass filled with ice and garnish with the cherry and orange slice"
+    ],
+    "image": "whisky-sour.jpg",
+    "keywords": [
+        "alcoholic",
+        "whiskey",
+        "egg",
+        "cocktail"
+    ]
+}

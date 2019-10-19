@@ -1,0 +1,51 @@
+{
+    "name": "Egg Coffee",
+    "description": "A Hanoi specialty in which a creamy soft, meringue-like egg white foam is perched on dense Vietnamese coffee. Best served hot on a winter day",
+    "github": "aldermann",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "egg yolk"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "sweetened condensed milk"
+        },
+        {
+            "quantity": "20",
+            "measure": "g",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "cocoa powder"
+        },
+        {
+            "quantity": "150",
+            "measure": "ml",
+            "ingredient": "black, Vietnamese coffee"
+        }
+    ],
+    "directions": [
+        "Combine the egg yolks, 20 ml of condensed milk, sugar and the vanilla extract in a bowl, then whisk until frothy and fluffy",
+        "After brewing the coffee, pour in the rest of condensed milk, stir gently",
+        "Pour the egg on top of the coffee",
+        "Garnish with the cocoa powder on top",
+        "Serve the cup of coffee inside a bowl of hot water to keep the it warm"
+    ],
+    "image": "egg-coffee.jpg",
+    "source": "https://www.legalnomads.com/vietnamese-egg-coffee-recipe/",
+    "keywords": [
+        "coffee",
+        "non-alcoholic",
+        "hot"
+    ]
+}

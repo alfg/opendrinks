@@ -1,0 +1,46 @@
+{
+    "name": "Coco Dream",
+    "description": "A refreshing mix of coconut lime and cachaça",
+    "github": "rrrahal",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "pulp of",
+            "ingredient": "Coconut"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "squeezed lime",
+            "ingredient": ""
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "of raw sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "shots",
+            "ingredient": "of cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "condensed milk"
+        }
+    ],
+    "directions": [
+        "Blend all ingredients together on a blender and you're ready to go"
+    ],
+    "image": "coco-dream.jpg",
+    "keywords": [
+        "cachaça",
+        "coconut",
+        "lime"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Rum and Coke",
+    "description": "Easy Rum and Coke recipe",
+    "github": "Kenzo604",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime wedge"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Coke"
+        }
+    ],
+    "directions": [
+        "Pour 1oz Rum into old-fashioned glass",
+        "Add 3oz Coke",
+        "Place lime wedge on edge of glass"
+    ],
+    "image": "rum-and-coke.jpg",
+    "keywords": [
+        "rum and coke",
+        "coke",
+        "rum"
+    ]
+}

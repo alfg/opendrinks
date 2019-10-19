@@ -1,0 +1,35 @@
+{
+    "name": "Spezi",
+    "description": "A Bavarian soda, combining cola and orange soda to create something beautiful.",
+    "github": "invalidCards",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Cola"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Orange soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "squeeze",
+            "ingredient": "Lemon juice"
+        }
+    ],
+    "directions": [
+        "Mix the cola and orange soda in a cup.",
+        "Add lemon juice to taste.",
+        "Stir gently."
+    ],
+    "image": "spezi.jpg",
+    "source": "http://www.thekitchenmaus.com/spezi-cola-orange/",
+    "keywords": [
+        "germany",
+        "german",
+        "non-alcoholic",
+        "soda"
+    ]
+}

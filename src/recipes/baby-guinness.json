@@ -1,0 +1,31 @@
+{
+    "name": "Baby Guinness",
+    "description": "A simple and sweet shot that resembles a baby pint of Guinness",
+    "github": "ronmcg",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "coffee flavored liqueur"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "irish cream liqueur"
+        }
+    ],
+    "directions": [
+        "Get a shot glass and fill it nearly to the top with a coffee flavored liqueur (ex. Kahlúa)",
+        "Fill the the rest of the shot glass with an Irish cream liqueur (ex. Baileys)"
+    ],
+    "image": "baby-guinness.jpg",
+    "source": "https://www.allrecipes.com/recipe/74819/baby-guinness/",
+    "keywords": [
+        "alcoholic",
+        "guinness",
+        "coffee",
+        "shot",
+        "irish",
+        "irish cream"
+    ]
+}

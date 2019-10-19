@@ -1,0 +1,35 @@
+{
+    "name": "Purple Haze",
+    "description": "A fun and popular mixed drink - typically, this drink includes vodka, fruit liqueur and a splash of soda.",
+    "github": "RyanJamesCaldwell",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "black raspberry liqueur"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "cranberry juice"
+        }
+    ],
+    "directions": [
+        "Gather your ingredients.",
+        "Pour the vodka and black raspberry liqueur into a cocktail shaker with ice.",
+        "Shake well!",
+        "Strain into an old-fashioned glass with fresh ice.",
+        "Top with cranberry juice.",
+        "Serve and enjoy!"
+    ],
+    "image": "purple-haze.jpg",
+    "keywords": [
+        "cranberry juice",
+        "vodka"
+    ]
+}

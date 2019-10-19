@@ -1,0 +1,37 @@
+{
+    "name": "Buttermilk",
+    "description": "Buttermilk is one of the most popular summer cooler all over india with different variations.",
+    "github": "chiragparekh",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "yogurt"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Few coriander leaves"
+        }
+    ],
+    "directions": [
+        "Place all ingredients except coriander leaves in a jar and mix it until all ingredients mixed properly.",
+        "Pour in glasses.",
+        "Garnish with coriander leaves."
+    ],
+    "image": "buttermilk.jpeg",
+    "keywords": [
+        "non-alcoholic",
+        "milk"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Tom Collins",
+    "description": "A classic and popular mixed drink. This drink resembles a sparkling lemonade and typically includes gin, lemon and soda.",
+    "github": "small-ac",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "3",
+            "measure": "ounces",
+            "ingredient": "club soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Optional: maraschino cherry or lemon slice for garnish"
+        }
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "In a collins glass with ice cubes, pour the gin, lemon juice, and simple syrup.",
+        "Stir thoroughly!",
+        "Top with club soda.",
+        "Optional: Garnish with cherry or lemon slice",
+        "Serve and enjoy!"
+    ],
+    "image": "tom-collins.jpg",
+    "keywords": [
+        "gin",
+        "lemon juice",
+        "alcoholic"
+    ]
+}

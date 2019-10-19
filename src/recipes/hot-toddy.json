@@ -1,0 +1,53 @@
+{
+    "name": "Hot Toddy",
+    "description": "A Hot Toddy is as classic as they come. The perfect drink to sip on when you're feeling under the weather or on a chilly Sunday afternoon. It will make you want to grab a good book and forget about all of your worries!",
+    "github": "dcorriveau",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cinnamon stick"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon slice"
+        }
+    ],
+    "directions": [
+        "In a teapot or a small saucepan, bring water to simmer.",
+        "In a mug, combine bourbon, honey, and lemon juice. Pour over hot water and stir to combine.",
+        "Garnish with cinnamon stick and lemon slice.",
+	"For a apple cider variation, Swap apple cider for the water and caramel for the honey."
+    ],
+    "image": "hot-toddy.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a28845622/hot-toddy-drink-recipe/",
+    "keywords": [
+        "honey",
+        "winter",
+        "lemon",
+        "burbon",
+        "cinnamon"
+	]
+}
+

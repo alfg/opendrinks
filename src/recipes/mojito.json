@@ -3,18 +3,52 @@
     "description": "The Mojito is traditionally served over ice in a highball glass and often associated with summer.",
     "github": "alfg",
     "ingredients": [
-        "ice",
-        "6 ounces light rum",
-        "4 lime wedges",
-        "12 mint sprigs, or spearmint, 8 roughly broken apart",
-        "6 tablespoons fresh lime juice",
-        "4 tablespoons sugar",
-        "club soda"
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "6",
+            "measure": "ounces",
+            "ingredient": "light rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "lime wedges"
+        },
+        {
+            "quantity": "12",
+            "measure": "",
+            "ingredient": "mint sprigs, or spear"
+        },
+        {
+            "quantity": "6",
+            "measure": "tablespoons",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "club soda"
+        }
     ],
     "directions": [
-        "Place ice in beverage shaker then add in the rum, 8 broken up mint sprigs, lime juice and sugar.",
+        "Place ice in beverage shaker then add in the rum, 8 broken up mint sprigs, lime juice, and sugar.",
         "Shake well and serve over ice in a high ball glass. Top off each glass with a splash of club soda.",
         "Garnish each with a slice of lime and a sprig of mint."
     ],
-    "image": "mojito.jpg"
+    "image": "mojito.jpg",
+    "keywords": [
+        "rum",
+        "lime",
+        "mint",
+        "alcoholic"
+    ]
 }

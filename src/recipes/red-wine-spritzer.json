@@ -1,0 +1,32 @@
+{
+    "name": "Red wine spritzer",
+    "description": "What I call it when I cut red wine with Sierra Mist Cranberry Splash",
+    "github": "jtk-codes",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "red wine, from a box is fine"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sierra mist cranberry splash"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Add one parts Sierra Mist to two parts wine.",
+        "Shake well and serve cold"
+    ],
+    "image": "red-wine-spritzer.jpg",
+    "source": "https://aggieskitchen.com/wp-content/uploads/2012/09/Red-Wine-Berry-Spritzer-Friday-Cocktail-1.jpg",
+    "keywords": [
+        "wine",
+        "cranberry juice"
+    ]
+}

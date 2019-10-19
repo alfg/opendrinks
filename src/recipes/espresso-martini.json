@@ -1,0 +1,56 @@
+{
+    "name": "Espresso Martini",
+    "description": "The Espresso Martini is a cold, coffee-flavored cocktail made with vodka, espresso coffee, coffee liqueur, and sugar syrup. It is not a true martini.",
+    "github": "Le-Morri",
+    "ingredients": [
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "freshly brewed espresso coffee"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "coffee liqueur (e.g. Kahlua)"
+        },
+        {
+            "quantity": "100",
+            "measure": "g",
+            "ingredient": ""
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "coffee beans (optional, for decoration)"
+        }
+    ],
+    "directions": [
+        "To make the syrup put the sugar in a small pan over medium heat and pour in 50ml water.",
+        "Stir the sugar and bring it to a boil. Turn off the heat and allow the syrup to cool.",
+        "Chill two martini glasses in the fridge",
+        "Pour 1 tbsp into a cocktail shaker along with a some of ice, the vodka, espresso, and coffee liqueur.",
+        "Shake until the outside of the cocktail shaker feels icy cold.",
+        "Strain into the chilled glasses. For decoration, you can put full coffee beans on top."
+    ],
+    "image": "espresso-martini.jpg",
+    "keywords":[
+        "alcoholic",
+        "coffee",
+        "vodka"
+    ]
+}

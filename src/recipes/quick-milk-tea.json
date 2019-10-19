@@ -1,0 +1,39 @@
+{
+    "name": "Quick Milk Tea",
+    "description": "Milk tea that is very easy to make",
+    "github": "tomial",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "tea bag"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "boiling water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "some ice cubes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "few teaspoons sweet condensed milk"
+        }
+    ],
+    "directions": [
+        "Make a cup of hot tea by boiling some water.",
+        "Remove the tea bag and add a few teaspoons of condensed and sweetened milk.",
+        "Put it into the fridge and let the tea cool down.",
+        "Add some ice cubes",
+        "Enjoy!"
+    ],
+    "image": "quick-milk-tea.jpg",
+    "keywords": [
+        "tea",
+        "milk"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Martini Royale",
+    "description": "A classic and refreshing drink for the summer.",
+    "github": "robsel118",
+    "ingredients": [
+        {
+            "quantity": "75",
+            "measure": "ml",
+            "ingredient": "of Martini"
+        },
+        {
+            "quantity": "75",
+            "measure": "ml",
+            "ingredient": "of Prosecco"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "wedge of lime"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint to garnish"
+        }
+    ],
+    "directions": [
+        "Fill the glass with ice cubes.",
+        "Pour the Martini, then add the Prosecco.",
+        "Use a spoon to turn the ice softly from bottom to top (2x only to preserve the bubbles).",
+        "Squeeze the lime in the glass and drop the wedge in the glass.",
+        "Take some mint and put it in one corner of the glass."
+    ],
+    "image": "martini-royale.jpg",
+    "source": "https://www.youtube.com/watch?v=NERgYW-0IuQ",
+    "keywords": [
+        "martini",
+        "alcoholic"
+    ]
+}

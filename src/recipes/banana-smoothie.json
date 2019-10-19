@@ -1,0 +1,48 @@
+{
+    "name": "Banana Smoothie",
+    "description": "Enjoy a Banana Smoothie. This recipe contains raw eggs.",
+    "github": "kevinmel2000",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "banana",
+            "ingredient": ""
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "1",
+            "measure": "egg",
+            "ingredient": ""
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "ground cinnamon"
+        }
+    ],
+    "directions": [
+        "In a blender, combine banana, milk, vanilla, egg and sugar. Blend until smooth. ",
+        "Pour into a tall glass and top with a pinch of cinnamon 5 Minute"
+    ],
+    "image": "banana-smoothie.jpg",
+    "keywords": [
+        "milk",
+        "banana",
+        "egg",
+        "smoothie"
+    ]
+}

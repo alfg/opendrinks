@@ -1,18 +1,40 @@
 {
     "name": "Caipirinha",
-    "description": "Caipirinha is a Brazilian cocktail prepared with cachaça, cane sugar and lime. Created by the farmers from whom it derives its name.",
+    "description": "Caipirinha is a Brazilian cocktail prepared with cachaça, cane sugar, and lime. Created by the farmers from whom it derives its name.",
     "github": "joshuamart",
     "ingredients": [
-        "2 oz cachaça",
-        "1 green leemon",
-        "1 tablespoon sugar ",
-        "Ice cube"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "green lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
     ],
     "directions": [
-        "Wash the lime and cut off both ends. Cut the lemon into 8 or 9 pieces and remove the central white part responsible for the bitterness.",
+        "Wash the lime and cut off both ends. Cut the lime into 8 or 9 pieces and remove the central white part responsible for the bitterness.",
         "Place the pieces in the glass and pour a good tablespoon of sugar. Crush firmly into the glass with the powdered sugar until the juice is extracted as completely as possible.",
-        "Cover the lemon-sugar mixture with a good layer of crushed ice, crushed ice or simple ice cubes (close to the rim), then level it to a finger from the rim.",
+        "Cover the lime-sugar mixture with a good layer of crushed ice or simple ice cubes (close to the rim), then level it to a finger from the rim.",
         "Serve in an old fashioned glass. "
     ],
-    "image": "caipirinha.jpg"
+    "image": "caipirinha.jpg",
+    "keywords": [
+        "cachaça",
+        "green lime",
+        "sugar",
+        "alcoholic"
+	]
 }

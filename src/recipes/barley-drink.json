@@ -1,0 +1,44 @@
+{
+    "name": "Barley Drink",
+    "description": "Barley drink is a drink consumed in various parts of the world. It is made by boiling barley grains in water, then straining to remove the grains and adding sugar.",
+    "github": "connectnitish",
+    "ingredients": [
+        {
+            "quantity": "½",
+            "measure": "cup",
+            "ingredient": "pearl barley"
+        },
+        {
+            "quantity": "2",
+            "measure": "litres",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "6",
+            "measure": "stalks",
+            "ingredient": "of pandan leaves - tied into a knot"
+        },
+        {
+            "quantity": "½",
+            "measure": "cup",
+            "ingredient": "candied wintermelon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Rock sugar to taste"
+        }
+    ],
+    "directions": [
+        "Wash and drain the pearl barley until the water is much clearer.",
+        "Place water, barley, candied wintermelon and pandan leaves into a soup pot and bring to a boil. Once it is boiling, lower the heat and let it simmer for about 30 minutes or so till the barley expands and softens. Top up with more water if necessary.",
+        "Add in rock sugar 5-10 minutes before turning off the heat. Stir until the rock sugar is fully dissolved. Discard the pandan leaves.",
+        "Serve hot. Or leave it to cool and chuck it into the fridge and enjoy it chilled."
+    ],
+    "image": "barley-drink.jpg",
+    "keywords": [
+        "vegan",
+        "non-alcoholic",
+        "tea"
+    ]
+}

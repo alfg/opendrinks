@@ -1,0 +1,37 @@
+{
+    "name": "Tequila Pineapple",
+    "description": "A simple, but delicious summertime cocktail.",
+    "github": "aagnone3",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Fill a mixing cup half-full with ice cubes.",
+        "Fill a drinking glass half-full with ice cubes.",
+        "Add tequila and pineapple juice to the mixing cup and shake well.",
+        "With the filter intact on the mixing cup, pour the mixture into the drinking glass.",
+        "(Optional) add a marachino cherry or pineapple slice as a garnish."
+    ],
+    "image": "tequila-pineapple.jpg",
+    "keywords": [
+        "summer",
+        "tequila",
+        "pineapple",
+        "rocks",
+        "ice"
+    ]
+}

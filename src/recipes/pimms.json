@@ -1,0 +1,49 @@
+{
+    "name": "Pimms",
+    "description": "A quintessentially British cocktail. A true taste of summer, serve this fruity punch with fresh Mint leaves, Cucumber, Orange and Strawberries",
+    "github": "MorkWood2",
+    "ingredients": [
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "Pimm's No. 1"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "lemonade"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Mint sprig"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "sliced Cucumber"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "sliced Orange"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "whole Strawberry"
+        }
+    ],
+    "directions": [
+        "Add ice to glass ",
+        "Pour Pimms and Lemonade",
+        "Stir well",
+        "add cucumber, Orange, and Strawberry",
+        "Enjoy."
+    ],
+    "image": "pimms.jpg",
+    "keywords": [
+        "pimms",
+        "lemonade"
+    ]
+}

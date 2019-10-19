@@ -1,0 +1,33 @@
+{
+    "name": "Lemonade",
+    "description": "Lemonade can be any one of a variety of sweetened or unsweetened beverages found throughout the world, but which are traditionally all characterized by a lemon flavor",
+    "github": "danie007",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Simple syrup:  Place the sugar and water in a small saucepan and stir so that the sugar dissolves completely.",
+        "Juice the lemons: Juice your lemons. Depending on the size 2 or 3 lemons would be needed",
+        "Combine lemon juice, simple syrup: Pour the juice and the simple syrup sugar water into a serving pitcher. Add more water if you would like it to be more diluted (though note that when you add ice, it will melt and naturally dilute the lemonade).",
+        "Chill: Refrigerate 30 to 40 minutes and serve"
+    ],
+    "image": "lemonade.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "sweet"
+    ]
+}

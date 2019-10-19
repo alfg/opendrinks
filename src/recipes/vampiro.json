@@ -1,0 +1,61 @@
+{
+    "name": "Vampiro",
+    "description": " This cocktail is called vampiro because the sangria has the color of blood and the taste of the drink bites the senses with that spicy and sweet taste of juices.",
+    "github": "RDLL",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "of Tequila (one ounce per glass)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "tomato juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Sriracha sauce"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "grapefruit juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "of fresh pink grapefruit or grapefruit"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "of natural orange"
+        }
+    ],
+    "directions": [
+        "Add the ice cubes and Don Julio tequila (one ounce) in each glass.",
+        "Then add the sriracha sauce to the tomato juice and stir.",
+        "This cocktail is prepared in layers, so start with the first layer by pouring a little of the tomato juice, then add the grapefruit or grapefruit juice and, finally, the orange juice.",
+        "Garnish with a slice of pink grapefruit and a slice of natural orange.",
+        "Drink this vampire cocktail slowly and enjoy while you drip with fresh Mexican sauce and corn chips before the strong meal."
+    ],
+    "image": "vampiro.jpg",
+    "keywords": [
+        "tequila",
+        "spicy",
+        "fruits juice",
+        "alcoholic"
+    ]
+}
