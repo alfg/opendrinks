@@ -15,7 +15,8 @@
       "corpse-reviver-no2",
       "cuban-zombie",
       "vampiro"
-    ]
+    ],
+    "size": 6
   },
   {
     "title": "Under the Weather Drinks",
@@ -39,7 +40,8 @@
       "rusty-nail",
       "sangria",
       "warm-lemon-honey-tea"
-    ]
+    ],
+    "size": 6
   },
   {
     "title": "Hot Weather drinks",
@@ -72,6 +74,7 @@
       "cosmopolitan",
       "pisco-sour",
       "zombie"
-    ]
+    ],
+    "size": 6
   }
 ]
