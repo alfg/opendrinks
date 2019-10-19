@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "title": "Featured Drinks",
     "description": "Selected drinks to try!",
@@ -74,6 +74,15 @@
       "cosmopolitan",
       "pisco-sour",
       "zombie"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Christmas Drinks",
+    "description": "Cozy drinks to warm your heart and get you in christmas mood",
+    "items": [
+      "christmas-tonic",
+      "white-christmas-mojito"
     ],
     "size": 6
   }
