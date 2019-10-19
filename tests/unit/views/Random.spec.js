@@ -15,12 +15,12 @@ describe('Random view', () => {
       localVue,
       mocks: {
         $router: {
-          replace: fn
-        }
-      }
+          replace: fn,
+        },
+      },
     });
   });
-  
+
   test('should route to random recipe', () => {
     expect(wrapper.vm.$router.replace).toHaveBeenCalled();
   });
