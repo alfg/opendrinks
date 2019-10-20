@@ -16,7 +16,7 @@
         {
             "quantity": "4",
             "measure": "cups",
-            "ingredient": "water<ingredient 3>"
+            "ingredient": "water"
         },
         {
             "quantity": "",
@@ -33,6 +33,6 @@
         "calamansi",
         "ice",
         "summer",
-        "fruit juice"
+        "fruit juice",
     ]
 }
