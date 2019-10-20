@@ -1,0 +1,34 @@
+{
+    "name": "<Kopi O Kosong>",
+    "description": "<Coffee, Black, No Sugar>",
+    "github": "<aflutter>",
+    "ingredients": [
+        {
+            "quantity": "<2/3>",
+            "measure": "<cup>",
+            "ingredient": "<coffee brew>"
+        },
+        {
+            "quantity": "<1/3>",
+            "measure": "<cup>",
+            "ingredient": "<hot water>"
+        },
+        {
+            "quantity": "<2>",
+            "measure": "<teaspoon>",
+            "ingredient": "<sugar>"
+        },
+    ],
+    "directions": [
+        "Add base brew to your cup"
+	"Top up with hot water."
+	"Add sugar."
+    ],
+    "image": "<kopiokosong.jpg>",
+    "source": "<https://says.com/my/lifestyle/ordering-your-drinks-at-a-malaysian-kopitiam>",
+    "keywords": [
+        "non-alcoholic",
+        "coffee",
+        "hot"
+    ]
+}
