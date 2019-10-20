@@ -1,0 +1,42 @@
+{
+    "name": "Shark Bite",
+    "description": "A quick drink to make, Shark Bite is a great summertime drink that looks as good as it tastes!",
+    "github": "jcrossguitar",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounce",
+            "ingredient": "Spiced Rum"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "ounce",
+            "ingredient": "blue curacao"
+        },
+        {
+            "quantity": "3",
+            "measure": "ounce",
+            "ingredient": "sour mix"
+        },
+        {
+            "quantity": "A few",
+            "measure": "drops or a splash",
+            "ingredient": "grenadine"
+        }
+    ],
+    "directions": [
+        "Start with fresh ice in a glass",
+        "Pour rum over ice",
+        "Add blue curacao",
+        "Top off glass with sour mix",
+        "Finally add grenadine"
+    ],
+    "image": "shark-bite-cocktail.jpg",
+    "keywords": [
+        "shark bite",
+        "rum",
+        "spiced rum",
+        "grenadine",
+        "sour mix"
+    ]
+}
