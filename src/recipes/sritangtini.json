@@ -1,0 +1,22 @@
+{
+    "name": "Sritangtini",
+    "description": "A refreshing citrus drink with a subtle spice kick.",
+    "github": "vartika-arora",
+    "ingredients": [
+      "1.5 oz Citron Vodka",
+      ".5 oz Cointreau",
+      "2 pcs Ginger",
+      "2 pcs Gallingale",
+      "2 pcs Lemongrass",
+      "5 pcs Kaffir lime leaf",
+      ".5 oz Lime juice",
+      ".5 oz Simple syrup"
+    ],
+    "directions": [
+        "Moisten the rim of the martini glass with chili oil, the dip in salt and chili powder.",
+        "Put Citron vodka, Cointreau, Ginger, Gallingale, Lemongrass, Kaffir lime leaf, lime juice, and simple syrup in a shaker.",
+        "Add ice and shake well. Pour into martini glass.",
+        "Garnish with lemongrass stick, kaffir lime leaf, and lemon slice."
+    ],
+    "image": "sritangtini.jpg"
+}
