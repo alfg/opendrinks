@@ -1,50 +1,50 @@
 {
-	"name": "Scottish Winter",
-	"description": "This an old-fashion style cocktail made with a highland scotch as the base spirit with some added ingredients for aroma and flavor. Includes a soothing honey simple syrup, settle notes of honey, orange citrus, and baking spice. And you will also find a pleasant nose of some peat and smoke involved but very settle in the flavor and finish.",
-	"github": "MilesMickelson",
-	"ingredients": [
-			{
-					"quantity": "2",
-					"measure": "oz",
-					"ingredient": "Glenmorangie 10yr"
-			},
-			{
-					"quantity": ".25",
-					"measure": "oz",
-					"ingredient": "Honey Simple Syrup"
-			},
-			{
-					"quantity": "2",
-					"measure": "dash",
-					"ingredient": "Orange Bitters"
-			},
-			{
-				"quantity": "1",
-				"measure": "peel",
-				"ingredient": "Orange Fruit"
-		  },
-			{
-					"quantity": "1",
-					"measure": "spritz",
-					"ingredient": "Peated Scotch"
-			}
-	],
-	"directions": [
-		"Take old fashion glass and smoke it. You can do this many ways, most preferably with a smoking gun and a vase large enough to encompass the glass. If you don’t have or want the gun you can get a tray to set the wood chips in and light on fire before putting inside the vase with the glass, or simply inside the old-fashion glass upside down. Leave the glass smoking until you finish the cocktail build.",
-		"Build cocktail inside of a mixing glass, first adding the dash of aromatic bitters, then two of the orange, third the honey simple syrup, and finally the scotch. You should always build your cocktails smallest and most inexpensive ingredients first so as if you make a mistake it will less likely cost you the spirit.",
-		"Take Y-peeler tool, peel an orange slice and set it off to side and also have your peated scotch in a mister spray bottle handy.",
-		"Add ice, stir, and set julep strainer on top, then quickly remove old fashion glass from smoking vessel and give it 1 spritz of the peat spray inside immediately straining drink into it after.",
-		"Add two-inch ice cube, flip it one time so you will not have any frost hitting your lips. Then express orange peel over glass and swoth the rim and serve it so that the orange peel is on backside of glass and your nose is pointing into it."
-	],
-"image": "Coming Soon",
-"source": "Designed by Miles Mickelson",
-"keywords": [
-	"old fashion",
-  "scotch",
-  "whiskey",
-  "peat",
-  "smoke",
-  "dry",
-  "citrus"
-]
+  "name": "Scottish Winter",
+  "description": "This an old-fashion style cocktail made with a highland scotch as the base spirit with some added ingredients for aroma and flavor. Includes a soothing honey simple syrup, settle notes of honey, orange citrus, and baking spice. And you will also find a pleasant nose of some peat and smoke involved but very settle in the flavor and finish.",
+  "github": "MilesMickelson",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Glenmorangie 10yr"
+    },
+    {
+      "quantity": ".25",
+      "measure": "oz",
+      "ingredient": "Honey Simple Syrup"
+    },
+    {
+      "quantity": "2",
+      "measure": "dash",
+      "ingredient": "Orange Bitters"
+    },
+    {
+      "quantity": "1",
+      "measure": "peel",
+      "ingredient": "Orange Fruit"
+    },
+    {
+      "quantity": "1",
+      "measure": "spritz",
+      "ingredient": "Peated Scotch"
+    }
+  ],
+  "directions": [
+    "Take old fashion glass and smoke it. You can do this many ways, most preferably with a smoking gun and a vase large enough to encompass the glass. If you don’t have or want the gun you can get a tray to set the wood chips in and light on fire before putting inside the vase with the glass, or simply inside the old-fashion glass upside down. Leave the glass smoking until you finish the cocktail build.",
+    "Build cocktail inside of a mixing glass, first adding the dash of aromatic bitters, then two of the orange, third the honey simple syrup, and finally the scotch. You should always build your cocktails smallest and most inexpensive ingredients first so as if you make a mistake it will less likely cost you the spirit.",
+    "Take Y-peeler tool, peel an orange slice and set it off to side and also have your peated scotch in a mister spray bottle handy.",
+    "Add ice, stir, and set julep strainer on top, then quickly remove old fashion glass from smoking vessel and give it 1 spritz of the peat spray inside immediately straining drink into it after.",
+    "Add two-inch ice cube, flip it one time so you will not have any frost hitting your lips. Then express orange peel over glass and swoth the rim and serve it so that the orange peel is on backside of glass and your nose is pointing into it."
+  ],
+  "image": "Coming Soon",
+  "source": "Designed by Miles Mickelson",
+  "keywords": [
+    "old fashion",
+    "scotch",
+    "whiskey",
+    "peat",
+    "smoke",
+    "dry",
+    "citrus"
+  ]
 }
