@@ -1,0 +1,45 @@
+{
+    "name": "Rosemary Margarita",
+    "description": "Must drink during stress hours!!",
+    "github": "imtushar06",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Herradura Blanco"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Rosemary-infused simple syrup"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "fresh lemon juice"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "store-bought pear puree"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Sweet and Sour Mix"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Splash club soda"
+        }
+    ],
+    "directions": [
+        "Add all ingredients (except club soda) to cocktail shaker and shake to combine.",
+        "Pour into Collins glass, served on the rocks.",
+        "Top with splash of club soda. Garnish with fresh rosemary sprig.",
+        "Rosemary Syrup: Bring to boil over medium heat 1 cup, granulated sugar, 1 cup water and 6 fresh rosemary sprigs. Simmer and stir until sugar is dissolved."
+    ],
+    "image": "Rosemary.jpg",
+    "keywords": ["soda"]
+}
