@@ -85,5 +85,16 @@
       "white-christmas-mojito"
     ],
     "size": 6
+  },
+  {
+    "title": "Strong Drinks",
+    "description": "Super strong alcoholic drinks that make you forget all about your troubles",
+    "items": [
+      "sazerac",
+      "long-island-iced-tea",
+      "zombie",
+      "black-russian"
+    ],
+    "size": 6
   }
 ]
