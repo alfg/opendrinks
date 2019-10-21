@@ -1,0 +1,31 @@
+{
+    "name": "Rooibos Peach Tea",
+    "description": "Rooibos means red bush tea, and it originates from South Africa. It has many health benefits and luckily can be found in most stores worldwide.",
+    "github": "lalawuhan",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "l",
+            "ingredient": "Cooled Rooibos Tea (3 Tea Bags is usually enough)"
+        },
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Peach Juice"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Squeezed Lemon Juice"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients in a large jug and stir well.",
+        "Serve over ice."    ],
+
+    "image": "rooibos-peach-tea.jpg",
+    "keywords": [
+        "rooibos",
+        "peach"
+    ]
+}

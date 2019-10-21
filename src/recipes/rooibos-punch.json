@@ -1,0 +1,42 @@
+{
+    "name": "Rooibos Punch",
+    "description": "Rooibos means red bush tea, and it originates from South Africa. It has many health benefits and luckily can be found in most stores worldwide. This is a cocktail that turns tea into something more exciting.",
+    "github": "lalawuhan",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Cooled Rooibos Tea (2 Tea Bags is usually enough)"
+        },
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "Pineapple Juice"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Squeezed Lemon Juice"
+        },
+        {
+            "quantity": "6",
+            "measure": "Teaspoons",
+            "ingredient": "White Sugar"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Gin or Vodka"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients in a large jug and stir well.",
+        "Strain and serve over ice."    ],
+
+    "image": "rooibos-punch.jpg",
+    "keywords": [
+        "rooibos",
+        "pineapple",
+        "alcoholic"
+    ]
+}

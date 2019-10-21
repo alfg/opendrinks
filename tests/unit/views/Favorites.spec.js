@@ -3,6 +3,7 @@ import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
 import Favorites from '@/views/Favorites.vue';
+
 const localVue = createLocalVue();
 localVue.use(BootstrapVue);
 
@@ -21,5 +22,9 @@ describe('Favorites', () => {
   test('shows the amount of favorites', () => {
     expect(wrapper.find('#recipe-list').html()).toContain('Aam Panna');
     expect(wrapper.find('#recipe-list').html()).toContain('Aperol Spritz');
+  });
+
+  test('shows favorite star', () => {
+    expect(wrapper.find('#star').exists()).toBe(true);
   });
 });
