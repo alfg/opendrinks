@@ -1,8 +1,23 @@
 [
   {
-    "title": "Featured Drinks",
-    "description": "Selected drinks to try!",
-    "items": ["mai-tai", "pineapple-juice", "bramble"]
+    "title": "Popular Drinks",
+    "description": "Popular drinks never going out of style!",
+    "items": [
+      "old-fashioned", 
+      "margarita", 
+      "cosmopolitan",
+      "negroni",
+      "moscow-mule",
+      "mojito",
+      "manhattan",
+      "mimosa",
+      "gimlet",
+      "sidecar",
+      "french-75",
+      "daiquiri",
+      "dark-and-stormy"
+    ],
+    "size": 6
   },
   {
     "title": "Halloween Drinks",
