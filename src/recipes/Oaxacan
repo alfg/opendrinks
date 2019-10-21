@@ -1,0 +1,42 @@
+{
+    "name": "Oaxacan Old Fashioned",
+    "description": "Old fashioned taquila drink",
+    "github": "ravish1729",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Corralejo Reposado Tequila"
+        },
+        {
+            "quantity": ".5",
+            "measure": "VIDA",
+            "ingredient": "Mezcal"
+        },
+        {
+            "quantity": "1",
+            "measure": "spoon",
+            "ingredient": "agave nectar"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Bittermens Xocaloctl Bitters"
+        }
+    ],
+    "directions": [
+        "Stir all ingredients with ice ",
+        "strain over a large format ice cube in a rocks glass",
+        "Garnish with a long peel of an orange and its oils"
+    ],
+    "image": "Oaxacan.jpg",
+    "keywords": [
+        "taquila",
+        "alcoholic"
+    ]
+}
