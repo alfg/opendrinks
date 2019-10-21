@@ -3,6 +3,7 @@ import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
 import Favorites from '@/views/Favorites.vue';
+
 const localVue = createLocalVue();
 localVue.use(BootstrapVue);
 
