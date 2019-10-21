@@ -1,0 +1,58 @@
+{
+  "name": "Gin Fizz with Pomegranate",
+  "description": "A fresh cocktail perfect for a suuny day. It's beatiful and delicious!",
+  "github": "nayara",
+  "ingredients": [
+      {
+          "quantity": "50",
+          "measure": "ml",
+          "ingredient": "Gin"
+      },
+      {
+          "quantity": "120",
+          "measure": "ml",
+          "ingredient": "Club soda"
+      },
+      {
+          "quantity": "40",
+          "measure": "ml",
+          "ingredient": "Lemon"
+      },
+      {
+          "quantity": "1",
+          "measure": "tablespoon",
+          "ingredient": "Sugar"
+      },
+      {
+          "quantity": "1 ½",
+          "measure": "tablespoon",
+          "ingredient": "Pomergranate"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Fresh rosemary"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Ice cubes"
+      }
+  ],
+  "directions": [
+      "Before prepare your drink put the club soda on refrigerator for at least 30 minutes.",
+      "In a glass of wine mix the sugar with the lemon juice.",
+      "Add the pomegranate and gin.",
+      "Fill the glass with ice and complete with Club Soda.",
+      "Add the fresh rosemary - and enjoy!"
+  ],
+  "image": "gin-fizz-with-pomegranate.jpg",
+  "keywords": [
+      "gin",
+      "club soda",
+      "fresh",
+      "rosemary",
+      "lemon",
+      "alcoholic"
+  ]
+}
