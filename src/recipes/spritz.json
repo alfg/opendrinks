@@ -1,0 +1,48 @@
+{
+    "name": "Spritz",
+    "description": "Tipical drink from Veneto region (Italy), invented between the end of the 1700s and the beginning of the 1800s.",
+    "github": "GiovanniCS",
+    "ingredients": [
+        {
+            "quantity": "1/3",
+            "measure": "",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "",
+            "ingredient": "Seltz "
+        },
+        {
+            "quantity": "1/3",
+            "measure": "",
+            "ingredient": "White wine"
+        },
+        {
+            "quantity": "6",
+            "measure": "cubes",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Orange"
+        }
+    ],
+    "directions": [
+        "Cut the orange in slices.",
+        "Add the ice cubes in the glass.",
+        "Add 1/3 of Aperol and 1/3 of white wine.",
+        "Finally sprinkle the soda in the glass.",
+        "Garnish with one slice of orange and serve.",
+        "Enjoy!"
+    ],
+    "image": "spritz.jpg",
+    "keywords": [
+        "spritz",
+        "wine",
+        "orange",
+        "aperol",
+        "selz"
+    ]
+}

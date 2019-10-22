@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
@@ -117,7 +117,6 @@
     "title": "Strong Drinks",
     "description": "Super strong alcoholic drinks that make you forget all about your troubles",
     "items": [
-      "sazerac",
       "long-island-iced-tea",
       "zombie",
       "black-russian"

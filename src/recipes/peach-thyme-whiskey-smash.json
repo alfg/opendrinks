@@ -1,0 +1,51 @@
+{
+    "name": "Peach and Thyme Whiskey Smash",
+    "description": "The perfect, refreshing whiskey drink for a summer day",
+    "github": "Zuzanav",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Russell’s Reserve Bourbon"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "Peach Slices"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "",
+            "ingredient": "Thyme Sprigs"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "Mint Leaves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Lemon Juice"
+        }
+    ],
+    "directions": [
+        "In a cocktail shaker, combine peach slices, thyme, mint and honey. Gently muddle.",
+        "Add ice, lemon juice, and bourbon and shake.",
+        "Strain into a glass with ice.",
+        "Garnish with peach slices and a thyme spring."
+        
+    ],
+    "image": "peach-thyme-whiskey-smash.jpg",
+    "source": "http://www.womenandwhiskies.com/recipe/peach-smash/",
+    "keywords": [
+        "whiskey",
+        "bourbon",
+        "herbal"
+    ]
+}
