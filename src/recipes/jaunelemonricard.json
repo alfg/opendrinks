@@ -1,4 +1,3 @@
-
 {
     "name": "Jaune Lemon Ricard",
     "description": "This original cocktail combines the aniseed flavours of Pastis de Marseille RICARD, the natural freshness of lemon and the sweetness of orgeat",
@@ -11,7 +10,7 @@
         },
         {
             "quantity": "2",
-            "measure": "teaspoon>",
+            "measure": "teaspoon",
             "ingredient": "Orgeat Syrup"
         },
         {
@@ -32,13 +31,13 @@
 		{
             "quantity": "1",
             "measure": "leaf",
-            "ingredient": "Fresh mint "
+            "ingredient": "Fresh mint"
         }
     ],
     "directions": [
         "Pour 4 teaspoon of Ricard and then 4 teaspoon of freshly squeezed lemon juice. ",
         "Then add 2 teaspoon of orgeat syrup to bring sweetness. Mix so that the flavours mix. ",
-        "Generously fill the glass with fresh water and then ice cubes. "
+        "Generously fill the glass with fresh water and then ice cubes. ",
 		"Garnish with a slice of lemon and a fresh mint leaf. Add a biodegradable straw and serve the cocktail. "
     ],
     "image": "jaunelemonricard.jpg",
@@ -46,6 +45,6 @@
     "keywords": [
         "alcoholic ",
         "Lemon",
-		"Ricard",
+		"Ricard"
     ]
 }
