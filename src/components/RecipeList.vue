@@ -78,7 +78,8 @@ export default {
       let pageParam = this.$route.query.page;
       if(pageParam != null ? this.pageNumber=pageParam-1 : this.pageNumber=0);
       return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
-  },
+    }
+   },
   methods: {
     onPageChanged(page) {
       this.pageNumber = page - 1;
