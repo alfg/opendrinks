@@ -1,0 +1,44 @@
+{
+    "name": "Pan-Galactic Gargleblaster ",
+    "description": "Its effects are similar to having your brains smashed out by a slice of lemon wrapped round a large gold brick",    "github": "FarhiaM",
+    "ingredients": [
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Pernod"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml"
+            "ingredient": "Galliano"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Blackcurrant"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "Top off",
+            "measure": "",
+            "ingredient": "Cider"
+        }
+    ],
+    "directions": [
+        "Pour ingredients over ice and serve."
+    ],
+    "image": "PGGB.jpg",
+    "keywords": [
+        "Pan-Galactic",
+        "Hitchhiker's Guide"
+    ]
+}
