@@ -75,7 +75,7 @@ export default {
       return this.items.length;
     },
     paginatedItems() {
-      let pageParam = this.$route.query.page;
+      pageParam = this.$route.query.page;
       if(pageParam != null ? (this.pageNumber = pageParam - 1) : (this.pageNumber = 0));
       return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
     },
