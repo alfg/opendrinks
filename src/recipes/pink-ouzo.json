@@ -27,7 +27,7 @@
             "quantity": "1",
             "measure": "unite",
             "ingredient": "Lime"
-        },
+        }
     ],
     "directions": [
         "Rinse the mint, wash the lemon and cut it into slices.",
@@ -38,6 +38,6 @@
     "image": "PinkCocktail.jpg",
     "keywords": [
         "alcoholic",
-        "ouzo",
+        "ouzo"
     ]
 }
