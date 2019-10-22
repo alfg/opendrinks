@@ -1,0 +1,41 @@
+{
+    "name": "Spritz Pomegranate",
+    "description": "A really fresh and healty drink",
+    "github": "andreampiovesana",
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Pomegranate"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sliced orange or lemon for garnish"
+        }
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Add Prosecco, Pomegranate and soda.",
+        "Stir gently to combine and garnish with a slice of orange."
+    ],
+    "image": "spritz-pomegranate.jpg",
+    "keywords": [
+        "alcoholic"
+    ]
+}
