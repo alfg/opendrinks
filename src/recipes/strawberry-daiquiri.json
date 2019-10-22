@@ -45,10 +45,10 @@
         "Blend until smooth."
         "Pour into glasses and serve."
     ],
-    "image": "strawberry-daiquiri.jpg",
+    "image": "<strawberry-daiquiri.jpg>",
     "source": "https://www.allrecipes.com/recipe/32352/best-strawberry-daiquiri/",
     "keywords": [
-        "Daiquiri, Slush",
+        "<Daiquiri, Slush",
         "...",
     ]
 }
