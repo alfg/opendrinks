@@ -42,15 +42,15 @@
     "directions": [
         "In a blender, combine ice, sugar and strawberries.",
         "Pour in lime juice, lemon juice, rum and lemon-lime soda.",
-        "Blend until smooth."
+        "Blend until smooth.",
         "Pour into glasses and serve."
     ],
-    "image": "strawberry-daiquiri.jpg>",
+    "image": "strawberry-daiquiri.jpg",
     "source": "https://www.allrecipes.com/recipe/32352/best-strawberry-daiquiri/",
     "keywords": [
-        "Daiquiri",
+        "daiquiri",
         "Slush",
         "rum",
-        "alcoholic",
+        "alcoholic"
     ]
 }
