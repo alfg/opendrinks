@@ -14,11 +14,14 @@
             "ingredient": "Red vermouth"
         },
         {
-            "ingredient": "Lemon peel to decorate"
+            "quantity": "1",
+            "measure": "unit",
+            "ingredient": "Lemon peel"
         }
     ],
     "directions": [
-        "Pour all ingredients in a shot glass and decorate with lemon peel"
+        "Pour all ingredients in a shot glass",
+        "Decorate with lemon peel"
     ],
     "image": "rabo-de-galo.jpg",
     "keywords": [
