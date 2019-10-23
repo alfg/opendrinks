@@ -4,7 +4,7 @@ module.exports = {
   env: {
     node: true,
   },
-
+//t-shirt
   extends: [
     'plugin:vue/essential',
     '@vue/airbnb',
