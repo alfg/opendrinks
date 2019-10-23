@@ -1,0 +1,40 @@
+{
+    "name": "Americano",
+    "description": "A classic Campari drink",
+    "github": "juan88",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Sweet Vermouth"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Soda water"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice or twist",
+            "ingredient": "orange or lemon"
+        }
+    ],
+    "directions": [
+        "Pour the Campari and vermouth into an old-fashioned glass filled with ice.",
+        "Top with soda",
+        "Garnish with a lemon twist or an orange slice.",
+        "Enjoy!"
+    ],
+    "image": "americano.jpg",
+    "keywords": [
+        "alcoholic",
+        "Campari",
+        "Sweet Vermouth",
+        "Lemon"
+    ]
+}
