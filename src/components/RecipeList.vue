@@ -24,12 +24,12 @@
 
     <b-row class="mt-4">
       <b-col cols="12" md="10">
-        <b-pagination
+        <b-pagination-nav
           @change="onPageChanged"
-          :total-rows="rows"
-          :per-page="selected"
-          v-model="currentPage"
-        ></b-pagination>
+          :link-gen="linkGen"
+          :number-of-pages="rows"
+          use-router
+        ></b-pagination-nav>
       </b-col>
       <b-col cols="12" md="2">
         <b-form-select v-model="selected" :options="options" v-on:change="getSelectedItem">
@@ -75,6 +75,8 @@ export default {
       return this.items.length;
     },
     paginatedItems() {
+      const pageParam = this.$route.query.page;
+      if(pageParam != null ? (this.pageNumber = pageParam - 1) : (this.pageNumber = 0));
       return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
     },
   },
@@ -82,6 +84,9 @@ export default {
     onPageChanged(page) {
       this.pageNumber = page - 1;
       window.scrollTo(0, 0);
+    },
+    linkGen(pageNum) {
+      return pageNum === 1 ? '?' : `?page=${pageNum}`;
     },
     getSelectedItem(event) {
       this.perPage = event;
