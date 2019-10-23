@@ -1,0 +1,43 @@
+{
+    "name": "Pink cocktail with Ouzo",
+    "description": "Pretty pink cocktail with Ouzo",
+    "github": "JeanKreek",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Ouzo"
+        },
+        {
+            "quantity": "4",
+            "measure": "teaspoon",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "25",
+            "measure": "oz",
+            "ingredient": "Ice water"
+        },
+		{
+            "quantity": "4",
+            "measure": "unite",
+            "ingredient": "Mint branches"
+        },
+		{
+            "quantity": "1",
+            "measure": "unite",
+            "ingredient": "Lime"
+        }
+    ],
+    "directions": [
+        "Rinse the mint, wash the lemon and cut it into slices.",
+        "Make a cut towards the centre of each slice so that it can be held straddling the edge of the glass.",
+        "In a shaker, pour the Ouzo, grenadine, water and shake.",
+		"Pour into 4 large glasses with ice cubes and decorate with lemon slices and mint leaves."
+    ],
+    "image": "pink-ouzo.jpg",
+    "keywords": [
+        "alcoholic",
+        "ouzo"
+    ]
+}
