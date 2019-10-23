@@ -1,0 +1,39 @@
+{
+    "name": "Strawberry Margarita",
+    "description": "An unusual combination with a unmistakable flavor. Mixes the freshness blend of lemon with a sweetness of strawbery. Ideal drink for hot days!",
+    "github": "SantosMatheusGR",
+    "ingredients": [
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Strawberry Liqueur"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "1/2",
+            "mesure" : "Teaspoon",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Gonden Tequila"
+        }
+    ],
+    "directions": [
+        "On cocktail shaker,  add salt and lemon juice and shake.",
+        "Add golden tequila and strawberry liqueur, mix well.",
+        "Put the mixture in a Margarita Glass, you can put fresh strawberry to adorn."
+    ],
+    "image": "<strawberry-margarita.jpg>",
+    "keywords": [
+        "strawbarry",
+        "tequila",
+        "margarita",
+        "fresh"
+    ]
+}
