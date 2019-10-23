@@ -17,13 +17,13 @@
             "quantity": "1",
             "measure": "oz",
             "ingredient": "Black Currant Syrup"
-        },
+        }
     ],
     "directions": [
         "Pour the Hard Cider into a tall pint glass,",
         "Slowly Add the Stout or lager of choice,",
         "if done correctly, their should be seperation between stout and cider.",
-        "Finally add Currant Syrup and serve without a garnish. Enjoy.",
+        "Finally add Currant Syrup and serve without a garnish. Enjoy."
     ],
     "image": "snake-bite.jpg",
     "keywords": [
@@ -32,6 +32,6 @@
         "savory",
         "apple",
         "beer",
-        "fall",
+        "fall"
     ]
 }
