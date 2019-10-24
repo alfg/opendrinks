@@ -1,0 +1,58 @@
+{
+    "name": "Cocktail Orange Ouzo",
+    "description": "Cocktail with some Ouzo and Orange juice",
+    "github": "JeanKreek",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Ouzo"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "unite",
+            "ingredient": "bottle of small water"
+        },
+		{
+            "quantity": "4",
+            "measure": "teaspoon",
+            "ingredient": "fine grain sugar"
+        },
+		{
+            "quantity": "1,5",
+            "measure": "unite",
+            "ingredient": "pink grapefruit"
+        },
+		{
+            "quantity": "4",
+            "measure": "unite",
+            "ingredient": "sprigs of fresh mint"
+        },
+		{
+            "quantity": "2",
+            "measure": "unite",
+            "ingredient": "Lime"
+        }
+    ],
+    "directions": [
+        "Cut the lemons and grapefruit in half.",
+        "Grate some of the zest of the half grapefruit. Squeeze the remaining grapefruit and lemon halves.",
+        "Remove the leaves from half of the mint sprigs.",
+		"Put the mint leaves, sugar, 6 oz grapefruit juice and 1 oz lemon juice in a graduated container. Crush the mint leaves with the back of a spoon.",
+		"Stir well until the sugar is dissolved.",
+		"Mix the remaining grapefruit and lemon juice with the orange juice.",
+		"Put a few ice cubes and 1 oz of ouzo in each glass.",
+		"Then add 2 oz of fruit juice mixture, then fill with sparkling water to the rim.",
+		"Decorate the cocktail with a few sprigs of mint, a slice of lemon and grapefruit zest."
+    ],
+    "image": "orange-ouzo-cocktail.jpg",
+    "keywords": [
+        "alcoholic",
+        "ouzo"
+    ]
+}
