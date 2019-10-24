@@ -1,7 +1,7 @@
 {
     "name": "Mango Lassi",
     "description": "This recipe comes from the cookbook author Madhur Jaffrey, who said, 'Mangoes are supposed to be good for the eyes.'",
-    "github": "parammittal16",
+    "github": "parammittal  16",
     "ingredients": [
         {
             "quantity": "",
@@ -17,11 +17,6 @@
             "quantity": "",
             "measure": "",
             "ingredient": "One-Fourth cup fresh or canned mango pulp"
-        },
-        {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "Three-fourth tablespoon sugar"
         }
     ],
     "directions": [
@@ -34,6 +29,8 @@
     "keywords": [
         "yogurt",
         "sugar",
-        "non-alcoholic"
+        "non-alcoholic",
+        "smoothie",
+        "cold"
     ]
 }

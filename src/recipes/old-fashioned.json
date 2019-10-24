@@ -11,7 +11,7 @@
         {
             "quantity": "4-6",
             "measure": "Dashes",
-            "ingredient": "of Bitters"
+            "ingredient": "Bitters"
         },
         {
             "quantity": "2-4",
@@ -29,6 +29,8 @@
     "image": "old-fashioned.jpg",
     "keywords": [
         "whiskey",
-        "alcoholic"
+        "alcoholic",
+        "classic",
+        "vegan"
     ]
-} 
+}
