@@ -1,0 +1,40 @@
+{
+    "name": "Martini",
+    "description": "A classic Gin / Vodka Drink, Shaken, not stirred.",
+    "github": "M-McCallum",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Lillet Blanc"
+        },
+        {
+            "quantity": "1",
+            "measure": "twist",
+            "ingredient": "lemon peel"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail shaker with ice.",
+        "Add the Gin, Vodka and Lillet Blanc",
+        "Shake well and strain into a chilled martini glass.",
+        "Garnish with lemon twist."
+    ],
+    "image": "martini.jpg",
+    "keywords": [
+        "classic",
+        "vegan",
+        "simple",
+        "alcoholic"
+    ]
+}
