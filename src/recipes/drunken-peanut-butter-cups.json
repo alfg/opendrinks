@@ -52,7 +52,7 @@
             "quantity": "2",
             "measure": "tablespoons",
             "ingredient": "chocolate syrup"
-        },
+        }
     ],
     "directions": [
         "In a sealable container (for example a mason jar), combine vodka and Reese's Pieces. Cover with a tight-fitting lid and shake. Refridgerate overnight, then strain.",
@@ -66,6 +66,6 @@
         "peanut butter",
         "chocolate",
         "vodka",
-        "halloween",
+        "halloween"
     ]
 }
