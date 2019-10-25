@@ -56,15 +56,9 @@ export default {
       currentPage: 1,
       perPage: 12,
       selected: 12,
-      pageNumber: 0,
       options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
       favorites: [],
     };
-  },
-  watch: {
-    items() {
-      this.pageNumber = 0;
-    },
   },
   mounted() {
     window.document.title = this.title;
@@ -75,9 +69,14 @@ export default {
       return this.items.length;
     },
     paginatedItems() {
-      const pageParam = this.$route.query.page;
-      if(pageParam != null ? (this.pageNumber = pageParam - 1) : (this.pageNumber = 0));
-      return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
+      let pageNumber;
+      const { page } = (this.$route && this.$route.query) || 0;
+      if (page) {
+        pageNumber = page - 1;
+      } else {
+        pageNumber = 0;
+      }
+      return this.items.slice(pageNumber * this.perPage, (pageNumber + 1) * this.perPage);
     },
   },
   methods: {

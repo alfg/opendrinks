@@ -1,0 +1,36 @@
+{
+    "name": "Clarito",
+    "description": "An adaptation of the Dry Martini made in 1935 by argentinian bartender Santiago 'Pichin' Policastro.",
+    "github": "juan88",
+    "ingredients": [
+        {
+            "quantity": "190",
+            "measure": "gr",
+            "ingredient": "Dry gin"
+        },
+        {
+            "quantity": "10",
+            "measure": "gr",
+            "ingredient": "French vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "twist of lemon"
+        }
+    ],
+    "directions": [
+        "Chill a cocktail glass.",
+        "Before serving, cut a slice of lemon and rub the brim of the glass.",
+        "In a dish in which sugar has been placed, place the cup upside down so that the sugar adheres to the moistened part.",
+        "In a cocktail shaker add four or five ice rocks. Pour the gin and the vermouth and shake for one minute.",
+        "Serve, add the lemon twist and enjoy."
+    ],
+    "image": "clarito.jpg",
+    "source": "Book 'Tragos mágicos' by Santiago Policastro",
+    "keywords": [
+        "lemon",
+        "gin",
+        "Argentina"
+    ]
+}

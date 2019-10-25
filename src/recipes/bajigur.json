@@ -26,7 +26,7 @@
         {
             "quantity": "",
             "measure": "",
-            "ingredient": "Gram (to taste)"
+            "ingredient": "Graham (to taste)"
         },
         {
             "quantity": "",
@@ -51,6 +51,7 @@
     "keywords": [
         "tea",
         "fruit",
-        "non-alcoholic"
+        "non-alcoholic",
+        "vegan"
     ]
 }

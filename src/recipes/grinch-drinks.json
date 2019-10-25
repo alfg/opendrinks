@@ -1,0 +1,43 @@
+{
+    "name": "Grinch Drink",
+    "description": "Festive holiday beverage, this Grinch Drink will be a crowd pleaser!",
+    "github": "Tessituraa",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Peach Schnapps"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Bacardi Rum"
+        },
+        {
+            "quantity": "12",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Lemon-lime Pop"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Blue Curacao liquor"
+        }
+    ],
+    "directions": [
+        "You can make this in individual glasses (4) or make a pitcher. Add all the ingredients together, stir, and add garnish.",
+        "desired, add more lemon-lime pop if the drink is too strong. ENJOY"
+    ],
+    "image": "grinch-drinks.jpg",
+    "source": "https://www.shugarysweets.com/grinch-drink/",
+    "keywords": [
+        "grinch",
+        "holiday",
+        "festive"
+    ]
+}
