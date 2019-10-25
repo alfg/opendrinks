@@ -1,0 +1,38 @@
+{
+    "name": "<Swedish Libre>",
+    "description": "<A staple of the Swedish Christmas celebrations>",
+    "github": "<ItenR>",
+    "ingredients": [
+        {
+            "quantity": "<2-4>",
+            "measure": "<large>",
+            "ingredient": "<Icecubes>"
+        },
+        {
+            "quantity": "<6>",
+            "measure": "<Cl",
+            "ingredient": "<Dark Rum>"
+        },
+        {
+            "quantity": "<0.50>",
+            "measure": "<Liter>",
+            "ingredient": "<Julmust>"
+        },
+    ],
+    "directions": [
+        "<1. Gently drop the icecubes in a Highball glass>",
+        "<2. Grab the aged cork on top of the rum bottle and pull until you hear a the classic "opening a rum bottle" pop>",
+        "<3. Look at the person closest to you and let them know how good the sound made you feel, let out a "oh yeah, thats what im talking about" while you sniff the inside of the bottle>",
+        "<4. Use eye measurement to pour between 6-10 cl of rum over the ice cubes (typically dab a frew extra drops for good measure)>",
+        "<5. Gently pour the Julmust into the glass so it does not foam over>",
+        "<6. Serve it to the person closest to you with a comment like: "This will make you grow hair on your chest" , "Did you know rum was invented in Sweden? or "I know right, but its suposed to taste like that"">",
+        "<7. Start over from step 1">"
+    ],
+    "image": "<Swedish-Libre.jpg>",
+    "keywords": [
+        "<keywords if available>",
+        "Rum",
+        "Swedish",
+        "Xmas",
+    ]
+}
