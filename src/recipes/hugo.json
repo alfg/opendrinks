@@ -10,7 +10,7 @@
         },
         {
             "quantity": "1",
-            "measure": "Tbsp"
+            "measure": "Tbsp",
             "ingredient": "Elderflower syrup"
         },
         {
@@ -22,7 +22,7 @@
             "quantity": "3",
             "measure": "wedge",
             "ingredient": "Lime wedges"
-        },        
+        },
         {
             "quantity": "1/2",
             "measure": "cup",
@@ -31,21 +31,21 @@
         {
             "quantity": "1",
             "measure": "fl oz",
-            "ingredient": "Optional - sparklig water"
-        }
+            "ingredient": "Optional - sparkling water"
+        },
     ],
     "directions": [
-        "Gently rub the mint leaves together to draw out the flavor, then place in glass. You can either remove the leaves from the stem or keep them on."
+        "Gently rub the mint leaves together to draw out the flavor, then place in glass. You can either remove the leaves from the stem or keep them on.",
         "Add elderflower syrup, Prosecco, a few slices of lime, and a splash of sparkling water.",
         "Serve on ice."
     ],
     "image": "hugo.jpg",
-    "keywords":[
+    "keywords": [
         "cocktail",
         "alcoholic",
-        "peppermint",
-        "elderflower"
-        "prosecco",
-        "vegan"
+	"peppermint",
+	"elderflower",
+	"prosecco",
+	"vegan"
     ]
 }
