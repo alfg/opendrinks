@@ -12,7 +12,7 @@
             "quantity": "1.5",
             "measure": "oz",
             "ingredient": "Absolut. Vodka"
-        },
+        }
     ],
     "directions": [
         "0.75 oz vodka into the glass",
@@ -27,6 +27,6 @@
         "Bar",
         "Bernhard",
         "Russi",
-        "Ski",
+        "Ski"
     ]
 }
