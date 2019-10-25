@@ -1,0 +1,50 @@
+{
+    "name": "Irish-Hot-Chocolate",
+    "description": "A nice warm chocolate for winter days, when you want to add a little spice.",
+    "github": "P4trice",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "(whole) milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "strong coffee"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz.",
+            "ingredient": "semisweet chocolate (chopped)"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "s(irish) whiskey"
+        },
+        {
+            "quantity": "2",
+            "measure": "portions",
+            "ingredient": "whipped cream"
+        }
+    ],
+    "directions": [
+        "Heat up the milk to medium-high temperature",
+        "Put chocolate, whoskey, coffee and hot milk in a blender",
+        "Let the chocolate melt a little",
+        "Blend (about half a minute)",
+        "Heat it all up a little bit again",
+        "Divide it up into two cups and add as much whipped cream as your heart desires",
+        "Enjoy"
+    ],
+    "image": "irish-hot-chocolate.jpg",
+    "source": "https://www.finecooking.com/recipe/irish-coffee-hot-chocolate",
+    "keywords": [
+        "(whole) milk",
+        "coffee",
+        "chocolate",
+        "(irish) whiskey",
+        "whipped cream"
+    ]
+}
