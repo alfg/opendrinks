@@ -1,0 +1,28 @@
+{
+  "name": "Godfather",
+  "description": "An IBA official cocktail with a smokey but refreshing flavour.",
+  "github": "zbarbuto",
+  "ingredients": [
+      {
+          "quantity": "35",
+          "measure": "ml",
+          "ingredient": "Amaretto"
+      },
+      {
+          "quantity": "35",
+          "measure": "ml",
+          "ingredient": "Vodka"
+      }
+  ],
+  "directions": [
+      "Pour both ingredients directly into Old-Fashioned glass filled with ice cubes. Stir gently."
+  ],
+  "image": "godfather.jpg",
+  "source": "https://en.wikipedia.org/wiki/Godfather_(cocktail)",
+  "keywords": [
+      "amaretto",
+      "alcoholic",
+      "cocktail",
+      "iba"
+  ]
+}
