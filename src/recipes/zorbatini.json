@@ -1,0 +1,27 @@
+{
+    "name": "Zorbatini",
+    "description": "Cocktail with Ouzo and Vodka",
+    "github": "JeanKreek",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "ouzo"
+        }
+    ],
+    "directions": [
+        "Pour the vodka and ouzo into a martini glass",
+        "Decorate with a green olive"
+    ],
+    "image": "zorbatini-cocktail.jpg",
+    "keywords": [
+        "alcoholic",
+        "ouzo",
+		"vodka"
+    ]
+}

@@ -52,6 +52,7 @@
         "gin",
         "tonic",
         "fresh",
-        "aromatic"
+        "aromatic",
+        "vegan"
     ]
 }

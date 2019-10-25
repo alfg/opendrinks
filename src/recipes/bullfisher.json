@@ -1,0 +1,40 @@
+{
+    "name": "Bullfisher",
+    "description": "The Bullfisher drink recipe is made from Malibu coconut rum, apple juice and ginger ale, and served over ice in a highball glass garnished with apple slices.",
+    "github": "primes2h",
+    "ingredients": [
+        {
+            "quantity": "1-1/2",
+            "measure": "oz",
+            "ingredient": "Coconut Rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Apple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Ginger Ale"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Apple slice"
+        }
+    ],
+    "directions": [
+        "Shake apple juice and coconut rum with ice in a cocktail shaker.",
+        "Strain into a highball glass full of ice and fill with ginger ale.",
+        "Stir gently and garnish with apple slices."
+    ],
+    "image": "bullfisher.jpg",
+    "keywords": [
+        "rum",
+        "coconut",
+        "alcoholic",
+        "juice",
+        "apple"
+    ]
+}

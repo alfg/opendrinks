@@ -1,0 +1,51 @@
+{
+    "name": "Apple Pie Cocktail",
+    "description" : "All the flavors of fall in a glass! Fireball® whiskey, vanilla vodka, and sparkling apple cider make this a very refreshing drink.",
+    "github": "jonboundy",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "vanilla-flavored vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "cinnamon whiskey"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "fl oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "chilled sparkling apple cider"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "cardamom bitters"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Combine vodka, whiskey, and lemon juice in a cocktail shaker filled whit ice. Shake.",
+        "Strain mixture into a glass and add cider and bitters; stir. Serve."
+    ],
+    "image": "apple-pie-cocktail.jpg",
+    "source": "https://www.allrecipes.com/recipe/276192/autumn-apple-pie-cocktail/",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "vodka",
+        "whiskey",
+        "apple",
+        "vegan"
+    ]
+}

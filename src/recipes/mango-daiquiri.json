@@ -16,7 +16,7 @@
         {
             "quantity": "15",
             "measure": "ml",
-            "ingredient": "Sugar Syrop"
+            "ingredient": "Sugar Syrup"
         },
         {
             "quantity": "",
@@ -34,6 +34,7 @@
     "keywords": [
         "alcoholic",
         "fruit",
-        "smoothie"
+        "smoothie",
+        "vegan"
     ]
 }

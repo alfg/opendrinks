@@ -1,0 +1,31 @@
+{
+    "name": "Rabo de galo",
+    "description": "A combination of cachaça and red vermouth, decorated with lemon peel",
+    "github": "anapaulalemos",
+    "ingredients": [
+        {
+            "quantity": "35",
+            "measure": "ml",
+            "ingredient": "Cachaça"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Red vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "unit",
+            "ingredient": "Lemon peel"
+        }
+    ],
+    "directions": [
+        "Pour all ingredients in a shot glass",
+        "Decorate with lemon peel"
+    ],
+    "image": "rabo-de-galo.jpg",
+    "keywords": [
+        "cachaça",
+        "red vermouth"
+    ]
+}
