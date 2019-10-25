@@ -1,0 +1,32 @@
+{
+    "name": "Bernhard Russi",
+    "description": "Famous drink in Switzerland for sportsmen, specially for skiers. Not difficult to prepare, but difficult to dislike.",
+    "github": "remosuter",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Rivella red (https://www.rivella.ch)"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Absolut. Vodka"
+        },
+    ],
+    "directions": [
+        "0.75 oz vodka into the glass",
+        "8 oz Rivella red into the glass",
+        "rest of the vodka into the glass",
+        "if available, the finish is a pinch of dry snow"
+    ],
+    "image": "https://tageswoche.ch/wp-content/uploads/2012/10/imagescms-image-000217346-768x1075.jpg",
+    "keywords": [
+        "Rivella",
+        "Vodka",
+        "Bar",
+        "Bernhard",
+        "Russi",
+        "Ski",
+    ]
+}
