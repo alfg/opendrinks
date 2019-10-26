@@ -31,6 +31,6 @@ describe('Favorites', () => {
   test('remove favorite recipe', () => {
     expect(wrapper.find('#star').trigger('click'));
     const favs = JSON.parse(localStorage.getItem('favorites'));
-    expect(favs.length).toBe(1);
+    expect(favs.length === 1).toBe(true);
   });
 });
