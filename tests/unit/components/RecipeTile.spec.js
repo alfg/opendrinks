@@ -26,7 +26,7 @@ describe('RecipeTile', () => {
       },
     ],
     directions: ['Garnish with the apple slice'],
-    image: 'appletini.jpeg',
+    image: 'appletini.jpg',
     keywords: ['vodka'],
   };
 
