@@ -27,4 +27,10 @@ describe('Favorites', () => {
   test('shows favorite star', () => {
     expect(wrapper.find('#star').exists()).toBe(true);
   });
+
+  test('remove favorite recipe', () => {
+    expect(wrapper.find('#star').trigger('click'));
+    const favs = JSON.parse(localStorage.getItem('favorites'));
+    expect(favs.length).toBe(1);
+  });
 });
