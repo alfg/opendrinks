@@ -1,32 +1,38 @@
 <template>
   <div id="recipe">
-    <div class="print-button">
-      <b-button
-        variant="outline-primary"
-        :href="`/recipe/${this.name}/print`"
-        target="_blank"
-        class="float-right"
-      >
-        Print
-      </b-button>
-    </div>
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <h1>{{ drink.name }}</h1>
+        <div v-if="drink.keywords" class="mb-2">
+          <b-badge
+            v-for="(o, i) in drink.keywords"
+            v-bind:key="i"
+            variant="secondary"
+            :style="badgeStyle"
+            :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+          >{{ o }}</b-badge
+          >
+        </div>
+      </div>
 
-    <h1>{{ drink.name }}</h1>
+      <div class="d-flex align-items-center">
+        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited">
+        </FavoriteStar>
 
-    <div v-if="drink.keywords" class="mb-2">
-      <b-badge
-        v-for="(o, i) in drink.keywords"
-        v-bind:key="i"
-        variant="secondary"
-        :style="badgeStyle"
-        :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-        >{{ o }}</b-badge
-      >
+        <div class="print-button">
+          <b-button
+            variant="outline-primary"
+            :href="`/recipe/${this.name}/print`"
+            target="_blank"
+          >
+            Print
+          </b-button>
+        </div>
+      </div>
     </div>
 
     <p>{{ drink.description }}</p>
-    <FavoriteStar class="float-right" @favorite="favorited" :isFavorited="isFavorited">
-    </FavoriteStar>
+
     <p class="text-muted">
       Contributed by:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
@@ -157,18 +163,12 @@ export default {
 </script>
 
 <style scoped>
-.print-button {
-  margin-top: 1em;
-}
-
 .recipe-ingredients {
   width: 37%;
-  float: left;
   margin-right: 1em;
 }
 .recipe-image {
   width: 60%;
-  float: left;
   margin-bottom: 2em;
 }
 
