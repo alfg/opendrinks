@@ -27,12 +27,12 @@
         <b-pagination-nav
           @change="onPageChanged"
           :link-gen="linkGen"
-          :number-of-pages="rows"
+          :number-of-pages="pages"
           use-router
         ></b-pagination-nav>
       </b-col>
       <b-col cols="12" md="2">
-        <b-form-select v-model="selected" :options="options" v-on:change="getSelectedItem">
+        <b-form-select v-model="perPage" :options="options" v-on:change="getSelectedItem">
         </b-form-select>
       </b-col>
     </b-row>
@@ -55,7 +55,6 @@ export default {
     return {
       currentPage: 1,
       perPage: 12,
-      selected: 12,
       options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
       favorites: [],
     };
@@ -65,8 +64,8 @@ export default {
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
   },
   computed: {
-    rows() {
-      return this.items.length;
+    pages() {
+      return this.items.length === 0 ? 1 : Math.ceil(this.items.length / this.perPage);
     },
     paginatedItems() {
       let pageNumber;
