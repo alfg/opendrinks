@@ -1,0 +1,65 @@
+{
+    "name": "Tropical Sangria",
+    "description": "Sangria only needs two main ingredients: wine and fruit but you can also add club soda or other clear soda for a refreshing effervescence.",
+    "github": "doonoowp",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "Plum"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Seedless Watermelon"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "",
+            "ingredient": "Fresh and peeled pineaple"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Kiwi sliced"
+        },
+        {
+            "quantity": "1",
+            "measure": "bootle",
+            "ingredient": "Rose wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Frozen green grape"
+        }
+    ],
+    "directions": [
+        "Preferably the night before, but at least an hour before serving prepare the watermelon and grapes and put in freezer.",
+        "Use a melon baller or small ice cream scoop to make balls of watermelon and place in a freezer container in a single layer and freeze.",
+        "The watermelon balls and frozen grapes will keep the sangria at a nice temperature without diluting it.",
+        "Don’t throw away the juice left in the watermelon! Reserve it in a jar to add to the plum/orange juice.",
+        "Slice the plums in half and remove the pit over your blender to catch the juices.",
+        "Whirr a few times to puree. Add the orange juice and give it a whirl to combine.",
+        "You should have about 1 cup of juice. Strain through a fine strainer (or when you’re ready to make the sangria) to remove some of the pulp. If you own a juicer, you can juice the plums.",
+        "And for the sangria, put a 6-7 watermelon balls, pineapple triangles (or cubes), and sliced kiwi into a pitcher",
+        "Add 1/2 cup of the strained plum/orange/watermelon juice and the entire bottle of rose.",
+        "Stir gently and refrigerate for at least an hour to let the flavors mingle. Reserve the remaining juice for another batch.",
+        "To serve, add grape “ice” to each glass (cocktail glasses, wine glasses, or goblets depending on the mood you’re going for). Serve and enjoy!"
+    ],
+    "image": "tropical-sangria.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "wine",
+        "plum",
+        "grape",
+        "matermelon",
+        "pineapple"
+    ]
+}

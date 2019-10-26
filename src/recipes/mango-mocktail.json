@@ -1,0 +1,41 @@
+{
+    "name": "Mango Mocktail",
+    "description": "A refreshing drink which combines maple, ginger, and mango.",
+    "github": "andrewjthomsen",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "pineapple orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "frozen mango chunks"
+        },
+        {
+            "quantity": "4",
+            "measure": "1/2 inch slices",
+            "ingredient": "ginger"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "maple syrup"
+        }
+
+    ],
+    "directions": [
+        "Combine pineapple juice, mango, ginger, limes and syrup in blender container.",
+        " Add 2-1/2 cups ice.",
+        "Cover; blend until smooth.",
+        "Pour into chilled martini glasses rimmed with equal parts superfine bar sugar and dried ginger."
+    ],
+    "image": "mango-mocktail.jpg",
+    "keywords": [
+        "mango",
+        "maple",
+        "mocktail",
+        "non-alcoholic"
+    ]
+}

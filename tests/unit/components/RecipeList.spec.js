@@ -32,6 +32,7 @@ describe('RecipeList', () => {
 
   test('should display the correct items when the page number changes', () => {
     wrapper.setData({ perPage: 3, pageNumber: 1 });
+    wrapper.vm.$router.push({ query: { page: 2 } });
     expect(wrapper.vm.paginatedItems[0]).toBe(drinks[3]);
   });
 });

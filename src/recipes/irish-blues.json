@@ -1,0 +1,45 @@
+{
+    "name": "Irish Blues",
+    "description": "The Irish Blues is a brown drink made from Smirnoff blueberry vodka, Bailey's Irish cream, Cointreau orange liqueur and light cream, and served over ice in a rocks glass.",
+    "github": "primes2h",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Blueberry Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Irish Cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "Light cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Cherry"
+        }
+    ],
+    "directions": [
+        "Shake all ingredients with ice in a cocktail shaker.",
+        "Strain into a rocks glass full of ice.",
+        "Garnish with a cherry."
+    ],
+    "image": "irish-blues.jpg",
+    "keywords": [
+        "vodka",
+        "liqueur",
+        "cherry",
+        "alcoholic",
+        "cream"
+    ]
+}
