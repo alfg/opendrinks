@@ -1,15 +1,9 @@
 <template>
   <div class="favorites container">
-    <div class="col-12">
-      <b-button
-        class="ml-1"
-        v-if="drinks.length > 0"
-        variant="outline-secondary"
-        @click="confirmModal"
-      >
-        Remove All Favorites
-      </b-button>
-    </div>
+    <b-button class="mb-3" v-if="drinks.length > 0" variant="outline-danger" @click="confirmModal">
+      Remove All Favorites
+    </b-button>
+
     <b-alert :show="drinks.length === 0">
       You don't have any favorite drinks
     </b-alert>
