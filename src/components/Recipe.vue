@@ -39,7 +39,7 @@
     </p>
 
     <b-container>
-      <b-row>
+      <b-row class="justify-content-between">
         <div class="recipe-ingredients">
           <h4>Ingredients</h4>
           <ul>
