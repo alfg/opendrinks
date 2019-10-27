@@ -1,0 +1,53 @@
+{
+    "name": "Virgin Belgian Orange Blossom",
+    "description": "This is a non-alcoholic version of a unique drink idea from Brussels. Lemon-lime soda replaces the gin for a mellow, neutral base and the addition of almond syrup to the oranges has an almost candy-like quality. Dry citrus notes and a bit of fizz save the drink from being cloyingly sweet. You’ll never miss the alcohol in this virgin cocktail!",
+    "github": "ClumsyPenguin",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "thin",
+            "ingredient": "Slices of orange (peel on)"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Almond Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "Lemon lime soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "Pink grapefruit juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "Lemonade"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "Seltzer water"
+        },
+        {
+            "quantity": "2",
+            "measure": "dash",
+            "ingredient": "Cocktail bitter"
+        }
+    ],
+    "directions": [
+        "Using a tablespoon, lightly crush the orange slices in a tall glass. Do not mash the oranges; just crush them enough to release a bit of juice.",
+        "Add 1/3 cup ice to the cup, fill with the remaining ingredients, and then stir lightly, keeping the orange slices at the bottom of the glass."  
+    ],
+    "image": "virgin-belgian-orange-blossom.jpg",
+    "keywords": [
+        "Orange",
+        "non-alcoholic",
+        "virgin",
+        "Almond Syrup"
+    ]
+}
