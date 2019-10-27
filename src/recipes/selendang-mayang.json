@@ -2,7 +2,7 @@
 	"name" : "Es Selendang Mayang",
 	"description" : "Es Selendang Mayang is traditional drink from Jakarta or especially Betawi",
 	"github" : "isnaini279",
-	"ingridients" : [
+	"ingredients" : [
 		{
 			"quantity": "45",
             "measure": "gram",
