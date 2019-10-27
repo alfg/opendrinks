@@ -14,6 +14,8 @@ const getRecipe = files => {
     let jsonContents;
     try {
       jsonContents = JSON.parse(contents);
+      const filename = file.replace('./', '').replace('.json', '');
+      jsonContents.filename = filename;
       r.push(jsonContents);
     } catch (error) {
       console.log(`Error reading: ${file}!`);
@@ -42,6 +44,11 @@ function buildSitemap(recipes) {
   sitemap.write({ url: '/explore', changefreq: 'daily' });
   sitemap.write({ url: '/keywords', changefreq: 'daily' });
   sitemap.write({ url: '/search', changefreq: 'daily' });
+
+  recipes.forEach(file => {
+    sitemap.write({ url: `/recipe/${file.filename}`, changefreq: 'weekly' });
+  });
+
   sitemap.end();
 
   streamToPromise(sitemap)
