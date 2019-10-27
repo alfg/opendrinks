@@ -123,5 +123,36 @@
       "black-russian"
     ],
     "size": 6
+  },
+  {
+    "title": "Milky heaven",
+    "description": "Drinks which do contain milk",
+    "items": [
+      "bajigur",
+      "banana-smoothie",
+      "bandrek",
+      "barranquito",
+      "brazilian-strawberry-drink",
+      "buttermilk",
+      "chickoo_lassi",
+      "chocolate-milk",
+      "chocolate-monkey",
+      "ginger-milk-tea",
+      "cold-coffee",
+      "drunken-peanut-butter-cups",
+      "ginger-milk-tea",
+      "indonesian-avocado-milkshake",
+      "london-fog",
+      "mango-mastani",
+      "masala-chai",
+      "noon-chai",
+      "orange-glorius",
+      "oreo-milkshake",
+      "peanut-butter-banana-smoothie",
+      "royal-milk-tea",
+      "thandai",
+      "yogurt-fruit-shake"
+    ],
+    "size": 24
   }
 ]
