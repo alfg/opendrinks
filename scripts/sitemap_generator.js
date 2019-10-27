@@ -3,7 +3,7 @@ const fs = require('fs');
 const { SitemapStream, streamToPromise } = require('sitemap');
 
 const HOSTNAME = 'https://opendrinks.netlify.com';
-const SITEMAP_XML = 'public/sitemap.xml';
+const SITEMAP_XML = 'dist/sitemap.xml';
 const PAGES = ['featured', 'random', 'explore', 'keywords', 'search'];
 
 const getRecipe = files => {
