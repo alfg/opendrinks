@@ -1,0 +1,37 @@
+{
+    "name": "The Perfect Carlos Sultana",
+    "description": "A Drink that is inspired by the tv show danger 5",
+    "github": "Sai-Adarsh",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "dark rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "creamy soda"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "raisins"
+        }
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "In a cocktail shaker filled with ice cubes, pour the creamy soda, dark rum, and vanilla ice cream. Top with raisins",
+        "Strain into a chilled glass.",
+        "Serve and enjoy!"
+    ],
+    "image": "PerfectCarlosSultana.png",
+    "keywords": [
+        "alcoholic"
+    ]
+}
