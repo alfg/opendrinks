@@ -4,6 +4,7 @@ const { SitemapStream, streamToPromise } = require('sitemap');
 
 const HOSTNAME = 'https://opendrinks.netlify.com';
 const SITEMAP_XML = 'public/sitemap.xml';
+const PAGES = ['featured', 'random', 'explore', 'keywords', 'search'];
 
 const getRecipe = files => {
   const r = [];
@@ -39,11 +40,10 @@ const findRecipeFiles = callback => {
 function buildSitemap(recipes) {
   const sitemap = new SitemapStream({ hostname: HOSTNAME });
   sitemap.write({ url: '/', changefreq: 'daily' });
-  sitemap.write({ url: '/featured', changefreq: 'daily' });
-  sitemap.write({ url: '/random', changefreq: 'daily' });
-  sitemap.write({ url: '/explore', changefreq: 'daily' });
-  sitemap.write({ url: '/keywords', changefreq: 'daily' });
-  sitemap.write({ url: '/search', changefreq: 'daily' });
+
+  PAGES.forEach(page => {
+    sitemap.write({ url: `/${page}`, changefreq: 'daily' });
+  });
 
   recipes.forEach(file => {
     sitemap.write({ url: `/recipe/${file.filename}`, changefreq: 'weekly' });
