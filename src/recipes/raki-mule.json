@@ -1,0 +1,32 @@
+{
+    "name": "Raki Mule",
+    "description": "Moscow Mule with Raki",
+    "github": "kmert10",
+    "ingredients": [
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "raki"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "180",
+            "measure": "ml",
+            "ingredient": "ginger beer"
+        }
+    ],
+    "directions": [
+        "Pour the ingredients into a glass and stir",
+        "Decorate with a cucumber"
+    ],
+    "image": "zorbatini-cocktail.jpg",
+    "keywords": [
+        "alcoholic",
+        "raki",
+        "ginger beer"
+    ]
+}
