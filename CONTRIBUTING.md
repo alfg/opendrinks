@@ -48,7 +48,7 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
 * source is an optional field
 * Submit a Pull Request with your recipe! 
 * An automated preview link will be generated towards the bottom of the PR so your changes can be previewed while in review.
-* Once approved and merged, the latest update will be published to https://opendrinks.netlify.com
+* Once approved and merged, the latest update will be published to https://opendrinks.io
 
 ---
 

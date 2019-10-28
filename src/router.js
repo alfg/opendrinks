@@ -57,5 +57,10 @@ export default new Router({
       name: 'favorites',
       component: () => import('./views/Favorites.vue'),
     },
+    {
+      path: '*',
+      name: '404',
+      component: () => import('./views/PageNotFound.vue'),
+    },
   ],
 });
