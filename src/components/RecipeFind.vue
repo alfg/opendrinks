@@ -10,12 +10,12 @@
         <b-form-radio value="name">Name</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple ingredients by seperating them with a space"
+          title="You can search for multiple ingredients by separating them with a space"
           value="ingredients"
         >Ingredients</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple keywords by seperating them with a space"
+          title="You can search for multiple keywords by separating them with a space"
           value="keywords"
         >Keywords</b-form-radio>
       </b-form-radio-group>
