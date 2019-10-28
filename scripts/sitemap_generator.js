@@ -2,7 +2,7 @@ const fs = require('fs');
 // eslint-disable-next-line import/no-extraneous-dependencies
 const { SitemapStream, streamToPromise } = require('sitemap');
 
-const HOSTNAME = 'https://opendrinks.netlify.com';
+const HOSTNAME = 'https://opendrinks.io';
 const SITEMAP_XML = 'dist/sitemap.xml';
 const PAGES = ['featured', 'random', 'explore', 'keywords', 'search'];
 
