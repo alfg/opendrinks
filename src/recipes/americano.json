@@ -1,0 +1,35 @@
+{
+    "name": "Americano",
+    "description": "The Americano is an IBA official cocktail composed of Campari, sweet vermouth, and for the sparkling version, club soda. The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari, in the 1860s.",
+    "github": "primes2h",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Soda Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Red Vermouth"
+        }
+    ],
+    "directions": [
+        "Pour the Campari and vermouth over ice into glass.",
+        "Add a splash of soda water.",
+        "Garnish with half orange slice.",
+        "Served on the rocks, poured over ice."
+    ],
+    "image": "americano.jpg",
+    "keywords": [
+        "campari",
+        "red vermouth",
+        "alcoholic",
+        "orange slice"
+    ]
+}

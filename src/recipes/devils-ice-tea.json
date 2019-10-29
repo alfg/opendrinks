@@ -1,0 +1,86 @@
+{
+  "name": "Devil's Ice Tea",
+  "description": "A very, very strong cocktail, drinking on your own responsibility.",
+  "github": "vsimonovski",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Bacardi 151"
+    },
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Rye Whiskey"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Tequila"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Gin Bombay Saphire"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Rum"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Brandy"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Dark Rum"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Triple Sec"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Lime Juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Lemon Juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Sweet and Sour"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Coke"
+    }
+  ],
+  "directions": [
+    "Shake all the alcohol in a large Collins glass or a tumbler",
+    "Top with the sour mix (lemon & lime juice and 1 sugar cube) and cola",
+    "Gently stir",
+    "Add crushed ice",
+    "Garnish with a lemon and a lime wedge"
+  ],
+  "image": "devils-ice-tea.jpg",
+  "keywords": [
+    "devils ice tea",
+    "ice tea",
+    "vodka",
+    "vegan"
+  ]
+}

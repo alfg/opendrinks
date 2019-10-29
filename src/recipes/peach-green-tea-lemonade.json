@@ -1,0 +1,46 @@
+{
+    "name": "Peach Green Tea Lemonade",
+    "description": "Refreshing green tea drink, perfect for summer.",
+    "github": "elliecodestheweb",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "teabags",
+            "ingredient": "green tea"
+        },
+        {
+            "quantity": "4",
+            "measure": "cups",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "peach flavored syrup"
+        },
+        {
+            "quantity": "4",
+            "measure": "cups",
+            "ingredient": "lemonade"
+        }
+    ],
+    "directions": [
+        "Steep 4 bags green tea in 4 cups of boiled water for 3 minutes.",
+        "When cool, add 4 cups of lemonade.",
+        "Fill cup with ice cubes, add 4 tablespoons of peach syrup.",
+        "Add more syrup if desired, and enjoy! Serves 4."
+    ],
+    "image": "peach-green-tea-lemonade.jpg",
+    "source": "https://www.food.com/recipe/copycat-starbucks-shaken-iced-peach-green-tea-lemonade-506193",
+    "keywords": [
+        "iced tea",
+        "non-alcoholic",
+        "lemonade",
+        "summer drink"
+    ]
+}

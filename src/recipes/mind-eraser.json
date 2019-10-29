@@ -1,0 +1,33 @@
+{
+    "name": "Mind Eraser",
+    "description": "The drink that will literally erase your mind after drinking it! Prepare to forget!",
+    "github": "jhkim8268",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Kahlúa"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Club soda"
+        }
+    ],
+    "directions": [
+        "In a rocks glass with ice, pour 1 ounce of Kahlúa.",
+        "Float 2 ounces of vodka on top, pouring down the side of the glass so that it separates.",
+        "Top with 2 ounces of club soda, poured down the side of the glass in the same way."
+    ],
+    "image": "mind-eraser.jpg",
+    "keywords": [
+        "kahlúa",
+        "vodka",
+        "club soda"
+    ]
+}

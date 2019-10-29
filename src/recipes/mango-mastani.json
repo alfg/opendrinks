@@ -1,0 +1,69 @@
+{
+    "name": "Mango Mastani",
+    "description": "A thick milkshake topped with a scoop of ice cream along with quirky toppings",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "cup",
+            "ingredient": "chopped mangoes"
+        },
+        {
+            "quantity": "375",
+            "measure": "ml",
+            "ingredient": "full cream chilled milk"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "chopped pistachios"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "chopped cashews"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "chopped almonds"
+        },
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "glazed cherry"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "ice cube"
+        }
+    ],
+    "directions": [
+        "Blend the chopped mangoes. Keep a few pieces aside for topping the mastani.",
+        "Add a tablespoon of sugar and a cup of full cream milk.",
+        "Blend to a smooth thick milkshake.",
+        "Pour this thick mango milkshake in a glass, leaving enough space at the top for ice cream scoops.",
+        "Place one or two vanilla or mango ice cream scoops.",
+        "Top with the dry fruits and chopped mangoes. Garnish with the glazed cherries.",
+        "Serve mango mastani immediately with a spoon as well as a straw."
+    ],
+    "image": "mango-mastani.jpg",
+    "source": "https://www.vegrecipesofindia.com/mango-mastani-recipe",
+    "keywords": [
+        "fruits",
+        "non-alcoholic",
+        "sweet",
+        "smoothie"
+    ]
+}

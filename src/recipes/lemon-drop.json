@@ -1,0 +1,47 @@
+{
+  "name": "Lemon drop",
+  "description": "The perfect balance between sweet and sour, an extremely well-established classic and quite sophisticated drink.",
+  "github": "Maturano98",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "Lemon juice"
+    },
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "1",
+      "measure": "tsp",
+      "ingredient": "Sugar"
+    },
+    {
+      "quantity": "1",
+      "measure": "slice",
+      "ingredient": "Lemon"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice"
+    }
+  ],
+  "directions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients (liquids).",
+    "Shake and strain into a chilled shot glass.",
+    "Garnish with a lemon slice and a sugar rim."
+  ],
+  "image": "lemon-drop.jpg",
+  "source": "https://www.absolutdrinks.com/en/drinks/lemon-drop/",
+  "keywords": [
+    "lemonade",
+    "vodka",
+    "alcoholic",
+    "cold",
+    "vegan"
+  ]
+}

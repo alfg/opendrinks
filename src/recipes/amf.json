@@ -1,0 +1,55 @@
+{
+    "name": "Adios Motherfucker (AMF)",
+    "description": "You say goodbye, we say hello, and also, Adios Motherfucker!",
+    "github": "dfarley1",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Sweet and Sour Mix"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Blue Curaçao"
+        }
+    ],
+    "directions": [
+        "Fill a glass with ice and pour in vodka, rum, gin, tequila sweet & sour, lemon lime soda and blue curaçao.",
+        "Stir to mix.",
+        "Garnish with a lemon slice and a cherry."
+    ],
+    "image": "amf.jpg",
+    "keywords": [
+      "vodka",
+      "rum",
+      "gin",
+      "tequila",
+      "vegan"
+    ]
+}

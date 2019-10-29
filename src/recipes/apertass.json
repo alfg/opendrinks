@@ -1,0 +1,34 @@
+{
+    "name": "Apertass",
+    "description": "Perfect drink for an appetizer",
+    "github": "Pensionato",
+    "ingredients": [
+        {
+            "quantity": "70",
+            "measure": "ml",
+            "ingredient": "Cedrata Tassoni Soda"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Orange"
+        }
+    ],
+    "directions": [
+        "Cool a tumbler with ice, drain the water formed with a strainer.",
+        "Pour a small bottle of Tassoni Soda cedar and add a tip of Aperol, completing with the Soda.",
+        "Stir gently. Garnish with a slice of orange."
+    ],
+    "image": "apertass.jpg",
+    "keywords": [
+        "alcoholic",
+        "fruit",
+        "vegan",
+        "carbonation"
+    ]
+}

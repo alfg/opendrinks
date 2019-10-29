@@ -11,7 +11,7 @@
         {
             "quantity": "4-6",
             "measure": "Dashes",
-            "ingredient": "of Bitters"
+            "ingredient": "Bitters"
         },
         {
             "quantity": "2-4",
@@ -21,14 +21,16 @@
     ],
     "directions": [
         "In a Low-ball Glass Place one large ice cube.",
-        "Then add 1/4oz of simple syrup, 4-6 Dashes of Bitters of your choice.",
-        "Last but not least 2-4oz of whiskey for a true old-fashioned use Rye Whiskey.",
+        "Then add 1/4oz of simple syrup and 4-6 Dashes of Bitters of your choice.",
+        "Last but not least: 2-4oz of whiskey.  For a true-to-history Old Fashioned; use Rye Whiskey.",
         "For a less traditional version use Bourbon.",
-        "Once all in the glass gently stir till combined."
+        "Once all in the glass gently stir until combined."
     ],
     "image": "old-fashioned.jpg",
     "keywords": [
         "whiskey",
-        "alcoholic"
+        "alcoholic",
+        "classic",
+        "vegan"
     ]
-} 
+}

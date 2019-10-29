@@ -1,0 +1,50 @@
+{
+    "name": "Chocolate Monkey",
+    "description": "A liquid version of a chocolate covered banana, with a bit of a punch.",
+    "github": "bucks14",
+    "ingredients": [
+        {
+            "quantity": "1.25",
+            "measure": "shots",
+            "ingredient": "banana liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "crème de cacao"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "cup",
+            "ingredient": "chocolate syrup"
+        },
+        {
+            "quantity": "3",
+            "measure": "scoops",
+            "ingredient": "chocolate ice cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "cup",
+            "ingredient": "whipped cream"
+        }
+    ],
+    "directions": [
+        "Place the banana liqueur, crème de cacao, chocolate syrup, ice cream and milk in a blender. Process for a few seconds until smooth.",
+        "Pour into long glasses.",
+        "Top with whipped cream and a drizzle of more chocolate syrup."
+    ],
+    "image": "chocolate-monkey.jpg",
+    "source": "https://www.justapinch.com/recipes/drink/other-drink/chocolate-monkey.html",
+    "keywords": [
+        "chocolate",
+        "banana",
+        "ice cream",
+        "alcoholic"
+	]
+}

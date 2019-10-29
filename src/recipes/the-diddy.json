@@ -1,0 +1,29 @@
+{
+    "name": "The Diddy",
+    "description": "A simple vodka lemonade mix.",
+    "github": "andrewjthomsen",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "ounces",
+            "ingredient": "CIROC Vodka"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "ounces",
+            "ingredient": "lemonade"
+        }
+      
+    ],
+    "directions": [
+        "Combine ingredients in a Highball glass filled with ice.",
+        "Stir.",
+        "Garnish with lemon wheel."
+    ],
+    "image": "the-diddy.jpg",
+    "keywords": [
+        "ciroc",
+        "vodka",
+        "lemonade"
+    ]
+}

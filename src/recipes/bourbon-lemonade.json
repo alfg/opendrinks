@@ -1,0 +1,37 @@
+{
+  "name": "Bourbon Lemonade",
+  "description": "Little western kick to a summer classic",
+  "github": "girOly",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Bulleit Bourbon"
+    },
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "Lemonade"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Triple Sec"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Maraschino Cherries"
+    }
+  ],
+  "directions": [
+    "Mix all ingredients in a glass over ice. Garnish with lemon slice and maraschino cherry, if desired."
+  ],
+  "image": "bourbon-lemonade.jpg",
+  "keywords": [
+    "lemonade",
+    "whiskey",
+    "alcoholic",
+    "vegan"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Bael Panna (Woodapple Juice)",
+    "description": "This juice is not something you might find on a mocktail menu, but will surely soothe your heart on a hot summer day.",
+    "github": "sounak98",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "pieces",
+            "ingredient": "Medium-sized Bael (Woodapple)"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Powdered Jaggery"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "tablespoon",
+            "ingredient": "Rock Salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Roasted and Powdered Cumin Seeds (Jeera)"
+        },
+        {
+            "quantity": "2",
+            "measure": "glasses",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Break open the fruit using a pestle or if you are adventurous, strike it against the floor or a platform till it splits open.",
+        "Using a spoon scoop the pulp and place in a large bowl. Pour a glass of water and using your palms gather and squish the pulp to separate the seeds and juice the pulp.",
+        "Press the juice through a soup siever to strain the fibres and seeds from the thick pulp. Scoop the pulp remaining in the sieve into a vessel and add more water. Repeat the squishing process and strain till all that remains is the fiber.",
+        "Add jaggery to the strained juice and season with salt and cumin powders as per taste. Run the juice in a mixer. Pour in tall glasses and serve."
+    ],
+    "image": "bael-panna.jpg",
+    "source": "https://hariniandharsha.com/bael-pathhar-bael-ka-sherbet-woodapple-stoneapple-sherbet-an-indian-coolant-a-summer-recipe/",
+    "keywords": [
+        "fruit",
+        "vegan",
+        "indian",
+        "non-alcoholic",
+        "savory"
+    ]
+}

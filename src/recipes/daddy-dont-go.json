@@ -1,0 +1,40 @@
+{
+    "name": "Daddy don't go",
+    "description": "A really great cocktail from the Caribbean",
+    "github": "jeanccv",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Ron"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Fruit punch juice (Orange, pineapple and passion fruit)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint"
+        }
+    ],
+    "directions": [
+        "Mix the Ron with the fruit Punch juice.",
+        "Add Ice and Mint to the mix.",
+        "Put it in the blender and serve."
+    ],
+    "source": "http://bebidas.itematika.com/receta/b1090/papi-no-te-vayas.html",
+    "image": "daddy-dont-go.jpg",
+    "keywords": [
+        "alcoholic",
+        "vegan",
+        "fresh",
+        "fruit"
+    ]
+}

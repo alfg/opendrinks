@@ -1,0 +1,48 @@
+{
+    "name": "French Martini",
+    "description": "A deliciously fruity cocktail that combines Vodka with pineapple juice and Chambord liqueur.",
+    "github": "nikifoth",
+    "ingredients": [
+        {
+            "quantity": "35",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "freshly pressed pineapple juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Chambord"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "raspberries"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "cubed ice"
+        }
+    ],
+    "directions": [
+        "Build ingredients in a Boston glass.",
+        "Top with cubed ice and shake.",
+        "Fine strain into a chilled cocktail glass.",
+        "Garnish with a raspberry."
+    ],
+    "image": "french-martini.png",
+    "source": "https://www.greygoose.com/en-gb/cocktails/grey-goose-vodka/french-martini-cocktail.html",
+    "keywords":[
+        "alcoholic",
+        "fruity",
+        "sweet",
+        "vodka",
+        "chambord"
+
+    ]
+}

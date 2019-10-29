@@ -16,7 +16,7 @@
         {
             "quantity": "15",
             "measure": "ml",
-            "ingredient": "Sugar Syrop"
+            "ingredient": "Sugar Syrup"
         },
         {
             "quantity": "",
@@ -30,5 +30,11 @@
         "Blend for approximately 30 seconds.",
         "Pour into a cocktail glass."
     ],
-    "image": "mango-daiquiri.jpg"
+    "image": "mango-daiquiri.jpg",
+    "keywords": [
+        "alcoholic",
+        "fruit",
+        "smoothie",
+        "vegan"
+    ]
 }

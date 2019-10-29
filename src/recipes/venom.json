@@ -1,0 +1,43 @@
+{
+    "name": "Venom",
+    "description": "A sweet and refreshing heavy hitter.",
+    "github": "koaxu",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Southern Comfort"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Triple Sec"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "Blue WKD"
+        }
+    ],
+    "directions": [
+        "Add Southern Comfort and Triple Sec to a Pint glass.",
+        "Fill glass with ice.",
+        "Fill 3/4 of glass with orange juice.",
+        "Mix then pour in the bottle of Blue WKD (Can also be placed into the glass).",
+        "(Optional) Triple Sec can be replaced with Vodka.",
+        "Enjoy!"
+    ],
+    "image": "venom.jpg",
+    "source": "http://www.mybestcocktails.com/recipe-651-Venom.html",
+    "keywords": [
+        "southern comfort",
+        "triple Sec",
+        "orange juice",
+        "blue WKD"
+    ]
+}

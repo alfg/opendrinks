@@ -1,0 +1,28 @@
+{
+    "name": "Monaco",
+    "description": "A monaco is an alcoholic beverage made up of beer mixed with lemonade and grenadine syrup.",
+    "github": "siffreinsg",
+    "ingredients": [
+        {
+            "quantity": "5",
+            "measure": "oz",
+            "ingredient": "Beer"
+        },
+        {
+            "quantity": "0.3",
+            "measure": "oz",
+            "ingredient": "Grenadine syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Lemonade"
+        }
+    ],
+    "directions": [
+        "Mix everything together starting with the syrup.",
+        "And drink!"
+    ],
+    "image": "monaco.jpg",
+    "keywords": ["beer", "lemonade"]
+}

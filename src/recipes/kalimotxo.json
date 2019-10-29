@@ -21,7 +21,7 @@
         {
             "quantity": "",
             "measure": "",
-            "ingredient": "ice"
+            "ingredient": "Ice"
         }
     ],
     "directions": [
@@ -35,6 +35,8 @@
     "image": "kalimotxo.jpg",
     "keywords": [
         "red wine",
-        "alcoholic"
+        "alcoholic",
+        "fresh",
+        "vegan"
     ]
-} 
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Frozen Cantaloupe Margarita",
+    "description": "Margarita served in a unique manner.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "frozen cantaloupes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "unsweetened coconut milk"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "silver tequila"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "tablespoons",
+            "ingredient": "agave or honey to taste"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Optional: salt, for the rims"
+        }
+    ],
+    "directions": [
+        "Slice a thin piece of rind off both ends of cantaloupe so that it can stand upright.",
+        "Cut in half horizontally and remove seeds.",
+        "Scoop out flesh and set aside, save cantaloupe halves.",
+        "In a blender, combine the cantaloupe, coconut milk, tequila, lime juice, Cointreau and agave, pulse until smooth.",
+        "If needed, add ice to get a slushy consistency.",
+        "Divide between cantaloupe bowls (halves).",
+        "Cheers!"
+    ],
+    "image": "frozen-cantaloupe-margarita.jpg",
+    "source": "https://www.halfbakedharvest.com/frozen-cantaloupe-margaritas/",
+    "keywords": [
+        "tequila",
+        "melon",
+        "slushie",
+        "alcoholic",
+        "frozen"
+    ]
+}

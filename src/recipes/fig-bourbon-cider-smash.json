@@ -1,0 +1,63 @@
+{
+    "name": "Fig Bourbon Cider Smash",
+    "description": "A sweet citrusy cocktail, perfect for the start of autumn.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "apple cider"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "orange zest"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "fig preserves"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Optional: balsamic vinegar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sparkling water, for topping"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "fresh figs, for serving"
+        }
+    ],
+    "directions": [
+        "In a cocktail shaker, combine the apple cider, orange zest, orange juice, fig preserves, bourbon, and balsamic vinegar, if using.",
+        "Shake to combine.",
+        "Strain into a glass filled with ice.",
+        "Top off with sparkling water and garnish with a fresh fig.",
+        "Cheers!"
+    ],
+    "image": "fig-bourbon-cider-smash.jpg",
+    "source": "https://www.halfbakedharvest.com/fig-bourbon-cider-smash/",
+    "keywords": [
+        "bourbon",
+        "fig",
+        "apple cider",
+        "alcoholic",
+        "vegan"
+    ]
+}

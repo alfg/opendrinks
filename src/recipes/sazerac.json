@@ -1,0 +1,50 @@
+{
+    "name": "Sazerac",
+    "description": "Originated in New Orleans, the Sazerac is known as the official drink of Louisiana. Typically served straight up, drinking this will transport you straight to NOLA.",
+    "github": "SamuelPai",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Rye Whiskey"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "oz",
+            "ingredient": "Absinthe"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Peychaud's Bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "cube",
+            "ingredient": "Sugar Cube(white)"
+        },
+        {
+            "quantity": "1",
+            "measure": "Peel",
+            "ingredient": "Lemon Peel"
+        }
+    ],
+    "directions": [
+        "In a mixing glass place the sugar cube at the bottom, add bitters and splash of whiskey; muddle until mixed",
+        "Add the remaining whiskey and ice then stir",
+        "In a separate, chilled old-fashioned glass, add Absinthe and turn glass to coat the inside, pour out any excess",
+        "Strain stirred cocktail into the old-fashioned glass and garnish with lemon peel"
+    ],
+    "image": "sazerac.jpg", 
+    "keywords": [
+        "rye",
+        "whiskey",
+        "absinthe",
+        "NOLA"
+    ]
+}

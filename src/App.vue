@@ -12,11 +12,13 @@
         </h1>
       </div>
 
-      <b-nav tabs fill>
-        <b-nav-item to="/">Random</b-nav-item>
+      <b-nav tabs align="center">
+        <b-nav-item to="/">Featured</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
-        <b-nav-item to="/keyword">Keywords</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
+        <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
     <router-view />
@@ -25,9 +27,7 @@
       <hr />
       <div>
         View the source or contribute a drink recipe on
-        <a
-          href="https://github.com/alfg/opendrinks"
-        >GitHub</a>!
+        <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
         <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
@@ -44,12 +44,19 @@ export default {
   components: {
     GitHubCorner,
   },
+  computed: {
+    isMobile() {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      );
+    },
+  },
 };
 </script>
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
@@ -75,11 +82,11 @@ export default {
 }
 
 .container {
-  max-width: 720px;
+  max-width: 960px;
 }
 
 .logo {
-  font-family: "Pacifico", "cursive";
+  font-family: 'Pacifico', 'cursive';
 }
 .logo a {
   text-decoration: none;

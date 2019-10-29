@@ -1,0 +1,45 @@
+{
+    "name": "Appletini",
+    "description": "A sweet and sour, electric green drink with a sweet, delicious apple flavor",
+    "github": "aldermann",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "fl oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "fl oz",
+            "ingredient": "green apple schnapps"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "fl oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "apple slice"
+        }
+    ],
+    "directions": [
+        "Dip the apple slice in lemon juice to prevent it from turning yellow",
+        "Combine all the liquid ingredient in a cocktail mixing cup. Fill it with ice and shakes it well",
+        "Strain into a cocktail glass",
+        "Garnish with the apple slice"
+    ],
+    "image": "appletini.jpg",
+    "keywords": [
+        "vodka",
+        "apple",
+        "alcoholic",
+        "vegan"
+    ]
+}

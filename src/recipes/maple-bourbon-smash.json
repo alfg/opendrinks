@@ -1,0 +1,40 @@
+{
+    "name": "Maple Bourbon Smash",
+    "description": "The slightly smoky sweetness of maple syrup pairs perfectly with oaky bourbon in this quintessential autumn cocktail",
+    "github": "spotts9",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Oz",
+            "ingredient": "Bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "Oz",
+            "ingredient": "Maple Syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "Oz",
+            "ingredient": "Fresh Lemon Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "Twist",
+            "ingredient": "Lemon"
+        }
+    ],
+    "directions": [
+        "Pour the bourbon, maple syrup, and lemon juice into a shaker filled with ice.",
+        "Stir until the drink is thoroughly chlled, about 20 seconds.",
+        "Strain into a double old-fashioned glass with a large cube of ice.",
+        "Garnish with lemon twist"
+    ],
+    "image": "maple-bourbon-smash.jpg",
+    "keywords": [
+        "bourbon",
+        "maple syrup",
+        "fall",
+        "vegan"
+    ]
+}

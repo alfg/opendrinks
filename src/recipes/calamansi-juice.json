@@ -1,0 +1,39 @@
+{
+  "name": "Calamansi Juice",
+  "description": "Calamansi juice is a Filipino summer drink that is their version of lemonade. It uses calamansi fruits, which are citrus fruits common in the Philippines.",
+  "github": "jarcillas",
+  "ingredients": [
+    {
+      "quantity": "0.75",
+      "measure": "cup",
+      "ingredient": "sugar"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "fresh-squeezed calamansi juice"
+    },
+    {
+      "quantity": "4",
+      "measure": "cups",
+      "ingredient": "water"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "ice cubes"
+    }
+  ],
+  "directions": [
+    "Mix the sugar, water and calamansi juice in a pitcher. Stir until well blended.",
+    "Add mixture and ice cubes to a glass. Enjoy!"
+  ],
+  "image": "calamansi-juice.jpg",
+  "keywords": [
+    "calamansi",
+    "ice",
+    "summer",
+    "fruit juice",
+    "vegan"
+  ]
+}

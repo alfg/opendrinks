@@ -1,0 +1,44 @@
+{
+    "name": "Corpse Reviver no.2",
+    "description": "The Corpse Reviver family of named cocktails are sometimes drunk as alcoholic hangover cures, of potency or characteristics to tongue in cheek be able to revive even a dead person. The Corpse Reviver no.2 as described in the Savoy Cocktail Book is the most commonly drunk of the corpse revivers",
+    "github": "slidd",
+    "ingredients": [
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "Rutte Dry Gin"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "De Kuyper Triple Sec"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "Lillet Blanc"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "Freshly squeezed lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "La Fee Parisienne absinthe"
+        }
+    ],
+    "directions": [
+        "Shake all the ingredients with ice and fine strain into a chilled glass."
+    ],
+    "image": "corpse-reviver-no2.jpg",
+    "keywords": [
+        "cocktail",
+        "hangover",
+        "corpse reviver",
+        "alcoholic",
+        "absinthe",
+        "vegan"
+    ]
+}

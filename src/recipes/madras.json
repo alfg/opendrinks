@@ -1,0 +1,33 @@
+{
+    "name": "Madras",
+    "description": "Easy Vodka Cranberry drink",
+    "github": "deveshkatoch",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        }
+    ],
+    "directions": [
+        "Gather and pour the ingredients into a highball glass.",
+        "Stir the ingredients well",
+        "Garnish with a lime wedge"
+    ],
+    "image": "madras.jpg",
+    "source": "https://www.thespruceeats.com/madras-cocktail-recipe-759318",
+    "keywords": [
+        "codka",
+        "cranberry"
+    ]
+}

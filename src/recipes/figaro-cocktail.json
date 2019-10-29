@@ -1,0 +1,49 @@
+{
+    "name": "The Marriage of Figaro Cocktail",
+    "description": "The beauty of The Marriage of Figaro cocktail is the use of fig-infused bourbon. It is spectacular, and a natural flavor pairing that you'll find fascinating. It's definitely a homemade infusion, but while you have it, think of using it to spice up other favorite whiskey cocktails, such as the Manhattan, for a unique twist.",
+    "github": "mbain108",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "fig-infused bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "Cardamaro"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "allspice dram"
+        },
+        {
+            "quantity": "1",
+            "measure": "garnish",
+            "ingredient": "lemon twist"
+        }
+    ],
+    "directions": [
+        "In a mixing glass filled with ice, pour the two bourbons, Cardamaro, and allspice dram.",
+        "Stir well.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a lemon twist.",
+        "Serve and enjoy!"
+    ],
+    "image": "figaro-cocktail.jpg",
+    "keywords": [
+        "fig",
+        "bourbon",
+        "cocktail",
+        "alcoholic",
+        "infused",
+        "cardamaro",
+        "vegan"
+    ]
+}

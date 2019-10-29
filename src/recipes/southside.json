@@ -1,0 +1,45 @@
+{
+    "name": "Southside",
+    "description": "A simple, refreshing, all season drink.",
+    "github": "jssee",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lemon juice (fresh if possible)"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "angostura bitters"
+        },
+        {
+            "quantity": "5",
+            "measure": "leaves",
+            "ingredient": "mint"
+        }
+    ],
+    "directions": [
+        "Place mint leaves inside a shaker, muddle them gently for about 30 seconds or so",
+        "Add ice to shaker, the larger the ice cube the better, this is going to create some of that classic daiquiri-like foam",
+        "add gin, simple syrup, bitters, and lemon juice to the shaker, cover it all up and shake for a few seconds",
+        "strain contents of the shaker into a coupe glass, garnish with a mint leaf"
+    ],
+    "image": "southside.jpg",
+    "keywords": [
+        "southside",
+        "mint",
+        "refreshing",
+        "gin"
+    ]
+}

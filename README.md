@@ -2,9 +2,16 @@
 
 > Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
-https://opendrinks.netlify.com/
+https://opendrinks.io/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
+[![Build Status](https://travis-ci.org/alfg/opendrinks.svg?branch=master)](https://travis-ci.org/alfg/opendrinks)
+
+**OpenDrinks** is powered and hosted by [Netlify](https://www.netlify.com)!
+
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
+</a>
 
 ## Submit a drink recipe
 
@@ -14,7 +21,7 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Check existing recipes in [/src/recipes](/src/recipes)
 - Fork and make a pull request with your drink recipe
-- Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.netlify.com
+- Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.io
 
 Also check out [Issues](https://github.com/alfg/opendrinks/issues) for any open bug fixes or feature requests!
 
@@ -49,6 +56,18 @@ npm run serve
 
 ```
 npm run build
+```
+
+### Lint
+
+```
+npm run lint
+```
+
+### Test
+
+```
+npm test
 ```
 
 ### Docker

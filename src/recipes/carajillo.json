@@ -1,0 +1,33 @@
+{
+    "name": "Carajillo",
+    "description": "Carajillo was born during the colonial era, when Cuba was a Spanish province. Spanish soldiers mixed coffee with liquor to take courage during the fighting.",
+    "github": "jcespinosa",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "espresso"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Liquor (Whiskey, Ron, Brandy)"
+        }
+    ],
+    "directions": [
+        "Use your favorite mix of coffee roasted beans to brew 2 oz of espresso.",
+        "Let the espresso to stand and cold down a little bit",
+        "Get an Old Fashioned glass and put the 2 oz of espresso",
+        "Carefully, add the 2 oz of your favorite liquor (Whiskey, Ron or Brandy), this step is critical if you want a good looking cocktail. If done correctly you will get the liquor to fall to the bottom of the glass and you will see a beautiful transition between the two drinks.",
+        "Tip: Traditionally, carajillo is served warm, but you can also serve it cold, add some ice cubes if you want",
+        "Tip: Use a liquior named \"Licor 43\", a spanish liquior made with a secret recipe of 43 ingredients (species, herbs, fruits), you will get a most refined taste",
+        "Tip: Brew your coffee with some herbs (cinnamon, clove, anís, and more) to improve the taste"
+    ],
+    "image": "carajillo.jpg",
+    "source": "https://gourmetdemexico.com.mx/bebidas/reconocer-carajillo-perfecto/",
+    "keywords": [
+        "coffee",
+        "liquor",
+        "species"
+    ]
+}

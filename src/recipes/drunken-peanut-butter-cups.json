@@ -1,0 +1,71 @@
+{
+    "name": "Drunken Peanut Butter Cups",
+    "description": "A martini that uses home made Reese's Pieces infused vodka, garnished with a peanut buter rim! Recipe yields two servings.",
+    "github": "cvick",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Reese's Pieces"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Reese's infused vodka"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Chocolate Liquer"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Peanut Butter (optional, for garnishing the rim of the glass)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Crushed Reese's Pieces (optional, for garnishing the rim of the glass)"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Reese's Cups (as garnish)"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "chocolate syrup"
+        }
+    ],
+    "directions": [
+        "In a sealable container (for example a mason jar), combine vodka and Reese's Pieces. Cover with a tight-fitting lid and shake. Refridgerate overnight, then strain.",
+        "Fill a cocktail shaker with ice, then pour over strained vodka, milk, and chocolate liqueur. Shake until chilled.",
+        "Put peanut butter on one small plate and crushed Reese's Pieces on another. Dunk tops of two cocktail glasses in peanut butter then roll in crushed Reese's Pieces.",
+        "Drizzle about a tablespoon of chocolate syrup into each glass. Divide cocktail mixture between glasses and garnish each with a peanut butter cup."
+    ],
+    "image": "drunken-peanut-butter-cups.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/recipes/a58358/drunken-peanut-butter-cups-recipe/",
+    "keywords": [
+        "peanut butter",
+        "chocolate",
+        "vodka",
+        "halloween"
+    ]
+}

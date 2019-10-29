@@ -1,0 +1,53 @@
+{
+    "name": "Egyptian Sobia Drink",
+    "description": "Sobia is a starchy, milky sweet coconut drink, that is really a thirst quenching drink.",
+    "github": "aliheikal",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "dry uncooked rice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar (more or less depending on your liking)"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "powdered milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "vanilla powder"
+        }
+    ],
+    "directions": [
+        "Start by grinding the rice to fine powder.",
+        "In a bowl combine water and rice powder, let it set for at least 6 hours in the fridge.",
+        "In you blender, add the rice water and the rest of the ingredients together.",
+		"Blend very well – might take you 3-4minutes until well combined.",
+		"Strain with cheese cloth, coffee filter or tea strainer.",
+        "Chill and serve."
+    ],
+    "image": "egyptian-sobia-drink.jpg",
+    "keywords": [
+        "non-alcoholic",
+    		"milk",
+        "coconut",
+    		"sugar",
+    		"vanilla"
+    ]
+}

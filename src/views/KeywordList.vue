@@ -1,11 +1,12 @@
 <template>
   <div class="container">
     <b-list-group class="mt-4">
-        <b-list-group-item
-            v-for="(keyword, index) in keywords"
-            :key="index"
-            :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
-        >{{ keyword }}</b-list-group-item>
+      <b-list-group-item
+        v-for="(keyword, index) in keywords"
+        :key="index"
+        :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
+        >{{ keyword }}</b-list-group-item
+      >
     </b-list-group>
   </div>
 </template>

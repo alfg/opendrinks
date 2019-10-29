@@ -10,7 +10,17 @@ export default new Router({
     {
       path: '/',
       name: 'home',
-      component: () => import('./views/Home.vue'),
+      component: () => import('./views/Featured.vue'),
+    },
+    {
+      path: '/featured',
+      name: 'featured',
+      component: () => import('./views/Featured.vue'),
+    },
+    {
+      path: '/random',
+      name: 'random',
+      component: () => import('./views/Random.vue'),
     },
     {
       path: '/recipe/:id',
@@ -41,6 +51,16 @@ export default new Router({
       path: '/keyword/:keyword',
       name: 'keyword',
       component: () => import('./views/Keyword.vue'),
+    },
+    {
+      path: '/favorites',
+      name: 'favorites',
+      component: () => import('./views/Favorites.vue'),
+    },
+    {
+      path: '*',
+      name: '404',
+      component: () => import('./views/PageNotFound.vue'),
     },
   ],
 });

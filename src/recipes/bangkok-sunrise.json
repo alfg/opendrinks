@@ -1,0 +1,41 @@
+{
+    "name": "Bangkok Sunrise",
+    "description": "A Drink that looks like a bangkok sunrise. Shown in danger 5 this is a wonderful cocktail that's sure to put you in a spring mood.",
+    "github": "nicholashuber",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "lemongrass syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "grenadine"
+        }
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "In a cocktail shaker filled with ice cubes, pour the tequila, Orange juice, and lemongrass syrup. Top with grenadine",
+        "Shake well.",
+        "Strain into a chilled cocktail glass.",
+        "Serve and enjoy!"
+    ],
+    "image": "bangkok-sunrise.jpg",
+    "keywords": [
+        "alcoholic",
+        "fruit",
+        "citrus",
+        "vegan"
+    ]
+}

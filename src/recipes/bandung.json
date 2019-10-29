@@ -1,0 +1,31 @@
+{
+	"name": "Bandung, Rose Syrup Beverage",
+	"description": "Bandung is a popular drink from Malaysia and Singapore. This is a popular street side drink and is also a favorite drink in Malaya community. It is served during iftar during the month of Ramadan. It is also served at weddings and celebrations. It is a simple drink prepared with condensed milk and Rose syrup.",
+	"github": "lukasleeyo",
+	"ingredients": [
+		{
+			"quantity": "2–3",
+			"measure": "tablespoon",
+			"ingredient": "Condensed Milk"
+		},
+		{
+			"quantity": "2",
+			"measure": "tablespoon",
+			"ingredient": "Roohafza"
+		},
+		{
+			"quantity": "1 ½",
+			"measure": "cup",
+			"ingredient": "water"
+		}
+	],
+	"directions": [
+		"In a bowl, combine condensed milk and roohafza. Add water and mix well until condensed milk dissolves in the water. A combination of soda and milk can also be used.",
+		"Chill and serve. OR pour in serving glasses, add some ice and serve."
+	],
+	"image": "bandung.jpg",
+	"source": "https://www.myspicykitchen.net/bandung-rose-syrup-beverage-from-malaysia/",
+	"keywords": [
+		"Malaysia"
+	]
+}
