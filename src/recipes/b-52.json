@@ -1,0 +1,31 @@
+{
+    "name": "B-52",
+    "description": "Believed to have originated in the 1970 by a bartender and fan of the iconic band, the B-52 is classic guilty pleasure armed with three liqueurs. Make this layered shooter in seconds and impress all your friends.",
+    "github": "README1ST",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Coffee liqueur"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Baileys Irish cream liqueur"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Grand Marnier liqueur"
+        }
+    ],
+    "directions": [
+        "Layer the three spirits in a shot glass in the following order: Coffee liqueur, Baileys Irish cream liqueur, Grand Marnier liqueur."
+    ],
+    "image": "b-52.jpg",
+    "source": "https://www.liquor.com/recipes/b-52/",
+    "keywords": [
+        "shot",
+        "alcoholic"
+    ]
+}
