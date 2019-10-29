@@ -23,5 +23,6 @@
         "Mix everything together starting with the syrup.",
         "And drink!"
     ],
-    "image": "monaco.jpg"
+    "image": "monaco.jpg",
+    "keywords": ["beer", "lemonade"]
 }
