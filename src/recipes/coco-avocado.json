@@ -1,0 +1,45 @@
+{
+  "name": "Coco Avocado",
+  "description": "Coco Avocado (or Es Alpukat Kelapa in Indonesian) is a popular beverage in Indonesia, usually sold as one of the street foods. If you are exhausted after an intense working or studying, this dessert might help you chill out.",
+  "github": "ahmadnaufal",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "Ripe avocado"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "Young, tender coconut"
+      },
+      {
+          "quantity": "2",
+          "measure": "tablespoons",
+          "ingredient": "Condensed milk, palm sugar, or honey for sweetener"
+      },
+      {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "Ice cube"
+      }
+  ],
+  "directions": [
+      "Put the whole cup of ice cube to a blender",
+      "Cut the avocado in half and remove the pit",
+      "Use a spoon to scoop out all the inside and add them on the blender",
+      "Add the sweetener of your preference",
+      "Blend them all until smooth",
+      "Open up a coconut and put away the coconut water",
+      "Scoop out the tender coconut inside and add it to the blender",
+      "Pour the drink into a serving glass",
+      "You can add more ice cubes or slushed ice to make it fresher!"
+    ],
+  "image": "coco-avocado.jpg",
+  "keywords": [
+      "fruit",
+      "juice",
+      "non-alcoholic",
+      "vegan"
+  ]
+}
