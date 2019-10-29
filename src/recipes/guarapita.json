@@ -1,0 +1,48 @@
+{
+  "name": "Guarapita",
+  "description": "Venezuelan drink made with rum and juice from tropical fruits",
+  "github": "stephs1515",
+  "ingredients": [
+      {
+          "quantity": "0.75",
+          "measure": "liter",
+          "ingredient": "Rum"
+      },
+      {
+          "quantity": "1",
+          "measure": "liter",
+          "ingredient": "Passion fruit juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "liter",
+          "ingredient": "Orange juice"
+      },
+      {
+        "quantity": "1 ½",
+        "measure": "cup",
+        "ingredient": "Grenadine"
+      },
+      {
+        "quantity": "8",
+        "measure": "whole",
+        "ingredient": "Limes"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Mint leaves"
+      }
+      
+  ],
+  "directions": [
+      "In a punch bowl, mix all the ingredients with lots of ice cubes",
+      "Serve in glasses with fresh ice cubes and garnish with mint leaves"
+  ],
+  "image": "guarapita.jpg",
+  "source": "https://enrilemoine.com/en/2012/07/04/venezuelan-rum-guarapita-recipe/",
+  "keywords": [
+      "rum",
+      "party"
+  ]
+}
