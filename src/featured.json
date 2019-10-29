@@ -154,5 +154,19 @@
       "yogurt-fruit-shake"
     ],
     "size": 6
+  },
+  {
+    "title": "Homecoming Drinks",
+    "description": "Celebrate your alma mater with these team favorites!",
+    "items": [
+      "amf",
+      "hurricane",
+      "long-island-iced-tea",
+      "sex-on-the-beach",
+      "tequila-sunrise",
+      "trash-can",
+      "vodka-lemonade-punch"
+    ],
+    "size": 6
   }
 ]
