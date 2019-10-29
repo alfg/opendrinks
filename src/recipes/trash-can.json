@@ -1,0 +1,54 @@
+{
+  "name": "Trash Can",
+  "description": "Tasty Mix of Whatever you Have on Hand with a Caffeine Boost!",
+  "github": "drahenshaw",
+  "ingredients": [
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Gin"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Triple Sec"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Rum (Light)"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Blue Caracao"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Peach Schnapps"
+    },
+    {
+      "quantity": "1",
+      "measure": "can",
+      "ingredient": "Red Bull"
+    }
+  ],
+  "directions": [
+    "Fill large glass with ice. Add alcohol ingrediants. Open the Red Bull and place upside down in the glass."
+  ],
+  "image": "trash-can.jpg",
+  "source": "https://cocktails.lovetoknow.com/cocktail-recipes/trash-can-drink-recipes",
+  "keywords": [
+    "alcoholic",
+    "trash",
+    "can",
+    "college",
+    "party"
+  ]
+}
