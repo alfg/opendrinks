@@ -1,0 +1,46 @@
+{
+    "name": "Charro negro",
+    "description": "Charro Negro represents the most common way to mix tequila with cola. It is the Mexican version of the traditional 'Cuba Libre' whose main ingredient is rum. Here tequila becomes the protagonist that mixes with a little lemon, a pinch of salt and cola.",
+    "github": "diegowifi",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "7",
+            "measure": "ounce",
+            "ingredient": "Cola"
+        },
+        {
+            "quantity": "1",
+            "measure": "portion",
+            "ingredient": "lemon"
+        },
+		 {
+            "quantity": "1",
+            "measure": "decoration",
+            "ingredient": "Salt"
+        },
+		 {
+            "quantity": "1-Many",
+            "measure": "quantity",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+       "Cut a slice of lemon and separate to decorate.",
+       "To frost the glass: Place the salt on an extended plate. We wet the edge of the glass using the remaining lemon, turn and place the glass on the salt of the dish so that it sticks or frosts.",
+       "Once the glass has been frosted, we add the tequila, the cola, the rest of the lemon juice and mix.",
+       "We add ice to taste and decorate with the lemon slice."
+    ],
+    "image": "charro-negro.jpg",
+
+    "keywords": [
+        "charro",
+        "negro",
+        "charro negro",
+        "Mexico"
+    ]
+}
