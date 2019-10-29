@@ -17,7 +17,7 @@
             "quantity": "1",
             "measure": "oz",
             "ingredient": "Orange Juice"
-        },
+        }
     ],
     "directions": [
         "Add ice and ingredients to a shaker.",
@@ -27,6 +27,6 @@
     "image": "buffalo-sweat.jpg",
     "keywords": [
         "harsh",
-        "buffalo",
+        "buffalo"
     ]
 }
