@@ -1,0 +1,50 @@
+{
+    "name": “Blackberry Mojito",
+    "description": "Crushed, ripe blackberries give this mojito a tart-sweet kick.",
+    "github": “harshit09saini",
+    "ingredients": [
+        {
+            "quantity": “1/2",
+            "measure": “cup",
+            "ingredient": “blackberries"
+        },
+        {
+            "quantity": “Handful",
+            "measure": “",
+            "ingredient": “Fresh Mint Leaves"
+        },
+        {
+            "quantity": “2",
+            "measure": “Limes",
+            "ingredient": “Juice of 2 limes"
+        },
+        {
+            "quantity": “1",
+            "measure": “tsp",
+            "ingredient": “Sugar"
+        },
+        {
+            "quantity": “1/2",
+            "measure": “cup",
+            "ingredient": “Light rum"
+        },
+        {
+            "quantity": “1/2",
+            "measure": “cup",
+            "ingredient": “Crushed Ice"
+        }, 
+    ],
+    "directions": [
+        "In a small bowl, set aside the blackberries.", 
+	"Place mint leaves in bottom of glasses. Divide and spoon blackberry mixture on top”,
+	"Add rum, sugar, and lime juice and stir to combine. Top with crushed ice.”, 
+	"Add club soda and garnish with mint leaves and more blackberries.”
+    ],
+
+    "image": “blackberry-mojito.jpg",
+    "keywords": [
+        “Cocktail”, 
+	“Blackberries”, 
+	“Rum”, 
+    ]
+}
