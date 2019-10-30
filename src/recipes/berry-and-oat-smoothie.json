@@ -2,8 +2,7 @@
     "name": "Berry and Oat Smoothie",
     "description": "A berry smoothie with added oats and flaxseeds to help you feel filler for longer!",
     "github": "CalumChamberlain",
-    "ingredients": [
-        {
+    "ingredients": [{
             "quantity": "25",
             "measure": "g",
             "ingredient": "Rolled oats"
@@ -44,6 +43,7 @@
         "berry",
         "oats",
         "healthy",
-        "smoothie"
+        "smoothie",
+        "non-alcoholic"
     ]
 }
