@@ -24,8 +24,8 @@ describe('Search view', () => {
   test('show cocktail list when text is entered and name is selected', () => {
     expect(wrapper.findAll('.list-group').exists()).toBe(false);
 
-    wrapper.find(".form-control").setValue('Gin');
-    wrapper.find(".form-control").trigger('keydown');
+    wrapper.find('.form-control').setValue('Gin');
+    wrapper.find('.form-control').trigger('keydown');
     expect(wrapper.find('.list-group').exists()).toBe(true);
   });
 });

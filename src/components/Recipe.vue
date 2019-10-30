@@ -10,21 +10,16 @@
             variant="secondary"
             :style="badgeStyle"
             :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-          >{{ o }}</b-badge
+            >{{ o }}</b-badge
           >
         </div>
       </div>
 
       <div class="d-flex align-items-center">
-        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited">
-        </FavoriteStar>
+        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited"> </FavoriteStar>
 
         <div class="print-button">
-          <b-button
-            variant="outline-primary"
-            :href="`/recipe/${this.name}/print`"
-            target="_blank"
-          >
+          <b-button variant="outline-primary" :href="`/recipe/${this.name}/print`" target="_blank">
             Print
           </b-button>
         </div>
