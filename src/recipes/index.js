@@ -24,6 +24,10 @@ function getRecipes() {
   return items;
 }
 
+function getRecipesByPage(page = 0) {
+  return recipes;
+}
+
 function getRecipesByKeywords(keyword) {
   return getRecipes()
     .filter(recipe => recipe.keywords)
@@ -126,6 +130,7 @@ export default {
   getAllKeywords,
   getAllKeywordsWithCount,
   getRecipes,
+  getRecipesByPage,
   getRecipesByKeywords,
   getRecipe,
   getRandom,
