@@ -1,37 +1,37 @@
 {
-    "name": “Blackberry Mojito",
+    "name": "Blackberry Mojito",
     "description": "Crushed, ripe blackberries give this mojito a tart-sweet kick.",
-    "github": “harshit09saini",
+    "github": "harshit09saini",
     "ingredients": [
         {
-            "quantity": “1/2",
-            "measure": “cup",
-            "ingredient": “blackberries"
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "blackberries"
         },
         {
-            "quantity": “Handful",
-            "measure": “",
-            "ingredient": “Fresh Mint Leaves"
+            "quantity": "Handful",
+            "measure": "",
+            "ingredient": "Fresh Mint Leaves"
         },
         {
-            "quantity": “2",
-            "measure": “Limes",
-            "ingredient": “Juice of 2 limes"
+            "quantity": "2",
+            "measure": "Limes",
+            "ingredient": "Juice of 2 limes"
         },
         {
-            "quantity": “1",
-            "measure": “tsp",
-            "ingredient": “Sugar"
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Sugar"
         },
         {
-            "quantity": “1/2",
-            "measure": “cup",
-            "ingredient": “Light rum"
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Light rum"
         },
         {
-            "quantity": “1/2",
-            "measure": “cup",
-            "ingredient": “Crushed Ice"
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Crushed Ice"
         }, 
     ],
     "directions": [
@@ -41,10 +41,10 @@
 	"Add club soda and garnish with mint leaves and more blackberries.”
     ],
 
-    "image": “blackberry-mojito.jpg",
+    "image": "blackberry-mojito.jpg",
     "keywords": [
-        “Cocktail”, 
-	“Blackberries”, 
-	“Rum”, 
+        "Cocktail", 
+	"Blackberries", 
+	"Rum", 
     ]
 }
