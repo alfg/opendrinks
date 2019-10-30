@@ -19,9 +19,9 @@
             "ingredient": "Caster sugar"
         },
         {
-            "quantity": 45",
+            "quantity": "45",
             "measure": "milliliters(ml)",
-            "ingredient": "White rum"
+            "ingredient": "White rum",
         },
         {
             "quantity": "1",
