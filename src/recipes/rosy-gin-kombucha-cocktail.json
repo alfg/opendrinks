@@ -1,0 +1,53 @@
+{
+  "name": "Rosy Gin-Kombucha Cocktail",
+  "description": "Great cocktail for the kombucha curious.",
+  "github": "vthn",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "ounces",
+          "ingredient": "gin"
+      },
+      {
+          "quantity": "1",
+          "measure": "ounce",
+          "ingredient": "Campari"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "ounce",
+          "ingredient": "fresh lemon juice"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "teaspoon",
+          "ingredient": "finely grated fresh ginger"
+      },
+      {
+          "quantity": "5",
+          "measure": "ounces",
+          "ingredient": "original kombucha, chilled"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Lemon wedges, for serving"
+      }
+  ],
+  "directions": [
+      "Stir gin, Campari, lemon juice, and ginger in a pint glass or measuring cup.",
+      "Stir in kombucha.",
+      "Strain through a fine-mesh sieve into an ice-filled Collins glass.",
+      "Garnish with lemon wedges."
+  ],
+  "image": "rosy-gin-kombucha-cocktail.jpg",
+  "source": "https://www.bonappetit.com/recipe/rosy-gin-kombucha-cocktail",
+  "keywords": [
+      "alcoholic",
+      "campari",
+      "gin",
+      "ginger",
+      "kombucha",
+      "lemon"
+  ]
+}
