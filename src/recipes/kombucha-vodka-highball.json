@@ -1,0 +1,44 @@
+{
+  "name": "Kombucha-Vodka Highball",
+  "description": "Take this mule on a kombucha fueled ride.",
+  "github": "vthn",
+  "ingredients": [
+      {
+          "quantity": "1 1/2",
+          "measure": "ounces",
+          "ingredient": "vodka"
+      },
+      {
+          "quantity": "3/4",
+          "measure": "ounce",
+          "ingredient": "fresh lime juice"
+      },
+      {
+          "quantity": "2",
+          "measure": "teaspoons",
+          "ingredient": "simple syrup"
+      },
+      {
+          "quantity": "3",
+          "measure": "ounces",
+          "ingredient": "ginger-flavored kombucha"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Lime wedge, for serving"
+      }
+  ],
+  "directions": [
+      "Combine vodka, lime juice, and simple syrup in an ice-filled glass.",
+      "Top with kombucha and garnish with a lime wedge"
+  ],
+  "image": "kombucha-vodka-highball.jpg",
+  "source": "https://www.bonappetit.com/recipe/kombucha-vodka-highball",
+  "keywords": [
+      "alcoholic",
+      "ginger",
+      "lime",
+      "vodka"
+  ]
+}
