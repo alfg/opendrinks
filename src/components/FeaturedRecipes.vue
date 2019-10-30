@@ -1,6 +1,18 @@
 <template>
   <div class="featured-recipes">
-    <div v-for="(feature, i) in featuredList" v-bind:key="i">
+    <div class="button-wrapper">
+      <template v-for="(feature, i) in featuredList" style="display: flex;">
+        <b-button
+          v-on:click="showSubset(feature.title)"
+          variant="outline-primary"
+          v-bind:key="`btn-${i}`"
+          class="mr-2 mb-2"
+          >{{ feature.title }}</b-button
+        >
+      </template>
+      <b-button v-on:click="showSubset('All')" variant="outline-primary" class="mb-2">All</b-button>
+    </div>
+    <div v-for="(feature, i) in filteredList" v-bind:key="i">
       <h2>{{ feature.title }}</h2>
       <p>{{ feature.description }}</p>
       <b-card-group deck>
@@ -38,16 +50,25 @@ export default {
   data() {
     return {
       featuredList: [],
+      filteredList: [],
       featuredItemSize: FEATURED_ITEM_SIZE,
     };
   },
   created() {
     window.document.title = `Open Drinks - Featured`;
     this.featuredList = recipes.getFeaturedRecipes();
+    this.filteredList = this.featuredList;
   },
   methods: {
     loadMore(i) {
       this.featuredList[i].size += FEATURED_ITEM_SIZE;
+    },
+    showSubset(title) {
+      if (title === 'All') {
+        this.filteredList = this.featuredList;
+      } else {
+        this.filteredList = this.featuredList.filter(item => item.title === title);
+      }
     },
   },
 };

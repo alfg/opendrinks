@@ -65,6 +65,12 @@ export default {
     const drink = recipes.getRecipe(this.id);
     this.drink = drink;
   },
+  watch: {
+    id(id) {
+      const drink = recipes.getRecipe(id);
+      this.drink = drink;
+    }
+  },
   methods: {
     urlEncode(item) {
       return window.encodeURI(item);
