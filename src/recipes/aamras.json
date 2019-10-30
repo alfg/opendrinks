@@ -1,0 +1,53 @@
+{
+    "name": "Aamras",
+    "description": "Aam means mango and ras means juice. So literally the word aamras means mango juice.Basically aamras is plain mango puree or pulp.Aamras is very popular in India(especially Gujarat and Maharashtra).Traditionally it is served with poori and this combo of aamras poori is liked by many.",
+    "github": "thakkar7",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "kesar mangoesr"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "measure": "",
+            "ingredient": "cardamom powder"
+        },
+        {
+            "quantity": "1 pinch",
+            "measure": "",
+            "ingredient": "saffron strands(kesar)"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "measure": "",
+            "ingredient": "dry ginger powder"
+        },
+        {
+            "quantity": "1 glass",
+            "measure": "",
+            "ingredient": "Milk (Optional)"
+        }
+    ],
+    "directions": [
+        "Rinse the alphonso mangoes, then peel and chop them.",
+        "In a blender add the chopped mango pieces and blend.",
+        "Add cardamom powder and crushed saffron strands.",
+        "Stir very well.To thin down the aamras you can add some sugar and water/milk.",
+        "Pour in small bowls and chill in the refrigerator.",
+        "You can also add your choice of dry fruits to the aamras."
+    ],
+    "image": "aamras.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "aamras",
+        "vegan",
+        "mango"
+    ]
+}

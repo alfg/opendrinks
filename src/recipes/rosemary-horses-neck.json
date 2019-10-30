@@ -1,0 +1,46 @@
+{
+  "name": "Rosemary Horse's Neck",
+  "description": "A golden classic. Don't like whiskey? Replace it with brown rum or brandy!",
+  "github": "voodoods",
+  "ingredients": [
+      {
+          "quantity": "3",
+          "measure": "oz",
+          "ingredient": "blended whiskey"
+      },
+      {
+          "quantity": "7",
+          "measure": "oz",
+          "ingredient": "ginger ale"
+      },
+      {
+          "quantity": "2",
+          "measure": "branches",
+          "ingredient": "fresh rosemary"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "cubed or crushed ice"
+    }
+  ],
+  "directions": [
+      "Mix the ginger ale with the whiskey",
+      "Add ice.",
+      "Garnish with a branch of fresh rosemary.",
+      "Enjoy!"
+  ],
+  "image": "rosemary-horses-neck.jpg",
+  "source": "https://mobile.kptncook.com/recipe/pinterest/rosemary-horses-neck/5b916c89?lang=en",
+  "keywords": [
+      "whiskey",
+      "rum",
+      "brandy",
+      "ginger ale",
+      "alcoholic",
+      "cold",
+      "rosemary",
+      "sweet",
+      "vegan"
+  ]
+}

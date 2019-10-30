@@ -1,0 +1,26 @@
+{
+    "name": "Vodka Soda",
+    "description": "Low calorie alcoholic drink used for those counting calories!",
+    "github": "zalameedi",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "Oz",
+            "ingredient": "Soda Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "Shot glass",
+            "ingredient": "Vodka (Absolut OR Grey Goose)"
+        }
+    ],
+    "directions": [
+        "Apply vodka in a glass followed by Soda water. Top off with a lime/lemon if desired."
+    ],
+    "image": "vodka-soda.jpg",
+    "source": "https://www.liquor.com/recipes/vodka-soda/",
+    "keywords": [
+        "alcoholic",
+        "low calorie"
+    ]
+}
