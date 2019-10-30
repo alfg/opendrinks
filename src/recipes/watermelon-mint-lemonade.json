@@ -1,0 +1,52 @@
+{
+    "name": "Watermelon Mint Lemonade",
+    "description": "This refreshing summer drink will ward off the heat with the bright combination of watermelon, mint, and lemons.",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "granulated sugar"
+        },
+        {
+            "quantity": "10",
+            "measure": "cup",
+            "ingredient": "seedless watermelon, cubed in 1-inch pieces"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "fresh-squeezed lemon juice"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "loosely packed mint leaves"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lemon slices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "fresh mint sprigs"
+        }
+    ],
+    "directions": [
+        "Make a simple syrup by combining 1/2 cup sugar and 1/2 cup water in a small pan over medium-high heat.",
+        "Heat the liquid just until the sugar is complete dissolved, 5-6 minutes. Set the simple syrup aside to cool.",
+        "Pulse the watermelon in a blender until smooth. (You may need to do this in 2 batches.) Strain the pureed watermelon through a fine mesh collander into a large bowl. Discard the pulp and rinse the blender container out with water.",
+        "Return the watermelon liquid to the blender. Add the lemon juice and mint and blend until the mint is very finely chopped.",
+        "Transfer the Watermelon Mint Lemonade to a juice pitcher. Slowly adjust for your desired sweetness by adding simple syrup to the lemonade.",
+        "Chill until serving. Serve over ice, with lemon slices and fresh mint as a garnish."
+    ],
+    "image": "watermelon-mint-lemonade.jpg",
+    "source": "https://inquiringchef.com/watermelon-mint-lemonade-and-other-indulgences/",
+    "keywords": [
+        "fruits",
+        "non-alcoholic",
+        "healthy"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Kiwi Cucumber Cooler",
+    "description": "A refreshing summer drink that can be a cocktail, mocktail or a healthy fruit drink.",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "cucumber"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "kiwi fruit"
+        },
+        {
+            "quantity": "50",
+            "measure": "",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "teaspoon",
+            "ingredient": "chia seeds (optional)"
+        },
+        {
+            "quantity": "1",
+            "measure": "can",
+            "ingredient": "tonic water"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "gin per drink (optional)"
+        }
+    ],
+    "directions": [
+        "Soak the chia seeds in 2 tablespoons of water.",
+        "Peel the cucumber and the kiwi, and cut them into small pieces. Ensure that the cucumber is not overripe and seeds are soft.",
+        "In a mixer, blend the cucumber. When the cucumber is well-blended, add kiwi, mint leaves, lemon & sugar.",
+        "In case you want to avoid white sugar, it can be replaced with 1 tablespoon honey.",
+        "Pour the juice in a glass and add soaked chia seeds, ice and top it up with tonic water.",
+        "Chop the second kiwi into small pieces and use for garnishing.",
+        "For the cocktail, do not add chia seeds and add gin instead."
+    ],
+    "image": "kiwi-cucumber-cooler.jpg",
+    "source": "http://kitchenfables.com/kiwi-cucumber-cooler-cocktail-mocktail",
+    "keywords": [
+        "fruits",
+        "non-alcoholic",
+        "alcoholic"
+    ]
+}
