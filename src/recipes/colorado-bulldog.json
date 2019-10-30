@@ -1,0 +1,41 @@
+{
+  "name": "Colorado Bulldog",
+  "description": "Colorado Bulldog is a sweet and creamy alcoholic drink.",
+  "github": "cassandraGoose",
+  "ingredients": [
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "Kahlua"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "Cream"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Cola"
+    }
+  ],
+  "directions": [
+    "Shake the booze and cream together with ice.",
+    "Strain into a short glas with lots of ice and leave some space for cola.",
+    "Top off with cola to taste."
+  ],
+  "image": "colorado-bulldog.jpg",
+  "source": "www.cdkitchen.com",
+  "keywords": [
+    "kahlua",
+    "vodka",
+    "cream",
+    "alcoholic",
+    "cola"
+  ]
+}
