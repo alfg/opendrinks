@@ -1,0 +1,55 @@
+{
+    "name": "Grog",
+    "description": "Yarr, matey! Holster yer cutlasses and fill yer cups with this classic hot beverage recommended by yer old barnacle-covered cap'n!",
+    "github": "voodoods",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "brown rum"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "fresh lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "hot water"
+        },
+        {
+            "quantity": "1",
+            "measure": "stick",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "orange"
+        }
+    ],
+    "directions": [
+        "Fill the rum into a heat-resistant glass or cup.",
+        "Add the hot water as well as the lime juice.",
+        "Stir in the brown sugar.",
+        "Garnish with cinnamon and orange.",
+        "Enjoy!"
+    ],
+    "image": "grog.jpg",
+    "source": "https://www.chowhound.com/recipes/grog-10197",
+    "keywords": [
+        "hot",
+        "rum",
+        "alcoholic",
+        "brown sugar",
+        "lime juice",
+        "orange",
+        "vegan"
+    ]
+}
