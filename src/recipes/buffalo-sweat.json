@@ -1,0 +1,32 @@
+{
+    "name": "Buffalo Sweat",
+    "description": "A mean little shooter that gets the blood flowing",
+    "github": "tnoeding",
+    "ingredients": [
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Bacardi 151"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "Tabasco Sauce"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        }
+    ],
+    "directions": [
+        "Add ice and ingredients to a shaker.",
+        "Shake until it's completely cold.",
+        "Serve in a whiskey glass or large shooter."
+    ],
+    "image": "buffalo-sweat.jpg",
+    "keywords": [
+        "harsh",
+        "buffalo"
+    ]
+}
