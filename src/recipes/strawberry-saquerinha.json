@@ -1,0 +1,39 @@
+{
+    "name": "Strawberry Saquerinha",
+    "description": "It is a drink like brazilian caipirinha but made with sake and strawberry",
+    "github": "anapaulalemos",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "unit",
+            "ingredient": "Strawberry"
+        },
+        {
+            "quantity": "1",
+            "measure": "spoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "75",
+            "measure": "ml",
+            "ingredient": "Sake"
+        },
+        {
+            "quantity": "1",
+            "measure": "pack",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Add the sugar over the strawberries.",
+        "Mash the ingredients.",
+        "Fill the glass with ice and add the sake.",
+        "Finally, shake the drink in the shaker and serve in another glass"
+    ],
+    "image": "strawberry-saquerinha.jpg",
+    "keywords": [
+        "sake",
+        "caipirinha",
+        "strawberry"
+    ]
+}
