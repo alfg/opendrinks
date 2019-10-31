@@ -1,0 +1,29 @@
+{
+    "name": "Scotch and Soda",
+    "description": "Scotch and Soda is a mixed drink consisting of scotch and soda/sparkling water. Note there is no fixed ratio of the ingredients and there can be served with or without ice.",
+    "github": "codekendo",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Scotch"
+        },
+        {
+            "quantity": "2",
+            "measure": "part",
+            "ingredient": "soda"
+        }
+
+    ],
+    "directions": [
+        "Pour 2 part of soda into a tumbler.",
+        "Add 1 part scotch",
+        "Add Ice (optional)"
+    ],
+    "image": "scotch-soda.jpg",
+    "source": "https://en.wikipedia.org/wiki/Scotch_and_soda_(cocktail)",
+    "keywords": [
+        "scotch",
+        "soda"
+    ]
+}

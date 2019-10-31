@@ -2,8 +2,7 @@
     "name": "Ice Strawberry Mix Banana",
     "description": "Ice strawberry mix banana is simple healty juice that made by strawberry and banana.",
     "github": "isnaini279",
-    "ingredients": [
-        {
+    "ingredients": [{
             "quantity": "8",
             "measure": "pieces",
             "ingredient": "strawberry"
@@ -16,7 +15,7 @@
         {
             "quantity": "2",
             "measure": "tablespoon",
-            "ingredient": "plan yougurt"
+            "ingredient": "plain yougurt"
         },
         {
             "quantity": "5",
@@ -34,6 +33,6 @@
     "keywords": [
         "fruit",
         "juice",
-        "non-alcohol"
+        "non-alcoholic"
     ]
 }

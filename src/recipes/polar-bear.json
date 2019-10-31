@@ -1,0 +1,33 @@
+{
+    "name": "Polar Bear",
+    "description": "A Polar Bear, After Eight or Peppermint Paddy is a mint chocolate cocktail.",
+    "github": "codekendo",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Crème de cacao"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Peppermint schnapps"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Crushed Ice"
+        }
+    ],
+    "directions": [
+        "Fill a shaker with all the listed ingredients.",
+        "Shake and serve in a shot glass.",
+        "Add a mint leaf as garnish (optional)."
+    ],
+    "image": "polar-bear.jpg",
+    "source": "https://en.wikipedia.org/wiki/Polar_Bear_(cocktail)",
+    "keywords": [
+        "Crème de cacao",
+        "Peppermint schnapps"
+    ]
+}

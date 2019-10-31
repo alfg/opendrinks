@@ -1,0 +1,52 @@
+{
+    "name": "Lime Mojito",
+    "description": "A simple Lime Mojito recipie that can be easily scaled up for multiple people and brings out the best flavour from a simple mojito",
+    "github": "iMoose",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "Fresh mint leaves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Limes, cut into wedges"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Caster sugar"
+        },
+        {
+            "quantity": "45",
+            "measure": "milliliters(ml)",
+            "ingredient": "White rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ice cubes"
+        },
+        {
+            "quantity": "125",
+            "measure": "milliliters(ml)",
+            "ingredient": "Soda water"
+        }
+    ],
+    "directions": [
+        "Place mint leaves and 1 lime wedge into a glass",
+        "Use a muddler to crush the mint and lime to release the mint oils and lime juice",
+        "Add 2 more lime wedges and the sugar, and muddle again to release the lime juice. Do not strain the mixture.",
+        "Fill the glass almost to the top with ice",
+        "Pour the rum over the ice and fill the glass with soda water",
+        "Garnish with the remaining lime wedge"
+    ],
+    "image": "lime-mojito.jpg",
+    "source": "http://allrecipes.com.au/recipe/5330/real-lime-mojito.aspx",
+    "keywords": [
+        "alcoholic",
+        "lime",
+        "sugar"
+    ]
+}
