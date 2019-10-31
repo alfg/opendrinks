@@ -2,8 +2,7 @@
     "name": "Banana Smoothie",
     "description": "Enjoy a Banana Smoothie. This recipe contains raw eggs.",
     "github": "kevinmel2000",
-    "ingredients": [
-        {
+    "ingredients": [{
             "quantity": "1",
             "measure": "banana",
             "ingredient": ""
@@ -44,6 +43,7 @@
         "banana",
         "egg",
         "smoothie",
-        "fruit"
+        "fruit",
+        "non-alcoholic"
     ]
 }
