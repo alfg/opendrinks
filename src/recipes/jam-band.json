@@ -1,0 +1,53 @@
+{
+    "name": "<Jam Band>",
+    "description": "<A delightfully botanical gin cocktail.>",
+    "github": "<eluthern>",
+    "ingredients": [
+        {
+            "2": "<quantity of ingredient 1>",
+            "oz": "<type of measure (oz, cup, teaspoon)>",
+            "gin": "<ingredient 1>"
+        },
+        {
+            "3/4": "<quantity of ingredient 2>",
+            "oz": "<type of measure (oz, cup, teaspoon)>",
+            "lemon juice": "<ingredient 2>"
+        },
+        {
+            "1/2": "<quantity of ingredient 3>",
+            "oz": "<type of measure (oz, cup, teaspoon)>",
+            "simple syrup": "<ingredient 3>"
+        },
+        {
+            "1.5": "<quantity of ingredient 4>",
+            "teaspoon": "<type of measure (oz, cup, teaspoon)>",
+            "tart cherry juice/preserves": "<ingredient 4>"
+        },
+        {
+            "2": "<quantity of ingredient 5>",
+            "dash": "<type of measure (oz, cup, teaspoon)>",
+            "orange bitters": "<ingredient 5>"
+        },
+        {
+            "5": "<quantity of ingredient 6>",
+            "leaves": "<type of measure (oz, cup, teaspoon)>",
+            "mint": "<ingredient 6>"
+        },
+        {
+            "2": "<quantity of ingredient 7>",
+            "oz": "<type of measure (oz, cup, teaspoon)>",
+            "club soda": "<ingredient 7>"
+        },
+    ],
+    "directions": [
+        "<Add all ingredients except club soda to shaker with ice.>",
+        "<Shake well, strain into glass filled with ice.>",
+        "<Top with club soda and garnish with mint.>"
+    ],
+    "image": "<jam-band.jpg>",
+    "source": "<https://www.cardinalspirits.com/thedrop/jam-band-cocktail-recipe>",
+    "keywords": [
+        "<keywords if available>",
+        "...",
+    ]
+}
