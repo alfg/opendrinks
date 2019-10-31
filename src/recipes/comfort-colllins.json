@@ -1,0 +1,33 @@
+{
+    "name": "Comfort Collins",
+    "description": "A Tom Collins with a Southern twist",
+    "github": "jamiemccarville",
+    "ingredients": [{
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Southern Comfort"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "fill",
+            "measure": "glass",
+            "ingredient": "Lemon-lime soda"
+        }
+    ],
+    "directions": [
+        "Add Southern Comfort and lime juice to collins glass filled with ice",
+        "Top with lemon-lime soda"
+    ],
+    "image": "comfort-collins.jpg",
+    "keywords": [
+        "Southern Comfort",
+        "lime juice",
+        "Lemon-lime soda",
+        "alcoholic",
+        "simple"
+    ]
+}
