@@ -1,0 +1,39 @@
+{
+    "name": "Mulled Wine",
+    "description": "Warm, spicy and a bit sweet",
+    "github": "sparsell",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "red wine, such as burgundy"
+        },
+        {
+            "quantity": "1",
+            "measure": "sliced",
+            "ingredient": "orange or lemon"
+        },
+        {
+            "quantity": "4",
+            "measure": "sticks",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar, honey or maple syrup"
+        }
+    
+    ],
+    "directions": [
+        "Combine all ingredients in large pot over medium heat.",
+        "Stir until all sugar (or sweetner of your choice) is dissolved.",
+        "Bring to a low boil and reduce heat immediately to simmer for 20 minutes."
+    ],
+    "image": "mulled-wine.jpg",
+    "source": "https://unsplash.com/photos/7MrqcIB8zVU",
+    "keywords": [
+        "christmas",
+        "holiday"
+    ]
+}
