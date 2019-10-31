@@ -1,0 +1,39 @@
+{
+    "name": "Brain Damage",
+    "description": "Also known as a \"Haemorrhage Shot\", this short cocktail is supposedly named for its ability to kill brain cells, although the appearance and texture suggest more than one reason it may have gained its namesake.",
+    "github": "stellarpower",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "part",
+            "ingredient": "Peach Schnapps"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Irish Cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "grenadine"
+        }
+    ],
+    "directions": [
+        "Mix the schnapps and Irish cream together in a shot glass - *do not stir*",
+        "Gently tilt the glass to help the mixture curdle to the desired level",
+        "Add the dash of grenadine to the mix, swilling the glass more if desired for consistency"
+    ],
+    "image": "brain-damage.jpg",
+    "keywords": [
+        "schnapps",
+        "peach",
+        "shot",
+        "shooter",
+        "brain",
+        "grenadine",
+        "baileys",
+        "bailey's",
+        "texture"
+    ]
+}
