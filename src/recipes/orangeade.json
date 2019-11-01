@@ -1,0 +1,44 @@
+{
+    "name": "Orangeade",
+    "description": "A refreshing change from lemonade. If you don't care for pulp in your drink, feel free to strain the juice before you add it to the water.",
+    "github": "AnmolBaansal",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "Cups",
+            "ingredient": "White Sugar"
+        },
+        {
+            "quantity": "6",
+            "measure": "Cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "Cups",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "Cup",
+            "ingredient": "Lemon Juice"
+        }
+    ],
+    "directions": [
+        "Bring 2 cups water and sugar to a boil in a small saucepan; cook at a boil for 3 minutes, stirring to dissolve sugar, and creating a simple syrup.",
+        "Combine simple syrup, 6 cups water, orange juice, and lemon juice in a large pitcher; refrigerate until cold."
+    ],
+    "image": "orangeade.jpg",
+    "source": "https://www.allrecipes.com/recipe/228353/orangeade/",
+    "keywords": [
+        "lime",
+        "orange",
+        "beer",
+        "non-alcoholic"
+    ]
+}

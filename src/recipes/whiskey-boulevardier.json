@@ -1,0 +1,41 @@
+{
+    "name": "Whiskey Boulevardier",
+    "description": "Slight twist on your traditional boulevardier",
+    "github": "oneill38",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Whiskey"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Sweet Vermouth"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "organge peel for garnish"
+        }
+    ],
+    "directions": [
+        "Fill a mixing glass with ice.",
+        "Add whiskey, vermouth, and aperol.",
+        "Stir until chilled and strain into cocktail glass.",
+        "Garnish with orange peel."
+    ],
+    "image": "whiskey-boulevardier.jpg",
+    "keywords": [
+        "alcoholic",
+        "vegan",
+        "whiskey",
+        "aperol",
+        "vermouth"
+    ]
+}
