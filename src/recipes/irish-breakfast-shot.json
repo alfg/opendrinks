@@ -12,14 +12,14 @@
             "quantity": "1oz",
             "measure": "shot glass",
             "ingredient": "Orange Juice"
-        },
+        }
     ],
     "directions": [
         "Pour 2oz of Jameson into a small highball glass",
         "Add 1oz of orange juice and stir",
         "You're done!"
     ],
-    "image": "<irish-breakfast-shot.jpg>",
+    "image": "irish-breakfast-shot.jpg",
     "keywords": [
         "jameson",
         "orange",
