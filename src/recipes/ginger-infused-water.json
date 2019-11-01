@@ -1,0 +1,33 @@
+{
+    "name": "Ginger Infused Water",
+    "description": "Ginger Infused Water for your health",
+    "github": "muthi08",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Ginger"
+        },
+        {
+            "quantity": "2",
+            "measure": "pcs",
+            "ingredient": "Cinnamon"
+        },
+        {
+            "quantity": "600",
+            "measure": "ml",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Soak all ingredients overnight.",
+        "Drink the infused water 600ml a day."
+    ],
+    "image": "ginger-infused-water.jpg",
+    "source": "https://cookpad.com/id/resep/10907632-infused-water-jahe-kayumanis?via=search&search_term=infused%20water%20jahe",
+    "keywords": [
+        "Ginger Infused Water",
+        "Infused Water",
+        "Healthy Drink"
+    ]
+}
