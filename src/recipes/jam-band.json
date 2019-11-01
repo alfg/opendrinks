@@ -4,39 +4,39 @@
     "github": "eluthern",
     "ingredients": [
         {
-            "2": "quantity of ingredient 1",
-            "oz": "type of measure (oz, cup, teaspoon)",
-            "gin": "ingredient 1"
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin"
         },
         {
-            "3/4": "quantity of ingredient 2",
-            "oz": "type of measure (oz, cup, teaspoon)",
-            "lemon juice": "ingredient 2"
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "lemon juice"
         },
         {
-            "1/2": "quantity of ingredient 3",
-            "oz": "type of measure (oz, cup, teaspoon)",
-            "simple syrup": "ingredient 3"
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "simple syrup"
         },
         {
-            "1.5": "quantity of ingredient 4",
-            "teaspoon": "type of measure (oz, cup, teaspoon)",
-            "tart cherry juice/preserves": "ingredient 4"
+            "quantity": "1.5",
+            "measure": "teaspoon",
+            "ingredient": "tart cherry juice/preserves"
         },
         {
-            "2": "quantity of ingredient 5",
-            "dash": "type of measure (oz, cup, teaspoon)",
-            "orange bitters": "ingredient 5"
+            "quantity": "2",
+            "measure": "dash",
+            "ingredient": "orange bitters"
         },
         {
-            "5": "quantity of ingredient 6",
-            "leaves": "type of measure (oz, cup, teaspoon)",
-            "mint": "ingredient 6"
+            "quantity": "5",
+            "measure": "leaves",
+            "ingredient": "mint"
         },
         {
-            "2": "quantity of ingredient 7",
-            "oz": "type of measure (oz, cup, teaspoon)",
-            "club soda": "ingredient 7"
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "club soda"
         }
     ],
     "directions": [
@@ -47,6 +47,7 @@
     "image": "jam-band.jpg",
     "source": "https://www.cardinalspirits.com/thedrop/jam-band-cocktail-recipe",
     "keywords": [
+        "alcoholic",
         "gin",
         "mint",
         "vegan",
