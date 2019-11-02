@@ -1,0 +1,31 @@
+{
+    "name": "Cucumber Lemonade",
+    "description": "A refreshing drink for any warm summer day.",
+    "github": "AnmolBaansal",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "cucumber"
+        },
+        {
+            "quantity": "12",
+            "measure": "Ounce",
+            "ingredient": "frozen lemonade concentrate"
+        },
+        {
+            "quantity": "1",
+            "measure": "Bottle",
+            "ingredient": "lemon-lime flavored carbonated beverage"
+        }
+    ],
+    "directions": [
+        "Place the cucumber slices into a large pitcher. Pour the lemonade concentrate over the cucumber and let stand for 10 minutes. Pour in the lemon-lime soda and pour into glasses to serve."
+    ],
+    "image": "cucumber-lemonade.jpg",
+    "source": "https://www.allrecipes.com/recipe/147904/cucumber-lemonade/",
+    "keywords": [
+        "lemon",
+        "non-alcoholic"
+    ]
+}
