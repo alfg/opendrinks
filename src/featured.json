@@ -20,6 +20,27 @@
     "size": 12
   },
   {
+    "title": "Holiday Drinks",
+    "description": "Cozy drinks to warm your heart and get you in holiday mood",
+    "items": [
+      "christmas-tonic",
+      "white-christmas-mojito"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Everything is Chocolate",
+    "description": "All drink made from chocolate",
+    "items": [
+        "chocolate-milk",
+        "chocolate-monkey",
+        "clavis-riga",
+        "dom-pedro",
+        "indonesian-avocado-milkshake"
+    ],
+    "size": 6
+  },
+  {
     "title": "Halloween Drinks",
     "description": "👻 Spooky Drinks for October! 👻",
     "items": [
@@ -32,7 +53,8 @@
       "vampiro",
       "drunken-peanut-butter-cups"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
   {
     "title": "Under the Weather Drinks",
@@ -90,27 +112,6 @@
       "cosmopolitan",
       "pisco-sour",
       "zombie"
-    ],
-    "size": 6
-  },
-  {
-    "title": "Christmas Drinks",
-    "description": "Cozy drinks to warm your heart and get you in christmas mood",
-    "items": [
-      "christmas-tonic",
-      "white-christmas-mojito"
-    ],
-    "size": 6
-  },
-  {
-    "title": "Everything is Chocolate",
-    "description": "All drink made from chocolate",
-    "items": [
-        "chocolate-milk",
-        "chocolate-monkey",
-        "clavis-riga",
-        "dom-pedro",
-        "indonesian-avocado-milkshake"
     ],
     "size": 6
   },
