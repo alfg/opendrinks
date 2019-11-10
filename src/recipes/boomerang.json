@@ -1,0 +1,53 @@
+{
+    "name": "Boomerang",
+	"description": "A cocktail dating back to the early 1900s, popularized in the 'Official Mixer's Manual'.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "rye whisky"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "dry vermouth"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "swedish punsch"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Angostura bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "maraschino cherry"
+        }
+    ],
+    "directions": [
+		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Fine strain into a cocktail glass.",
+		"Garnish with a Maraschino cherry."
+    ],
+    "image": "boomerang.jpg",
+        "keywords": [
+		"alcoholic",
+		"whisky",
+		"dry vermouth",
+		"punsch",
+		"angostura bitters",
+		"lemon"
+        ]
+    
+}
