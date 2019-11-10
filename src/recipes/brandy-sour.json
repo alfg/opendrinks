@@ -1,0 +1,35 @@
+{
+    "name": "Brandy Sour",
+    "description": "The earliest Sour on record, dating back to the 1850s.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "brandy"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "2-4",
+            "measure": "drops",
+            "ingredient": "angostura bitters"
+        }
+    ],
+    "directions": [
+		"Stir with ice.",
+		"Strain into a highball glass with ice."
+    ],
+    "image": "brandy-sour.jpg",
+        "keywords": [
+		"brandy",
+        "angostura bitters",
+		"lemon",
+		"alcoholic"
+        ]
+    
+}
