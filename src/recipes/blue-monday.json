@@ -1,0 +1,42 @@
+{
+    "name": "Blue Monday",
+	"description": "A cocktail from Harry Craddock's 'Savoy Cocktail Book'",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "cointreau"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "blue curaçao"
+        },
+		{
+			"quantity": "1",
+			"measure": "",
+			"ingredient": "flamed orange zest"
+		}
+    ],
+    "directions": [
+		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Fine strain into a cocktail glass.",
+		"Garnish with a flamed orange zest."
+    ],
+    "image": "blue-monday.jpg",
+        "keywords": [
+		"alcoholic",
+		"vodka",
+		"cointreau",
+		"blue curaçao",
+		"orange"
+        ]
+    
+}
