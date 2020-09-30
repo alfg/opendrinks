@@ -1,0 +1,17 @@
+ { "name": "Bacardi",
+    "glass": "martini",
+    "category": "Before Dinner Cocktail",
+    "ingredients": [
+      { "unit": "cl",
+        "amount": 4.5,
+        "ingredient": "White rum",
+        "label": "Bacardi White Rum" },
+      { "unit": "cl",
+        "amount": 2,
+        "ingredient": "Lime juice" },
+      { "unit": "cl",
+        "amount": 1,
+        "ingredient": "Syrup",
+        "label": "Grenadine" }
+    ],
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
