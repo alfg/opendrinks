@@ -1,0 +1,66 @@
+{
+  "name": "Puka Punch",
+  "description": "Tiki drinks are famous for including a ton of different rums, but you'd be forgiven if you didn't quite understand what the point of all that rum-blending is. The Puka Punch, from Los Angeles' famous Tiki Ti, answers the question by taking you on a multi-layered rum adventure that starts with fruity honey, continues along to spice and caramel, ending with the dark smoke of the overproof Demerara rum slowly filtering to the bottom of the glass.This drink should be served with a straw, lest the drinker be subjected to a full face of overproof rum at first sip. Drinking from the bottom with the straw allows for the full gradient of rum flavors to come through, slowly blending in the overproof rum.",
+  "github": "lazav94",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "parts",
+          "ingredient": "Light rum or Aged rum"
+      },
+      {
+          "quantity": "3/4",
+          "measure": "part",
+          "ingredient": "Dark rum or Demerara rum or Spiced rum"
+      },
+      {
+        "quantity": "3/4",
+        "measure": "part",
+        "ingredient": "Orange juice"
+      },
+      {
+        "quantity": "3/4",
+        "measure": "part",
+        "ingredient": "Pineapple juice"
+      },
+      {
+        "quantity": "3/4",
+        "measure": "part",
+        "ingredient": "Passion fruit syrup or Passion fruit liqueur"
+      },
+      {
+        "quantity": "1/4",
+        "measure": "part",
+        "ingredient": "Falernum liqueur or Falernum syrup"
+      },
+      {
+        "quantity": "1",
+        "measure": "teaspoon",
+        "ingredient": "Honey syrup"
+      },
+      {
+          "quantity": "1",
+          "measure": "dash",
+          "ingredient": "Aromatic bitters or Orange bitters or Peach bitters"
+      },
+      {
+          "quantity": "3/4",
+          "measure": "part",
+          "ingredient": "Overproof aged rum or Overproof light rum"
+      }
+  ],
+  "directions": [
+      "Put everything (except the overproof Demerara rum) in a blender with about a cup and a half of ice. ",
+      "Blend on high until liquidified, pour into a tall glass, and top with more ice.",
+      "Top with the overproof rum by slowly pouring over the back of a spoon.",
+      "Garnish with fruits, herbs, little paper umbrellas, etc.",
+      "Serve!"
+  ],
+  "image": "puka-punch.jpg",
+  "source": "https://cocktailpartyapp.com/drinks/puka-punch",
+  "keywords": [
+      "refreshing",
+      "alcoholic",
+      "rum"
+  ]
+}
