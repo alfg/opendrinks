@@ -1,0 +1,49 @@
+{
+    "name": "Wedang Uwuh",
+    "description": "traditional drink originating from the Javanese tribe",
+    "github": "@KangAbbad",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "pcs",
+            "ingredient": "Ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "clove"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "10",
+            "measure": "oz",
+            "ingredient": "rock sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+    ],
+    "directions": [
+        "Mash the ginger until thin",
+        "Burn it",
+        "Boil water and put ginger in it",
+        "Until the juice comes out",
+        "Also put all the clove, cinnamon and rock sugar in it",
+        "Boil for 15-20 minutes",
+        "Wait for it",
+        "And wedang uwuh ready to be served"
+    ],
+    "image": "wedang-uwuh.jpg",
+    "keywords": [
+        "wedang uwuh",
+        "indonesian beverage",
+        "traditional",
+        "javanese",
+    ]
+}
