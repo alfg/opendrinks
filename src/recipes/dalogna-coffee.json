@@ -1,0 +1,38 @@
+{
+    "name": "Dalogna Coffee",
+    "description": "This new coffee craze is easy to make with only four ingredients and a fun and delicious way to get your caffeine fix",
+    "github": "nathaniellers",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "tablespoons",
+            "ingredient": "instant coffee granules"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoons",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        }
+    ],
+    "directions": [
+        "In a bowl, combine coffee granules, sugar, and water.",
+        "Using an electric mixer, beat for about 5 to 7 minutes or until stiff peaks form.",
+        "Fill two serving glasses with ice cubes up to 3/4 full. Pour milk enough to cover the ice.",
+        "Spoon coffee foam on top of milk and stir. Serve with a straw."
+    ],
+    "image": "mariposa.jpg",
+    "keywords": [
+        "fancy",
+        "coffee"
+    ]
+}
