@@ -1,0 +1,36 @@
+{
+  "name": "Spaghett",
+  "description": "A light refreshing beer cocktail made with High Life, Aperol, and lemon juice to get you through summer.",
+  "github": "quinncuatro",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "12 oz bottle",
+      "ingredient": "Miller High Life"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Aperol"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Lemon Juice"
+    }
+  ],
+  "directions": [
+    "Pop open the bottle and take a couple gulps - you want to drink down part of the neck so you can add more to the bottle.",
+    "Pour an ounce of Aperol into the bottle.",
+    "Pour an ounce of lemon juice into the bottle.",
+    "Mix as well as you can then enjoy in the bottle or pour out into your favorite cocktail glass."
+  ],
+  "image": "spaghett.jpg",
+  "keywords": [
+    "beer",
+    "aperol",
+    "summer",
+    "refreshing",
+    "vegan"
+  ]
+}
