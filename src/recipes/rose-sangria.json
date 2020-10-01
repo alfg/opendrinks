@@ -1,6 +1,6 @@
 {
-    "name": "<Rose Sangria>",
-    "description": "<A simple and tasty rosé sangria>",
+    "name": "Rose Sangria",
+    "description": "A simple and tasty rosé sangria",
     "github": "MrValraven",
     "ingredients": [
         {
@@ -25,7 +25,7 @@
         },
         {
             "quantity": "17",
-            "measure": "oz (or 550Mml",
+            "measure": "oz (or 550Mml)",
             "ingredient": "rosé wine"
         }
     ],
