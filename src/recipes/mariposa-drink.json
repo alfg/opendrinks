@@ -1,0 +1,38 @@
+{
+    "name": "Mariposa",
+    "description": "A rum drink contributed by The Bartending School",
+    "github": "nathaniellers",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "light rum"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "brandy"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "orange"
+        }
+    ],
+    "directions": [
+        "Shake all ingredients together with ice",
+        "strain into a cocktail glass"
+    ],
+    "image": "mariposa,jpg",
+    "keywords": [
+        "fancy",
+        "alcohol",
+        "cocktail",
+        "mixed drink"
+    ]
+}
