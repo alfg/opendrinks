@@ -1,0 +1,56 @@
+{
+    "name": "Indian Protein Shake",
+    "description": "A nutritious and tasty drink with vegan protein blended with chocolate",
+    "github": "M7hesh",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bowl",
+            "ingredient": "Daliya/Bulgur"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Almonds"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Banana"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Peanut butter"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Choco powder/Chocolate syrup"
+        }
+    ],
+    "directions": [
+        "Add Daliya/Bulgur, milk, water, almonds, peanut butter, bananas and Choclate to a blender and blend until smooth and creamy.",
+         "It can be also be chilled before having",
+         "Now enjoy the tasty and healthy serve."
+    ],
+    "image": "daliya.jpg",
+    "keywords": [
+        "Daliya",
+        "Bulgur",
+        "milkshake",
+        "protein",
+        "milk",
+        "proteinshake"
+    ]
+} 
