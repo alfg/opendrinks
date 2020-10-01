@@ -1,0 +1,45 @@
+{
+    "name": "Turmeric Milk",
+    "description": "Ancient Indian medicinal drink. Perfect for one who is sick and ill. An immunity booster",
+    "github": "kunalrustagi08",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Turmeric or haldi powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Cinnamon powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Ginger powder"
+        }
+    ],
+    "directions": [
+        "In a cup, add the turmeric powder.",
+        "Heat milk in a saucepan for 2 min, add ginger and cinnamon powder along with sugar. Allow it to simmer for a while",
+        "Pour the hot solution in the turmeric cup and serve!",
+        "Drink and sleep for a while :)"
+    ],
+    "image": "turmeric-milk.jpg",
+    "keywords": [
+        "haldi",
+        "turmeric",
+        "milk",
+        "ginger"
+    ]
+}
