@@ -2,6 +2,7 @@
   --main-bg-color:#2c3e50;
   --main-text-color: white;
   --main-link-color: #5dbcd2;
+  --main-lines-color: rgba(255,255,255,0.3)
 }
 
 svg{
@@ -47,5 +48,5 @@ a, a:hover, h5{
 
 .card{
   background-color: var(--main-bg-color);
-  border:1px solid var(--main-text-color);
+  border:1px solid var(--main-lines-color);
 }
