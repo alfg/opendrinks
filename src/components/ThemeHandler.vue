@@ -26,8 +26,8 @@ export default {
     },
     removeDarkTheme() {
       const darkThemeLinkEl = document.querySelector('#dark-theme-style');
-      const parentNode = darkThemeLinkEl.parentNode;
-      parentNode.removeChild(darkThemeLinkEl);
+      const { parentNode } = darkThemeLinkEl;
+      parentNode.parentNode.removeChild(darkThemeLinkEl);
     },
     toggleTheme() {
       if (this.theme === 'dark') {
