@@ -1,0 +1,56 @@
+{
+    "name": "Red fruit caipirinha",
+    "description": "It's like a Caipirinha but red fruit",
+    "github": "phfbueno",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cachaça"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "blackberries"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "raspberry"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "blueberry"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
+    ],
+    "directions": [
+        "In a glass, add the berries, and the sugar.",
+        "With the help of a tamper, mash the fruit to extract the juice well.",
+        "Then put crushed ice, complete with cachaça, stir gently and then serve.",
+        "Decorate the glass with the red berries."
+    ],
+    "image": "caipirinha-red-fruit.jpg",
+    "keywords": [
+        "cachaça",
+        "red fruit",
+        "sugar",
+        "alcoholic",
+        "vegan"
+	]
+}
