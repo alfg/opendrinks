@@ -1,0 +1,51 @@
+:root{
+  --main-bg-color:#2c3e50;
+  --main-text-color: white;
+  --main-link-color: #5dbcd2;
+}
+
+svg{
+  color: var(--main-bg-color) !important;
+}
+
+.list-group-item{
+  background-color: var(--main-bg-color);
+  border: 1px solid var(--main-text-color);
+  color: var(--main-text-color);
+}
+
+.badge-primary{
+  background-color: var(--main-link-color);
+  color: var(--main-bg-color);
+}
+
+body {
+  background-color: var(--main-bg-color);
+}
+
+h1,h2,h3,h4,h6,p {
+  color: var(--main-text-color);
+}
+
+a, a:hover, h5{
+  color: var(--main-link-color);
+}
+
+.btn-outline-primary {
+  color:var(--main-link-color);
+  border-color: var(--main-link-color);
+}
+
+#app{
+  color: var(--main-text-color);
+}
+
+#app .router-link-exact-active{
+  color: var(--main-text-color);
+  background-color: var(--main-bg-color);
+}
+
+.card{
+  background-color: var(--main-bg-color);
+  border:1px solid var(--main-text-color);
+}

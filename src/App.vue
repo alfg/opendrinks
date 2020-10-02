@@ -9,6 +9,7 @@
             <img alt="Logo" src="./assets/logo.png" width="50" />
             Open Drinks
           </router-link>
+          <theme-handler></theme-handler>
         </h1>
       </div>
 
@@ -30,7 +31,10 @@
         <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
-        <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
+        <img
+          src="https://www.netlify.com/img/global/badges/netlify-light.svg"
+          alt="Netlify"
+        />
       </a>
     </footer>
   </div>
@@ -38,12 +42,15 @@
 
 <script>
 import GitHubCorner from '@/components/GitHubCorner.vue';
+import ThemeHandler from '@/components/ThemeHandler.vue';
 
 export default {
   name: 'App',
   components: {
     GitHubCorner,
+    ThemeHandler
   },
+
   computed: {
     isMobile() {
       return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
