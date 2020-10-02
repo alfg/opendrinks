@@ -1,6 +1,6 @@
 {
     "name": "Amaretto Sour",
-	"description": "Combining amaretto with bourbon, fresh lemon juice, rich simple syrup and egg white creates a perfectly balanced Amaretto Sour.",
+    "description": "Combining amaretto with bourbon, fresh lemon juice, rich simple syrup, and egg white creates a perfectly balanced Amaretto Sour.",
     "github": "Donearm",
     "ingredients": [
         {
@@ -40,14 +40,14 @@
         }
     ],
     "directions": [
-		"Shake hard all ingredients with ice.",
-		"Fine strain into a ice-filled glass.",
-		"Garnish with a lemon twist and 2 skewered brandied cherries."
+        "Shake hard all ingredients with ice.",
+        "Fine strain into an ice-filled glass.",
+        "Garnish with a lemon twist and 2 skewered brandied cherries."
     ],
     "image": "amaretto-sour.jpg",
     "keywords": [
         "amaretto",
-		"lemon",
-		"angostura bitters"
+        "lemon",
+        "angostura bitters"
     ]
 }
