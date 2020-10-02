@@ -1,5 +1,5 @@
 {
-    "name": "Daliya_Shake",
+    "name": "Daliya Shake",
     "description": "This is an Indian version of Protein Shake. Bulgur aka Daliya is blended with milk, nuts and chocolate to obtain this healthy and tasty drink.",
     "github": "M7hesh",
     "ingredients": [
@@ -40,7 +40,7 @@
         "Blend finely.",
         "Serve and enjoy!"
     ],
-    "image": "daliya_shake.jpg",
+    "image": "daliya-shake.jpg",
     "keywords": [
       "chocolate",
       "milkshake",
