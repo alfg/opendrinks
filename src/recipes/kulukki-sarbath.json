@@ -1,0 +1,64 @@
+{
+    "name": "Kulukki sarbath",
+    "description": "A famous refreshing drink in Kerala.Kulukki sarbath is shaken lemonade. Kulukki in malayalam means ‘shaken’ so the drink gets its name from the method it is prepared.So, Yes they don’t mix for the ingredients to combine but they shake it rigorously and serve it.",
+    "github": "AnanthuAjay",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "chilled water"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "basil seeds"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "n/a",
+            "ingredient": "lemon + a slice of lemon"
+        },
+        {
+            "quantity": "1",
+            "measure": "small long",
+            "ingredient": "green chilli slitted"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "ginger chopped finely"
+        },
+        {
+            "quantity": "few",
+            "measure": "nos",
+            "ingredient": "icecubes"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar syrup"
+        }
+    ],
+    "directions": [
+        "1.Pick up and remove any husks or stones from the sabja seeds if any.Then take sabja seeds in a wide bowl. Add water.Soon it will start absorbing and growing in size.While pouring the water itself it starts to grow.After pouring water , let it aside for 10mins.",
+        "2.See it is growing in size, the seeds will all become transparent jelly like coating will be formed.Strain and set aside.",
+        "3.Add sugar to a pan, add water and let it to boil.When it is sticky and is slightly thick switch off and set aside.Now the simple sugar syrup is ready.",
+        "4.Get all your ingredients ready.You need a shaker with lid.Now first add the simple sugar syrup to it.",
+        "5.Then squeeze lemon to extract juice.Then add sabja seed and slitted green chilli.I  didnt use the sabja seeds fully, remember this is just one serving am showing in the method.",
+        "6.Add chopped ginger,a lemon slice.",
+        "7.Finally add icecubes and water.",
+        "8.Close with lid and shake rigourously for atleast 5 seconds.Now open and pour in serving glass and serve."
+    ],
+    "image": "Kulukki-sarbath.jpg",
+    "keywords": [
+        "summer treats",
+        "lime",
+        "vegan",
+        "cold"
+    ]
+}
