@@ -87,8 +87,8 @@
 </template>
 
 <script>
-import recipes from '../recipes';
 import RecipeTile from '@/components/RecipeTile.vue';
+import recipes from '../recipes';
 import FavoriteStar from './FavoriteStar.vue';
 
 const NUMBER_OF_SIMILAR_RECIPES = 3;
