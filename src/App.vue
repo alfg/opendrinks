@@ -68,12 +68,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
 }
 
-#app .router-link-exact-active.nav-link {
-  color: #495057;
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
-}
-
 #nav {
   padding: 30px;
 }
