@@ -1,16 +1,15 @@
 <template>
   <div id="app" class="mb-4">
     <GitHubCorner />
-
     <div class="container mb-4 mt-4">
-      <div class="mb-4">
+      <div class="mb-4 d-flex">
         <h1 class="logo">
           <router-link to="/">
             <img alt="Logo" src="./assets/logo.png" width="50" />
             Open Drinks
           </router-link>
-          <theme-handler></theme-handler>
         </h1>
+        <theme-handler class="mt-3 ml-auto mr-4"></theme-handler>
       </div>
 
       <b-nav tabs align="center">
@@ -31,10 +30,7 @@
         <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
-        <img
-          src="https://www.netlify.com/img/global/badges/netlify-light.svg"
-          alt="Netlify"
-        />
+        <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
       </a>
     </footer>
   </div>
@@ -48,7 +44,7 @@ export default {
   name: 'App',
   components: {
     GitHubCorner,
-    ThemeHandler
+    ThemeHandler,
   },
 
   computed: {
