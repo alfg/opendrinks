@@ -1,6 +1,6 @@
 <template>
-  <b-button @click="toggleTheme()" class="theme ml-5"
-    >{{ theme == 'dark' ? 'Light Theme' : 'Dark Theme' }}
+  <b-button @click="toggleTheme()" class="theme ml-5 text-capitalize"
+      >{{theme}} Theme
   </b-button>
 </template>
 
@@ -8,37 +8,30 @@
 export default {
   data() {
     return {
-      theme: localStorage.getItem('theme'),
+      theme: localStorage.getItem('theme') || 'light',
     };
   },
   mounted() {
-    if (this.theme === 'dark') this.addDarkTheme();
+    this.setTheme(this.theme);
   },
   methods: {
-    addDarkTheme() {
-      const darkThemeLinkEl = document.createElement('link');
-      darkThemeLinkEl.setAttribute('rel', 'stylesheet');
-      darkThemeLinkEl.setAttribute('href', '/assets/darktheme.css');
-      darkThemeLinkEl.setAttribute('id', 'dark-theme-style');
-
-      const docHead = document.querySelector('head');
-      docHead.append(darkThemeLinkEl);
-    },
-    removeDarkTheme() {
-      const darkThemeLinkEl = document.querySelector('#dark-theme-style');
-      const { parentNode } = darkThemeLinkEl;
-      parentNode.parentNode.removeChild(darkThemeLinkEl);
+    setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme)
     },
     toggleTheme() {
-      if (this.theme === 'dark') {
-        this.theme = 'light';
-        localStorage.setItem('theme', 'light');
-        this.removeDarkTheme();
-      } else {
-        this.theme = 'dark';
-        localStorage.setItem('theme', 'dark');
-        this.addDarkTheme();
+      switch(this.theme){
+        case 'dark':
+          this.theme = 'light';
+          localStorage.setItem('theme', 'light');
+          break;
+        case 'light':
+          this.theme = 'dark';
+          localStorage.setItem('theme', 'dark');
+          break;
+        default:
+          break;
       }
+      this.setTheme(this.theme) 
     },
   },
 };

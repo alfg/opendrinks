@@ -181,12 +181,3 @@ export default {
 };
 </script>
 
-<style scoped>
-.list-group .list-group-item-action.highlight {
-  background-color: #f8f9fa;
-}
-/* we had to overrride bootstrap default hover color */
-.list-group-item-action:hover {
-  background-color: #fff;
-}
-</style>
