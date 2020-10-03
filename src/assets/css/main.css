@@ -1,5 +1,5 @@
-@import './theme.scss';
-@import './slider.scss';
+@import './theme.css';
+@import './slider.css';
 
 svg{
   color: var(--main-bg-color) !important;
