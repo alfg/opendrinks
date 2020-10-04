@@ -1,6 +1,6 @@
 {
     "name": "Coco loco",
-    "description": "a rum and coconut cocktail from the West Indies",
+    "description": "A rum and coconut cocktail from the West Indies",
     "github": "lucasmartinelle",
     "ingredients": [
         {
@@ -37,7 +37,7 @@
     "keywords": [
         "coco",
         "sugar",
-        "Alcohol",
+        "alcohol",
         "rum",
         "milk"
     ]
