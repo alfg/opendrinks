@@ -1,6 +1,6 @@
 {
     "name": "Diana's lips",
-    "description": "a cocktail based on mezcal infused with cocoa beans and pink berries, lime and Schweppes Tonic Hibiscus",
+    "description": "A cocktail based on mezcal infused with cocoa beans and pink berries, lime and Schweppes Tonic Hibiscus",
     "github": "lucasmartinelle",
     "ingredients": [
         {
@@ -33,9 +33,9 @@
     ],
     "image": "dianas-lips.jpg",
     "keywords": [
-        "Schweppes Tonic Hibiscus",
-        "Lemon",
-        "Alcohol",
-        "Mezcal"
+        "schweppes tonic hibiscus",
+        "lemon",
+        "alcohol",
+        "mezcal"
     ]
 }
