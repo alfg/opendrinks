@@ -1,0 +1,68 @@
+{
+    "name": "Ramos Gin Fizz",
+    "description": "The Ramos Gin Fizz, a variant of the Gin Fizz, today in its turn an inescapable cocktail of mixology.",
+    "github": "lucasmartinelle",
+    "ingredients": [
+        {
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "Botanical Gin"
+        },
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "Sugar syrup"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cl",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cl",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "Soda water"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cl",
+            "ingredient": "Orange blossom water"
+        },
+        {
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "Light fresh cream"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "cl",
+            "ingredient": "Quail egg white"
+        },
+        {
+            "quantity": "200",
+            "measure": "g",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Pour 2.5 cl of quail egg white, 1.5 cl of lemon juice, 1.5 cl of lime juice, 5 cl of light crème fraîche, 3 cl of sugar syrup and 5 cl of gin into a shaker.",
+        "Add 0.5 cl of orange blossom water.",
+        "Dry shake (no ice).",
+        "Fill the shaker with ice cubes and shake vigorously again.",
+        "Filter in a cooled Collins glass.",
+        "Complete with sparkling water and mix gently."
+    ],
+    "image": "ramos-gin-fizz.jpg",
+    "keywords": [
+        "low in alcohol",
+        "creamy",
+        "acidulous",
+        "sour",
+        "gin-based"
+    ]
+}
