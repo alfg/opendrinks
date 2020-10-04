@@ -1,0 +1,59 @@
+{
+    "name": "Vinho Quente",
+    "description": "Vinho Quente, wich means hot wine in Portuguese, a great drink for cold and calm days",
+    "github": "axelrammon",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "10",
+            "measure": "Units",
+            "ingredient": "Clove"
+        },
+        {
+            "quantity": "5",
+            "measure": "Units",
+            "ingredient": "Cinnamon stick"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Orange and lemon peels"
+        },
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Apple"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Pear"
+        },
+        {
+            "quantity": "1",
+            "measure": "Liter",
+            "ingredient": "Soft red wine"
+        }
+    ],
+    "directions": [
+        "Cut the pear and apple into cubes and place all the ingredients in a pan",
+        "Bring to the fire and boil for 10 minutes",
+        "Turn off and serve next"
+    ],
+    "image": "vinho-quente.jpg",
+    "keywords": [
+        "wine",
+        "hot",
+        "cold",
+        "day"
+    ]
+}
