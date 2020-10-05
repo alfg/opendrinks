@@ -130,7 +130,7 @@ export default {
   },
   computed: {
     recipeAbsoluteURL() {
-      return `https://opendrinks.io${this.$route.fullPath}`;
+      return `https://opendrinks.io${window.location.pathname}`;
     },
   },
   watch: {
