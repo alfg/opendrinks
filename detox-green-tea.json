@@ -6,53 +6,53 @@
         {
             "quantity": "1",
             "measure": "teaspoon",
-            "ingredient": "Green Tea"
-        },
+            "ingredient": "Green Tea",
+        }
         {
             "quantity": "1",
             "measure": "teaspoon",
-            "ingredient": "Dried Basil"
-        },
+            "ingredient": "Dried Basil",
+        }
         {
             "quantity": "7",
             "measure": "",
-            "ingredient": "Mint Leaves"
-        },
+            "ingredient": "Mint Leaves",
+        }
         {
             "quantity": "1",
             "measure": "teaspoon",
-            "ingredient": "Honey"
-        },
+            "ingredient": "Honey",
+        }
         {
             "quantity": "1",
             "measure": "slice",
-            "ingredient": "Lemon"
-        },
+            "ingredient": "Lemon",
+        }
         {
             "quantity": "1",
             "measure": "ltr",
-            "ingredient": "Water"
-        },
-    ],
+            "ingredient": "Water",
+        }
+    ]
     "directions": [
         "Heat a cup of water in a pan.",
         "As water starts boiling off the flame, and put green tea leaves and dried basil.",
-        "Cover it for 1 min and sevie it."
-        "Cool it down. Meanwhile add mint leaves, lemon slice and honey in a jar."
-        "Now add this cooled tea."
-        "Add remaining water in jar, and mix well."
-        "Green tea detox water is ready, consume this after 4- 5 hour or overnight."
-    ],
+        "Cover it for 1 min and sevie it.",
+        "Cool it down. Meanwhile add mint leaves, lemon slice and honey in a jar.",
+        "Now add this cooled tea.",
+        "Add remaining water in jar, and mix well.",
+        "Green tea detox water is ready, consume this after 4- 5 hour or overnight.",
+    ]
     "image": "detox-green-tea.jpg",
     "keywords": [
         "green tea",
         "mint leaves",
-        "lemon"
-        "slice"
-        "water"
-        "basil"
-        "mint"
-        "leaves"
-        "honey"
+        "lemon",
+        "slice",
+        "water",
+        "basil",
+        "mint",
+        "leaves",
+        "honey",
     ]
 }
