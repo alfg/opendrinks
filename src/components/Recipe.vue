@@ -23,6 +23,32 @@
             Print
           </b-button>
         </div>
+        <div class="share-button">
+          <b-dropdown text="Share" variant="outline-primary" right class="m-2">
+            <b-dropdown-item>
+              <ShareNetwork
+                network="facebook"
+                :url="recipeAbsoluteURL"
+                :title="drink.name"
+                :description="drink.description"
+                :hashtags="drink.keywords.join()"
+              >
+                Share on Facebook
+              </ShareNetwork>
+            </b-dropdown-item>
+            <b-dropdown-item>
+              <ShareNetwork
+                network="twitter"
+                :url="recipeAbsoluteURL"
+                :title="drink.name"
+                :description="drink.description"
+                :hashtags="drink.keywords.join()"
+              >
+                Share on Twitter
+              </ShareNetwork>
+            </b-dropdown-item>
+          </b-dropdown>
+        </div>
       </div>
     </div>
 
@@ -101,6 +127,11 @@ export default {
   components: {
     RecipeTile,
     FavoriteStar,
+  },
+  computed: {
+    recipeAbsoluteURL() {
+      return `https://opendrinks.io${window.location.pathname}`;
+    },
   },
   watch: {
     name(newVal) {

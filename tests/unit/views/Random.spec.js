@@ -1,5 +1,6 @@
 import { createLocalVue, mount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
+import VueSocialSharing from 'vue-social-sharing';
 import Random from '@/views/Random.vue';
 
 describe('Random view', () => {
@@ -9,6 +10,7 @@ describe('Random view', () => {
   beforeEach(() => {
     const localVue = createLocalVue();
     localVue.use(BootstrapVue);
+    localVue.use(VueSocialSharing);
     fn = jest.fn();
 
     wrapper = mount(Random, {
