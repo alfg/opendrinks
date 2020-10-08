@@ -1,0 +1,35 @@
+{
+    "name": "Thai Pok pok",
+    "description": "A cocktail based on Vodka , lime and salt",
+    "github": "kalamell",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "ounces",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt"
+        }
+    ],
+    "directions": [
+        "Combine ingredients in a Mug",
+        "Put salt around the mouth of the glass.",
+        "Garnish with lemon wheel."
+    ],
+    "image": "thai-pokpok.jpeg",
+    "keywords": [
+        "thailand",
+        "lemon",
+        "lime",
+        "alcohol",
+        "vodka"
+    ]
+}
