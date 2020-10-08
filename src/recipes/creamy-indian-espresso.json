@@ -18,7 +18,7 @@
             "measure": "cup",
             "ingredient": "milk"
         },
-	      {
+	{
             "quantity": "1",
             "measure": "teaspoon",
             "ingredient": "water"
@@ -39,7 +39,7 @@
         "coffee powder",
         "granulated sugar",
        	"milk",
-	      "water",
-	      "cocoa powder"
+	"water",
+	"cocoa powder"
     ]
 }
