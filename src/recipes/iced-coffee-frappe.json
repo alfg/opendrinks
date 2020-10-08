@@ -18,7 +18,7 @@
             "measure": "cup",
             "ingredient": "milk"
         },
-	      {
+	{
             "quantity": "",
             "measure": "",
             "ingredient": "ice"
@@ -28,7 +28,7 @@
         "First, you’re going to prepare the espresso and then chill it until completely cooled down.",
         "Next step is to combine the espresso, milk, sugar and ice in a blender.",
         "Then, begin to blend on low speed, slowly increasing the speed to high, and blend until smooth.",
-    	  "Pour into glasses and serve right away."
+    	"Pour into glasses and serve right away."
     ],
     "image": "iced-coffee-frappe.jpg",
     "keywords": [
