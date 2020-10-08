@@ -5,38 +5,38 @@
     "ingredients": [
         {
             "quantity": "1",
-            "measure": "",
-            "ingredient": "1 cup red wine"
+            "measure": "cup",
+            "ingredient": "red wine"
         },
         {
-            "quantity": "2",
-            "measure": "",
-            "ingredient": "1 cup ice cubes, crushed"
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes, crushed"
         },
         {
-            "quantity": "3",
-            "measure": "",
-            "ingredient": "⅓ cup frozen blueberries"
+            "quantity": "⅓ ",
+            "measure": "cup",
+            "ingredient": "frozen blueberries"
         },
         {
-            "quantity": "4",
-            "measure": "",
-            "ingredient": "⅓ cup fresh raspberries"
+            "quantity": "⅓",
+            "measure": "cup",
+            "ingredient": "fresh raspberries"
         },
         {
-            "quantity": "5",
-            "measure": "",
-            "ingredient": "¼ cup orange-flavored liqueur"
+            "quantity": "¼ ",
+            "measure": "cup",
+            "ingredient": "orange-flavored liqueur"
         },
         {
-            "quantity": "6",
+            "quantity": "½",
             "measure": "",
-            "ingredient": "½ orange, juiced"
+            "ingredient": "orange, juiced"
         },
         {
-            "quantity": "7",
-            "measure": "",
-            "ingredient": "1 tablespoon white sugar, or more to taste"
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "white sugar, or more to taste"
         }
     ],
     "directions": [
@@ -44,7 +44,7 @@
         "process until smooth.",
         "Serve immediately or freeze."
     ],
-    "image": "berrylicious.jpg",
+    "image": "berrylicious-frozen-sangria-slush.jpg",
     "keywords": [
         "fruit",
         "juice",
