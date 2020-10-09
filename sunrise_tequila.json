@@ -1,0 +1,39 @@
+{
+    "name": "Tequila Sunrise",
+    "description": "The Tequila Sunrise cocktail, with its bright striations of color, evokes a summer sunrise.",
+    "github": "daleste777",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "blanco tequila"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounce",
+            "ingredient": "orange juice, freshly squeezed"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "fl oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "ounce",
+            "ingredient": "grenadine"
+        }
+    ],
+
+    "directions": [
+        "Add the tequila and then the orange juice to a chilled highball glass filled with ice.",
+        "Top with the grenadine, which will sink to the bottom of the glass, creating a layered effect."        
+
+    ],
+    "image": "sunrise.jpg",
+    "keywords": [
+        "sunrise",
+        "tequila",
+        "alcoholic"
+    ]
+}
