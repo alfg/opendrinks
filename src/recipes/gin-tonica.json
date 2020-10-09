@@ -1,0 +1,58 @@
+{
+    "name": "Gin Tonica",
+    "description": "An aromatic spanish gin and tonic containing fruits and herbs for added taste. Traditionally served in a red wine balloon glass",
+    "github": "BenjaminCivitico",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Tonic Water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "wedge",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "thin slice",
+            "ingredient": "Grapefruit"
+        },
+        {
+            "quantity": "1",
+            "measure": "sprig",
+            "ingredient": "Rosemary"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Juniper Berries"
+        },
+        {
+            "quantity": "1",
+            "measure": "sliced",
+            "ingredient": "Strawberry"
+        }
+    ],
+    "directions": [
+        "Add gin and tonic to a balloon glass",
+        "Squeeze lime into glass",
+        "Fill glass most of the way with clear ice",
+        "Garnish drink with grapefruit, juniper berries, steawberry, and rosemary",
+        "Serve cold"
+    ],
+    "image": "gin-tonica.jpg",
+    "source": "http://professorcocktail.com/all-recipes/cocktail-recipe-spanish-style-gin-tonica/",
+    "keywords": [
+        "gin",
+        "tonic",
+        "fresh",
+        "aromatic",
+        "vegan"
+    ]
+}

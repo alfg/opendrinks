@@ -1,0 +1,59 @@
+{
+    "name": "1800 Coco Piñarita",
+    "description": "Refreshing Pineapple-Coconut Margarita",
+    "github": "yantzincabrera",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "1800 Coconut Tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Dole Pineapple Juice"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Tres Agaves Organic Margarita Mix"
+        },
+        {
+            "quantity": "16",
+            "measure": "oz",
+            "ingredient": "Margarita Glass"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Fresh Pinapple, Coconut or Lime (optional)"
+        }
+
+    ],
+    "directions": [
+        "In a 16 oz margarita glass add 2 cups of ice.",
+        "Then, add 2 ounces of the 1800 Coconut Tequila",
+        "After, add the 3 ounces of the Dole Pineapple Juice along with the 8 ounces of Tres Agaves Organic Margarita Mix ",
+        "Carefully stir with a drink stirrer and garnish your glass with a slice of pineapple or coconut",
+        "Sip and enjoy by the pool or on the go in your hydroflask"
+    ],
+    "image": "coco-piñarita.jpg",
+    "keywords": [
+        "Margarita",
+        "coconut",
+        "pineapple",
+        "tres agaves",
+        "1800",
+        "tequila",
+        "organic",
+        "lime",
+        "fresh",
+        "dole",
+        "vegan"
+    ]
+}

@@ -3,14 +3,33 @@
     "description": "It's a simple, snappy cocktail. Don't forget the mug.",
     "github": "alfg",
     "ingredients": [
-        "2 oz. vodka ",
-        "1/2 oz. lime juice, freshly squeezed",
-        "6 oz. ginger beer "
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "lime juice, freshly squeezed"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "ginger beer"
+        }
     ],
     "directions": [
         "Squeeze lime juice into a Moscow Mule mug (or a Collins glass) and drop in the spent shell.",
         "Add 2 or 3 ice cubes, then pour in the vodka and fill with cold ginger beer.",
         "Serve with a stirring rod"
     ],
-    "image":"moscow-mule.jpg" 
+    "image":"moscow-mule.jpg",
+    "keywords": [
+        "vodka",
+        "ginger beer",
+        "alcoholic",
+        "classic",
+        "vegan"
+    ]
 }

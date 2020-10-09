@@ -3,15 +3,36 @@
     "description": "A classic cocktail made with gin, maraschino liqueur, creme de violette (optional), and lemon juice. This drink is meant to be served straight, and in a cocktail glass.",
     "github": "hganavak",
     "ingredients": [
-        "45 ml gin",
-        "15 ml lemon juice",
-        "15 ml maraschino liqueur",
-        "15 ml creme de violette (optional)"
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "maraschino liqueur"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "creme de violette (optional)"
+        }
     ],
     "directions": [
         "Add all ingredients into a cocktail shaker filled with ice.",
-        "Shake well and strain into cocktail glass.",
-        "Garnish with cherry."
+        "Shake well and strain into a cocktail glass.",
+        "Garnish with a cherry."
     ],
-    "image": "aviation.jpg"
+    "image": "aviation.jpg",
+    "keywords": [
+        "alcoholic",
+        "citrus",
+        "fruit"
+    ]
 }

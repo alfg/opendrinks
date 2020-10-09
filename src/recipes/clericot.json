@@ -1,0 +1,44 @@
+{
+    "name": "Clericot",
+    "description": "Clericot is a refreshing Uruguayan drink! It is basically composed of white wine and fruits. Perfect for the summer.",
+    "github": "gabrielaleal",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Dry white wine"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "Lemon soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Orange juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Fruits of your choice"
+        }
+    ],
+    "directions": [
+        "Get a jar to receive the ingredients",
+        "Cut the fruits of your choice (it is really good with oranges, kiwis, apples and pineapples) in medium pieces (filling 2 cups)",
+        "Add them to a jar",
+        "Add the orange juice to the jar",
+        "Add the lemon soda",
+        "Add the wine",
+        "Add ice (as much as you want)"
+    ],
+    "image": "clericot.jpg",
+    "keywords": [
+        "alcoholic",
+        "citrus",
+        "fruit",
+        "wine",
+        "summer"
+    ]
+}

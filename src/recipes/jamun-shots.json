@@ -1,0 +1,66 @@
+{
+    "name": "Jamun Shots",
+    "description": "Jamun shots is a refreshing summer drink prepared from jamun which is a summer fruit and has amazing health benefits.",
+    "github": "HemangiS",
+    "ingredients": [
+        {
+            "quantity": "12 to 15",
+            "measure": "count",
+            "ingredient": "Jamun"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "Chilled Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "teaspoon",
+            "ingredient": "Black Salt"
+        },
+        {
+            "quantity": "1 or 2",
+            "measure": "",
+            "ingredient": "Lemon Wedges"
+        },
+        {
+            "quantity": "2 to 3",
+            "measure": "teaspoon",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint Sprig"
+        }
+    ],
+    "directions": [
+        "Clean and de-seed the jamuns and take them in a blender.",
+        "Now add sugar, black salt and 1 cup of water in the blender and blend together.",
+        "Pour it in a tall glass and add remaining water and lemon juice and mix well.",
+        "Spread the salt in a plate.",
+        "Take a lemon wedge and rub it on the brim of shot glasses.",
+        "Next place each shot glass upside down in the salt. Salt will stuck on the edge of the glass creating a ring of salt.",
+        "Now pour the drink in each glass and garnish with mint sprig.",
+        "Serve and enjoy!"
+    ],
+    "image": "jamun-shots.jpg",
+    "source": "https://www.plattershare.com/recipe/jamun-shots",
+    "keywords": [
+        "jamun-shots",
+        "jamun",
+        "non-alcoholic",
+        "vegan",
+        "fresh"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "The Homemade Whiteclaw",
+    "description": "This summery drink took America by storm in 2019, now make it at home for a fraction of the cost.",
+    "github": "grilam14",
+    "ingredients": [
+        {
+            "quantity": "1.5oz",
+            "measure": "oz",
+            "ingredient": "Sobieski Vodka"
+        },
+        {
+            "quantity": "0.2",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "5",
+            "measure": "oz",
+            "ingredient": "Club Soda"
+        }
+    ],
+    "directions": [
+        "Pour ingredients into a cup.",
+          "Stir."
+    ],
+    "image": "vodka-soda.jpg",
+    "source": "https://drizly.com/vodka-soda/r-bdb7ec76e205f6e8",
+    "keywords": [
+        "alcoholic",
+        "vegan",
+        "citrus"
+    ]
+}

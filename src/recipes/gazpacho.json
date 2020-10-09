@@ -1,0 +1,48 @@
+{
+    "name": "Gazpacho",
+    "description": "A refreshing and healthy drink that is cheap and easy to make",
+    "github": "Luis-gd",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "big",
+            "ingredient": "tomatoes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "normal",
+            "ingredient": "pepper"
+        },
+        {
+            "quantity": "1",
+            "measure": "tooth",
+            "ingredient": "garlic"
+        },
+  	{
+            "quantity": "2",
+            "measure": "spoons",
+            "ingredient": "olive oil"
+        },
+	{
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "vinegar"
+        },
+	{
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "Cut the tomatoes and the pepper",
+        "Triturate all with the mixer",
+        "Cool the gazpacho in the fridge and drink it in an hour"
+    ],
+    "image": "gazpacho.jpg",
+    "keywords": [
+        "fresh",
+        "healthy",
+        "vegan"
+    ]
+}

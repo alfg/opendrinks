@@ -1,0 +1,46 @@
+{
+    "name": "Nimbu Pani",
+    "description": "In the northern states of India nimbu pani is also known as shikanji or shikanjvi and lemonade in English",
+    "github": "nayyyhaa",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": " glasses",
+            "ingredient": "Chilled water"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tbsp",
+            "ingredient": "Chat masal"
+        },
+        {
+            "quantity": "few",
+            "measure": "",
+            "ingredient": "Mint Leaves"
+        }
+    ],
+    "directions": [
+        "Take water in a vessel.",
+        "Slice the lemon and squeeze the juice with the squeezer or with the help of your hand into water. Discard the seed.",
+        "Add sugar, cumin powder, chat masala, mint leaves and icecubes.",
+        "Mix all until sugar dissolves.",
+        "Pour into tall glasses and add lemon slices if using.",
+        "Serve nimbu pani chilled."
+    ],
+    "image": "nimbu-pani.jpg",
+    "keywords": [
+        "refresing",
+        "lemon",
+        "chilled"
+    ]
+}

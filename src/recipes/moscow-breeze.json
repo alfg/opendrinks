@@ -1,0 +1,40 @@
+{
+    "name": "Moscow Breeze",
+    "description": "Moscow popular yummy cocktail. Sure to put you in a autumn mood. With real honey.",
+    "github": "qmitry",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+        "Add requila, vodka, gin. Drop the honey.",
+        "Pour the shake into the glasses and serve with ice."
+    ],
+    "image": "moscow-breeze.jpg",
+    "keywords": [
+        "tequila",
+        "vodka",
+        "gin",
+        "honey",
+        "alcoholic",
+        "moscow"
+    ]
+}

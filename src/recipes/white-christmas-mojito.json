@@ -1,0 +1,63 @@
+{
+    "name": "White Christmas Mojito",
+    "description": "A simple drink perfect for parties.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "lime: juiced"
+        },
+        {
+            "quantity": "8",
+            "measure": "pieces",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "white rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "coconut rum"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "canned coconut milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sparkling water for topping"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "pomegranate arils: for serving"
+        }
+    ],
+    "directions": [
+        "In a glass, muddle the lime juice, sugar and mint leaves until the leaves have broken down.",
+        "Fill the glass half way with ice.",
+        "In a blender, combine the white rum, coconut rum, and coconut milk and pulse until smooth.",
+        "Pour over the ice and stir to combine.",
+        "Top with sparkling water, mint and pomegranate.",
+        "Cheers!"
+    ],
+    "image": "white-christmas-mojito.jpg",
+    "source": "https://www.halfbakedharvest.com/white-christmas-mojito/",
+    "keywords": [
+        "rum",
+        "coconut",
+        "mojito",
+        "alcoholic"
+    ]
+}

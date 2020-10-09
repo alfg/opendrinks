@@ -3,14 +3,36 @@
     "description": "An awesome drink to sip by the pool! Garnish with an orange wheel.",
     "github": "kevinmel2000",
     "ingredients": [
-        "1 fluid ounce coconut rum",
-        "3/4 fluid ounce vodka",
-        "1 fluid ounce pineapple juice",
-		"1 dash grenadine syrup"
+        {
+            "quantity": "1",
+            "measure": "fluid ounce",
+            "ingredient": "coconut rum"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "fluid ounce",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "fluid ounce",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "grenadine syrup"
+        }
     ],
     "directions": [
         "Combine rum, vodka and pineapple juice in a drink shaker. Shake firmly until frothy. Pour in a martini glass,",
         " add a touch of grenadine in the middle. Garnish with an orange wheel."
     ],
-    "image": "bikini-martini.jpg"
+    "image": "bikini-martini.jpg",
+    "keywords": [
+        "vegan",
+        "alcoholic",
+        "fruit",
+        "sweet"
+    ]
 }

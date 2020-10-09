@@ -1,0 +1,45 @@
+{
+    "name": "New York Sour",
+    "description": "The whiskey sour with red wine on the top",
+    "github": "ibotdotout",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "egg white"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "Red wine"
+        }
+    ],
+    "directions": [
+        "Put ice and all of the ingredients except the wine into a shaker and shake hard for about 20 seconds to chill the liquid really well",
+        "Strain the mix into a glass filled with ice and garnish with the cherry and orange slice",
+        "Pour the wine on top of the drink"
+    ],
+    "image": "new-york-sour.jpg",
+    "keywords": [
+        "alcoholic",
+        "whiskey",
+        "egg",
+        "cocktail",
+        "wine"
+    ]
+}

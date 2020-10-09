@@ -1,0 +1,40 @@
+{
+    "name": "Mexican Mule",
+    "description": "Sometimes called El Burro - a take on the traditional Moscow Mule with Mexican flair",
+    "github": "flyfishingbarbara",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Freshly squeezed lime juice"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Ginger Beer"
+        },
+         {
+            "quantity": "4",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        }
+    ],
+    "directions": [
+        "Pour Tequila, fresh lime juice, bitters and Ginger beer over ice in glass or copper mug",
+        "Stir and garnish with lime wedges",
+        "Enjoy!"
+    ],
+    "image": "mexican-mule.jpg",
+    "keywords": [
+        "tequila",
+        "mule",
+        "alcoholic",
+        "ginger beer",
+        "vegan"
+    ]
+}

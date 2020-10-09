@@ -1,0 +1,40 @@
+
+{
+    "name": "Bourbon Old Fashioned",
+    "description": "When you get right down to it, the Bourbon Old Fashioned is little more than a slug of whiskey, seasoned and sweetened",
+    "github": "brittanyjoiner15",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "tsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1>",
+            "measure": "tsp",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "orange peel"
+        }
+    ],
+    "directions": [
+        "Add the sugar, bitters and water into a rocks glass, and stir until sugar is nearly dissolved.",
+        "Fill the glass with large ice cubes, add the bourbon, and gently stir to combine the flavors.",
+        "Express the oil of an orange peel over the glass, then drop in."
+    ],
+    "image": "bourbon-old-fashioned.jpg",
+    "source": "https://www.liquor.com/recipes/bourbon-old-fashioned/#gs.892391",
+    "keywords": [
+        "bourbon",
+        "bourbon old-fashioned",
+        "vegan"
+    ]
+}

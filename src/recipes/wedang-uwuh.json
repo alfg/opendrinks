@@ -1,0 +1,69 @@
+{
+    "name": "Wedang Uwuh",
+    "description": "Allow me to introduce you to Wedang Uwuh, a traditional herbs drink from Jogyakarta, Indonesia. Wedang means drink, and uwuh means trash. So, wedang uwuh means “trash drink”. They call it wedang uwuh because some of the ingredients are leaves that fall from the tree. They would not pick the leaves that are still on the tree because the leaves are still green and usually have a bitter taste.The drink contains a variety of leaves like cinnamon, nutmeg and cloves leaves. Another ingredient is wood from the secang tree (that usually  can be found in Imogiri cemetery-known as Royal Cemetery), ginger and lump sugar.",
+    "github": "mdayann",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "Segment",
+            "ingredient": "Ginger"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Lime Leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Bay Leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "Sticks",
+            "ingredient": "Cinnamon"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Cloves"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Cardamom Grains"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Star Anise"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemongrass Stalk"
+        },
+        {
+            "quantity": "4",
+            "measure": "Tablespoons",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+       "Wash all ingredients, then boil water in a saucepan, put all the ingredients in the wedang uwuh.",
+       "Bring the wedang uwuh to a boil until the boiling water is dark red.",
+       "Turn off the heat and wait until the warm boiled water is strong. Move in a teapot and add the honey mixture until well blended. Serve warm."
+    ],
+    "image": "wedang-uwuh.jpg",
+    "keywords": [
+        "mocktail",
+        "non-alcoholic",
+        "warm",
+        "classic"
+    ]
+}

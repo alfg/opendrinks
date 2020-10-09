@@ -1,0 +1,42 @@
+{
+  "name": "Espanhola",
+  "description": "Espanhola is a 'traditional' brazilian drink, very known in hang outs with friends, it's a bittersweet wine and pineapple drink.",
+  "github": "pliavi",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "L",
+          "ingredient": "Red or dry wine"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "Medium pineapple"
+      },
+      {
+          "quantity": "1",
+          "measure": "can",
+          "ingredient": "Condensed milk"
+      },
+      {
+        "quantity": "2 to 3",
+        "measure": "cups",
+        "ingredient": "Crushed ice"
+      }
+  ],
+  "directions": [
+      "Cut the pineapple in pieces.",
+      "Put all the ingredients, without the ice, in a blender and mix all together.",
+      "Add the ice and mix a bit again.",
+      "Serve in large glasses, and use the pineapple peel as garnish"
+  ],
+  "image": "espanhola.jpg",
+  "source": "https://vila-vinifera.com/2017/03/10/wine-drinks-espanhola-para-levantar-o-astral/",
+  "keywords": [
+      "alcoholic",
+      "condensed milk",
+      "pineapple",
+      "wine",
+      "bittersweet"
+  ]
+}

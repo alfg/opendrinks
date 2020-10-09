@@ -1,0 +1,60 @@
+{
+    "name": "Bandrek",
+    "description": "Bandrek is the spicy drink from Indonesia precisely Sundanese that can warm the body and relax.",
+    "github": "dedechandran",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "liter",
+            "ingredient": "mineral water"
+        },
+        {
+            "quantity": "350",
+            "measure": "grams",
+            "ingredient": "refined brown sugar"
+        },
+        {
+            "quantity": "3",
+            "measure": "sticks",
+            "ingredient": "lemongrass stems then rubbed"
+        },
+        {
+            "quantity": "80",
+            "measure": "grams",
+            "ingredient": "grilled ginger are then crushed"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "sheet",
+            "ingredient": "pandan leaves (before use, clean first)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Vanilla sweetened condensed milk (optional)"
+        }
+    ],
+    "directions": [
+        "Boil sugar and water in a saucepan until it boils.",
+        "Add pandan leaves, grilled ginger, and lemongrass stems. Then stir to taste.",
+        "Add salt and stir again.",
+        "If the resulting flavor is just right and the ingredients and seasonings have been mixed evenly, then turn off the heat and lift this bandrek drink.",
+        "Pour the bandrek drink to the glass.",
+        "Add a few mililiters vanilla sweetened condensed milk if needed.",
+        "Bandrek ready to serve."
+
+    ],
+    "image": "bandrek.jpg",
+    "source": "https://www.liputan6.com/lifestyle/read/3858911/cara-membuat-bandrek-susu-minuman-penghangat-badan-di-musim-hujan",
+    "keywords": [
+      "fresh",
+      "vegan",
+      "non-alcoholic"
+    ]
+
+}

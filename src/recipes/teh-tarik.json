@@ -1,0 +1,38 @@
+{
+    "name": "Teh Tarik",
+    "description": "Teh Tarik is a delicious Malaysian specialty you can find in any restaurant or cafe in the country. It is so delicious and easy to make that you would not believe how a few extra steps and different ingredients can turn a normal cup of black tea into a smooth, creamy, frothy, luscious beverage of which you will cherish every sip.",
+    "github": "wfebriad",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "4 black tea bags"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "3 cups water, boiling hot"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "4 tbs sweetened condensed milk (or replace half with evaporated milk)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar (optional)"
+        }
+    ],
+    "directions": [
+        "Steep the tea bags covered in the hot water for 5-8 minutes.",
+        "Mix in the milk and sugar.",
+        "Prepare two containers, preferably with curved lips to ease pouring with minimal dripping. With a steady stream, pour the tea from one container to the other back and forth. Carefully increase the height as you pour. The higher the stream, the frothier it’ll become. Be careful not to scald yourself. Tea will splatter. Repeat 4-6 times."
+    ],
+    "image": "teh-tarik.jpg",
+    "keywords": [
+        "tea",
+        "sugar",
+        "milk"
+    ]
+}

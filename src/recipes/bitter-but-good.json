@@ -1,0 +1,39 @@
+{
+    "name": "Bitter but Good eh!",
+    "description": "A sweet quebecois/french-canadian take on a Negroni",
+    "github": "girOly",
+    "ingredients": [
+      {
+          "quantity": "1.5",
+          "measure": "oz",
+          "ingredient": "Gin"
+      },
+      {
+          "quantity": "1",
+          "measure": "oz",
+          "ingredient": "Campari"
+      },
+      {
+          "quantity": "2",
+          "measure": "oz",
+          "ingredient": "White Beer"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Orange peel"
+      }
+  ],
+    "directions": [
+      "Combine the spirits into a mixing glass with ice. Stir until chilled. Strain into a rocks glass filled halfway with ice.",
+      "Fill rest of Rocks Glass with White Beer",
+      "Garnish with an orange peel."
+    ],
+    "image": "bitter-but-good.jpg",
+    "keywords": [
+        "gin",
+        "white beer",
+        "alcoholic",
+        "vegan"
+    ]
+}

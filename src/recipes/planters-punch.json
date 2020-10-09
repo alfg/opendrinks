@@ -1,22 +1,50 @@
 {
-  "name": "Planters Punch",
-  "description": "This classic rum drink is fun, refreshing and bursting with flavour.",
-  "github": "jcolfej",
-  "ingredients": [
-    "50 ml Dark Rum",
-    "30 ml Lime Juice",
-    "10 ml Grenadine Syrup",
-    "15 ml Sugar Syrup",
-    "Splash of Soda Water",
-    "2 dashes Angostura Bitters"
-  ],
-  "directions": [
-    "Pour all ingredients into shaker filled with ice.",
-    "Shake well.",
-    "Pour into highball with ice.",
-    "Top up with soda water.",
-    "Stir gently and add a dash of Angostura Bitters.",
-    "Garnish with orange slices."
-  ],
-  "image": "planters-punch.jpg"
+    "name": "Planters Punch",
+    "description": "This classic rum drink is fun, refreshing and bursting with flavour.",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Dark Rum"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Grenadine Syrup"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Sugar Syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Splash of Soda Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        }
+    ],
+    "directions": [
+        "Pour all ingredients into a shaker filled with ice.",
+        "Shake well.",
+        "Pour into highball with ice.",
+        "Top up with soda water.",
+        "Stir gently and add a dash of Angostura Bitters.",
+        "Garnish with orange slices."
+    ],
+    "image": "planters-punch.jpg",
+    "keywords": [
+        "rum",
+        "lime juice"
+    ]
 }

@@ -1,0 +1,84 @@
+{
+    "name": "Jaljeera",
+    "description": "Jaljeera is a Indian summer drink jal means water and jeera means cumin. The beverage form is essentially lemonade and jaljira powder, and is a popular summer drink in India",
+    "github": "cyborgboy",
+
+    "ingredients": [
+        {
+            "quantity": "half ",
+            "measure": "cup",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "6",
+            "measure": "tablespoon>",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "black salt"
+        },
+        {
+            "quantity": "8",
+            "measure": "cup>",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon>",
+            "ingredient": "cumin seeds"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "coriander leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "ginger"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "asafoetida"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "tamarind seedless"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        }
+    ],
+    "directions": [
+        "Clean and wash the mint and coriander leaves. Then finely chop the leaves.",
+        "Take a large glass bowl and add chopped mint leaves, chopped coriander leaves, seedless tamarind, roasted cumin seeds, chopped ginger in a blender jar along with asafoetida, salt, black salt, sugar, and lemon juice.",
+        "Add 4 cups of water in the jar and blend the mixture until all the ingredients are completely blended together.",
+        "When done, strain the mixture into a bowl and discard the roughage remaining of the mixture. Meanwhile, arrange the glasses on the clean and dry counters.Pour the mixture equally in the glasses and also pour the remaining water in the glasses, mix well. Also, put the 2-4 ice cubes in the glasses. Serve immediately."
+    ],
+    "image": "jaljeera.jpg",
+    "source": "https://recipes.timesofindia.com/beverage/non-alcoholic/jaljeera/rs61103953.cms",
+        "keywords": [
+        "summer",
+        "India",
+        "non-alcoholic",
+        "lime",
+        "water"
+        ]
+    
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Masala Coke",
+    "description": "Masala coke is a favorite Indian drink that spices up your taste buds",
+    "github": "redfly1",
+    "ingredients": [
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "lemon wedge"
+        },
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "lime wedge"
+        },
+        {
+          "quantity": "4",
+          "measure": "oz",
+          "ingredient": "Coke or Pepsei"
+        },
+        {
+          "quantity": "2",
+          "measure": "dashes",
+          "ingredient": "Tabasco sauce"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "Celery salt"
+        },
+        {
+          "quantity": "1",
+          "measure": "pinch",
+          "ingredient": "Ground black pepper"
+        },
+        {
+          "quantity": "3 spoons",
+          "measure": "spoons",
+          "ingredient": "chat masala"
+        }
+    ],
+    "directions": [
+        "Pour some salt onto a small plate.",
+        "Rub the juicy side of the lemon or lime wedge along the lip of a pint glass.",
+        "Roll the outer edge of the glass in celery salt until fully coated.",
+        "Fill with ice and set aside.",
+        "Squeeze the lemon and lime wedges into a shaker and drop them in.",
+        "Add the remaining ingredients and ice and shake gently.",
+        "Strain into the prepared glass.",
+        "Garnish with a slice of lime,"
+    ],
+    "image": "masala-coke.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "vegan",
+        "savory"
+    ]
+}

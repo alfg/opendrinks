@@ -1,0 +1,49 @@
+{
+    "name": "Berry and Oat Smoothie",
+    "description": "A berry smoothie with added oats and flaxseeds to help you feel filler for longer!",
+    "github": "CalumChamberlain",
+    "ingredients": [{
+            "quantity": "25",
+            "measure": "g",
+            "ingredient": "Rolled oats"
+        },
+        {
+            "quantity": "150",
+            "measure": "ml",
+            "ingredient": "semi-skimmed milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "75",
+            "measure": "g",
+            "ingredient": "blackberries"
+        },
+        {
+            "quantity": "75",
+            "measure": "g",
+            "ingredient": "blueberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "flaxseeds"
+        }
+    ],
+    "directions": [
+        "Put the oats into the blender and pour in the milk",
+        "Leave to sit for 5 minutes",
+        "Add the honey, blueberries, blackberries and ground flaxseeds and blitz until smooth"
+    ],
+    "image": "berry-and-oat-smoothie.jpg",
+    "keywords": [
+        "berry",
+        "oats",
+        "healthy",
+        "smoothie",
+        "non-alcoholic"
+    ]
+}

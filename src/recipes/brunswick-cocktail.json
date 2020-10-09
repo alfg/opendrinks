@@ -1,0 +1,40 @@
+{
+    "name": "Brunswick Cocktail",
+    "description": "Cocktail featuring wine floated over whiskey",
+    "github": "ajciancimino",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "whiskey (Tennessee rye preferred)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "parts",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "parts",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "parts",
+            "ingredient": "red wine"
+        }
+    ],
+    "directions": [
+        "Mix all ingredients but wine and shake w/ ice",
+        "Strain into rocks glass over ice",
+        "Float wine over mixture"
+    ],
+    "image": "brunswick-cocktail.jpg",
+    "keywords": [
+        "wine",
+        "cocktail",
+        "alcoholic",
+        "whiskey",
+        "vegan"
+    ]
+}

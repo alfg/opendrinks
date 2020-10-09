@@ -1,0 +1,55 @@
+{
+    "name": "Mexican Michelada",
+    "description": "Is a Mexican drink made with beer, lime juice, assorted sauces (often chili-based) and chili powder. It is served in a chilled, salt and chili powder rimmed glass.",
+    "github": "xDidier901",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Good summer beer"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Chili-based sauce of your preference"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Chili powder of your preference"
+        }
+    ],
+    "directions": [
+        "Create a powder mix with salt and chili powder.",
+        "Rim the tip of the glass with lime juice.",
+        "Dip the glass top into the new powder mix.",
+        "Squeeze one lime into the glass.",
+        "Add sauce of your preferente into the glass.",
+        "Poor a very cold beer into the glass.",
+        "Mix the drink slightly with a spoon.",
+        "Enjoy!"
+    ],
+    "image": "mexican-michelada.jpg",
+    "keywords": [
+        "lime",
+        "salt",
+        "beer",
+        "alcoholic",
+        "chili-powder",
+        "chili suace",
+        "mexican",
+        "Mexico",
+        "cold",
+        "vegan"
+    ]
+}

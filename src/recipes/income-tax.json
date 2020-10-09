@@ -1,0 +1,48 @@
+{
+  "name": "Income Tax",
+  "description": "A citrusy gin cocktail ",
+  "github": "troy-johnson",
+  "ingredients": [
+    {
+      "quantity": "1 1/2",
+      "measure": "oz",
+      "ingredient": "gin"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "dry vermouth"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "sweet vermouth"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "orange juice"
+    },
+    {
+      "quantity": "2",
+      "measure": "dashes",
+      "ingredient": "Angostura bitters"
+    }
+  ],
+  "directions": [
+    "Add gin, dry vermouth, sweet vermouth, orange juice, bitters, and ice in a shaker",
+    "Shake until chilled",
+    "Strain into a cocktail glass",
+    "Garnish with orange peel if desired"
+  ],
+  "image": "income-tax.jpg",
+  "keywords": [
+    "income tax",
+    "gin",
+    "vermouth",
+    "bitters",
+    "orange juice",
+    "citrus",
+    "vegan"
+  ]
+}

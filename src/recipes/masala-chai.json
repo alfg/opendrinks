@@ -1,0 +1,67 @@
+{
+    "name": "Masala Chai",
+    "description": "Masala chai is a flavoured tea beverage made by brewing black tea with a mixture of aromatic spices and herbs.",
+    "github": "sounak98",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "4",
+            "measure": "teaspoons",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "Darjeeling Tea Leaves"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "inch",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "2 to 3",
+            "measure": "pieces",
+            "ingredient": "Green Cardamoms"
+        },
+        {
+            "quantity": "2",
+            "measure": "pieces",
+            "ingredient": "Cloves"
+        },
+        {
+            "quantity": "1",
+            "measure": "inch",
+            "ingredient": "Ginger"
+        }
+    ],
+    "directions": [
+        "Take 1/2 inch cinnamon, 2 to 3 green cardamoms, 2 cloves and 1 inch ginger in a mortar pestle, crush coarsely and keep aside.",
+        "In a saucepan, heat 2 cups of water (250 ml).",
+        "Let the water come to a boil and then add the crushed spices.",
+        "Boil the spices along with the water for 2-3 minutes.",
+        "Add sugar as per taste.",
+        "Now, add 2 teaspoons of Darjeeling tea and boil for a minute.",
+        "Add milk and boil for 2-3 more minutes.",
+        "Pour the tea through a strainer into the cups.",
+        "Serve masala chai hot with some Indian snacks or cookies."
+    ],
+    "image": "masala-chai.jpg",
+    "source": "https://www.vegrecipesofindia.com/masala-chai-recipe-masala-tea/",
+    "keywords": [
+        "hot",
+        "tea",
+        "non-alcoholic",
+        "indian",
+        "vegan"
+    ]
+}

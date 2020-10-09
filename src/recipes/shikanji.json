@@ -1,0 +1,83 @@
+{
+    "name": "Shikanji",
+    "description": "Shikanji or Shikanjvi is an Indian summer drink. This magical drink is a lemon infused drink with some spices, topped with soda or water.",
+    "github": "deekshalala",
+
+    "ingredients": [
+        {
+            "quantity": "5",
+            "measure": "leaves",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "black salt"
+        },
+        {
+            "quantity": "2",
+            "measure": "glass",
+            "ingredient": "chilled water/soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "cumin seeds"
+        },
+        {
+            "quantity": "as required",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "coriander seeds"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "chat masala"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "powdered sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "black peppercorns"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        }
+    ],
+    "directions": [
+        "Roast cumin seeds, black peppercorns and coriander seeds until very slightly browned.",
+        "Add them in a grinder along with chat masala, black salt and salt and grind to make a fine powder.",
+        "Add lemon juice in 2 glasses.",
+        "Add powdered sugar and mix until sugar dissolves in the lemon juice.",
+        "Add the grounded powder, mint leaves and ice cubes in the glasses.",
+        "Top the glasses with chilled water or soda."
+    ],
+    "image": "shikanji.jpg",
+    "source": "https://www.whiskaffair.com/shikanji-recipe/",
+        "keywords": [
+        "summer",
+        "India",
+        "Indian",
+        "non-alcoholic",
+        "lemon",
+        "shikanji",
+        "water"
+        ]
+    
+}

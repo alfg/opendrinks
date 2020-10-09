@@ -1,0 +1,32 @@
+{
+    "name": "Death in the Afternoon",
+    "description": "What could be more decadent than absinthe and Champagne? Absinthe and Champagne and oysters. Death in the Afternoon is not only the name of a Hemingway book, it's also the author's name of a drink he contributed to a book of celebrity cocktail recipes in 1935.",
+    "github": "adclleva",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Absinthe"
+        },
+        {
+            "quantity": "4 1/2",
+            "measure": "oz",
+            "ingredient": "Champagne"
+        }
+    ],
+    "directions": [
+      "Pour one jigger absinthe into a Champagne glass.",
+      " Add iced Champagne until it attains the proper opalescent milkiness.",
+      " Drink three to five of these slowly."
+    ],
+
+    "image": "death-in-the-afternoon.jpg",
+    "source": "https://www.epicurious.com/ingredients/absinthe-cocktails-and-what-to-pair-them-with-article",
+    "keywords": [
+        "absinthe",
+        "strong",
+        "simple",
+        "bubbly",
+        "vegan"
+    ]
+}

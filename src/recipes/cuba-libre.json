@@ -1,16 +1,35 @@
 {
-  "name": "Cuba Libre",
-  "description": "Cuba Libre is a cocktail based on rum, lime, and cola.",
-  "github": "jcolfej",
-  "ingredients": [
-    "50 ml Añejo Rum",
-    "8 lime wedges",
-    "100 ml Cola"
-  ],
-  "directions": [
-    "Add rum into a glass filed with ice and squeeze the lime wedges over the top.",
-    "Give quick churn with bar spoon and top up with ice.",
-    "Fill to brim with cola and add in lime wedge as garnish."
-  ],
-  "image": "cuba-libre.jpg"
+    "name": "Cuba Libre",
+    "description": "Cuba Libre is a cocktail based on rum, lime, and cola.",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Añejo Rum"
+        },
+        {
+            "quantity": "8",
+            "measure": "",
+            "ingredient": "lime wedges"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "Cola"
+        }
+    ],
+    "directions": [
+        "Add rum into a glass filled with ice and squeeze the lime wedges over the top.",
+        "Give quick churn with a bar spoon and top up with ice.",
+        "Fill to the brim with cola and add in the lime wedge as garnish."
+    ],
+    "image": "cuba-libre.jpg",
+    "keywords": [
+        "rum",
+        "lime",
+        "cola",
+        "alcoholic",
+        "vegan"
+    ]
 }

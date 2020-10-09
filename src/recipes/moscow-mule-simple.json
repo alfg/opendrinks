@@ -1,0 +1,44 @@
+{
+  "name": "Simple Moscow Mule",
+  "description": "A simple, sweet and sour cocktail. And an excuse to buy a Moscow Mule Mug",
+  "github": "coma-toast",
+  "ingredients": [
+    {
+      "quantity": "60-100",
+      "measure": "ml",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "20",
+      "measure": "ml",
+      "ingredient": "Lime juice"
+    },
+    {
+      "quantity": "40",
+      "measure": "ml",
+      "ingredient": "Lemon juice"
+    },
+    {
+      "quantity": "6",
+      "measure": "oz",
+      "ingredient": "Ginger Ale - fill to taste"
+    }
+  ],
+  "directions": [
+    "Start with several ice cubes in a Moscow Mule mug.",
+    "Add lime and lemon juice",
+    "Add Vodka",
+    "Fill with Ginger Ale",
+    "Serve with a fresh mint leaf"
+  ],
+  "image": "moscow-mule.jpg",
+  "keywords": [
+    "vodka",
+    "ginger ale",
+    "citrus",
+    "mint",
+    "alcoholic",
+    "simple",
+    "vegan"
+  ]
+}

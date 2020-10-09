@@ -1,0 +1,46 @@
+{
+    "name": "Mulled Apple Crumble Cider",
+    "description": "A tasty recipe for mulled apple crumble cider to warm you over winter",
+    "github": "stefaniemckenna",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "L",
+            "ingredient": "Zeffer Apple Crumble Cider"
+        },
+        {
+            "quantity": "10",
+            "measure": "g",
+            "ingredient": "brown sugar (optional)"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "orange, sliced"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "star anise"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cinnamon sticks"
+        }
+    ],
+    "directions": [
+        "1. Fill a slow cooker or pot with Zeffer’s Apple Crumble Cider. Add the sugar, the sliced orange rounds, add finally the cinnamon sticks and star anise.",
+        "2. Cover the pot or slow cooker and heat until the flavours meld. If using the slow cooker leave for 2-3 hours on low or warm.",
+        "3. Serve in a glass or mug garnished with additional orange slices and cinnamon stick.",
+        "Note: A slow cooker does the double duty of both mulling the cider and keeping it warm for hours, making it a good option for winter entertaining."
+    ],
+    "image":"mulled-apple-crumble-cider.jpg",
+    "keywords": [
+        "alcoholic",
+        "cider",
+        "mulled",
+        "winter",
+        "vegan"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Drunken Monkey Cocktail",
+    "description": "Drunken Monkey Cocktail - a vibrant fruity tiki drink just like we experienced in the Caribbean.",
+    "github": "caseydierking",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "orange-pineapple juice blend"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "coconut rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "spiced rum"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "dashes",
+            "ingredient": "bitters"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh ground netmeg"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Maraschino cherries in juices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime slices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh Pineapple wedges"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail shaker with ice and add the juice, coconut rum, spiced rum, and 4-5 shakes of bitters. Shake for 30 seconds.",
+        "Pour into 2 iced tumblers or one tall glass. Then pour in 1-2 teaspoons of cherry juice and let it settle at the bottom of the glass. Garnish with a lime slice, pineapple wedge, and a cherry.",
+        "Zest fresh nutmeg over the top and serve!"
+    ],
+    "image": "drunken-monkey-cocktail.jpg",
+    "source": "https://www.aspicyperspective.com/drunken-monkey-cocktail/",
+    "keywords":[
+        "alcoholic",
+        "vegan",
+        "fruit"
+    ]
+}

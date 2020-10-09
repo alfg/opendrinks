@@ -1,0 +1,32 @@
+{
+    "name": "Ice Cold Water",
+    "description": "A favourite thirst quencher",
+    "github": "Gareth-Jones-ZA",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Start off with an empty glass",
+        "Add an ice block",
+        "Add your water into the glass",
+        "Serve chilled"
+    ],
+    "image": "ice-cold-water.jpg",
+    "keywords": [
+        "water",
+        "pure",
+		"ice",
+        "easy",
+        "non-alcoholic",
+        "vegan"
+    ]
+}

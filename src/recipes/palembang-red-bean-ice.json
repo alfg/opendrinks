@@ -1,0 +1,57 @@
+{
+    "name": "Palembang Red Bean Ice",
+    "description": "Red bean ice is the most delicious dipalembang named red bean ice mamat bang",
+    "github": "arioki1",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "",
+            "ingredient": "Wet red peel"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "",
+            "ingredient": "Brown sugar"
+        },
+        {
+            "quantity": "4 sdm",
+            "measure": "",
+            "ingredient": "Granulated sugar"
+        },
+        {
+            "quantity": "1 sdt",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "3 Strands",
+            "measure": "",
+            "ingredient": "Pandan leaf"
+        },{
+            "quantity": "1/4 Sdt",
+            "measure": "",
+            "ingredient": "Vanilla"
+        },
+        {
+            "quantity": "200 ml",
+            "measure": "",
+            "ingredient": "Coconut milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Avocado"
+        }
+    ],
+    "directions": [
+        "Boil red beans or presto dried beans that have been soaked overnight with brown sugar, granulated sugar, salt, pandan leaves and vanilla. Wait until tender after the beans are soft, turn off the heat, wait for it to cool",
+        "Prepare a bowl or glass of berries with enough red beans at the bottom then cover with shaved ice cubes and then flush with coco pandan syrup 4 tablespoons skm chocolate 3 tablespoons and 4 tablespoons coconut milk. Then give the avocado slices."
+    ],
+    "image": "palembang-red-bean-ice.jpg",
+    "keywords": [
+        "palembang",
+        "red",
+        "bean",
+        "ice"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Virgin Strawberry Colada",
+    "description": "Tastes just like the original Strawberry Colada, but without alcohol. Fresh and cool!",
+    "github": "kopikob",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "strawberries",
+            "ingredient": ""
+        },
+        {
+            "quantity": "4",
+            "measure": "table spoons",
+            "ingredient": "coconut cream"
+        },
+        {
+            "quantity": "100",
+            "measure": "g",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "crushed ice"
+        }
+    ],
+    "directions": [
+        "Blend all the ingredients in a blender at high speed.",
+        "Pour into a tall glass and decorate with maraschino cherry and a pineapple slice."
+    
+    ],
+    "image": "virgin-strawberry-colada.jpg",
+    "keywords": [
+        "virgin",
+        "non-alcoholic"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Cynar Spritz",
+    "description": "A really great cocktail for a summer weekend, slightly more bitter than classic spritz",
+    "github": "albertodeago",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "parts",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "2",
+            "measure": "parts",
+            "ingredient": "Cynar"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Olives"
+        }
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Add Prosecco, Cynar and soda.",
+        "Stir gently to combine and garnish with the slice of lemon.",
+        "Add one or two olives for garnish"
+    ],
+    "source": "https://food52.com/recipes/75600-cynar-spritz",
+    "image": "cynar-spritz.jpg",
+    "keywords": [
+        "alcoholic",
+        "vegan",
+        "savory"
+    ]
+}

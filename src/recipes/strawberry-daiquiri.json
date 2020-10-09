@@ -1,0 +1,56 @@
+{
+    "name": "Strawberry Daiquiri",
+    "description": "A frosty blender full of strawberry-citrus slush. You will enjoy this with or without the rum!",
+    "github": "Kash2000",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "cups",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "frozen strawberries"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "lemon-lime flavoured carbonated beverage"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "cup",
+            "ingredient": "lime juice"
+        }
+    ],
+    "directions": [
+        "In a blender, combine ice, sugar and strawberries.",
+        "Pour in lime juice, lemon juice, rum and lemon-lime soda.",
+        "Blend until smooth.",
+        "Pour into glasses and serve."
+    ],
+    "image": "strawberry-daiquiri.jpg",
+    "source": "https://www.allrecipes.com/recipe/32352/best-strawberry-daiquiri/",
+    "keywords": [
+        "daiquiri",
+        "Slush",
+        "rum",
+        "alcoholic"
+    ]
+}

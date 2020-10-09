@@ -1,0 +1,28 @@
+{
+    "name": "Mimosa",
+    "description": "Simple, but delicous cocktail for special events or just to get the day going",
+    "github": "richardalanpalmer",
+    "ingredients": [
+        {
+            "quantity": "2.5",
+            "measure": "oz",
+            "ingredient": "Champagne"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        }
+    ],
+    "directions": [
+        "Combine equal parts champagne and orange juice into a champagne flute."
+    ],
+    "image": "mimosa.jpg",
+    "keywords": [
+        "champagne",
+        "citrus",
+        "simple",
+        "vegan",
+        "fresh"
+    ]
+}

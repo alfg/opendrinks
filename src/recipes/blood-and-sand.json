@@ -3,13 +3,41 @@
     "description": "A sweet and citrus-y martini alternative",
     "github": "cazagen",
     "ingredients": [
-        "3/4 fl oz Fresh blood orange juice",
-        "3/4 fl oz Cherry flavoured liqueur",
-        "3/4 fl oz Sweet vermouth",
-        "3/4 fl oz Scotch",
-        "An orange",
-        "Ice",
-        "A chilled coupe glass"
+        {
+            "quantity": "3/4",
+            "measure": "fl oz",
+            "ingredient": "Fresh blood orange juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "fl oz",
+            "ingredient": "Cherry liqueur"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "fl oz",
+            "ingredient": "Sweet vermouth"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "fl oz",
+            "ingredient": "Scotch"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "An orange"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "A chilled coupe glass"
+        }
     ],
     "directions": [
         "Add orange juice, cherry liqueur, vermouth, and scotch to a mixing tin",
@@ -18,5 +46,14 @@
         "Double-strain into a chilled coupe",
         "Garnish with an orange swath"
     ],
-    "image": "blood-and-sand.jpg"
+    "image": "blood-and-sand.jpg",
+    "keywords": [
+        "blood orange juice",
+        "cherry flavoured liqueur",
+        "sweet vermouth",
+        "scotch",
+        "alcoholic",
+        "classic",
+        "fruit"
+	]
 }

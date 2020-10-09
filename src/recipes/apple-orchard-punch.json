@@ -1,0 +1,44 @@
+{
+  "name": "Apple Orchard Punch",
+  "description": "This quick and easy punch would be delightful at a country wedding or any celebration. Champagne can be used instead of ginger ale for an adult punch.",
+  "github": "AnmolBaansal",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "Liters",
+      "ingredient": "Chilled Apple Juice"
+    },
+    {
+      "quantity": "350",
+      "measure": "MilliLiters",
+      "ingredient": "Frozen Cranberry Juice Concentrate"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "Apple"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "Orange Juice"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "Liters",
+      "ingredient": "Ginger Ale"
+    }
+  ],
+  "directions": [
+    "In a large punch bowl, combine apple juice, cranberry juice concentrate and orange juice. Stir until dissolved, then slowly pour in the ginger ale.",
+    "Thinly slice the apple vertically, forming whole apple slices. Float apple slices on top of punch."
+  ],
+  "image": "apple-orchard-punch.jpg",
+  "source": "https://www.allrecipes.com/recipe/20580/apple-orchard-punch/",
+  "keywords": [
+    "non-alcoholic",
+    "punch",
+    "vegan"
+
+  ]
+}

@@ -1,0 +1,38 @@
+:root {
+  --main-bg-color: white;
+  --main-text-color: #495057;
+  --main-link-color: #007bff;
+  --main-line-color: rgba(0, 0, 0, 0.125);
+  --main-bg-hover-color: #f8f9fa;
+  --app-text-color: #2c3e50;
+  --navbar-light-hover-border-color: #e9ecef;
+}
+
+html[data-theme='light'] {
+  --main-bg-color: white;
+  --main-text-color: #495057;
+  --main-link-color: #007bff;
+  --main-line-color: rgba(0, 0, 0, 0.125);
+  --main-bg-hover-color: #f8f9fa;
+  --app-text-color: #2c3e50;
+  --navbar-light-hover-border-color: #e9ecef;
+
+}
+
+html[data-theme='dark'] {
+  --main-bg-color: #2c3e50;
+  --main-text-color: white;
+  --main-link-color: #5dbcd2;
+  --main-line-color: rgba(255, 255, 255, 0.3);
+  --main-bg-hover-color: rgba(255, 255, 255, 0.3);
+  --app-text-color: white;
+  --navbar-light-hover-border-color: rgba(255, 255, 255, 0.15);
+}
+
+* {
+  -webkit-transition: background-color 0.5s ease;
+  -moz-transition: background-color 0.5s ease;
+  -ms-transition: background-color 0.5s ease;
+  -o-transition: background-color 0.5s ease;
+  transition: background-color 0.5s ease;
+}

@@ -1,0 +1,50 @@
+{
+    "name": "El Presidente",
+    "description": "A classic cuban cocktail from the 1930s",
+    "github": "kcusaac",
+    "ingredients": [
+        {
+            "quantity": "1½",
+            "measure": "oz",
+            "ingredient": "White Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Dry Vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Orange Curaçao (or Triple Sec, Cointreau)"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "1",
+            "measure": "peel",
+            "ingredient": "Orange (garnish)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Pour the rum, vermouth, orange curaçao and dash of grandine into a cocktail shaker.",
+        "Add ice and shake well.",
+        "Strain into a chilled cocktail glass.",
+        "Granish with orange peel."
+    ],
+    "image": "el-presidente.jpg",
+    "keywords":[
+        "rum",
+        "alcoholic",
+        "cocktail",
+        "vegan"
+    ]
+}

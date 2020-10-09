@@ -3,13 +3,41 @@
     "description": "Long hot afternoons in the garden are often better shared, just like Elderflower Cooler. One of most refreshing Gin out there",
     "github": "stephenjaya99",
     "ingredients": [
-        "50ml Gin",
-        "20ml Bottlegreen elderflower cordial",
-        "Cubed ice",
-        "Cucumber",
-        "Mint to garnish",
-        "Soda",
-        "1.9 units of alcohol per tall glass"
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Bottlegreen elderflower cordial"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cubed ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cucumber"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint to garnish"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Soda"
+        },
+        {
+            "quantity": "1.9",
+            "measure": "units",
+            "ingredient": "of alcohol per tall glass"
+        }
     ],
     "directions": [
         "Half fill a glass with cubed ice and pour over 50ml Gin.",
@@ -17,5 +45,10 @@
         "Splash over 20ml Bottlegreen® elderflower cordial, fill with more ice and top up with chilled soda.",
         "Stir and finish off with a couple of extra slices of cucumber and a final sprig of mint."
     ],
-    "image": "elderflower-cooler.jpg"
-  }
+    "image": "elderflower-cooler.jpg",
+    "keywords":[
+        "gin",
+        "alcoholic",
+        "vegan"
+    ]
+}

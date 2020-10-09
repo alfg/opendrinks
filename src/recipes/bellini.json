@@ -1,0 +1,34 @@
+{
+    "name": "Bellini",
+    "description": "Bellini is sparkling Italian cocktail.",
+    "github": "forsas",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "fl oz",
+            "ingredient": "peach juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "fl oz",
+            "ingredient": "chilled sparkling wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "raspberry juice"
+        }
+    ],
+    "directions": [
+        "Pour peach juice into a champagne flute.",
+        "Slowly pour sparkling wine over peach juice; let sit until liquids have blended, about 1 minute.",
+        "Pour raspberry juice over champagne mixture."
+    ],
+    "image": "bellini.jpg",
+    "keywords":[
+        "cocktail",
+        "alcoholic",
+        "fruit",
+        "vegan"
+    ]
+}

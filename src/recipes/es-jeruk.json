@@ -1,0 +1,58 @@
+{
+    "name": "Es Jeruk",
+    "description": "This is a drink right now. It can only be sold at restaurants, now there are many sellers of this drink along the road near the house. The price is 5,000 rupiah, and 1 serving is 2 squeezed oranges. Read more about oranges around 10 thousand rupiahs, and can be 5 servings of squeezed orange ice, making yourself naturally cleaner and more delicious.",
+    "github": "connectnitish",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Unripe Green Mango"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "Cardamom"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "Fresh Mint"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Black Salt"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "orange, sugar"
+        }
+        
+    ],
+    "directions": [
+        "Choose the raw mangoes which are tart.",
+        "You can keep the skin on before boiling the mangoes. It gives a very distinct flavour to the Panna.",
+        "Peeling the skin before boiling makes the process very easy.",
+        "If the Panna is not very tangy, you can add some lemon juice to it.",
+        "Boil Mango with mild heat in 1 cup of water.",
+        "You can also roast mango before boiling if needed for crispy taste.",
+        "The subtly smoky flavour in this drink will take it to the next level.",
+        "Strain into the prepared glass.",
+        "Garnish with a parsley sprig, 2 speared green olives and a lime wedge and a celery stalk (optional).",
+        "Inside the glass Dissolve sugar with hot water. Then split 2 oranges and squeeze. Pour in a glass of sugar and stir well. Add ice cubes. And serve it."
+    ],
+    "image": "es-jeruk.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "non-alcoholic",
+        "vegan",
+        "orange"
+    ]
+}

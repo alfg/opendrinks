@@ -3,14 +3,46 @@
     "description": "A Long Island Iced Tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
     "github": "joruchan",
     "ingredients": [
-        "1/2 fluid ounce vodka",
-        "1/2 fluid ounce rum",
-        "1/2 fluid ounce gin",
-        "1/2 fluid ounce tequila",
-        "1/2 fluid ounce triple sec (orange-flavored liqueur)",
-        "1 fluid ounce sweet and sour mix",
-        "1 fluid ounce cola, or to taste",
-        "1 lemon slice"
+        {
+            "quantity": "1/2",
+            "measure": "fluid ounce",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fluid ounce",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fluid ounce",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fluid ounce",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fluid ounce",
+            "ingredient": "triple sec (orange-flavored liqueur)"
+        },
+        {
+            "quantity": "1",
+            "measure": "fluid ounce",
+            "ingredient": "sweet and sour mix"
+        },
+        {
+            "quantity": "1",
+            "measure": "fluid ounce",
+            "ingredient": "cola, or to taste"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon slice"
+        }
     ],
     "directions": [
         "Fill a cocktail shaker with ice.",
@@ -18,5 +50,12 @@
         "Pour cocktail into a Collins or hurricane glass; top with splash of cola for color.",
         "Garnish with a lemon slice."
     ],
-    "image": "long-island-iced-tea.jpg"
+    "image": "long-island-iced-tea.jpg",
+    "keywords": [
+        "long island",
+        "iced tea",
+        "alcoholic",
+        "vodka",
+        "vegan"
+    ]
 }

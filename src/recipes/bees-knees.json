@@ -1,0 +1,36 @@
+{
+    "name": "Bee's Knees",
+    "description": "The recipe allegedly appears in a 1930 edition of San Francisco bartender and author Bill Boothby’s cocktail compendium World Drinks and How to Mix Them. However, other evidence suggests Frank Meier, a bartender at the Ritz Paris, was the cocktail’s original creator. It appears in Meier’s 1936 edition of The Artistry of Mixing Drinks.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "dry gin"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Fine strain into a cocktail class."
+    ],
+    "image": "bees-knees.jpg",
+        "keywords": [
+		"alcoholic",
+		"dry gin",
+		"gin",
+		"lemon",
+		"honey"
+        ]
+    
+}

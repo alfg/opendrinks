@@ -1,0 +1,57 @@
+{
+    "name": "Bajigur",
+    "description": "Bajigur is a warm drink typical of the Sundanese people from the West Java region, Indonesia. Supported ingredients are palm sugar and coconut milk. To add to the enjoyment also mixed with a little ginger, salt and vanilla powder. This hot beverage is usually sold using a stove provided. Bajigur is best for drinking during cold and wet weather after rain. Foods that are often served with bajigur are boiled bananas, boiled yams, or boiled peanuts.",
+    "github": "wfebriad",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "2 tablespoons black coffee"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "1 liter of coconut milk"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "100 grams of brown sugar (fine comb)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "2 tablespoons granulated sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Graham (to taste)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "2 sheets of pandan leaves (tied knot)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cinnamon (to taste, if desired)"
+        }
+    ],
+    "directions": [
+        "Prepare a pan and then boil coconut milk.",
+        "Add brown sugar, granulated sugar and black coffee and stir well.",
+        "Let the sugar and coffee dissolve, wait until it boils.",
+        "Add cinnamon, salt and bay leaf, then stir again until it smells, bring fragrance from wedang bajigur.",
+        "Boil again until boiling then strain and serve while still hot.",
+        "Wedang Bajigur is ready to be enjoyed and warms the body."
+    ],
+    "image": "bajigur.jpg",
+    "keywords": [
+        "tea",
+        "fruit",
+        "non-alcoholic",
+        "vegan"
+    ]
+}

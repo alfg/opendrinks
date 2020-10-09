@@ -1,0 +1,38 @@
+{
+    "name": "Oreo Milkshake",
+    "description": "A creamy and dreamy Oreo Milkshake with the perfect ratio of Oreos to ice cream. ",
+    "github": "Nishtha3512",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "1/2 to 3/4",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "oreo cookies"
+        }
+
+    ],
+    "directions": [
+        "combine ice cream, milk, and 4 of the Oreo cookies in your blender",
+        "Blend until pourable and pour into a glass",
+        "Take one more Oreo cookie and crush it in your hand",
+        "Add the pieces to the the top of your shake,add a straw, and enjoy!",
+        "NOTE:Use 1/2 cup milk for a thicker shake, 3/4 for a thinner one."
+    ],
+    "image": "oreo-milkshake.jpg",
+
+    "keywords": [
+        "oreo cookies",
+        "milk",
+        "vanilla ice cream",
+        "cold"
+	]
+}

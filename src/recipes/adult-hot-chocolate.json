@@ -1,0 +1,41 @@
+{
+    "name": "Adult Hot Chocolate",
+    "description": "Appropriately named 'adult hot chocolate', this recipe is one of the easiest and most common ways to spike your cocoa. To make it, you will simply add a shot of peppermint schnapps to your favorite hot chocolate and a delicious, warm drink is yours to enjoy.",
+    "github": "thesanjeevsharma",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Peppermint Schnapps"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Hot Chocolate"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: ​whipped cream"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: chocolate sprinkles or shaved chocolate"
+        }
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "Pour the schnapps into a warm mug or Irish coffee glass.",
+        "Fill with hot chocolate.",
+        "Stir well.",
+        "Optionally, top with whipped cream and chocolate sprinkles or shaved chocolate.",
+        "Serve and enjoy!"
+    ],
+    "image": "adult-hot-chocolate.jpg",
+    "keywords": [
+      "chocolate",
+      "peppermint",
+      "schnapps"
+    ]
+}

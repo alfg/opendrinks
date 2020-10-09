@@ -1,0 +1,40 @@
+{
+  "name": "Caipiroska",
+  "description": "It's like a Caipirinha but with Vodka.",
+  "github": "marcelosantos89",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "oz",
+          "ingredient": "vodka"
+      },
+      {
+          "quantity": "1",
+          "measure": "tbsp",
+          "ingredient": "granulated white sugar"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "lime (cuted in quarters)"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "cracked ice"
+      }
+  ],
+  "directions": [
+      "Fill a glass with cracked ice",
+      "In a mixing glass, add the sugar and lime quarters",
+      "Muddle to extract the juice without forcing the rind from the lime",
+      "Dump the ice from the glass into the mixing glass, add the vodka, and shake"
+  ],
+  "image": "caipiroska.jpg",
+  "keywords": [
+      "vodka",
+      "lime",
+      "cracked-ice",
+      "vegan"
+  ]
+}

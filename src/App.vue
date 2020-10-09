@@ -1,21 +1,24 @@
 <template>
   <div id="app" class="mb-4">
     <GitHubCorner />
-
     <div class="container mb-4 mt-4">
-      <div class="mb-4">
+      <div class="mb-4 d-flex">
         <h1 class="logo">
           <router-link to="/">
             <img alt="Logo" src="./assets/logo.png" width="50" />
             Open Drinks
           </router-link>
         </h1>
+        <theme-handler class="mt-3 ml-auto mr-4"></theme-handler>
       </div>
 
-      <b-nav tabs>
-        <b-nav-item to="/">Random</b-nav-item>
+      <b-nav tabs align="center">
+        <b-nav-item to="/">Featured</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">Random</b-nav-item>
         <b-nav-item to="/explore">Explore</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">Keywords</b-nav-item>
         <b-nav-item to="/search">Search</b-nav-item>
+        <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
     <router-view />
@@ -24,9 +27,7 @@
       <hr />
       <div>
         View the source or contribute a drink recipe on
-        <a
-          href="https://github.com/alfg/opendrinks"
-        >GitHub</a>!
+        <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
         <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
@@ -37,27 +38,30 @@
 
 <script>
 import GitHubCorner from '@/components/GitHubCorner.vue';
+import ThemeHandler from '@/components/ThemeHandler.vue';
 
 export default {
   name: 'App',
   components: {
     GitHubCorner,
+    ThemeHandler,
+  },
+
+  computed: {
+    isMobile() {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      );
+    },
   },
 };
 </script>
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-}
-
-#app .router-link-exact-active {
-  color: #495057;
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
 }
 
 #nav {
@@ -74,14 +78,20 @@ export default {
 }
 
 .container {
-  max-width: 720px;
+  max-width: 960px;
 }
 
 .logo {
-  font-family: "Pacifico", "cursive";
+  font-family: 'Pacifico', 'cursive';
 }
 .logo a {
   text-decoration: none;
   color: inherit;
+}
+
+@media (max-width: 576px) {
+  .nav {
+    font-size: 0.9rem;
+  }
 }
 </style>

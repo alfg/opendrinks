@@ -1,14 +1,37 @@
 {
-  "name": "Colombian michelada",
-  "description": "A beery contender for mojitos, daiquiris, and margaritas.",
-  "github": "reobin",
-  "ingredients": ["Lime", "Salt", "Good summer beer"],
-  "directions": [
-    "Rim the tip of the glass with lime.",
-    "Dip the glass top into salt.",
-    "Squeeze half a lime into the glass.",
-    "And another.",
-    "Poor the beer in."
-  ],
-  "image": "colombian-michelada.jpg"
+    "name": "Colombian michelada",
+    "description": "A beery contender for mojitos, daiquiris, and margaritas.",
+    "github": "reobin",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Good summer beer"
+        }
+    ],
+    "directions": [
+        "Rim the tip of the glass with lime.",
+        "Dip the glass top into salt.",
+        "Squeeze half a lime into the glass.",
+        "And another.",
+        "Poor the beer in."
+    ],
+    "image": "colombian-michelada.jpg",
+    "keywords": [
+        "lime",
+        "salt",
+        "beer",
+        "alcoholic",
+        "vegan"
+    ]
 }

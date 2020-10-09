@@ -1,0 +1,46 @@
+{
+    "name": "Irish Winter Spiked Coffee",
+    "description": "The Irish winter recipe offers a wonderful way to spike your coffee. It's a subtle transformation of the classic Irish coffee and is so easy to make that you'll be mixing it up regularly.",
+    "github": "divyhshah",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "Irish Whiskey"
+        },
+        
+        {
+            "quantity": "3/4",
+            "measure": "ounces",
+            "ingredient": "coffee liqueur"
+        },
+
+        {
+            "quantity": "3/4",
+            "measure": "ounces",
+            "ingredient": "Irish cream liqueur"
+        },
+
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "coffee"
+        }
+        
+    
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "In a warm mug or Irish coffee glass, pour the Irish whiskey, coffee liqueur, and Irish cream.",
+        "Fill with hot coffee.",
+        "Stir to combine",
+        "Top with whipped cream."
+    ],
+    "image": "irish-winter.jpg",
+    "keywords": [
+        "coffee",
+        "irish",
+        "winter",
+        "Spiked"
+    ]
+}

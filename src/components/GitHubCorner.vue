@@ -1,6 +1,10 @@
 <template>
   <!-- http://tholman.com/github-corners/  -->
-  <a href="https://github.com/alfg/opendrinks" class="github-corner" aria-label="View source on GitHub">
+  <a
+    href="https://github.com/alfg/opendrinks"
+    class="github-corner"
+    aria-label="View source on GitHub"
+  >
     <svg
       width="80"
       height="80"
