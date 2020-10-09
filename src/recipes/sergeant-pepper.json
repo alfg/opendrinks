@@ -1,7 +1,7 @@
 {
     "name": "Sergeant Pepper",
-    "description": "<Usually Pineapple drinks are monotonous, sweet and simple, but then comes Sergeant Pepper. A unique fusion of Indian Spices and Pineapple, Sergeant Pepper is mellow and tart. A touch of Almond makes drink unique nd savory>",
-    "github": "<vybhav72954>",
+    "description": "Usually Pineapple drinks are monotonous, sweet and simple, but then comes Sergeant Pepper. A unique fusion of Indian Spices and Pineapple, Sergeant Pepper is mellow and tart. A touch of Almond makes drink unique nd savory",
+    "github": "vybhav72954",
     "ingredients": [
         {
             "quantity": "4",
@@ -63,7 +63,7 @@
         "Add Ic Cubes, Shake well",
         "Strain and Serve immediately"
     ],
-    "image": "<sergeant-pepper.jpg>",
+    "image": "sergeant-pepper.jpg>",
     "keywords": [
         "gin",
         "pineapple",
