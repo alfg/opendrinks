@@ -3,7 +3,11 @@
     "description": "Great for a cold day, any day.",
     "github": "KevinLu",
     "ingredients": [
-        "Water"
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
     ],
     "directions": [
         "Take your water and put it in the kettle (as much or as little as you want).",
