@@ -1,6 +1,6 @@
 {
     "name": "Sergeant Pepper",
-    "description": "Usually Pineapple drinks are monotonous, sweet and simple, but then comes Sergeant Pepper. A unique fusion of Indian Spices and Pineapple, Sergeant Pepper is mellow and tart. A touch of Almond makes drink unique nd savory",
+    "description": "Usually Pineapple drinks are monotonous, sweet and simple, but then comes Sergeant Pepper. A unique fusion of Indian Spices and Pineapple, Sergeant Pepper is mellow and tart. A touch of Almond makes drink unique, creamy and savory.",
     "github": "vybhav72954",
     "ingredients": [
         {
@@ -55,15 +55,15 @@
         }
     ],
     "directions": [
-        "The Ingredients are for 2 servings of Sergeant Pepper",
+        "The Ingredients are for 2 servings of Sergeant Pepper.",
         "On a Saucepan, toast cumin seeds until they just begin to darken.",
         "Add water, sugar, and black pepper, regularly stir to dissolve sugar.",
-        "Simmer for 15 minutes, strain, and let cool, This is the Cumin-Pepper Syrup",
-        "Add Pineapple Juice, Orgeat, Lime Juice, Cumin-Pepper Syrup, Gin and some extra pepper according to taste",
-        "Add Ice Cubes, Shake well",
-        "Strain and Serve immediately"
+        "Simmer for 15 minutes, strain, and let cool, This is the Cumin-Pepper Syrup.",
+        "Add Pineapple Juice, Orgeat, Lime Juice, Cumin-Pepper Syrup, Gin and some extra pepper according to taste.",
+        "Add Ice Cubes, Shake well.",
+        "Strain and Serve immediately."
     ],
-    "image": "sergeant-pepper.jpg>",
+    "image": "sergeant-pepper.jpg",
     "keywords": [
         "gin",
         "pineapple",
