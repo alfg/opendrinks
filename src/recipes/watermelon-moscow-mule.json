@@ -20,11 +20,12 @@
         },
         {"quantity": "",
         "measure": "",
-        "ingredient": "Mint leaves"}
+        "ingredient": "Mint leaves"},
         
         {"quantity": "",
         "measure": "",
-        "ingredient": "Ice cubes"}
+        "ingredient": "Ice cubes"},
+        
         {"quantity": "",
             "measure": "",
             "ingredient": "Slice of lime"}
@@ -40,6 +41,6 @@
         "alcoholic",
         "refreshing",
         "ginger beer",
-        "vodka",
+        "vodka"
     ]
 }
