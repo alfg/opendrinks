@@ -46,7 +46,7 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
   * Filename should match recipe filename
   * JPG format, **600x400px** if possible, 200KB max in size
 * source is an optional field
-* Check your raw JSON file with [JSONLint](https://jsonlint.com/) to make sure that the your JSON file is valid.
+* Check your raw JSON file with [JSONLint](https://jsonlint.com/) to make sure that your JSON file is valid.
 * Submit a Pull Request with your recipe! 
 * An automated preview link will be generated towards the bottom of the PR so your changes can be previewed while in review.
 * Once approved and merged, the latest update will be published to https://opendrinks.io
