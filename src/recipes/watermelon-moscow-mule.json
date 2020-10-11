@@ -25,7 +25,10 @@
         {"quantity": "",
         "measure": "",
         "ingredient": "Ice cubes"},
+<<<<<<< HEAD
         
+=======
+>>>>>>> 88213de5ff6bdc8d22360a4f5a9b576319ddfe09
         {"quantity": "",
             "measure": "",
             "ingredient": "Slice of lime"}
@@ -35,7 +38,7 @@
         "Add Watermelon, Vodka and ice into shaker and shake for 30 seconds",
         "Pour over ice in mule mug and top it off with ginger beer. Add mint leaves and a slice of lime and enjoy!"
     ],
-    "image": "<watermelon-moscow-mule.jpg>",
+    "image": "watermelon-moscow-mule.jpg",
     "keywords": [
         "classic",
         "alcoholic",
