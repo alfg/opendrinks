@@ -103,8 +103,8 @@
       <h4>Similar drinks</h4>
       <b-card-group deck>
         <RecipeTile
-          v-for="(similarRecipe, i) in similarRecipes"
-          v-bind:key="i"
+          v-for="similarRecipe in similarRecipes"
+          v-bind:key="similarRecipe.id"
           v-bind:id="similarRecipe.id"
         />
       </b-card-group>
@@ -137,13 +137,18 @@ export default {
     name(newVal) {
       this.getRecipe(newVal);
       window.document.title = `Open Drinks - ${this.drink.name}`;
+
+      this.getFavorites();
+      this.getSimilarRecipes(newVal).then(data => {
+        this.similarRecipes = data;
+      });
     },
   },
   data() {
     return {
       json: {},
       drink: {},
-      similarRecipes: {},
+      similarRecipes: [],
       badgeStyle: {
         'margin-right': '0.2vw',
       },
@@ -151,19 +156,21 @@ export default {
       favorites: [],
     };
   },
-  async created() {
+  created() {
     this.getRecipe(this.name);
-    window.document.title = `Open Drinks - ${this.drink.name}`;
-    this.similarRecipes = (await recipes.getSimilarRecipe(this.name)).slice(
-      0,
-      NUMBER_OF_SIMILAR_RECIPES,
-    );
-    this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
-    if (this.favorites.indexOf(this.drink.name) !== -1) {
-      this.isFavorited = true;
-    }
+    this.getFavorites();
+    this.getSimilarRecipes(this.name).then(data => {
+      this.similarRecipes = data;
+    });
   },
   methods: {
+    async getSimilarRecipes(name) {
+      return (await recipes.getSimilarRecipe(name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
+    },
+    getFavorites() {
+      this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
+      this.isFavorited = this.favorites.indexOf(this.drink.name) !== -1;
+    },
     getRecipe(name) {
       const drink = recipes.getRecipe(name);
       this.drink = drink;
