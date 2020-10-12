@@ -1,0 +1,49 @@
+{
+    "name": "Cucumber Gin",
+    "description": "Original and refreshing, discover the gin tonic with cucumber, mint and lime! A delicate and fragrant cocktail that is perfect for the aperitif.",
+    "github": "JoshuaMart",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "cl",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "32",
+            "measure": "cl",
+            "ingredient": "Tonic water"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "3",
+            "measure": "Strips",
+            "ingredient": "Fresh cucumber"
+        },
+        {
+            "quantity": "8",
+            "measure": "cl",
+            "ingredient": "mint syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Place the ice cubes and cucumber slices in a large glass.",
+        "Sprinkle with mint syrup and then add the gin and tonic water. Accompany the cocktail with a zest of lime.",
+        "Add a slice of lemon and enjoy its delicious flavor."
+    ],
+    "image": "cucumber-gin.jpg",
+    "keywords": [
+        "gin",
+        "tonic",
+        "cucumber",
+        "lemon"
+    ]
+}

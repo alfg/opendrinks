@@ -1,0 +1,65 @@
+{
+    "name": "Hibiscus Cherry Vodka Spritz",
+    "description": "Delicious and perfect for warm summer days.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "fresh cherries"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "dried hibiscus flowers"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "tablespoons",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "lemon: juiced"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sparkling water for topping"
+        }
+    ],
+    "directions": [
+        "Add the cherries to a medium size pot.",
+        "Use a muddler or a fork to mash the cherries up until they are almost pulp like.",
+        "Add 1 cup of water and bring to a boil over high heat.",
+        "Remove from the heat, add the hibiscus flowers.",
+        "Cover and let steep for 10 minutes.",
+        "Strain into a pitcher, pressing out any juice from the cherries with a fork, discard the hibiscus flowers and cherries.",
+        "Add the honey, lemon juice, pineapple juice, and vodka.",
+        "Chill until ready to serve.",
+        "To serve, pour over ice and top with sparkling water.",
+        "Cheers!"
+    ],
+    "image": "hibiscus-cherry-vodka-spritz.jpg",
+    "source": "https://www.halfbakedharvest.com/hibiscus-cherry-vodka-spritz/",
+    "keywords": [
+        "tequila",
+        "summer",
+        "vodka",
+        "alcoholic",
+        "cherry",
+        "hibiscus"
+
+    ]
+}

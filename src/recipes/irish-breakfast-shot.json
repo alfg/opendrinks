@@ -1,0 +1,29 @@
+{
+    "name": "Irish Breakfast Shot",
+    "description": "Orange Juice and Jameson, in a shot",
+    "github": "cbowersock",
+    "ingredients": [
+        {
+            "quantity": "2oz",
+            "measure": "shot glass",
+            "ingredient": "Jameson Irish Whiskey"
+        },
+        {
+            "quantity": "1oz",
+            "measure": "shot glass",
+            "ingredient": "Orange Juice"
+        }
+    ],
+    "directions": [
+        "Pour 2oz of Jameson into a small highball glass",
+        "Add 1oz of orange juice and stir",
+        "You're done!"
+    ],
+    "image": "irish-breakfast-shot.jpg",
+    "keywords": [
+        "jameson",
+        "orange",
+        "juice",
+        "shot"
+    ]
+}

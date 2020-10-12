@@ -11,7 +11,7 @@
         {
             "quantity": "3/4",
             "measure": "fl oz",
-            "ingredient": "Cherry"
+            "ingredient": "Cherry liqueur"
         },
         {
             "quantity": "3/4",
@@ -52,6 +52,8 @@
         "cherry flavoured liqueur",
         "sweet vermouth",
         "scotch",
-        "alcoholic"
+        "alcoholic",
+        "classic",
+        "fruit"
 	]
 }

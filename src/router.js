@@ -9,7 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: 'random',
+      name: 'home',
+      component: () => import('./views/Featured.vue'),
+    },
+    {
+      path: '/featured',
+      name: 'featured',
+      component: () => import('./views/Featured.vue'),
     },
     {
       path: '/random',
@@ -50,6 +56,11 @@ export default new Router({
       path: '/favorites',
       name: 'favorites',
       component: () => import('./views/Favorites.vue'),
+    },
+    {
+      path: '*',
+      name: '404',
+      component: () => import('./views/PageNotFound.vue'),
     },
   ],
 });

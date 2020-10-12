@@ -1,0 +1,47 @@
+{
+    "name": "Cucumber Lime Mint Agua Fresca",
+    "description": "Cool and refreshing agua fresca made with cucumbers, lime, and mint",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cucumbers (ends trimmed, but peel still on, coarsely chopped)"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "lime juice from fresh limes"
+        },
+        {
+            "quantity": "1.25",
+            "measure": "cup",
+            "ingredient": "packed (spearmint) mint leaves, woody stems removed"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1.25",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Put the ingredients in a blender, add enough water to fill 3/4 of the blender. Hold the lid on the blender and purée until smooth.",
+        "Place a fine mesh sieve over a bowl and pour the purée through it, pressing against the sieve with a rubber spatula or the back of a spoon to extract as much liquid out as possible.",
+        "Fill a large pitcher halfway with ice cubes. Add the juice. Serve with sprigs of mint and slices of lime."
+    ],
+    "image": "cucumber-lime-mint-agua-fresca.jpg",
+    "source": "https://www.simplyrecipes.com/recipes/cucumber_lime_mint_agua_fresca",
+    "keywords": [
+        "non-alcoholic"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Dawet",
+    "description": "Dawet is a special drink from Javanese Island, its made from rice flour and cornstarch. It serve with brown sugar sauce.",
+    "github": "pratamawijaya",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "gr",
+            "ingredient": "Rice Flours"
+        },
+        {
+            "quantity": "15",
+            "measure": "gr",
+            "ingredient": "Cornstarch"
+        },
+        {
+            "quantity": "300",
+            "measure": "ml",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Prepare ingredients, mix all ingredients until there are no lumps of flour",
+        "Turn on the low heat, stir until the mixture begins to thicken and weigh, turn off the heat, prepare ice cubes and give enough water in a rather large container, to print the cendol mixture with cendol mold.",
+        "For the sugar sauce: boil all ingredients until the sugar dissolves stir and strain.",
+        "For the coconut milk: boil all ingredients to boil and take the leaf leaves to wait for cold, prepare and arrange cendol along with sugar sauce and coconut milk according to taste."
+    ],
+    "image": "dawet-rice-flours.jpg",
+    "source": "https://cookpad.com/us/recipes/7470969-cendol-manis-dawet?via=search&search_term=dawet",
+    "keywords": [
+        "sweet",
+        "traditional"
+    ]
+}

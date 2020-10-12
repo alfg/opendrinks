@@ -1,0 +1,39 @@
+{
+    "name": "Clover Club Cocktail",
+    "description": "A delicious pre-prohibition cocktail where the signature ingredient is raspberry",
+    "github": "jaybob007",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "fl oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fl oz",
+            "ingredient": "Fresh Lemon Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fl oz",
+            "ingredient": "Raspberry Syrup"
+        },
+        {   "quantity": "1",
+            "measure" : "",
+            "ingredient": "Egg White"
+        }
+    ],
+    "directions": [
+        "Combine ingredients into a shaker with ice.",
+        "Strain into chilled glass.",
+        "Garnish with 3 speared rasberries."
+    ],
+    "image": "clover-club-cocktail.jpg",
+    "source": "https://www.liquor.com/recipes/clover-club/",
+    "keywords": [
+        "raspberry",
+        "cocktail",
+        "gin",
+        "alcoholic"
+    ]
+}

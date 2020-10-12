@@ -1,0 +1,40 @@
+{
+  "name": "Chocolate Milk",
+  "description": "A simple chocolate beverage with just four ingredients",
+  "github": "Vertigeux",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "tablespoon (5g)",
+      "ingredient": "Cocoa Powder"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon",
+      "ingredient": "Water"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "Milk"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon (12g)",
+      "ingredient": "Sugar"
+    }
+  ],
+  "directions": [
+    "In a microwave-safe cup or mug, combine cocoa powder and water.",
+    "Microwave for 15 to 20 seconds, until steaming, and stir until very smooth.",
+    "Add 1/4 cup of the milk and the sugar, and microwave for an additional 15 to 30 seconds, until steaming.",
+    "Stir until completely mixed.",
+    "Stir in remaining milk and enjoy."
+  ],
+  "image": "chocolate-milk.jpg",
+  "keywords": [
+    "chocolate",
+    "milk",
+    "non-alcoholic"
+  ]
+}

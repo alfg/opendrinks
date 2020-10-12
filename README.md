@@ -2,7 +2,7 @@
 
 > Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
-https://opendrinks.netlify.com/
+https://opendrinks.io/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
 [![Build Status](https://travis-ci.org/alfg/opendrinks.svg?branch=master)](https://travis-ci.org/alfg/opendrinks)
@@ -21,7 +21,7 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Check existing recipes in [/src/recipes](/src/recipes)
 - Fork and make a pull request with your drink recipe
-- Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.netlify.com
+- Once your Pull Request is approved and merged, the latest update will be published to https://opendrinks.io
 
 Also check out [Issues](https://github.com/alfg/opendrinks/issues) for any open bug fixes or feature requests!
 
@@ -79,4 +79,4 @@ docker run -it -p 8080:80 --rm opendrinks
 
 ## License
 
-MIT
+All source code, contributed recipes and content are licensed under the [MIT License](https://github.com/alfg/opendrinks/blob/master/LICENSE).

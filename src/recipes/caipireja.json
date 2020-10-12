@@ -1,0 +1,41 @@
+{
+    "name": "Caipireja",
+    "description": "A typical brazilian drink, good for hot days!",
+    "github": "SantosMatheusGR",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Lemons",
+            "ingredient": ""
+        },
+        {
+            "quantity": "1",
+            "measure": "can of",
+            "ingredient": "beer"
+        },
+        {
+            "quantity": "120",
+            "measure": "mls",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+
+        }
+    ],
+    "directions": [
+        "Squeeze the juice of 1 lemon, and chop the other into pieces.",
+        "Place the lemon juice and chopped lemons in a cocktail shaker and mash the lemon.",
+        "Add sugar and vodka, shake it.",
+        "Transfer the mixture to a glass and, slowly, add beer."
+    ],
+    "image": "caipireja.jpg",
+    "keywords": [
+        "beer",
+        "vodka",
+        "brazil",
+        "lemon"
+    ]
+}

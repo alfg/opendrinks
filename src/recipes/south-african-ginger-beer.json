@@ -1,0 +1,46 @@
+{
+    "name": "South African Ginger Beer",
+    "description": "We consider Ginger Beer good only if it slightly burns your throat",
+    "github": "lalawuhan",
+    "ingredients": [
+        {
+            "quantity": "200",
+            "measure": "grams",
+            "ingredient": "White Sugar"
+        },
+        {
+            "quantity": "8",
+            "measure": "Cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "Teaspoons",
+            "ingredient": "Ground Ginger"
+        },
+        {
+            "quantity": "75",
+            "measure": "grams",
+            "ingredient": "Grated Ginger"
+        },
+        {
+            "quantity": "¼",
+            "measure": "Teaspoons",
+            "ingredient": "Tartaric acid"
+        }
+    ],
+    "directions": [
+        "Heat the sugar and 1⁄2 cup water in a saucepan, stirring continually until the sugar has dissolved without coming to a boil. ",
+        "Add ginger, tartaric acid and bring to a simmer. ",
+        "Simmer for 7 minutes, or until the mixture has thickened.",
+        "Mix the syrup with the remaining water and transfer to a 2 litre container or bottle",
+        "Place in a warm place for two days, and open the bottle every 12 hours to allow some gas to escape.",
+        "Once fermented, strain and chill drink. Serve with ice."
+    ],
+    "image": "south-african-ginger-beer.jpg",
+    "keywords": [
+        "ginger beer",
+        "south african",
+        "fermented"
+    ]
+}

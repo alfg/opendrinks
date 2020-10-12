@@ -35,7 +35,7 @@
         "Fine strain into a chilled cocktail glass.",
         "Garnish with a raspberry."
     ],
-    "image": "french-martini.png",
+    "image": "french-martini.jpg",
     "source": "https://www.greygoose.com/en-gb/cocktails/grey-goose-vodka/french-martini-cocktail.html",
     "keywords":[
         "alcoholic",
@@ -43,5 +43,6 @@
         "sweet",
         "vodka",
         "chambord"
+
     ]
 }

@@ -1,0 +1,42 @@
+{
+    "name": "Strawberry Sunrise Smoothie",
+    "description": "This smoothie combines a trifecta of must-have qualities in any great smoothie and will truly brighten up the start to your day.",
+    "github": "VesnaTrifunoska",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "frozen strawberries"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "almond milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "frozen mangoes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "freshly-squeezed orange juice"
+        }
+    ],
+    "directions": [
+        "In a blender, combine the strawberries and almond milk and blend until smooth. Scrape off and pour the contents in three separate glasses.",
+        "Keep the glasses in the freezer for at least 20 minutes to help separate the next layer.",
+        "Next, combine the mangoes and orange juice in the blender and blend until smooth. Pour the contents in the glasses.",
+        "Serve immediately."
+    ],
+    "image": "strawberry-sunrise-smoothie.jpg",
+    "source": "https://skinnyms.com/strawberry-sunrise-smoothie-recipe/",
+    "keywords": [
+        "smoothie",
+        "strawberry",
+        "mango",
+        "orange juice",
+        "ice"
+    ]
+}

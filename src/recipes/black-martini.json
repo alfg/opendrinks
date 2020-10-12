@@ -1,0 +1,36 @@
+{
+    "name": "Black Martini",
+	"description": "Black Martini is a famous cocktail beverage served at parties and special occasions, with plenty of variations.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "black sambuca"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon twist"
+        }
+    ],
+    "directions": [
+		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Strain into a cocktail glass.",
+		"Garnish with a lemon twist."
+    ],
+    "image": "black-martini.jpg",
+        "keywords": [
+		"alcoholic",
+		"gin",
+		"lemon",
+		"sambuca"
+        ]
+    
+}

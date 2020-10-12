@@ -31,12 +31,12 @@
         {
             "quantity": "1",
             "measure": "sheet",
-            "ingredient": "pandan leaves (before use, clean first)"  
+            "ingredient": "pandan leaves (before use, clean first)"
         },
         {
             "quantity": "",
             "measure": "",
-            "ingredient": "Vanilla sweetened condensed milk (optional)" 
+            "ingredient": "Vanilla sweetened condensed milk (optional)"
         }
     ],
     "directions": [
@@ -50,5 +50,11 @@
 
     ],
     "image": "bandrek.jpg",
-    "source": "https://www.liputan6.com/lifestyle/read/3858911/cara-membuat-bandrek-susu-minuman-penghangat-badan-di-musim-hujan"
+    "source": "https://www.liputan6.com/lifestyle/read/3858911/cara-membuat-bandrek-susu-minuman-penghangat-badan-di-musim-hujan",
+    "keywords": [
+      "fresh",
+      "vegan",
+      "non-alcoholic"
+    ]
+
 }

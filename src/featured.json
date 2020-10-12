@@ -1,0 +1,174 @@
+﻿[
+  {
+    "title": "Popular Drinks",
+    "description": "Popular drinks never going out of style!",
+    "items": [
+      "old-fashioned", 
+      "margarita", 
+      "cosmopolitan",
+      "negroni",
+      "moscow-mule",
+      "mojito",
+      "manhattan",
+      "mimosa",
+      "gimlet",
+      "sidecar",
+      "french-75",
+      "dark-and-stormy",
+      "daiquiri"
+    ],
+    "size": 12
+  },
+  {
+    "title": "Holiday Drinks",
+    "description": "Cozy drinks to warm your heart and get you in holiday mood",
+    "items": [
+      "christmas-tonic",
+      "white-christmas-mojito"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Everything is Chocolate",
+    "description": "All drink made from chocolate",
+    "items": [
+        "chocolate-milk",
+        "chocolate-monkey",
+        "clavis-riga",
+        "dom-pedro",
+        "indonesian-avocado-milkshake"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Halloween Drinks",
+    "description": "👻 Spooky Drinks for October! 👻",
+    "items": [
+      "zombie",
+      "witches-heart",
+      "bloody-kirby",
+      "seven-devils",
+      "corpse-reviver-no2",
+      "cuban-zombie",
+      "vampiro",
+      "drunken-peanut-butter-cups"
+    ],
+    "size": 6,
+    "enabled": false
+  },
+  {
+    "title": "Under the Weather Drinks",
+    "description": "Drinks to help you warm up when you're sick, or just to help boost your immune system! 🤧🤧",
+    "items": [
+      "bandrek",
+      "beer-pletok",
+      "bloody-mary",
+      "corn-juice",
+      "gazpacho",
+      "ginger-milk-tea",
+      "golden-glow-water",
+      "honey-carrot",
+      "hot-toddy",
+      "indonesian-avocado-milkshake",
+      "jamun-shots",
+      "kenyan-dawa",
+      "london-fog",
+      "medicine-ball-tea",
+      "mulled-apple-crumble-cider",
+      "rusty-nail",
+      "rye-tai",
+      "sangria",
+      "warm-lemon-honey-tea"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Hot Weather drinks",
+    "description": "Refreshing cocktails for those hot days of summer",
+    "items": [
+      "cuba-libre",
+      "mojito",
+      "blue-lady",
+      "daiquiri",
+      "mango-daiquiri",
+      "sunshine-cocktail",
+      "margarita",
+      "pineapple-lime-beer-margarita",
+      "pink-grapefruit-margarita",
+      "sangria",
+      "negroni",
+      "paloma",
+      "sidecar",
+      "pina-colada",
+      "gin-tonic",
+      "lemonade",
+      "watermelon-lemonade",
+      "bourbon-lemonade",
+      "mai-tai",
+      "caipirinha",
+      "caipiroska",
+      "tequila-sunrise",
+      "mint-julep",
+      "bellini",
+      "cosmopolitan",
+      "pisco-sour",
+      "zombie"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Strong Drinks",
+    "description": "Super strong alcoholic drinks that make you forget all about your troubles",
+    "items": [
+      "long-island-iced-tea",
+      "zombie",
+      "black-russian"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Milky Heaven",
+    "description": "Drinks which do contain milk",
+    "items": [
+      "bajigur",
+      "banana-smoothie",
+      "bandrek",
+      "barraquito",
+      "brazilian-strawberry-drink",
+      "buttermilk",
+      "chikoo-lassi",
+      "chocolate-milk",
+      "chocolate-monkey",
+      "ginger-milk-tea",
+      "cold-coffee",
+      "drunken-peanut-butter-cups",
+      "ginger-milk-tea",
+      "indonesian-avocado-milkshake",
+      "london-fog",
+      "mango-mastani",
+      "masala-chai",
+      "noon-chai",
+      "orange-glorius",
+      "oreo-milkshake",
+      "peanut-butter-banana-smoothie",
+      "royal-milk-tea",
+      "thandai",
+      "yogurt-fruit-shake"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Homecoming Drinks",
+    "description": "Celebrate your alma mater with these team favorites!",
+    "items": [
+      "amf",
+      "hurricane",
+      "long-island-iced-tea",
+      "sex-on-the-beach",
+      "tequila-sunrise",
+      "trash-can",
+      "vodka-lemonade-punch"
+    ],
+    "size": 6
+  }
+]

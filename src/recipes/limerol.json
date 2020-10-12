@@ -1,0 +1,45 @@
+{
+    "name": "Limerol",
+    "description": "A summertime drink with watermelon and Aperol, bittersweet and fruity.",
+    "github": "bibliofilo",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "lemon"
+        },
+        {
+            "quantity": "15",
+            "measure": "gr",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "60",
+            "measure": "gr",
+            "ingredient": "watermelon"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "crushed ice"
+        }
+    ],
+    "directions": ["Clean the lime with hot water, dry and cut it into bits, then throw them into a long glass. Add sugar and mix well with the lemon juice.",
+        "Remove the watermelon pulp and cut it into cubes. Pour it into a blender with the Aperol and mix.",
+        "Fill the glass with 1/3 picked ice. Add the watermelon mix and stir well. Add the cava and serve with a straw."
+    ],
+    "image": "limerol.jpg",
+    "source": "https://archive.org/details/isbn_9788424117672/page/20",
+    "keywords": [
+        "alcoholic",
+        "bitter",
+        "juice",
+        "vegan",
+        "cold"
+    ]
+}

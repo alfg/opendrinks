@@ -1,0 +1,53 @@
+{
+    "name": "Blood Orange Champagne Mule",
+    "description": "A cocktail perfect for every occasion.",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "piece",
+            "ingredient": "medium blood orange: juiced"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "piece",
+            "ingredient": "lime: juiced"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "8",
+            "measure": "pieces",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "chilled ginger beer"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "chilled champagne for topping"
+        }
+    ],
+    "directions": [
+        "In a glass, combine the blood orange juice, lime juice and vodka.",
+        "Add the ginger beer and top with the champagne.",
+        "Garnish with blood orange slices and fresh mint.",
+        "Cheers!"
+    ],
+    "image": "blood-orange-champagne-mule.jpg",
+    "source": "https://www.halfbakedharvest.com/blood-orange-champagne-mule/",
+    "keywords": [
+        "orange",
+        "champagne",
+        "vodka",
+        "ginger beer",
+        "alcoholic",
+        "vegan"
+    ]
+}

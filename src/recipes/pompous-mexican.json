@@ -1,0 +1,34 @@
+{
+    "name": "Pompous Mexican",
+    "description": "A cocktail made from Mexican beer, gin and lemon juice.",
+    "github": "cencristian",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "12 oz",
+            "ingredient": "Corona lager"
+        },
+        {
+            "quantity": "",
+            "measure": "3/4 oz",
+            "ingredient": "Tanqueray gin"
+        },
+        {
+            "quantity": "",
+            "measure": "3/4 oz",
+            "ingredient": "Lemon Juice"
+        }
+    ],
+    "directions": [
+        "Take a sip (or pour out) a small amount of the Corona, down to where the neck widens, creating room for the other ingredients.",
+        "Carefully pour the Tanqueray & lemon juice into the bottle of Corona.",
+        "Cap the bottle tightly with your thumb, invert until the ingredients mix fully.",
+        "Drink and enjoy."
+    ],
+    "image": "pompous-mexican.jpg",
+    "keywords": [
+        "lime",
+        "beer",
+        "alcoholic"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "Woo Woo",
+	"description": "The Woo Woo is a fun cocktail on many levels. Every time you make or order it, you get to say \"Woo Woo\"!",
+	"github": "christiannye",
+	"ingredients": [
+		{
+			"quantity": "1",
+			"measure": "oz",
+			"ingredient": "Vodka"
+		},
+		{
+			"quantity": "1",
+			"measure": "oz",
+			"ingredient": "Peach Schnapps"
+		},
+		{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "Cranberry Juice"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Garnish: Lime Wedge"
+		}
+	],
+	"directions": [
+		"Gather the ingredients.",
+		"Place the ingredients into a cocktail shaker with ice cubes.",
+		"Shake well.",
+		"Strain into a chilled cocktail glass or a highball filled with fresh ice.",
+		"Garnish with a lime wedge.",
+		"Serve and enjoy!"
+	],
+	"image": "woo-woo.jpg",
+	"source": "https://www.thespruceeats.com/woo-woo-cocktail-recipe-759852",
+	"keywords": [
+		"alcoholic",
+		"cocktail",
+		"vodka",
+		"peach",
+		"fruity"
+	]
+}

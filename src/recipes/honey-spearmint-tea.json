@@ -1,0 +1,32 @@
+{
+  "name": "Honey Spearmint Tea",
+  "description": "Tea that helps soothe your throat",
+  "github": "zMrKrabz",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "Spearmint Tea"
+      },
+      {
+          "quantity": "1-2",
+          "measure": "teaspoon",
+          "ingredient": "Honey"
+      }
+  ],
+  "directions": [
+      "Boil water",
+      "Pour boiling water into a teapot, then add tea bag",
+      "After a few minutes, pour tea into a cup",
+      "Add 1-2 teaspoons of honey tot he cup",
+      "Stir, making the honey somewhat dissolve",
+      "Enjoy"
+  ],
+  "image": "honey-spearmint-tea.jpg",
+  "source": "https://articles.mercola.com/teas/spearmint-tea.aspx",
+  "keywords": [
+      "tea",
+      "sweet",
+      "mint"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Between the Sheets",
+  "description": "Also known as the Maiden’s Prayer, Between the Sheets is a flirty cocktail for sexy people!",
+  "github": "kissu",
+  "ingredients": [
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "Light rum"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "Brandy"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "Triple sec"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "Lemon juice"
+    }
+  ],
+  "directions": [
+    "Pour ingredients into a cocktail shaker with ice cubes",
+    "Shake well",
+    "Strain and pour into a martini glass",
+    "Garnish with the lemon twists"
+  ],
+  "image": "between-the-sheets.jpg",
+  "source": "http://blog.tripbase.com/8-most-exotic-cocktails-in-the-world-and-how-to-make-them/",
+  "keywords": [
+    "lime",
+    "strong",
+    "sour",
+    "cocktail"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Lavender Basil Lemonade",
+    "description": "Refreshing and perfect for summertime sipping!",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "dried lavender"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "basil: roughly chopped and more for garnishing"
+        },
+        {
+            "quantity": "1/3 - 1/2",
+            "measure": "cup",
+            "ingredient": "honey or coconut or granulated sugar"
+        },
+        {
+            "quantity": "5",
+            "measure": "cups",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "freshly squeezed lemon juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice for serving"
+        }
+    ],
+    "directions": [
+        "In a small sauce pan bring the lavender and 2 cups water to a boil.",
+        "If you are using coconut or granulated sugar, add the sugar to the water as well.",
+        "Once the water is boiling remove from the heat and add the basil, cover and steep for 10 minutes.",
+        "Meanwhile squeeze the lemon juice into a tall glass pitcher.",
+        "Stir in the honey (unless you already added sugar earlier).",
+        "Stir in 3 cups water.",
+        "Once the basil has steeped, strain the mixture into the pitcher with the lemon juice.",
+        "Stir well and then taste.",
+        "If the lemonade tastes sweet, add water, if it tastes too tart, add honey, 1 tablespoon at a time, until the lemonade is just right.",
+        "1/3 cup honey works great.",
+        "Place in the fridge until well chilled.",
+        "To serve, pour the lemonade over a glass of crushed ice.",
+        "Garnish with lavender and basil.",
+        "Serve and enjoy!"
+    ],
+    "image": "lavender-basil-lemonade.jpg",
+    "source": "https://www.halfbakedharvest.com/lavender-basil-lemonade/",
+    "keywords": [
+        "lavender",
+        "basil",
+        "lemonade",
+        "non-alcoholic",
+        "cold"
+    ]
+}

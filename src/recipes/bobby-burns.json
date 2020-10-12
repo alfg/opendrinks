@@ -1,0 +1,42 @@
+{
+    "name": "Bobby Burns",
+	"description": "A whisky-based cocktail named after the scottish poet and lyricist.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "scotch whisky"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "benedictine D.O.M."
+        },
+		{
+			"quantity": "1",
+			"measure": "",
+			"ingredient": "lemon twist"
+		}
+    ],
+    "directions": [
+		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Fine strain into a cocktail glass.",
+		"Garnish with a lemon twist."
+    ],
+    "image": "bobby-burns.jpg",
+        "keywords": [
+		"alcoholic",
+		"whisky",
+		"sweet vermouth",
+		"benedictine dom",
+        "lemon"
+        ]
+    
+}

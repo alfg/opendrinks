@@ -1,0 +1,38 @@
+{
+    "name": "White Lady",
+    "description": "She may look delicate, but this is one strong woman.",
+    "github": "arthursvpb",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Orange liqueur"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Fresh lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Fresh egg white"
+        }
+    ],
+    "directions": [
+        "Add all ingredients into a shaker with ice and shake.",
+        "Strain into a chilled cocktail glass."
+    ],
+    "image": "white-lady.jpg",
+    "keywords": [
+        "gin",
+        "strong",
+        "shaken",
+        "classics"
+    ]
+}

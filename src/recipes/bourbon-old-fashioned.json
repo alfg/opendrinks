@@ -10,7 +10,7 @@
             "ingredient": "sugar"
         },
         {
-            "quantity": "1>",
+            "quantity": "1",
             "measure": "tsp",
             "ingredient": "water"
         },
@@ -34,6 +34,7 @@
     "source": "https://www.liquor.com/recipes/bourbon-old-fashioned/#gs.892391",
     "keywords": [
         "bourbon",
-        "bourbon old-fashioned"
+        "bourbon old-fashioned",
+        "vegan"
     ]
 }

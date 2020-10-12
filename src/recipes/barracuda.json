@@ -1,0 +1,48 @@
+{
+    "name": "Barracuda",
+    "description": "A well known cocktail of unknown origins, thought to date from the 1970s.",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "gold rum"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "galliano"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "lime juice"
+        },
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "prosecco"
+		}
+    ],
+    "directions": [
+		"Shake first 4 ingredients with ice.",
+		"Fine strain into a cocktail glass.",
+		"Top with Prosecco"
+    ],
+    "image": "barracuda.jpg",
+        "keywords": [
+		"rum",
+        "galliano",
+		"pineapple",
+		"alcoholic",
+		"lime",
+		"prosecco"
+        ]
+    
+}

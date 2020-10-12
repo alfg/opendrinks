@@ -1,0 +1,40 @@
+{
+    "name": "Mango Juice with Yakult",
+    "description": "Mango Juice with mix of Yakult.",
+    "github": "muthi08",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Mango"
+        },
+        {
+            "quantity": "2",
+            "measure": "bottle",
+            "ingredient": "Yakult"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbs",
+            "ingredient": "Chiaseed"
+        },
+        {
+            "quantity": "1",
+            "measure": "sachet",
+            "ingredient": "Tropicana"
+        }
+    ],
+    "directions": [
+        "peel mango's skin troughly.",
+        "Cut the mango into cubes and add them to a blender and pour a bottle of Yakult, a sachet of Tropicana and 100 ml of water.",
+        "Blend until smooth. Serve immediately.",
+        "Enjoy!"
+    ],
+    "image": "mango-yakult-juice.jpg",
+    "source": "https://cookpad.com/id/resep/10916268-jus-mangga-yakult?via=search&search_term=minuman",
+    "keywords": [
+        "Mango Juice",
+        "Mango",
+        "Yakult"
+    ]
+}

@@ -1,6 +1,8 @@
 /* eslint-disable import/no-dynamic-require */
 /* eslint-disable global-require */
 
+import featured from '../featured.json';
+
 async function forEachParallel(arr, func) {
   await Promise.all(arr.map(async item => func(item)));
 }
@@ -32,6 +34,7 @@ function getRecipe(id) {
   const r = id.replace('./', '').replace('.json', '');
   const item = require(`./${r}`);
   item.filename = r;
+  item.img = require(`../assets/recipes/${item.image}`);
   return item;
 }
 
@@ -115,6 +118,10 @@ function getFavoritedRecipes(favorites) {
   return getRecipes().filter(recipe => favorites.some(favorite => favorite === recipe.name));
 }
 
+function getFeaturedRecipes() {
+  return featured.filter(feature => feature.enabled !== false);
+}
+
 export default {
   getAllKeywords,
   getAllKeywordsWithCount,
@@ -124,4 +131,5 @@ export default {
   getRandom,
   getSimilarRecipe,
   getFavoritedRecipes,
+  getFeaturedRecipes,
 };

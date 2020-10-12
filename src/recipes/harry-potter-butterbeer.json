@@ -1,0 +1,39 @@
+{
+    "name": "Harry Potter Butterbeer",
+    "description": " Butterbeer at The Wizarding World of Harry Potter at Universal Studious in Hollywood or Orlando",
+    "github": "pavitra122",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "unit",
+            "ingredient": "Cream Soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "spoon",
+            "ingredient": "caramel extract"
+        },
+        {
+            "quantity": "75",
+            "measure": "ml",
+            "ingredient": "Sake"
+        },
+        {
+            "quantity": "1",
+            "measure": "pack",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "In large mixing bowl, whip heavy cream until it forms stiff peaks.",
+        "Add butterscotch topping and powdered sugar.",
+        "Mix the caramel and butter extracts with the cream soda and then pour the mixture into clear cups or mugs.",
+        "Top with butterscotch cream topping and enjoy!"
+    ],
+    "image": "butterbeer.jpg",
+    "keywords": [
+        "harry",
+        "potter",
+        "butterbeer"
+    ]
+} 

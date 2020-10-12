@@ -1,0 +1,47 @@
+{
+"name": "Kansas City Ice Water",
+"description": "Kansas City Ice Water is a drink that combines a base of vodka and gin with citrus and fizz. It often uses triple sec and 7-up, or a combination of fresh citrus and tonic water",
+"github": "kennyvanle",
+"ingredients": [
+    {
+	"quantity": "1",
+	"measure": "ounce",
+	"ingredient": "gin"
+    },
+    {
+	"quantity": "1",
+	"measure": "ounce",
+	"ingredient": "vodka"
+    },
+    {
+	"quantity": "1/2",
+	"measure": "ounce",
+	"ingredient": "lime juice"
+    },
+    {
+	"quantity": "1/2",
+	"measure": "ounce",
+	"ingredient": "triple sec"
+    },
+    {
+	"quantity": "3",
+	"measure": "ounces",
+	"ingredient": "7-up"
+    }
+],
+"directions": [
+    "Combine the gin, vodka, lime juice, and triple sec in a shaker with ice.",
+    "Shake and strain into a chilled pint glass filled with ice.",
+    "Pour in 7up and serve."
+],
+"image": "kansas-city.jpg",
+"source": "https://www.allrecipes.com/recipe/51923/kansas-city-ice-water/",
+"keywords": [
+    "citrus",
+    "alcoholic",
+    "vodka",
+    "gin",
+    "cold",
+    "vegan"
+]
+}

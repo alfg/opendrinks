@@ -1,0 +1,62 @@
+{
+  "name": "Kerala Sunset Cocktail",
+  "description": "From the place fondly called 'God's Own Country' comes a drink to soothe your soul.",
+  "github": "vaibhavrajsingh2001",
+  "ingredients": [
+    {
+      "quantity": "2.5",
+      "measure": "oz",
+      "ingredient": "Bacardi Coconut Rum"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Bombay Sapphire Gin"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "cup",
+      "ingredient": "Ginger Beer"
+    },
+    {
+      "quantity": "1",
+      "measure": "splash",
+      "ingredient": "Midori Melon Liqueur"
+    },
+    {
+      "quantity": "1",
+      "measure": "splash",
+      "ingredient": "Blue Curaçao"
+    },
+    {
+      "quantity": "1",
+      "measure": "splash",
+      "ingredient": "Beet Juice"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "pc",
+      "ingredient": "Lime (squeezed)"
+    }
+  ],
+  "directions": [
+    "Grab a shaker and fill it with ice.",
+    "Pour in the Bacardi coconut rum, Bombay Sapphire gin, and lime juice. Give it a good shake then pour it into your cold glass.",
+    "Pour in the ginger beer then add the splash of midori followed by the splash of blue curacao and beet juice.",
+    "Top with rose petals and add in a lime peel.",
+    "Enjoy!"
+  ],
+  "image": "kerala-sunset.jpg",
+  "source": "https://thefamiliarkitchen.com/kerala-sunset-cocktail/",
+  "keywords": [
+    "alcohol",
+    "cocktails",
+    "coconut",
+    "drinks",
+    "gin",
+    "kerala",
+    "rum",
+    "south indian",
+    "spices"
+  ]
+}

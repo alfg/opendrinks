@@ -1,0 +1,38 @@
+{
+    "name": "Basil Smash",
+    "description": "Enjoy a summer breezed basil flavoured cocktail.",
+    "github": "codingMeSlowly",
+    "ingredients": [{
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "bunch",
+            "ingredient": "basil leaves"
+        }
+    ],
+    "directions": [
+        "Put basil, lemon juice, sugar syrup into a cocktail shaker and top up with ice.",
+        "Do the strong man shake and strain it into an ice-filled glass. Garnish with basil leaves."
+    ],
+    "image": "basil-smash.jpg",
+    "keywords": [
+        "gin",
+        "lemon juice",
+        "sugar syrup",
+        "basil",
+		"alcoholic"
+    ]
+}

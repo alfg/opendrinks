@@ -1,0 +1,43 @@
+{
+    "name": "Spicy Red Beer",
+    "description": "This is a delicious addition to any meal or just by itself anytime day or night. Yummy and satisfying not to mention the health benefits.",
+    "github": "nickfp1985",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "Fluid Ounces",
+            "ingredient": "Coors Banquet American Lager"
+        },
+        {
+            "quantity": "5.5",
+            "measure": "Fluid Ounces",
+            "ingredient": "Tomato Juice"
+        },
+        {
+            "quantity": "1/32",
+            "measure": "Teaspoon",
+            "ingredient": "Louisiana-Style Hot Sauce"
+        },
+        {
+            "quantity": "1/32",
+            "measure": "Teaspoon",
+            "ingredient": "Worcestershire Sauce"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "Teaspoon",
+            "ingredient": "Seasoning Salt"
+        }
+    ],
+    "directions": [
+        "Add Tomato Sauce",
+        "Mix in hot sauce, Worcestershire sauce, and salt.",
+        "Poor in cold beer and stir."
+    ],
+    "image": "spicy-red-beer.jpg",
+    "source": "https://www.allrecipes.com/recipe/20436/joedoggs-spicy-red-beer/?internalSource=streams&referringId=131&referringContentType=Recipe%20Hub&clickId=st_trending_s",
+    "keywords": [
+        "beer",
+        "spicy"
+    ]
+}

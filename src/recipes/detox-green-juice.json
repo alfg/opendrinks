@@ -1,0 +1,51 @@
+{
+    "name": "Detox Green Juice",
+    "description": "Green juice is a source of a lot of vitamins and nutrients into your body",
+    "github": "aindrila2412",
+    "ingredients": [
+        {
+            "quantity": "11/4",
+            "measure": "cup",
+            "ingredient": "spinach"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "11/4",
+            "measure": "cup",
+            "ingredient": "mango"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "celery"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "parsley"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        }
+    ],
+    "directions": [
+        "Wash and chop ingredients",
+        "Blend to a smooth puree",
+        "Garnish with mint leaves and serve"
+    ],
+    "image": "detox-green-juice.jpg",
+    "keywords": [
+        "spinach",
+        "orange",
+        "mango",
+        "celery",
+        "parsley",
+        "salt"
+    ]
+}

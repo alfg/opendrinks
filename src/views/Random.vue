@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import recipes from '../recipes';
 import Recipe from '@/components/Recipe.vue';
+import recipes from '../recipes';
 
 export default {
   name: 'home',
