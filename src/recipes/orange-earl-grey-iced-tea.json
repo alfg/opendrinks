@@ -1,0 +1,48 @@
+{
+    "name": "Orange Earl Grey Iced Tea",
+    "description": "Get a little pick-me-up with this orange-infused Earl Grey iced tea",
+    "github": "sujoy-coder",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Loose Earl Grey tea"
+        },
+        {
+            "quantity": "1",
+            "measure": "peel",
+            "ingredient": "from one orange"
+        },
+        {
+            "quantity": "4",
+            "measure": "cup",
+            "ingredient": "boiling water"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "cup",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "suger"
+        }
+    ],
+    "directions": [
+        "Steep loose tea (or tea bags) and orange peel in boiling water for 3 to 5 minutes",
+        "Strain the tea (or remove tea bags and orange peel) and pour into a large pitcher. Stir in orange juice and sugar until the sugar is dissolved. Add cold water. Refrigerate until chilled, about 2 hours. Serve over ice with orange wedges, if desired"
+    ],
+    "image": "orange-earl-grey-iced-tea.jpg",
+    "source": "http://www.eatingwell.com/recipe/249905/orange-earl-grey-iced-tea/",
+    "keywords": [
+        "ice-tea",
+        "orange-tea",
+        "orange-earl-grey-iced-tea"
+    ]
+}
