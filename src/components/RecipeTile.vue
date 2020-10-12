@@ -2,10 +2,10 @@
   <b-card
     class="mb-4"
     style="min-width: calc( 33.333% - 30px )"
-    :href="'/recipe/' + drink.filename"
+    :to="'/recipe/' + drink.filename"
     no-body
   >
-    <b-link :href="'/recipe/' + drink.filename">
+    <b-link :to="'/recipe/' + drink.filename">
       <b-card-img-lazy
         :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
         :alt="drink.name"
@@ -15,7 +15,7 @@
 
     <b-card-body>
       <b-card-title>
-        <b-link :href="'/recipe/' + drink.filename">
+        <b-link :to="'/recipe/' + drink.filename">
           <h5>{{ drink.name }}</h5>
         </b-link>
       </b-card-title>
