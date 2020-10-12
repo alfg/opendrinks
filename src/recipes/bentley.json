@@ -1,6 +1,6 @@
 {
     "name": "Bentley",
-    "description": "This coktail invented in 1920's in London, refers to the famous brand of luxe car. It is referenced in Savoy Cocktail Book from 1930. The legend says that the Bentley Boys (rich and famous british drivers) invented this drink after a win at 24h Le Mans.",
+    "description": "This cocktail invented in 1920's in London, refers to the famous brand of luxe car. It is referenced in Savoy Cocktail Book from 1930. The legend says that the Bentley Boys (rich and famous British drivers) invented this drink after a win at 24h Le Mans.",
     "github": "Ludoo0d0a",
 
     "ingredients": [
@@ -30,7 +30,7 @@
 		"alcoholic",
 		"applejack",
 		"calvados",
-        "Dubonnet",
+        "dubonnet",
         "bentley"
         ]
     
