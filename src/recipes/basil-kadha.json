@@ -1,0 +1,49 @@
+{
+    "name": "Basil Kadha",
+    "description": "Herbal tea with goodnesss of Basil, Ginger and Lemongrass, works wonders with common cold and Cough",
+    "github": "somesh-ops",
+    "ingredients": [
+        {
+            "quantity": "10-15",
+            "measure": "",
+            "ingredient": "Basil"
+        },
+        {
+            "quantity": "1-1/2",
+            "measure": "",
+            "ingredient": "Lemongrass"
+        },
+        {
+            "quantity": "",
+            "measure": "25mm",
+            "ingredient": "Ginger"
+        },
+        {
+            "quantity": "",
+            "measure": "6 Cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "",
+            "measure": "4 Tsp",
+            "ingredient": "Jaggery"
+        }
+    ],
+    "directions": [
+        "Wash the Basil, Lemongrass and Ginger.",
+        "Boil water in deep pan.",
+        "Add Basil, Lemongrass and Ginger and boil for 3-4 minutes",
+        "If the Panna is not very tangy, you can add some lemon juice to it.",
+        "Add jaggery and mix well then turn off the gas",
+        "Strain and serve hot."
+    ],
+    "image": "basil-kadha.jpg",
+    "keywords": [
+        "herbal",
+        "basil",
+        "non-alcoholic",
+        "vegan",
+        "ginger",
+        "tea"
+    ]
+}
