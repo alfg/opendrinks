@@ -22,7 +22,7 @@
             "quantity": "1/4",
             "measure": "cup",
             "ingredient": "Mountain Dew"
-        },
+        }
     ],
     "directions": [
         "Make your fast food order a meal so it comes with a drink",
@@ -31,7 +31,7 @@
         "Enjoy!",
         "Optionally, head back for a refill or try a new blend!",
     ],
-    "image": "adult-hot-chocolate.jpg",
+    "image": "fastfoodclassic.jpg",
     "keywords": [
       "soda",
       "wendys",
