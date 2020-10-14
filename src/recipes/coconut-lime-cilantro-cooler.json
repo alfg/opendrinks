@@ -30,7 +30,7 @@
         },
         {
             "quantity": "3",
-            "measure": "cubes>",
+            "measure": "cubes",
             "ingredient": "ice"
         },
         {
@@ -40,15 +40,15 @@
         },
         {
             "quantity": "1",
-            "measure": "slice>",
+            "measure": "slice",
             "ingredient": "lime for garnish"
         }
         
     ],
     "directions": [
-        "Step 1: In a glass, stir all ingredients together except for the two garnishes.",
-        "Step 2: Garnish with the slice of lime and the 2 fresh cilantro leaves",
-        "Step 3: Serve immediately."
+        "In a glass, stir all ingredients together except for the two garnishes.",
+        "Garnish with the slice of lime and the 2 fresh cilantro leaves",
+        "Serve immediately."
     ],
     "image": "coconut-lime-cilantro-cooler.jpg",
     "source": "https://www.momontimeout.com/coconut-lime-cilantro-cooler/",
