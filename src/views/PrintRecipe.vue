@@ -1,6 +1,6 @@
 <template>
   <div class="recipe container">
-    <Recipe v-bind:name="$route.params.id" />
+    <Recipe v-bind:name="$route.params.id" isPrint />
   </div>
 </template>
 
@@ -18,7 +18,6 @@ export default {
 <style>
 .container.mb-4.mb-4,
 footer.container,
-.print-button,
 .similar-drinks {
   display: none;
 }
