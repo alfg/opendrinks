@@ -1,5 +1,6 @@
 import { createLocalVue, shallowMount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
+import VueSocialSharing from 'vue-social-sharing';
 
 import router from '@/router';
 import Recipe from '@/components/Recipe.vue';
@@ -7,6 +8,7 @@ import Recipe from '@/components/Recipe.vue';
 const localVue = createLocalVue();
 
 localVue.use(BootstrapVue);
+localVue.use(VueSocialSharing);
 
 describe('Recipe', () => {
   const wrapper = shallowMount(Recipe, {

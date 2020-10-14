@@ -1,0 +1,59 @@
+{
+  "name": "Capipink",
+  "description": "The pink version of the traditional caipirinha.",
+  "github": "marcelosantos89",
+  "ingredients": [
+      {
+          "quantity": "",
+          "measure": "Croft Pink",
+          "ingredient": ""
+      },
+      {
+          "quantity": "3",
+          "measure": "units",
+          "ingredient": "strawberries"
+      },
+      {
+          "quantity": "3",
+          "measure": "units",
+          "ingredient": "raspberries"
+      },
+      {
+          "quantity": "3",
+          "measure": "units",
+          "ingredient": "blueberries"
+      },
+      {
+          "quantity": "2",
+          "measure": "lime wedges",
+          "ingredient": ""
+      },
+      {
+          "quantity": "500",
+          "measure": "ml",
+          "ingredient": "water"
+      },
+      {
+          "quantity": "500",
+          "measure": "gr",
+          "ingredient": "sugar"
+      },
+      {
+          "quantity": "",
+          "measure": "crushed ice",
+          "ingredient": ""
+      }
+  ],
+  "directions": [
+      "Sugar Syrup: add 500ml of water and 500g of sugar into a medium hot pan and stir until the sugar is dissolved. Turn off the heat as soon as it starts to boil. Place the syrup into a bottle with lid.",
+      "Place the lime, the red fruits and 15ml of syrup in the the glass.",
+      "Muddle and add crushed ice before pouring Croft Pink to top."
+  ],
+  "image": "caipireja.jpg",
+  "source": "https://croftpink.com/cocktail/caipipink/",
+  "keywords": [
+      "croft",
+      "pink",
+      "caipirinha"
+  ]
+}

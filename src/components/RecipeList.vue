@@ -12,7 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :href="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+          <b-button :to="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"

@@ -28,7 +28,7 @@
         v-on:mouseover="onMouseOverOrMove"
         v-on:mouseleave="onMouseLeave"
         v-on:mousemove="onMouseOverOrMove"
-        :href="'/recipe/' + o.filename"
+        :to="'/recipe/' + o.filename"
         >{{ o.name }}</b-list-group-item
       >
     </b-list-group>
