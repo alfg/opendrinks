@@ -12,7 +12,12 @@
       "quantity": "1",
       "measure": "Bottle",
       "ingredient": "Frozen Cranberry Juice Concentrate"
-    }
+    },
+   {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "Apple"
+    },
   ],
   "directions": [
     "3/4 fill a highball glass with cubed ice.",
