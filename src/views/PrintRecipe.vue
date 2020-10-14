@@ -16,6 +16,16 @@ export default {
 </script>
 
 <style>
+@media print {
+  .show-image,
+  .header-items,
+  .print-button,
+  .share-button,
+  .fav-star {
+    display: none;
+  }
+}
+
 .container.mb-4.mb-4,
 footer.container,
 .similar-drinks {

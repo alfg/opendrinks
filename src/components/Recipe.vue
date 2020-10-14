@@ -27,7 +27,7 @@
             Hide Image
           </b-form-checkbox>
         </div>
-        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited"> </FavoriteStar>
+        <FavoriteStar class="mr-3 fav-star" @favorite="favorited" :isFavorited="isFavorited"> </FavoriteStar>
 
         <div class="print-button">
           <b-button v-if="isPrint" variant="outline-primary" @click="print()">
