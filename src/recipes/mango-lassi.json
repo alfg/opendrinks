@@ -16,7 +16,12 @@
         {
             "quantity": "1/4",
             "measure": "cup",
-            "ingredient": "fresh or canned Mango pulp"
+            "ingredient": "Fresh or canned Mango pulp"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "Cardamom seeds"
         }
     ],
     "directions": [
