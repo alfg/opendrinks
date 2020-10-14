@@ -1,0 +1,30 @@
+{
+  "name": "Apple Jack",
+  "description": "A year round favorite served warm or cold.",
+  "github": "matteomessmer",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "measure": "MilliLiters",
+      "ingredient": "Jack Daniel's Old No. 7"
+    },
+    {
+      "quantity": "1",
+      "measure": "Bottle",
+      "ingredient": "Frozen Cranberry Juice Concentrate"
+    }
+  ],
+  "directions": [
+    "3/4 fill a highball glass with cubed ice.",
+    "Pour Old No. 7 over ice.",
+	"Top with apple juice.",
+	"Add apple slice to garnish."
+  ],
+  "image": "JD_Apple_Jack_FullSize_5.png",
+  "source": "https://res.cloudinary.com/hjqklbxsu/image/upload/v1536949024/recipe/recipe/",
+  "keywords": [
+    "alcoholic",
+    "apple",
+    "whiskey"
+  ]
+}
