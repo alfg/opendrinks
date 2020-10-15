@@ -1,0 +1,44 @@
+{
+    "name": "Mint Citrus Water",
+    "description": "This is a very healthy and tasty infused water recipe, good for hot summer days and when you have guests over.",
+    "github": "AnmolBaansal",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "Cup",
+            "ingredient": "Mint Leaves"
+        },
+        {
+            "quantity": "2",
+            "measure": "Quarts",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Limes"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Cucumber"
+        }
+    ],
+    "directions": [
+        "Pour water into a pitcher.",
+        "Mix lemon slices, lime slices, mint leaves, and cucumber together in a bowl; add to water and stir.",
+        "Refrigerate water mixture, stirring 1 time per day, until flavors have infused, 2 to 3 days."
+    ],
+    "image": "mint-citrus-water.jpg",
+    "source": "https://www.allrecipes.com/recipe/242135/mint-citrus-water/",
+    "keywords": [
+        "lemon",
+        "lime",
+        "non-alcoholic"
+    ]
+}

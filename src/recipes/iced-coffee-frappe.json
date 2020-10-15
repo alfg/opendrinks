@@ -1,0 +1,40 @@
+{
+    "name": "Iced Coffee Frappe",
+    "description": "Frappe is just a sweet iced coffee blended with milk and espresso",
+    "github": "aindrila2412",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Instant Espresso Coffee"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Granulated Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+	{
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "First, you’re going to prepare the espresso and then chill it until completely cooled down.",
+        "Next step is to combine the espresso, milk, sugar and ice in a blender.",
+        "Then, begin to blend on low speed, slowly increasing the speed to high, and blend until smooth.",
+    	"Pour into glasses and serve right away."
+    ],
+    "image": "iced-coffee-frappe.jpg",
+    "keywords": [
+        "espresso coffee",
+        "granulated sugar",
+       	"milk",
+	"ice"	
+    ]
+}

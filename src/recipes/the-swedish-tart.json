@@ -1,0 +1,56 @@
+{
+  "name": "The Swedish Tart",
+  "description": "Simple and exotic kombucha-infused tea cocktail.",
+  "github": "vthn",
+  "ingredients": [
+      {
+          "quantity": "1/4",
+          "measure": "cup",
+          "ingredient": "sugar"
+      },
+      {
+          "quantity": "1/4",
+          "measure": "cup",
+          "ingredient": "coarsely chopped dill"
+      },
+      {
+          "quantity": "3",
+          "measure": "ounces",
+          "ingredient": "green tea kombucha"
+      },
+      {
+          "quantity": "1 1/2",
+          "measure": "ounces",
+          "ingredient": "aquavit or vodka"
+      },
+      {
+          "quantity": "1/4",
+          "measure": "cup",
+          "ingredient": "water"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Dill springs, for garnish"
+      }
+  ],
+  "directions": [
+      "Shake sugar and water in a jar until sugar dissolves.",
+      "Stir in dill.",
+      "Cover; chill until flavors infuse, 24–48 hours.",
+      "Strain dill syrup.",
+      "Combine kombucha, aquavit, and half ounce dill syrup in a highball glass half-filled with crushed ice.",
+      "Stir.",
+      "Add more crushed ice, mounding above rim.",
+      "Garnish with a dill sprig."
+  ],
+  "image": "the-swedish-tart.jpg",
+  "source": "https://www.bonappetit.com/recipe/the-swedish-tart",
+  "keywords": [
+      "alcoholic",
+      "aquavit",
+      "dill",
+      "green tea",
+      "kombucha"
+  ]
+}

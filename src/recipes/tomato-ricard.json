@@ -1,0 +1,38 @@
+{
+    "name": "Tomato Ricard",
+    "description": "Simple cocktail With Ricard and grenadine syrup",
+    "github": "Skydraw",
+    "ingredients": [{
+            "quantity": "4",
+            "measure": "Teaspoon",
+            "ingredient": "Ricard"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "grenadine syrup"
+        },
+        {
+            "quantity": "4.5",
+            "measure": "oz",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "units",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Pour 4 teaspoon of Ricard and a dash of grenadine.",
+        "Complete with water",
+        "Add a few ice cubes."
+    ],
+    "image": "tomato-ricard.jpg",
+    "source": "https://www.ricard.com/cocktails",
+    "keywords": [
+        "Ricard",
+        "Grenadine",
+        "alcoholic"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Sparkling Campari Orange",
+    "description": "Sparkling Campari Orange drink looks gorgeous and festive with reds and oranges mixed together and bubbles fizzing and popping on top!",
+    "github": "vlx01",
+    "ingredients": [
+        {
+            "quantity": "As many as you want",
+            "measure": " ",
+            "ingredient": "Ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "orange juice(no pulp)"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "sparkling water"
+        }
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Pour campari, pour orange juice, pour sparkling water on top.",
+        "Mix and enjoy."
+    ],
+    "image": "sparkling-campari-orange.jpg",
+    "source": "https://www.imagelicious.com/blog/sparkling-campari-orange-cocktail",
+    "keywords": [
+        "campari",
+        "orange juice",
+        "alcoholic"
+    ]
+}

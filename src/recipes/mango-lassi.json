@@ -4,24 +4,24 @@
     "github": "parammittal16",
     "ingredients": [
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "One cup plain yogurt"
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Plain Yogurt"
         },
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "Three-fourth tablespoon sugar"
+            "quantity": "1.5",
+            "measure": "tablespoon",
+            "ingredient": "Sugar"
         },
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "One-Fourth cup fresh or canned mango pulp"
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Fresh or canned Mango pulp"
         },
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "Three-fourth tablespoon sugar"
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "Cardamom seeds"
         }
     ],
     "directions": [
@@ -34,6 +34,8 @@
     "keywords": [
         "yogurt",
         "sugar",
-        "non-alcoholic"
+        "non-alcoholic",
+        "smoothie",
+        "cold"
     ]
 }

@@ -4,34 +4,34 @@
     "github": "wfebriad",
     "ingredients": [
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "2 tablespoons black coffee"
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "black coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "liter",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "100",
+            "measure": "grams",
+            "ingredient": "brown sugar (fine comb)"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "granulated sugar"
         },
         {
             "quantity": "",
             "measure": "",
-            "ingredient": "1 liter of coconut milk"
+            "ingredient": "Graham (to taste)"
         },
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "100 grams of brown sugar (fine comb)"
-        },
-        {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "2 tablespoons granulated sugar"
-        },
-        {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "Gram (to taste)"
-        },
-        {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "2 sheets of pandan leaves (tied knot)"
+            "quantity": "2",
+            "measure": "sheets",
+            "ingredient": "of pandan leaves (tied knot)"
         },
         {
             "quantity": "",
@@ -51,6 +51,7 @@
     "keywords": [
         "tea",
         "fruit",
-        "non-alcoholic"
+        "non-alcoholic",
+        "vegan"
     ]
 }

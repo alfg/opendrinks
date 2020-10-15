@@ -1,0 +1,57 @@
+{
+    "name": "Strawberry Mojito",
+    "description": "A classic Mojito with a sweet twist, really enjoyable in the summer.",
+    "github": "P4trice",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "leaves",
+            "ingredient": "mint"
+        },
+        {
+            "quantity": "4",
+            "measure": "slices",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "2",
+            "measure": "chopped",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "sirup/sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "white rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "club soda"
+        }
+    ],
+    "directions": [
+        "Add mint leaves, half the lime slices and chopped strawberries to a tall glass",
+        "Mix it up, without breaking the mint leaves",
+        "Add the other half of lime slices and add the sirup/sugar",
+        "Mix it up gently, as before",
+        "Fill up with ice and then add the rum",
+        "Fill up with club soda and stir",
+        "Enjoy"
+    ],
+    "image": "strawberry-mojito.jpg",
+    "source": "https://theforkedspoon.com/strawberry-mojito-recipe/",
+    "keywords": [
+        "mint",
+        "lime",
+        "strawberry",
+        "white rum",
+        "club soda",
+        "sugar",
+        "ice"
+    ]
+}

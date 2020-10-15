@@ -1,0 +1,39 @@
+{
+    "name": "Caipirinha Black",
+    "description": "Caipirinha is a Cape Verdan cocktail prepared with black vodka, refined sugar, and lime. CA variation of the classic Caipirinha which uses a black vodka, to create a unique looking concoction.",
+    "github": "ktrzcionka",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "black vodka"
+        },
+        {
+            "quantity": "0,5",
+            "measure": "",
+            "ingredient": "green lime"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "refined sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
+    ],
+    "directions": [
+        "Place lime and sugar into Old-Fashioned glass and muddle",
+        "Mash the two ingredients together using a muddler or a wooden spoon",
+        "Fill the glass with crushed ice and add the Black Vodka."
+    ],
+    "image": "caipirinha-black.jpg",
+    "keywords": [
+        "black vodka",
+        "green lime",
+        "sugar",
+        "alcoholic"
+    	]
+}

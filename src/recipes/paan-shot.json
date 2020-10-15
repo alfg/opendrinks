@@ -1,0 +1,49 @@
+{
+    "name": "Paan Shot",
+    "description": "A refreshing drink that is made using paan (betel leaves)",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "calcutta betel leaves (paan)"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoon",
+            "ingredient": "gulkand (sweet preserve of rose petals)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "fennel seeds"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "tablespoon",
+            "ingredient": "paan masala"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "cups",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Tear apart the paan leaves using your hand and add to a mixer.",
+        "In the same mixer jar, add all the other ingredients and blend till smooth.",
+        "Refrigerate for at least 1 hour.",
+        "Pour equal quantities of the paan shot into 12 shot glasses and serve chilled."
+    ],
+    "image": "paan-shot.jpg",
+    "source": "https://www.tarladalal.com/Paan-Shot-40139r",
+    "keywords": [
+        "non-alcoholic",
+        "sweet"
+    ]
+}

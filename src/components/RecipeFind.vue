@@ -8,13 +8,13 @@
         <b-form-radio value="name">Name</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple ingredients by seperating them with a space"
+          title="You can search for multiple ingredients by separating them with a space"
           value="ingredients"
           >Ingredients</b-form-radio
         >
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple keywords by seperating them with a space"
+          title="You can search for multiple keywords by separating them with a space"
           value="keywords"
           >Keywords</b-form-radio
         >
@@ -28,7 +28,7 @@
         v-on:mouseover="onMouseOverOrMove"
         v-on:mouseleave="onMouseLeave"
         v-on:mousemove="onMouseOverOrMove"
-        :href="'/recipe/' + o.filename"
+        :to="'/recipe/' + o.filename"
         >{{ o.name }}</b-list-group-item
       >
     </b-list-group>
@@ -180,13 +180,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.list-group .list-group-item-action.highlight {
-  background-color: #f8f9fa;
-}
-/* we had to overrride bootstrap default hover color */
-.list-group-item-action:hover {
-  background-color: #fff;
-}
-</style>

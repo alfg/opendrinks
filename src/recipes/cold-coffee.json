@@ -1,0 +1,56 @@
+{
+    "name": "Cold Coffee",
+    "description": "If you are a coffee lover you will relish it for sure.",
+    "github": "sakinarao",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "Mug",
+            "ingredient": "Chilled Milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "Coffee Powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "Scoop",
+            "ingredient": "Chocolate Chip Ice-cream"
+        },
+         {
+            "quantity": "1",
+            "measure": "Scoop",
+            "ingredient": "Vanilla"
+        },
+        {
+            "quantity": "3",
+            "measure": "teaspoon",
+            "ingredient": "Hersheys Chocolate Syrup"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Cocoa Powder"
+        }
+    ],
+    "directions": [
+        "Blend coffee powder and Sugar in a mixer jar with 2 teaspoons water until it turns light in colour.",
+        "Pour milk and Hersheys Syrup in the jar.",
+        "Blend the mixture until you get a good froth on the top.",
+        "Put the ice-cream in a serving glass.",
+        "Pour the coffee in the glass.",
+        "Garnish with the cocoa powder and some Hersheys Syrup."
+    ],
+    "image": "cold-coffee.jpg",
+    "keywords": [
+        "cold",
+        "coffee",
+        "ice cream"
+    ]
+}

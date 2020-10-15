@@ -1,0 +1,31 @@
+{
+    "name": "Affogato",
+    "description": "An affogato is an Italian coffee-based dessert. It usually takes the form of a scoop of vanilla gelato or ice cream topped or 'drowned' with a shot of hot espresso.",
+    "github": "Sonam3107",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Gelato"
+        },
+        {
+            "quantity": "1",
+            "measure": "double-shot",
+            "ingredient": "Espresso"
+        }
+    ],
+    "directions": [
+        "Place a scoop of Gelato in a chilled bowl.",
+        "Pour the Espresso quickly over the Gelato",
+        "Add an extra topping of choice such as whipped cream."
+    ],
+    "image": "affogato.jpg",
+    "keywords": [
+        "coffee",
+        "espresso",
+        "gelato",
+        "non-alcoholic",
+        "vanilla",
+        "italian"
+    ]
+}

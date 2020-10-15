@@ -1,0 +1,37 @@
+{
+    "name": "Dalgona Coffee",
+    "description": "Dalgona Coffee is a cold latte drink that comes with a velvety smooth and sweet coffee foam on top. It is inspired from the South Korean Dalgona Candy that resembles the creamy dollop that tops the coffee",
+    "github": "Kiittyka",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "coffee powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "boiling water"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "cold milk"
+        }
+    ],
+    "directions": [
+        "Take a bowl and mix equal quantities of coffee powder, sugar and hot water",
+        "Beat coffee mixture using whisker or hand blender, until it is light, frothy and creamy",
+        "Pour cold milk in the glasses or coffee mugs and add the beaten and whipped coffee over it"
+    ],
+    "image": "dalgona-coffee.jpg",
+    "keywords": [
+        "coffee",
+        "dalgona"
+    ]
+}

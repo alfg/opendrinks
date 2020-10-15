@@ -1,0 +1,48 @@
+{
+    "name": "Solkadhi",
+    "description": "A soothing digestive drink made from kokum fruit and coconut milk.",
+    "github": "sinisterblade",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "kokum (garcinia indica)"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "grated fresh coconut"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "tablespoon",
+            "ingredient": "garlic and green chilly paste"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "chopped coriander leaves"
+        }
+    ],
+    "directions": [
+        "Soak kokum in hot water for 30 minutes. Squeeze and strain.",
+        "Take 2 cups of grated fresh coconut and blend by adding warm water.",
+        "Strain it and remove the coconut milk. Keep it aside.",
+        "Take the coconut milk and add the kokum water to it in a jar or a mixing bowl.",
+        "Add the garlic and green chilly paste, and salt as required.",
+        "Mix nicely and keep it in a refrigerator.",
+        "Garnish with chopped coriander leaves and serve chilled."
+    ],
+    "image": "solkadhi.jpg",
+    "source": "https://www.maharashtrianrecipes.com/sol-kadhi-recipe/",
+    "keywords": [
+        "fruits",
+        "non-alcoholic",
+        "healthy"
+    ]
+}

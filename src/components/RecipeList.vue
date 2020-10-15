@@ -12,7 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :href="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+          <b-button :to="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"
@@ -24,15 +24,15 @@
 
     <b-row class="mt-4">
       <b-col cols="12" md="10">
-        <b-pagination
+        <b-pagination-nav
           @change="onPageChanged"
-          :total-rows="rows"
-          :per-page="selected"
-          v-model="currentPage"
-        ></b-pagination>
+          :link-gen="linkGen"
+          :number-of-pages="pages"
+          use-router
+        ></b-pagination-nav>
       </b-col>
       <b-col cols="12" md="2">
-        <b-form-select v-model="selected" :options="options" v-on:change="getSelectedItem">
+        <b-form-select v-model="perPage" :options="options" v-on:change="getSelectedItem">
         </b-form-select>
       </b-col>
     </b-row>
@@ -55,33 +55,36 @@ export default {
     return {
       currentPage: 1,
       perPage: 12,
-      selected: 12,
-      pageNumber: 0,
       options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
       favorites: [],
     };
-  },
-  watch: {
-    items() {
-      this.pageNumber = 0;
-    },
   },
   mounted() {
     window.document.title = this.title;
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
   },
   computed: {
-    rows() {
-      return this.items.length;
+    pages() {
+      return this.items.length === 0 ? 1 : Math.ceil(this.items.length / this.perPage);
     },
     paginatedItems() {
-      return this.items.slice(this.pageNumber * this.perPage, (this.pageNumber + 1) * this.perPage);
+      let pageNumber;
+      const { page } = (this.$route && this.$route.query) || 0;
+      if (page) {
+        pageNumber = page - 1;
+      } else {
+        pageNumber = 0;
+      }
+      return this.items.slice(pageNumber * this.perPage, (pageNumber + 1) * this.perPage);
     },
   },
   methods: {
     onPageChanged(page) {
       this.pageNumber = page - 1;
       window.scrollTo(0, 0);
+    },
+    linkGen(pageNum) {
+      return pageNum === 1 ? '?' : `?page=${pageNum}`;
     },
     getSelectedItem(event) {
       this.perPage = event;

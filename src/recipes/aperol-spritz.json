@@ -1,6 +1,6 @@
 {
     "name": "Aperol Spritz",
-    "description": "A really great cocktail for a summer weekend",
+    "description": "A great cocktail for a summer weekend",
     "github": "duongoku",
     "ingredients": [
         {
@@ -36,6 +36,9 @@
     ],
     "image": "aperol-spritz.jpg",
     "keywords": [
-        "alcoholic"
+        "alcoholic",
+        "vegan",
+        "fruit",
+        "carbonation"  
     ]
 }

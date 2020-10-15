@@ -1,0 +1,27 @@
+{
+  "name": "Marpha",
+  "description": "Marpha is a fermented mash of fresh apples of Mustang, Nepal which falls in the category of fruit brandy. Marpha is a colorless but a potent alcoholic drink from Marpha, Mustang, Nepal which has gained popularity for it's freshness and super quality.",
+  "github": "sanjaysanjel019",
+  "ingredients": [
+    {
+      "quantity": "5",
+      "measure": "kilos",
+      "ingredient": "Apples"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "Khesung(source of molds, bacteria and yeast)"
+    }
+  ],
+  "directions": [
+    "First you collect fresh apples, primarily from Mustang.",
+    "You then ferment the apples on a large container.",
+    "You ferment the drinks for around 3 months",
+    "Add Khesung",
+    "Now pour the drink into a jar and let is rest and cool.",
+    "The drink is now ready to be served."
+  ],
+  "image": "marpha.jpg",
+  "keywords": ["apple", "raksi", "alcoholic", "khesung", "Nepali", "sweet"]
+}

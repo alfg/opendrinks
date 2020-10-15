@@ -1,0 +1,33 @@
+{
+    "name": "Elderflower-tini",
+    "description": "A sweet twist to your average martini",
+    "github": "lalawuhan",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Elderflower syrup"
+        }
+    ],
+    "directions": [
+        "Chill serving glass in freezer",
+        "Pour ingredients into mixing glass with ice in order listed and shake.",
+        "Strain into chilled serving glass."
+    ],
+    "image": "elderflower-tini.jpg",
+    "keywords": [
+        "elderflower",
+        "alcoholic",
+        "vegan"
+    ]
+}

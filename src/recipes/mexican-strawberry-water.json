@@ -1,0 +1,43 @@
+{
+  "name": "Mexican Strawberry Water",
+  "description": "Fresh fruit waters, or Aguas de Frutas, made with crushed or blended fruit are a common and popular drink all over Mexico. This recipe is extremely flavorful and refreshing, especially when fresh strawberries are in season",
+  "github": "AnmolBaansal",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "measure": "Cups",
+      "ingredient": "Strawberry"
+    },
+    {
+      "quantity": "1",
+      "measure": "Cup",
+      "ingredient": "White sugar"
+    },
+    {
+      "quantity": "8",
+      "measure": "Cup",
+      "ingredient": "Cold Water"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "Lime (optional)"
+    },
+    {
+      "quantity": "8",
+      "measure": "",
+      "ingredient": "Mint Sprig (optional)"
+    }
+  ],
+  "directions": [
+    "In a medium bowl, mix together sliced strawberries, sugar, and 1 cup of water. Cover the bowl with plastic wrap and place in the refrigerator for 4 hours.",
+    "Remove the strawberry mixture from the refrigerator and pour into a blender. Blend on high until smooth. Pour the blended berry mixture through a wire mesh strainer set over a large mixing bowl; discard the pulp and seeds.",
+    "Add the remaining 7 cups cold water to the pureed strawberries and mix well. Place the Aqua de Fresa in the refrigerator to chill for several hours or pour over ice and serve immediately. Garnish with lime slices or mint leaves."
+  ],
+  "image": "mexican-strawberry-water.jpg",
+  "source": "https://www.allrecipes.com/recipe/141370/mexican-strawberry-water-agua-de-fresa/",
+  "keywords": [
+    "non-alcoholic",
+    "mexican"
+  ]
+}

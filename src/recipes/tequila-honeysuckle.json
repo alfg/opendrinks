@@ -1,0 +1,39 @@
+{
+    "name": "Tequila Honeysuckle",
+    "description": "A simple and smooth, springtime Tequila drink.",
+    "github": "Tash925",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": ".75",
+            "measure": "oz",
+            "ingredient": "Honey Syrup"
+        },
+        {
+            "quantity": ".75",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Add ice to shaker and combine ingredients.",
+        "Strain mixture into a coupe glass.",
+        "Garnish with lime wedge."
+    ],
+    "image": "tequila-honeysuckle.jpg",
+    "source": "https://www.townandcountrymag.com/leisure/drinks/g234/best-spring-cocktails/",
+    "keywords": [
+        "tequila",
+        "lime",
+        "honey"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Brazilian Strawberry Drink",
+    "description": "A complex sweet drink with vodka",
+    "github": "nathhia",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Condensed milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "box",
+            "ingredient": "Milk cream"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Yogurt"
+        },
+        {
+            "quantity": "5",
+            "measure": "Strawberry",
+            "ingredient": "Strawberry"
+        }
+    ],
+    "directions": [
+        "Cut the starwberrys into small pieces.",
+        "Mix the liquid ingredients in a blends.",
+        "Add the strawberrys and the sugar and mix then with help of a spoon."
+    ],
+    "image": "brazilian-strawberry-drink.jpg",
+    "keywords": [
+        "strawberry",
+        "Brazil"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Raspberry Drink",
+    "description": "Sparkling Raspberry drink for a blast of freshness.",
+    "github": "muznahaftab",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "Raspberries (washed)"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "Sugar Syrup"
+        },
+        {
+            "quantity": "3",
+            "measure": "Cups",
+            "ingredient": "Sparkling Water"
+        },
+         {
+            "quantity": "2-3",
+            "measure": "",
+            "ingredient": "Mint leaves"
+        }
+    ],
+    "directions": [
+        "Place raspberries, lemon juice and sugar into a blender and blend until smooth. ",
+        "Pour mixture into a fine sieve and strain to remove the seeds.",
+        "Add ice to serving glasses and fill each glass with raspberry syrup equally. ",
+        "Top each glass with sparkling water.",
+        "Stir and enjoy!"
+    ],
+    "image": "raspberry-drink.jpg",
+    "keywords": [
+        "Raspberry",
+        "Mint"
+    ]
+}

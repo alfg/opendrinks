@@ -1,0 +1,61 @@
+{
+    "name": "Hot Buttered Rum",
+    "description": "A deliciously creamy drink with a kick to warm you up! Can be made virgin for the kids",
+    "github": "varezf",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "pound",
+            "ingredient": "butter"
+        },
+        {
+            "quantity": "1",
+            "measure": "pound",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pound",
+            "ingredient": "confectioners sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "quart",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "ground cinnamon"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "ground nutmeg"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Boiling water"
+        }
+    ],
+    "directions": [
+        "Melt butter in a large pot over medium heat. Blend in brown sugar and confectioners sugar and simmer for 1 min",
+        "Remove from heat. Whisk in ice cream, cinnamon, and nutmeg. Pour mixture into a plastic container, seal, and freeze (can be safely frozen for a few months)",
+        "In a mug, measure ~1 tablespoon of the Hot Buttered Rum batter then fill cup with boiling water.",
+        "Add rum to taste (or similarly leave out the rum). Stir and sprinkle with nutmeg. Serve hot"
+    ],
+    "image": "hot-buttered-rum.jpg",
+    "keywords": [
+        "hot",
+        "buttered",
+        "rum",
+        "creamy",
+        "cinnamon"
+	]
+}

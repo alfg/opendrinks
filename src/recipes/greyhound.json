@@ -5,8 +5,8 @@
   "github": "morsecodemedia",
   "ingredients": [
     {
-      "quantity": "1",
-      "measure": "5 fl oz",
+      "quantity": "5",
+      "measure": "fl oz",
       "ingredient": "Vodka"
     },
     {
@@ -27,6 +27,8 @@
   "image": "greyhound.jpg",
   "keywords": [
     "vodka",
-    "grapefruit"
+    "grapefruit",
+    "citrus",
+    "vegan"
   ]
 }

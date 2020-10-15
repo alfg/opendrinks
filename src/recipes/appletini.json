@@ -31,14 +31,15 @@
     ],
     "directions": [
         "Dip the apple slice in lemon juice to prevent it from turning yellow",
-        "Combine all the liquid ingredient in a cocktail mixing cup. Fill it with ice and shakes it well", 
+        "Combine all the liquid ingredients in a cocktail mixing cup. Fill it with ice and shakes it well",
         "Strain into a cocktail glass",
         "Garnish with the apple slice"
     ],
-    "image": "appletini.jpeg",
+    "image": "appletini.jpg",
     "keywords": [
         "vodka",
         "apple",
-        "alcoholic"
+        "alcoholic",
+        "vegan"
     ]
 }

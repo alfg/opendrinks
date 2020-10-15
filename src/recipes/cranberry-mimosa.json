@@ -1,0 +1,27 @@
+{
+    "name": "Cranberry Mimosa",
+    "description": "Nice drink to shake your morning",
+    "github": "keilavizcarra",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "c.",
+            "ingredient": "sweetened cranberry juice"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "oz",
+            "ingredient": "champange"
+        }
+    ],
+    "directions": [
+        "Pour 1/4 cup cranberry juice into each glass and top with champage."
+    ],
+    "image": "cranberry-mimosa.jpg",
+    "keywords": [
+        "champage",
+        "cranberry",
+        "mimosa",
+        "vegan"
+    ]
+}

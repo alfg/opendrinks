@@ -1,0 +1,42 @@
+{
+    "name": "Rebujito",
+    "description": "A refreshing cocktail with Manzanilla wine and soda. The flavor of hot Andalusia in a cup",
+    "github": "Blueko",
+    "ingredients": [
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "Manzanilla wine"
+        },
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Lemon-lime soft drink (like Sprite, 7 up)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+	{
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Spearmint (optional)"
+        }
+    ],
+    "directions": [
+        "Fill a jug with ice",
+        "Pour manzanilla wine over the ice.",
+        "Add Sprite or 7Up and mix them together.",
+	"Optionally, add a bit of spearmint for a fresh touch.",
+	"Pro tip: wine quenatity can be flexible if you prefer a softer or stronger drink."
+    ],
+    "image": "rebujito.jpg",
+    "keywords":[
+        "alcoholic",
+        "wine",
+	"sprite",
+	"7 up",
+	"vegan"
+    ]
+}

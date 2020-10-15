@@ -1,0 +1,44 @@
+{
+    "name": "Malibu Island Cosmo",
+    "description": "This cocktail is a variant of Cosmo, with a different taste. A tropical twist on the deliciously fun and fruity cocktail.",
+    "github": "primes2h",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Malibu original"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "part",
+            "ingredient": "Absolut citron"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "part",
+            "ingredient": "Fresh lime juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "Pomegranate juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lime"
+        }
+    ],
+    "directions": [
+        "Pour all ingredients into an ice-filled shaker.",
+        "Shake until cold and double strain into a chilled cocktail glass.",
+        "Top off with a wedge of lime."
+    ],
+    "image": "malibu-island-cosmo.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "alcoholic",
+        "coconut"
+    ]
+}

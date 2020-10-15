@@ -119,7 +119,7 @@ function getFavoritedRecipes(favorites) {
 }
 
 function getFeaturedRecipes() {
-  return featured;
+  return featured.filter(feature => feature.enabled !== false);
 }
 
 export default {

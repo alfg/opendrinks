@@ -1,0 +1,48 @@
+{
+  "name": "Beras Kencur",
+  "description": "A well known traditional Indonesian herb drink which is trusted to have many benefits for health",
+  "github": "ayualdilasalma",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "measure": "gram",
+      "ingredient": "galangal"
+    },
+    {
+      "quantity": "200",
+      "measure": "gram",
+      "ingredient": "rice"
+    },
+    {
+      "quantity": "30",
+      "measure": "gram",
+      "ingredient": "tamarind"
+    },
+    {
+      "quantity": "1/4",
+      "measure": "teaspoon",
+      "ingredient": "salt"
+    },
+    {
+      "quantity": "130gr",
+      "measure": "gram",
+      "ingredient": "palm sugar"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "litre",
+      "ingredient": "water"
+    }
+  ],
+  "directions": [
+    "Wash the rice in the water before use",
+    "Soak the rice with water for around 3 hours",
+    "Peal, wash and chop galangal and tumeric",
+    "Blend the tumeric, galangal, and rice with blender and wait until all the ingredients is smooth",
+    "Boil the water and pour all the ingredients into the water",
+    "Stir constantly for a few minutes",
+    "Let it cold and store it in the refrigerator. It tastes better when it's cold"
+  ],
+  "image": "beras-kencur.jpg",
+  "keywords": ["non-alcoholic", "herb", "galangal", "tamarind", "palm sugar"]
+}

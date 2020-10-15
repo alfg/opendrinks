@@ -2,8 +2,7 @@
     "name": "Dole Whip Lemonade",
     "description": "Dole Whip is a soft serve dairy-free frozen dessert to bring island vibes to your backyard",
     "github": "TheRealDarkCoder",
-    "ingredients": [
-        {
+    "ingredients": [{
             "quantity": "1",
             "measure": "c",
             "ingredient": "frozen pineapple"
@@ -35,8 +34,8 @@
         "That's all and very easy to make! Enjoy the cold refreshing dessert!"
     ],
     "image": "dole-whip-lemonade.jpg",
-    "keywords":[
-        "non alcoholic",
+    "keywords": [
+        "non-alcoholic",
         "vegan",
         "dessert"
     ]

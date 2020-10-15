@@ -1,0 +1,39 @@
+{
+    "name": "Fast Food Classic",
+    "description": "The drink you made at the beverage station every time your mom took you to Wendy's until you were 15",
+    "github": "ryansperzel",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Coke"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Root beer"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Mountain Dew"
+        }
+    ],
+    "directions": [
+        "Make your fast food order a meal so it comes with a drink",
+        "Create the perfect blend of sodas at the neverage station. Don't be afraid to stray from the recipe and try new things",
+        "Drink at least 1/3 of it at the beverage station and fill it back up",
+        "Enjoy!",
+        "Optionally, head back for a refill or try a new blend!"
+    ],
+    "image": "fast-food-classic.jpg",
+    "keywords": [
+      "soda",
+      "wendys"
+    ]
+}

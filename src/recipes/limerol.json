@@ -36,6 +36,14 @@
     "image": "limerol.jpg",
     "source": "https://archive.org/details/isbn_9788424117672/page/20",
     "keywords": [
+<<<<<<< HEAD
         "alcoholic", "bitter", "juice"
+=======
+        "alcoholic",
+        "bitter",
+        "juice",
+        "vegan",
+        "cold"
+>>>>>>> 2b365d47e275f5c5f3783c543907f8194768b5b8
     ]
 }

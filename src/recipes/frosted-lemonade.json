@@ -1,0 +1,39 @@
+{
+    "name": "Frosted Lemonade",
+    "description": "A refreshing frosted lemonade perfect for the Summer.",
+    "github": "CaroMen",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "freshly squeezed lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "6",
+            "measure": "cup",
+            "ingredient": "vanilla ice cream"
+        }
+    ],
+    "directions": [
+        "Mix the lemon juice and the sugar together until the sugar is fully dissolved. Add water to dilute and let it chill.",
+        "In a blender, add the lemonade and ice cream. Blend until it's smooth."
+    ],
+    "image": "frosted-lemonade.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/recipes/a54148/frozen-lemonade-recipe/",
+    "keywords": [
+        "lemonade",
+        "ice cream",
+        "frosted",
+        "summer"
+    ]
+}

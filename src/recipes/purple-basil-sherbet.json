@@ -1,0 +1,54 @@
+{
+  "name": "Purple Basil Sherbet",
+  "description": " Turkish non-alcoholic drink made of purple basil",
+  "github": "hamzali",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "bundle of",
+      "ingredient": "basil"
+    },
+    {
+      "quantity": "5",
+      "measure": "liters of",
+      "ingredient": "table water"
+    },
+    {
+      "quantity": "2.5",
+      "measure": "cups of",
+      "ingredient": "sugar"
+    },
+    {
+      "quantity": "5",
+      "measure": "pieces of",
+      "ingredient": "lemon"
+    }
+  ],
+  "directions": [
+    "Boil 5 liters of water.",
+    "When you start seeing bubbles in your boiling water drop your purple basil into the water.",
+    "I assume you have washed your purple basil thoroughly before splashing it into the boiling water, that's why I do not mention it.",
+    "Let it boil for couple of minutes.",
+    "Meanwhile, slice your lemons in half and squeeze them.",
+    "Add the sugar and freshly squeezed lemon juice into the boiling purple basil.",
+    "Mix gently and let it boil for couple more minutes.",
+    "Turn off the heat and let it rest for couple of minutes.",
+    "Gently remove the purple basil from your mix.",
+    "Put your drink into a pitcher and to the fridge and let it cool.",
+    "Ta-da! your drink is ready."
+  ],
+  "image": "purple-basil-sherbet.jpg",
+  "keywords": [
+    "basil",
+    "purple",
+    "pink",
+    "non-alcoholic",
+    "sweet",
+    "turkish",
+    "cool",
+    "magical",
+    "romantic",
+    "sexy",
+    "aromatic"
+  ]
+}
