@@ -48,4 +48,19 @@ describe('Recipe', () => {
     const listArray = wrapper.findAll('li')
     expect(listArray.length).toBe(wrapper.vm.$data.drink.ingredients.length + wrapper.vm.$data.drink.directions.length)
   });
+
+  it("renders the first ingredient correctly", () => {
+    const listArray = wrapper.findAll('li')
+    const firstIngredientListItem = listArray.at(0)
+    const firstIngredient = wrapper.vm.$data.drink.ingredients[0]
+    const matchingString = firstIngredient.quantity + ' ' + firstIngredient.measure + ' ' + firstIngredient.ingredient
+    expect(firstIngredientListItem.text()).toBe(matchingString)
+  });
+
+  it("renders the first direction correctly", () => {
+    const listArray = wrapper.findAll('li')
+    const firstDirection = listArray.at(wrapper.vm.$data.drink.ingredients.length)
+    const matchingString = wrapper.vm.$data.drink.directions[0]
+    expect(firstDirection.text()).toBe(matchingString)
+  });
 });
