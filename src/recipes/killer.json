@@ -1,0 +1,42 @@
+{
+    "name": "Killer Cocktail",
+    "description": "Amaretto and passion fruit dominate this bittersweet sour. Adapted from a recipe created by Tess Posthumus, Amsterdam, The Netherlands.",
+    "github": "extraalek",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "shot",
+            "ingredient": "Disaronno amaretto"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "Rutte Dry Gin"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "shot",
+            "ingredient": "Italian red bitter liqueur"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "shot",
+            "ingredient": "Passion fruit syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "Freshly squeezed lemon juice"
+        }
+    ],
+    "directions": [
+        "Shake all intgredients with ice",
+        "Strain into glass filled with crushed ice",
+        "Garnish with lemon zest twist (cut like a shark fin) and 3 drops of Cranberry Bitters, as a bloody shark attack (or use grenadine)"
+    ],
+    "image": "killer.jpg",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/4120/killer-cocktail",
+    "keywords": [
+        "amaretto"
+    ]
+}
