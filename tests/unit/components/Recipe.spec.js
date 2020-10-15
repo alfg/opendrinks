@@ -37,11 +37,15 @@ describe('Recipe', () => {
     expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
   });
 
-
   it("shows that the drink has been favorited", () => {
     wrapper.setData({ isFavorited: true });
     const star = wrapper.find(FavoriteStar);
     const starProps = star.props()
     expect(starProps.isFavorited).toBe(true);
+  });
+
+  it("renders the correct amount of ingredients and directions", () => {
+    const listArray = wrapper.findAll('li')
+    expect(listArray.length).toBe(wrapper.vm.$data.drink.ingredients.length + wrapper.vm.$data.drink.directions.length)
   });
 });
