@@ -138,7 +138,7 @@ import RecipeTile from '@/components/RecipeTile.vue';
 import recipes from '../recipes';
 import FavoriteStar from './FavoriteStar.vue';
 
-const NUMBER_OF_SIMILAR_RECIPES = 3;
+const NUMBER_OF_SIMILAR_RECIPES = 6;
 
 export default {
   name: 'Recipe',
