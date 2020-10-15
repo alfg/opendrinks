@@ -4,6 +4,7 @@ import VueSocialSharing from 'vue-social-sharing';
 
 import router from '@/router';
 import Recipe from '@/components/Recipe.vue';
+import FavoriteStar from "@/components/FavoriteStar.vue"
 
 const localVue = createLocalVue();
 
@@ -34,5 +35,13 @@ describe('Recipe', () => {
   test('first keyword badge of recipe should correspond to first keyword array element in data', () => {
     const btn = wrapper.find('b-badge-stub');
     expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
+  });
+
+
+  it("shows that the drink has been favorited", () => {
+    wrapper.setData({ isFavorited: true });
+    const star = wrapper.find(FavoriteStar);
+    const starProps = star.props()
+    expect(starProps.isFavorited).toBe(true);
   });
 });
