@@ -1,0 +1,60 @@
+{
+  "name": "Best Vegan Matcha Latte",
+  "description": "The best vegan matcha latte with matcha powder recommendations, my favorite dairy-free milk blend, and natural sweeteners! A 4-ingredient, 5-minute, creamy, antioxidant-rich beverage!",
+  "github": "ipoobest",
+  "ingredients": [
+    {
+      "quantity": "1 1/4 ",
+      "measure": "tsp",
+      "ingredient": "matcha powder"
+    },
+    {
+      "quantity": "1",
+      "measure": "Tbsp",
+      "ingredient": "maple syrup"
+    },
+    {
+      "quantity": "1",
+      "measure": "Tbsp",
+      "ingredient": "hot water"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "cup",
+      "ingredient": "light coconut milk"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "cup",
+      "ingredient": "macadamia nut milk"
+    },
+    {
+      "quantity": "1/4",
+      "measure": "tsp",
+      "ingredient": "maca root powder"
+    },
+    {
+      "quantity": "1/4",
+      "measure": "tsp",
+      "ingredient": "ashwaganda"
+    },
+    {
+      "quantity": "1",
+      "measure": "tsp",
+      "ingredient": " coconut butter"
+    }
+  ],
+  "directions": [
+    "1. Add matcha powder to your serving mug along with sweetener of choice and hot water. (If adding add-ins like maca, ashwaganda, or coconut butter, add at this time.)",
+    "2. Whisk with a bamboo whisk or a metal whisk until completely dissolved. If you don’t have a bamboo whisk, you can use a spoon or a metal whisk or even blend the latte in a blender. Bamboo whisks are gentle on the matcha and also help it dissolve more completely. So if you like matcha, I recommend investing! Otherwise, use what you have.",
+    "3. Once the matcha is completely dissolved, heat* your coconut and macadamia milk (or other dairy-free milks). I added mine to a frothing pitcher and steamed on our espresso machine, but you could also heat in the microwave or on the stovetop until hot and steamy. To get more froth, you can whisk vigorously or use a handheld frother.",
+    "4. Pour dairy-free milk into your mug – latte art optional (mine was a little sad – lol). Taste and add more sweetener if needed. I found that, when I used the macadamia nut milk, I only needed a bit of maple syrup or stevia to sweeten. Enjoy immediately."
+  ],
+  "image": "matcha_latte.jpg",
+  "source": "https://minimalistbaker.com/best-vegan-matcha-latte/",
+  "keywords": [
+    "LATTE",
+    "Matcha",
+    "Cold Brew Mocha"
+  ]
+}
