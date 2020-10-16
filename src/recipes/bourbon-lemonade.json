@@ -1,6 +1,6 @@
 {
   "name": "Bourbon Lemonade",
-  "description": "Little western kick to a summer classic",
+  "description": "Little western kick to a summer classic.",
   "github": "girOly",
   "ingredients": [
     {
@@ -25,7 +25,8 @@
     }
   ],
   "directions": [
-    "Mix all ingredients in a glass over ice. Garnish with lemon slice and maraschino cherry, if desired."
+    "Mix all ingredients in a glass over ice.",
+    "Garnish with lemon slice and maraschino cherry, if desired."
   ],
   "image": "bourbon-lemonade.jpg",
   "keywords": [

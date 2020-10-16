@@ -1,6 +1,6 @@
 {
     "name": "Tuxedo",
-    "description": "An IBA Official Cocktail composed of gin, dry Vermouth, orange bitters, maraschino and Absinthe",
+    "description": "An IBA Official Cocktail composed of gin, dry Vermouth, orange bitters, maraschino and Absinthe.",
     "github": "deveshkatoch",
     "ingredients": [
         {
@@ -35,8 +35,8 @@
         }
     ],
     "directions": [
-        "Stir all the ingredients with ice",
-        "Fine strain into a chilled coupe glass"
+        "Stir all the ingredients with ice.",
+        "Fine strain into a chilled coupe glass."
     ],
     "image": "tuxedo.jpg",
     "keywords": [

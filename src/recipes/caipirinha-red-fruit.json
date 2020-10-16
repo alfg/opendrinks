@@ -1,6 +1,6 @@
 {
     "name": "Red fruit caipirinha",
-    "description": "It's like a Caipirinha but red fruit",
+    "description": "It's like a Caipirinha but red fruit.",
     "github": "phfbueno",
     "ingredients": [
         {
@@ -40,9 +40,9 @@
         }
     ],
     "directions": [
-        "In a glass, add the berries, and the sugar.",
-        "With the help of a tamper, mash the fruit to extract the juice well.",
-        "Then put crushed ice, complete with cachaça, stir gently and then serve.",
+        "Add berries and sugar in a glass.",
+        "Mash the fruit using a tamper to extract the juice.",
+        "Add crushed ice, complete with cachaça, then stir gently and then serve.",
         "Decorate the glass with the red berries."
     ],
     "image": "caipirinha-red-fruit.jpg",

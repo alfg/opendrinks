@@ -1,6 +1,6 @@
 {
     "name": "Flaming Moe",
-    "description": "A real-world version of the fictional drink made famous by The Simpsons. Substitutes cough syrup for high-proof rum",
+    "description": "A real-world version of the fictional drink made famous by The Simpsons. Substitutes cough syrup for high-proof rum.",
     "github": "GurjitSangha",
     "ingredients": [
         {
@@ -35,10 +35,10 @@
         }
     ],
     "directions": [
-        "Pour all ingredients except rum in a highball glass",
-        "Stir",
-        "Float the rum on the top",
-        "Ignite with a match and extinguish before drinking"
+        "Pour all ingredients except rum in a highball glass.",
+        "Stir.",
+        "Float the rum on the top.",
+        "Ignite with a match and extinguish before drinking."
     ],
     "image": "flaming-moe.jpg",
     "source": "https://www.thespruceeats.com/flaming-moe-flaming-homer-shot-759433",

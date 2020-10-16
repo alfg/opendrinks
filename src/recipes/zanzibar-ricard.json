@@ -1,6 +1,6 @@
 {
     "name": "Zanzibar Ricard",
-    "description": "Ricard with pineapple juice, coconut liqueur and grenadine syrup Monin",
+    "description": "Ricard with pineapple juice, coconut liqueur and grenadine syrup Monin.",
     "github": "Skydraw",
     "ingredients": [
         {
@@ -25,9 +25,9 @@
         }
     ],
     "directions": [
-        "Pour the Ricard pastis, pineapple juice and coconut liqueur into a shaker",
-        "Add ice cubes and beat. Pour into a glass",
-        "Then add the grenadine syrup and other ice cubes. Garnish with a slice of pineapple"
+        "Pour the Ricard pastis, pineapple juice and coconut liqueur into a shaker.",
+        "Add ice cubes and beat. Pour into a glass.",
+        "Add the grenadine syrup and other ice cubes. Garnish with a slice of pineapple."
     ],
     "image": "zanzibar-ricard.jpg",
     "source": "http://www.debeur.com/site/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=253&cntnt01returnid=57",

@@ -1,6 +1,6 @@
 {
     "name": "Elderflower-tini",
-    "description": "A sweet twist to your average martini",
+    "description": "A sweet twist to your average martini.",
     "github": "lalawuhan",
     "ingredients": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "directions": [
-        "Chill serving glass in freezer",
+        "Chill serving glass in freezer.",
         "Pour ingredients into mixing glass with ice in order listed and shake.",
         "Strain into chilled serving glass."
     ],

@@ -1,6 +1,6 @@
 {
     "name": "Shirley Temple",
-    "description": "Simple and popular non-alcoholic drink",
+    "description": "Simple and popular non-alcoholic drink.",
     "github": "kcusaac",
     "ingredients": [
         {
@@ -30,9 +30,9 @@
         }
     ],
     "directions": [
-        "Fill collins glass with ice cubes",
-        "Add ginger ale and lemonase, or just 4 oz ginger ale",
-        "Add a dash of grenadine",
+        "Fill collins glass with ice cubes.",
+        "Add ginger ale and lemonase, or just 4 oz ginger ale.",
+        "Add a dash of grenadine.",
         "Stir well and garnish with a maraschino cherry."
     ],
     "image": "shirley-temple.jpg",

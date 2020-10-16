@@ -1,6 +1,6 @@
 {
     "name": "Lust For Life",
-    "description": "This exotic sipper from Imbibe’s 2013 Cocktail Bar of the Year, Pouring Ribbons, is a little smoky, a little nutty and perfectly bright",
+    "description": "This exotic sipper from Imbibe’s 2013 Cocktail Bar of the Year, Pouring Ribbons, is a little smoky, a little nutty and perfectly bright.",
     "github": "Donearm",
 
     "ingredients": [
@@ -36,7 +36,7 @@
         }
     ],
     "directions": [
-		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Combine ingredients in a shaker and shake with ice until chilled.",
 		"Strain into a rocks glass on ice cubes.",
 		"Garnish with grated nutmeg."
     ],

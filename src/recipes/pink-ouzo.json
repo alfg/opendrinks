@@ -1,6 +1,6 @@
 {
     "name": "Pink cocktail with Ouzo",
-    "description": "Pretty pink cocktail with Ouzo",
+    "description": "Pretty pink cocktail with Ouzo.",
     "github": "JeanKreek",
     "ingredients": [
         {
@@ -32,7 +32,7 @@
     "directions": [
         "Rinse the mint, wash the lemon and cut it into slices.",
         "Make a cut towards the centre of each slice so that it can be held straddling the edge of the glass.",
-        "In a shaker, pour the Ouzo, grenadine, water and shake.",
+        "Pour the Ouzo, grenadine, water in a shaker and shake.",
 		"Pour into 4 large glasses with ice cubes and decorate with lemon slices and mint leaves."
     ],
     "image": "pink-ouzo.jpg",

@@ -1,6 +1,6 @@
 {
     "name": "Pink Gin",
-    "description": "A deliciously spiced spin on drinking gin. A great way to enhance a sweet gin",
+    "description": "A deliciously spiced spin on drinking gin. A great way to enhance a sweet gin.",
     "github": "BenjaminCivitico",
     "ingredients": [
         {
@@ -15,9 +15,9 @@
         }
     ],
     "directions": [
-        "Add gin and bitters to a cocktail shaker",
-        "Add ice and stir untill gin is chilled",
-        "Pour cocktail into a martini glass and garnish as desired"
+        "Add gin and bitters to a cocktail shaker.",
+        "Add ice and stir untill gin is chilled.",
+        "Pour cocktail into a martini glass and garnish as desired."
     ],
     "image": "pink-gin.jpg",
     "keywords": [

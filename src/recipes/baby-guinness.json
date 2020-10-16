@@ -1,6 +1,6 @@
 {
     "name": "Baby Guinness",
-    "description": "A simple and sweet shot that resembles a baby pint of Guinness",
+    "description": "A simple and sweet shot that resembles a baby pint of Guinness.",
     "github": "ronmcg",
     "ingredients": [
         {
@@ -15,8 +15,8 @@
         }
     ],
     "directions": [
-        "Get a shot glass and fill it nearly to the top with a coffee flavored liqueur (ex. Kahlúa)",
-        "Fill the the rest of the shot glass with an Irish cream liqueur (ex. Baileys)"
+        "Get a shot glass and fill it nearly to the top with a coffee flavored liqueur (ex. Kahlúa).",
+        "Fill the the rest of the shot glass with an Irish cream liqueur (ex. Baileys)."
     ],
     "image": "baby-guinness.jpg",
     "source": "https://www.allrecipes.com/recipe/74819/baby-guinness/",

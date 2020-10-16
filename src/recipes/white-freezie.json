@@ -1,6 +1,6 @@
 {
     "name": "White Freezie",
-    "description": "Delicious, sweet alcoholic beverage that tastes like white-coloured freezies",
+    "description": "Delicious, sweet alcoholic beverage that tastes like white-coloured freezies.",
     "github": "KComrade53",
     "ingredients": [
         {
@@ -20,9 +20,9 @@
         }
     ],
     "directions": [
-        "Optional: Add ice to a glass",
-        "Pour Liqeuers into the glass",
-        "Fill remainder of glass with Sprite or 7 Up"
+        "Optional: Add ice to a glass.",
+        "Pour Liqeuers into the glass.",
+        "Fill remainder of glass with Sprite or 7-Up."
     ],
     "image": "white-freezie.jpg",
     "keywords": [

@@ -1,6 +1,6 @@
 {
     "name": "Vodka Schweppes",
-    "description": "Simple sweet drink that you can take wherever you are in your own local style",
+    "description": "Simple sweet drink that you can take wherever you are in your own local style.",
     "github": "brucremo",
     "ingredients": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "directions": [
-        "Mix the vodka and the soda in the cup, preferably adding the vodka first so it blends well and that's it! Your homemade Smirnoff Ice aka Vodka Schweppes"
+        "Mix the vodka and the soda in the cup, preferably adding the vodka first so it blends well and that's it! Your homemade Smirnoff Ice aka Vodka Schweppes."
     ],
     "image": "vodka-schweppes.jpg",
     "keywords": [
