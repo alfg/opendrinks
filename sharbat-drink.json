@@ -1,0 +1,29 @@
+{
+    "name": "sharbat",
+    "description": "A fresh rooh afza",
+    "github": "tauqeerali01",
+    "ingredients": [
+        {
+            "quantity": "<quantity of ingredient 1>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 1>"
+        },
+        {
+            "quantity": "<quantity of ingredient 2>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 2>"
+        },
+        {
+            "quantity": "<quantity of ingredient 3>",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "<ingredient 3>"
+        }
+    ],
+    "directions": [
+        "<Step 1>",
+        "<Step 2>",
+        "<Step 3>"
+    ],
+    "image": "sharbat.jpg>"
+   ]
+}
