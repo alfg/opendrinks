@@ -1,0 +1,30 @@
+{
+  "name": "Tongba",
+  "description": "Tongba, commonly pronounced as 'tong-baa' or 'tum-baa' by locals is one of the most popular beverage in cooler eastern part of Nepal. It is most common to Mongolians but it is now loved by all people. ",
+  "github": "sanjaysanjel019",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "kilos",
+      "ingredient": "Millet"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "Khesung(source of molds, bacteria and yeast)"
+    }
+  ],
+  "directions": [
+    "Cook the whole millet grains.",
+    "Cool down the cooked millet grains.",
+    "Put the cooled millet grains on a woven bamboo basket.",
+    "Cover it with warm clothes or leaves, and leave it for 1-2 days according to temperature.",
+    "The grains turn a little sweet, pack it tightly into earthenware pot or aluminium jar.",
+    "After 7-15 days the fermentation is completed.",
+    "Normally for good sweet taste, it is stored for six months.",
+    "Put the fermented millet grains on a bamboo container known as 'Tongba' and pour hot water over it and leave it undisturbed for about 5 minutes .",
+    "Your 'Tongba-The Drink' is now ready and drink it wholeheartedly ."
+  ],
+  "image": "tongba.jpg",
+  "keywords": ["millet", "raksi", "alcoholic", "light-beer", "vegan", "khesung"]
+}
