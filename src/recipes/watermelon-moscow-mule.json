@@ -25,11 +25,7 @@
         {"quantity": "",
         "measure": "",
         "ingredient": "Ice cubes"},
-<<<<<<< HEAD
-        
-=======
->>>>>>> 88213de5ff6bdc8d22360a4f5a9b576319ddfe09
-        {"quantity": "",
+                {"quantity": "",
             "measure": "",
             "ingredient": "Slice of lime"}
     ],
