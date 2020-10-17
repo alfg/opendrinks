@@ -1,0 +1,38 @@
+{
+  "name": "Chocolate Chip Frappuccino",
+  "description": "A simple hocolate Chip Frappuccino with just four ingredients",
+  "github": "ipoobest",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "measure": "tbsp",
+      "ingredient": "chocolate syrup"
+    },
+    {
+      "quantity": "4",
+      "measure": "tbsp",
+      "ingredient": "chocolate chips – mini if possible"
+    },
+    {
+      "quantity": "4",
+      "measure": "cup",
+      "ingredient": "double-strength freshly brewed espresso"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon (12g)",
+      "ingredient": "vanilla extract - optional"
+    }
+  ],
+  "directions": [
+    "Fill Blender half full with chopped or crushed ice. Add all ingredients---minus whipped cream.",
+    "Blend in blender until thick and still icy",
+    "Pour into 4 tall glasses, top with whipping cream and drizzle chocolate over the whipped cream.",
+  ],
+  "image": "chocolate-chip-frap.jpg",
+  "keywords": [
+    "chocolate",
+    "milk",
+    "non-alcoholic"
+  ]
+}
