@@ -181,6 +181,7 @@ export default {
   },
   created() {
     this.getRecipe(this.name);
+    window.document.title = `Open Drinks - ${this.drink.name}`;
     this.getFavorites();
     this.getSimilarRecipes(this.name).then(data => {
       this.similarRecipes = data;
