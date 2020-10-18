@@ -1,0 +1,42 @@
+{
+    "name": "Blue Vodka Lemonade",
+    "description": "A twist to classic lemonade",
+    "github": "JZerman2018",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Lemonade"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Blue liquor, (UV Blue Vodka or Blue Curaçao)"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "drops",
+            "ingredient": "Blue food coloring, optional"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon Wedge"
+        }
+    ],
+    "directions": [
+        "Mix together lemonade and blue liquor",
+        "Add a drop or 2 of blue food coloring for deeper blue color",
+        "Serve over ice. Garnish with lemon"
+    ],
+    "image": "blue-vodka-lemonade.jpg",
+    "source": "https://dinnersdishesanddesserts.com/blue-vodka-lemonade/",
+    "keywords": [
+        "blue",
+        "vodka",
+        "lemonade",
+        "alcoholic",
+        "cocktail",
+        "curaçao"
+    ]
+}

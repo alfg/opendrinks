@@ -21,7 +21,7 @@
         {
             "quantity": "1/2",
             "measure": "tbsp",
-            "ingredient": "Chat masal"
+            "ingredient": "Chat masala"
         },
         {
             "quantity": "few",
@@ -39,8 +39,10 @@
     ],
     "image": "nimbu-pani.jpg",
     "keywords": [
-        "refresing",
+        "chilled",
         "lemon",
-        "chilled"
+        "mint",
+        "refreshing",
+        "sugar"
     ]
 }

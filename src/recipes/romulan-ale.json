@@ -1,0 +1,40 @@
+{
+    "name": "Romulan Ale",
+    "description": "Illegal in the Federation, this sparkling blue drink will leave you seeing stars.",
+    "github": "bibliofilo",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "blue curaçao"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "plantation 3 star rum"
+        }
+    ],
+    "directions": [
+        "Squeeze the lime juice, then add the blue curaçao and Plantation 3 Star rum.",
+        "Add one ice cube, then crack a second into the drink shaker.",
+        "Shake and strain into the tall glass or flute."
+    ],
+    "image": "romulan-ale.jpg",
+    "source": "https://youtu.be/4bP8uL9fjH8",
+    "keywords": [
+        "blue curaçao",
+        "lime juice",
+        "rum",
+        "simple syrup"
+    ]
+}

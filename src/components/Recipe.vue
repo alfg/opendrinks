@@ -16,13 +16,34 @@
       </div>
 
       <div class="d-flex align-items-center">
-        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited"> </FavoriteStar>
+        <div class="show-image" v-if="isPrint">
+          <b-form-checkbox
+            v-model="showImage"
+            name="show-image-checkbox"
+            :value="false"
+            :unchecked-value="true"
+            class="mr-3"
+          >
+            Hide Image
+          </b-form-checkbox>
+        </div>
+        <FavoriteStar class="mr-3 fav-star" @favorite="favorited" :isFavorited="isFavorited">
+        </FavoriteStar>
 
         <div class="print-button">
-          <b-button variant="outline-primary" :to="`/recipe/${this.name}/print`" target="_blank">
+          <b-button v-if="isPrint" variant="outline-primary" @click="print()">
+            Print
+          </b-button>
+          <b-button
+            v-else
+            variant="outline-primary"
+            :to="`/recipe/${this.name}/print`"
+            target="_blank"
+          >
             Print
           </b-button>
         </div>
+
         <div class="share-button">
           <b-dropdown text="Share" variant="outline-primary" right class="m-2">
             <b-dropdown-item>
@@ -70,7 +91,7 @@
           </ul>
         </div>
 
-        <div class="recipe-image">
+        <div class="recipe-image" v-if="showImage">
           <b-img
             right
             class="mb-4"
@@ -117,12 +138,13 @@ import RecipeTile from '@/components/RecipeTile.vue';
 import recipes from '../recipes';
 import FavoriteStar from './FavoriteStar.vue';
 
-const NUMBER_OF_SIMILAR_RECIPES = 3;
+const NUMBER_OF_SIMILAR_RECIPES = 6;
 
 export default {
   name: 'Recipe',
   props: {
     name: String,
+    isPrint: Boolean,
   },
   components: {
     RecipeTile,
@@ -154,10 +176,12 @@ export default {
       },
       isFavorited: false,
       favorites: [],
+      showImage: true,
     };
   },
   created() {
     this.getRecipe(this.name);
+    window.document.title = `Open Drinks - ${this.drink.name}`;
     this.getFavorites();
     this.getSimilarRecipes(this.name).then(data => {
       this.similarRecipes = data;
@@ -190,6 +214,9 @@ export default {
       }
       this.isFavorited = !this.isFavorited;
       window.localStorage.setItem('favorites', JSON.stringify(this.favorites));
+    },
+    print() {
+      window.print();
     },
   },
 };

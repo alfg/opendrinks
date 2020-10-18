@@ -16,6 +16,7 @@ export default {
   mounted() {
     this.setTheme(this.theme);
     this.darkCheckBox = this.theme === 'dark';
+    this.$nextTick(() => document.getElementById('app').classList.add('load'));
   },
   methods: {
     checkboxHandler() {

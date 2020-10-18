@@ -1,0 +1,38 @@
+{
+    "name": "Hard Apple Cider",
+    "description": "Amazing fall drink that, best served warm.",
+    "github": "evalaidc",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "measure": "Gallon",
+        "ingredient": "Trader Joe's Spice Apple Cider or your friendly neighborhood apple cider brand"
+      },
+      {
+        "quantity": "3",
+        "measure": "cups",
+        "ingredient": "Fireball Cinnamon Whiskey"
+      },
+     {
+        "quantity": "1",
+        "measure": "",
+        "ingredient": "Apple"
+      }
+    ],
+    "directions": [
+      "Grab a pot and turn the stove temperature to high.",
+      "Pour apple cider juice into pot.",
+      "Continuously stir until apple cider juice boils.",
+      "Pour Fireball Whiskey into pot.",
+      "Turn stove to low",
+      "Add apple slice to garnish."
+    ],
+    "image": "hard-applecider.jpg",
+    "source": "https://www.joyfulhealthyeats.com/easy-hot-spiked-mulled-apple-cider-recipe/",
+    "keywords": [
+      "alcoholic",
+      "apple",
+      "whiskey"
+    ]
+  }
+  
