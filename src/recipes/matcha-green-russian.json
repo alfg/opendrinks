@@ -1,0 +1,59 @@
+{
+    "name": "Matcha Green Russian",
+    "description": "The classic White Russian cocktail goes green thanks to Numi's Citrus Matcha, a blend of organic matcha green tea with notes of citrus.",
+    "github": "Daninator1",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "Numi Citrus Matcha"
+        },
+        {
+            "quantity": "1",
+            "measure": "bean",
+            "ingredient": "vanilla (halved & scraped)"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "quart",
+            "ingredient": "fresh cream"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Create a matcha green tea liqueur.",
+        "Add 2 cups of whole milk, 2 cups of sugar, the vanilla bean (seeds and pod), and 3 tablespoons of Numi Citrus Matcha to a small pot.",
+        "Warm the mixture over a medium low heat and whisk until the sugar is completely dissolved and all ingredients are combined (except the vanilla bean pod).",
+        "Remove from heat and remove the pod. Let the mixture cool for about 30 minutes.",
+        "Transfer the green tea mixture to a pitcher and add in 2 cups of vodka. Mix well.",
+        "Overfill an old fashioned glass with ice.",
+        "Add 2 parts matcha green tea liqueur and then float about 1 part fresh cream over the top.",
+        "Dust with some of the matcha powder. Makes about 6 cocktails."
+    ],
+    "image": "matcha-green-russian.jpg",
+    "source": "https://blog.numitea.com/matcha-green-tea-russian/",
+    "keywords": [
+        "matcha",
+        "green tea",
+        "russian"
+    ]
+}
