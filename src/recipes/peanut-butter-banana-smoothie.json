@@ -1,6 +1,6 @@
 {
   "name": "Peanut Butter Banana Smoothie",
-  "description": "An easy-to-make smoothie with peanut butter and banana that makes you feel energized and refreshed",
+  "description": "An easy-to-make smoothie with peanut butter and banana that makes you feel energized and refreshed.",
   "github": "binhthaitrinh",
   "ingredients": [
     {
@@ -30,9 +30,9 @@
     }
   ],
   "directions": [
-    "Cut bananas into chunks",
-    "Place bananas, milk, peanut butter, honey and ice cubs in a blender",
-    "blend until smooth (about 30 seconds)"
+    "Cut bananas into chunks.",
+    "Place bananas, milk, peanut butter, honey and ice cubs in a blender.",
+    "Blend until smooth (about 30 seconds)."
   ],
   "image": "peanut-butter-banana-smoothie.jpg",
   "source": "https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/",

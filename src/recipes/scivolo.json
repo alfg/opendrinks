@@ -1,6 +1,6 @@
 {
     "name": "Scivolo",
-    "description": "Sweet strawberry-lemon cocktail, called also Vodka Strawberry lemonade cocktail",
+    "description": "Sweet strawberry-lemon cocktail, called also Vodka Strawberry lemonade cocktail.",
     "github": "alepit",
     "ingredients": [
         {
@@ -16,8 +16,8 @@
 
     ],
     "directions": [
-        "Fill a glass with ice and pour in vodka and schweppes",
-        "Mix",
+        "Fill a glass with ice and pour in vodka and schweppes.",
+        "Mix.",
         "Garnish with a lime or lemon slice."
     ],
     "image": "scivolo.jpg",

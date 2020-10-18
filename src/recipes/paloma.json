@@ -1,6 +1,6 @@
 {
     "name": "Paloma",
-    "description": "A simple tequila cocktail made with grapefruit soda",
+    "description": "A simple tequila cocktail made with grapefruit soda.",
     "github": "estudioChispa",
     "ingredients": [
         {
@@ -35,13 +35,12 @@
         }
     ],
     "directions": [
-        "Rim your glass with a wedge of lime and the Tajin (if using) or salt",
-        "Squeeze the other lime into the glass",
-        "Add a pinch of salt to the glass",
-        "Add the ice",
-        "Add the tequila",
-        "Fill with the grapefruit soda and stir",
-        "Garnish with a wedge of lime and enjoy!",
+        "Rim your glass with a wedge of lime and the Tajin (if using) or salt.",
+        "Squeeze the other lime into the glass.",
+        "Add a pinch of salt to the glass.",
+        "Add ice and tequila.",
+        "Fill with the grapefruit soda and stir.",
+        "Garnish with a wedge of lime and enjoy!.",
         "Photo credit: Sarah Stierch (CC BY 4.0)"
     ],
     "image": "paloma.jpg",

@@ -1,6 +1,6 @@
 {
   "name": "Guarapita",
-  "description": "Venezuelan drink made with rum and juice from tropical fruits",
+  "description": "Venezuelan drink made with rum and juice from tropical fruits.",
   "github": "stephs1515",
   "ingredients": [
       {
@@ -36,8 +36,8 @@
       
   ],
   "directions": [
-      "In a punch bowl, mix all the ingredients with lots of ice cubes",
-      "Serve in glasses with fresh ice cubes and garnish with mint leaves"
+      "Mix all the ingredients with lots of ice cubesIn a punch bowl.",
+      "Serve in glasses with fresh ice cubes and garnish with mint leaves."
   ],
   "image": "guarapita.jpg",
   "source": "https://enrilemoine.com/en/2012/07/04/venezuelan-rum-guarapita-recipe/",

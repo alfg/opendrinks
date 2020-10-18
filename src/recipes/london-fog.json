@@ -1,6 +1,6 @@
 {
     "name": "London Fog",
-    "description": "A tea based latte with vanilla and honey",
+    "description": "A tea based latte with vanilla and honey.",
     "github": "Just-Sieb",
     "ingredients": [
         {
@@ -30,7 +30,7 @@
         }
     ],
     "directions": [
-        "Steep the tea in the water for 5 minutes and dispose of bag once done.",
+        "Steep the tea in the water for five minutes and dispose of bag once done.",
         "Mix in the vanilla and honey.",
         "Pour in the steamed milk.",
         "Enjoy!"

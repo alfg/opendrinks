@@ -1,6 +1,6 @@
 {
     "name": "Masala Coke",
-    "description": "Masala coke is a favorite Indian drink that spices up your taste buds",
+    "description": "Masala coke is a favorite Indian drink that spices up your taste buds.",
     "github": "redfly1",
     "ingredients": [
         {
@@ -52,7 +52,7 @@
         "Squeeze the lemon and lime wedges into a shaker and drop them in.",
         "Add the remaining ingredients and ice and shake gently.",
         "Strain into the prepared glass.",
-        "Garnish with a slice of lime,"
+        "Garnish with a slice of lime."
     ],
     "image": "masala-coke.jpg",
     "keywords": [

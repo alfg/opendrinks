@@ -1,6 +1,6 @@
 {
     "name": "Paan Shot",
-    "description": "A refreshing drink that is made using paan (betel leaves)",
+    "description": "A refreshing drink that is made using paan (betel leaves).",
     "github": "sinisterblade",
     "ingredients": [
         {
@@ -36,7 +36,7 @@
     ],
     "directions": [
         "Tear apart the paan leaves using your hand and add to a mixer.",
-        "In the same mixer jar, add all the other ingredients and blend till smooth.",
+        "Add all the other ingredients in the same mixer jar and blend until smooth.",
         "Refrigerate for at least 1 hour.",
         "Pour equal quantities of the paan shot into 12 shot glasses and serve chilled."
     ],

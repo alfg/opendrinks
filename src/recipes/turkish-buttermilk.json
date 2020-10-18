@@ -1,6 +1,6 @@
 {
   "name": "Turkish Buttermilk (Ayran)",
-  "description": "Turkish Buttermilk (Ayran) is a Turkish yoghurt drink frothed to perfection in seconds and served up icy cold. It pairs perfectly with a greasy meal like Kebab",
+  "description": "Turkish Buttermilk (Ayran) is a Turkish yoghurt drink frothed to perfection in seconds and served up icy cold. It pairs perfectly with a greasy meal like Kebab.",
   "github": "jenniegunawan",
   "ingredients": [
     {
@@ -36,7 +36,7 @@
   ],
   "directions": [
     "Place all ingredients in a blender.",
-    "Mix until ingredients are combined and drink is frothy. This should be around 10-20 seconds.",
+    "Mix for 10-20 seconds until ingredients are combined and drink is frothy.",
     "Serve chilled."
   ],
   "image": "turkish-buttermilk.jpg",

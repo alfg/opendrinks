@@ -1,6 +1,6 @@
 {
     "name": "Ozark Speedball",
-    "description": "Citrusy coffee cocktail",
+    "description": "Citrusy coffee cocktail.",
     "github": "GonMMarques",
     "ingredients": [
         {
@@ -36,7 +36,8 @@
     ],
     "directions": [
         "Stir chilled coffee, coffee liqueur, and white whiskey in an ice-filled shaker." ,
-        "Strain into a chilled old-fashioned glass.", "Top with heavy cream and a dash of Angostura bitters; garnish with 4 drops orange oil."
+        "Strain into a chilled old-fashioned glass.", 
+        "Top with heavy cream and a dash of Angostura bitters; garnish with 4 drops orange oil."
     ],
     "image": "ozark-speedball.jpg",
     "source": "https://www.saveur.com/article/recipes/white-russian-ozark-speedball-cocktail/",

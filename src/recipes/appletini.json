@@ -1,6 +1,6 @@
 {
     "name": "Appletini",
-    "description": "A sweet and sour, electric green drink with a sweet, delicious apple flavor",
+    "description": "A sweet and sour electric green drink with a sweet, delicious apple flavor",
     "github": "aldermann",
     "ingredients": [
         {
@@ -30,10 +30,10 @@
         }
     ],
     "directions": [
-        "Dip the apple slice in lemon juice to prevent it from turning yellow",
-        "Combine all the liquid ingredients in a cocktail mixing cup. Fill it with ice and shakes it well",
-        "Strain into a cocktail glass",
-        "Garnish with the apple slice"
+        "Dip the apple slice in lemon juice to prevent it from turning yellow.",
+        "Combine all the liquid ingredients in a cocktail mixing cup. Fill it with ice and shake well.",
+        "Strain into a cocktail glass.",
+        "Garnish with the apple slice."
     ],
     "image": "appletini.jpg",
     "keywords": [

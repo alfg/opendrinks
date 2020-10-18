@@ -1,6 +1,6 @@
 {
     "name": "Coco Dream",
-    "description": "A refreshing mix of coconut lime and cachaça",
+    "description": "A refreshing mix of coconut lime and cachaça.",
     "github": "rrrahal",
     "ingredients": [
         {
@@ -35,7 +35,7 @@
         }
     ],
     "directions": [
-        "Blend all ingredients together on a blender and you're ready to go"
+        "Blend all ingredients together on a blender and serve."
     ],
     "image": "coco-dream.jpg",
     "keywords": [

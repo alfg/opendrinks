@@ -1,6 +1,6 @@
 {
     "name": "Noon Chai",
-    "description": "A delicious tea from the beautiful land of Kashmir",
+    "description": "A delicious tea from the beautiful land of Kashmir.",
     "github": "deveshkatoch",
     "ingredients": [
         {
@@ -35,12 +35,12 @@
         }
     ],
     "directions": [
-        "Boil 1 cup water and brew tea leaves, till frothy.",
-        "Now add the baking soda and whisk vigorously for about 10 seconds.",
+        "Boil 1 cup water and brew tea leaves until frothy.",
+        "Add the baking soda and whisk vigorously for about 10 seconds.",
         "Add remaining water and ginger.",
-        "Now on medium heat, add the milk and whisk it  vigorously to achieve a slight froth. The colour of the tea should now be a lovely dark pink",
-        "Adjust milk to colour of your choice. Add the salt and stir well",
-        "Pour into a cup and serve the Kashmiri Noon Chai hot"
+        "Add milk and whisk it vigorously over medium heat to achieve a slight froth. The colour of the tea should now be a lovely dark pink.",
+        "Adjust milk to colour of your choice. Add the salt and stir well.",
+        "Pour into a cup and serve the Kashmiri Noon Chai hot."
     ],
     "image": "noon-chai.jpg",
     "keywords": [

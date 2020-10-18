@@ -1,6 +1,6 @@
 {
     "name": "Gazpacho",
-    "description": "A refreshing and healthy drink that is cheap and easy to make",
+    "description": "A refreshing and healthy drink that is cheap and easy to make.",
     "github": "Luis-gd",
     "ingredients": [
         {
@@ -35,9 +35,9 @@
         }
     ],
     "directions": [
-        "Cut the tomatoes and the pepper",
-        "Triturate all with the mixer",
-        "Cool the gazpacho in the fridge and drink it in an hour"
+        "Cut the tomatoes and the pepper.",
+        "Triturate all with the mixer.",
+        "Cool the gazpacho in the fridge for an hour and serve."
     ],
     "image": "gazpacho.jpg",
     "keywords": [

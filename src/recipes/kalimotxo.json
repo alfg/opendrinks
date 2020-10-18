@@ -1,6 +1,6 @@
 {
     "name": "Kalimotxo",
-    "description": "A cheap and refreshing drink that is easy to make with common ingredients",
+    "description": "A cheap and refreshing drink that is easy to make with common ingredients.",
     "github": "joshyap",
     "ingredients": [
         {
@@ -25,11 +25,11 @@
         }
     ],
     "directions": [
-        "Fill glass with ice",
-        "Pour 1/2 glass of red wine",
-        "Pour 1/2 glass of cola (roughly maintaining 1:1 ratio with the wine from previous step)",
-        "Garnish with lime/lemon wedge",
-        "Optional: squeeze lime/lemon wedge juice into the drink",
+        "Fill glass with ice.",
+        "Pour 1/2 glass of red wine.",
+        "Pour 1/2 glass of cola (roughly maintaining 1:1 ratio with the wine from previous step).",
+        "Garnish with lime/lemon wedge.",
+        "Optional: squeeze lime/lemon wedge juice into the drink.",
         "Stir and enjoy!"
     ],
     "image": "kalimotxo.jpg",

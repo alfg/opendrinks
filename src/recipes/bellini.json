@@ -1,6 +1,6 @@
 {
     "name": "Bellini",
-    "description": "Bellini is sparkling Italian cocktail.",
+    "description": "Bellini is a sparkling Italian cocktail.",
     "github": "forsas",
     "ingredients": [
         {
@@ -21,7 +21,7 @@
     ],
     "directions": [
         "Pour peach juice into a champagne flute.",
-        "Slowly pour sparkling wine over peach juice; let sit until liquids have blended, about 1 minute.",
+        "Slowly pour sparkling wine over peach juice; let sit until liquids have blended for one minute.",
         "Pour raspberry juice over champagne mixture."
     ],
     "image": "bellini.jpg",

@@ -1,6 +1,6 @@
 {
   "name": "Fernet with coke",
-  "description": "Argentinian drink consisting of fernet, coke and ice",
+  "description": "Argentinian drink consisting of fernet, coke and ice.",
   "github": "ezekohon",
   "ingredients": [
       {
@@ -20,9 +20,9 @@
       }
   ],
   "directions": [
-      "Put the ice in a 500ml glass",
-      "Serve the Fernet (Branca is the best)",
-      "Slowly serve the Coca Cola till the glass is full"
+      "Put the ice in a 500ml glass.",
+      "Serve the Fernet (Branca is the best).",
+      "Slowly serve the Coca Cola till the glass is full."
   ],
   "image": "fernet-with-coke.jpg",
 
