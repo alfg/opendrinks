@@ -173,6 +173,11 @@ export default {
       },
       meta: [
         {
+          name: 'description',
+          content: this.drink.description,
+          vmid: 'description',
+        },
+        {
           property: 'og:title',
           content: 'Open Drinks',
           template: chunk => `${chunk} - ${this.drink.name}`,
@@ -196,7 +201,7 @@ export default {
         {
           property: 'og:description',
           content: this.drink.description,
-          vmid: 'og:descirption',
+          vmid: 'og:description',
         },
         {
           property: 'og:image',
