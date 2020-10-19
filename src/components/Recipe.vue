@@ -213,6 +213,19 @@ export default {
           content: this.drink.name,
           vmid: 'og:image:alt',
         },
+        {
+          itemprop: 'name',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+        },
+        {
+          itemprop: 'description',
+          content: this.drink.description,
+        },
+        {
+          itemprop: 'image',
+          content: `https://opendrinks.io${this.drink.img}`,
+        },
       ],
     };
   },
