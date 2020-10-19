@@ -158,13 +158,54 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      window.document.title = `Open Drinks - ${this.drink.name}`;
-
       this.getFavorites();
       this.getSimilarRecipes(newVal).then(data => {
         this.similarRecipes = data;
       });
     },
+  },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      titleTemplate: `%s - ${this.drink.name}`,
+      htmlAttrs: {
+        lang: 'en',
+        amp: true,
+      },
+      meta: [
+        {
+          property: 'og:title',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+          vmid: 'og:title',
+        },
+        {
+          property: 'og:type',
+          content: 'article',
+          vmid: 'og:type',
+        },
+        {
+          property: 'og:site_name',
+          content: 'Open Drinks',
+          vmid: 'og:site_name',
+        },
+        {
+          property: 'og:url',
+          content: `https://opendrinks.io${window.location.pathname}`,
+          vmid: 'og:url',
+        },
+        {
+          property: 'og:description',
+          content: this.drink.description,
+          vmid: 'og:descirption',
+        },
+        {
+          property: 'og:image',
+          content: `https://opendrinks.io${this.drink.img}`,
+          vmid: 'og:image',
+        },
+      ],
+    };
   },
   data() {
     return {
