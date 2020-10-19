@@ -1,12 +1,12 @@
 {
    "name": "Stoned Gimlet",
-   "description": "A spicy twist on the classic gimlet cocktail - ideally served at sunset on your snowcapped mountain of choice",
+   "description": "A spicy and rustic twist on the classic gimlet cocktail. Ideally served at sunset on your snowcapped peak of choice",
    "github": "MakeItBack",
    "ingredients": [
       {
          "quantity": "3/4",
          "measure": "Cup",
-         "ingredient": "Cheap gin"
+         "ingredient": "cheap gin"
       },
       {
          "quantity": "1",
@@ -16,18 +16,17 @@
       {
          "quantity": "1",
          "measure": "Dash",
-         "ingredient": "Lime cordial"
+         "ingredient": "lime cordial"
       }
    ],
    "directions": [
       "Pre-chill your ingredients in the snow",
       "Find a suitable vessel (a mug is ideal)",
       "Pour",
-      "Mix with your finger, a stick or even a spoon (fancy!)",
+      "Mix with your finger, a stick, or even a spoon (fancy!)",
       "Enjoy!",
       "(repeat)"
    ],
    "image": "stonedgimlet.jpg",
-   "source": "Author's own recipe",
    "keywords": ["gin", "alcoholic", "ginger", "lime"]
 }
