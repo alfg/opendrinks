@@ -170,7 +170,6 @@ export default {
       titleTemplate: `%s - ${this.drink.name}`,
       htmlAttrs: {
         lang: 'en',
-        amp: true,
       },
       meta: [
         {
@@ -203,6 +202,11 @@ export default {
           property: 'og:image',
           content: `https://opendrinks.io${this.drink.img}`,
           vmid: 'og:image',
+        },
+        {
+          property: 'og:image:alt',
+          content: this.drink.name,
+          vmid: 'og:image:alt',
         },
       ],
     };
