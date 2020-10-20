@@ -54,6 +54,21 @@ export default {
       );
     },
   },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        {
+          name: 'description',
+          content: 'Open Source Drink Recipes',
+          vmid: 'description',
+        },
+      ],
+    };
+  },
 };
 </script>
 

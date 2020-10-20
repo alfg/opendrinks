@@ -1,6 +1,6 @@
 {
     "name": "Mexican Mule",
-    "description": "Sometimes called El Burro - a take on the traditional Moscow Mule with Mexican flair",
+    "description": "Sometimes called El Burro - a take on the traditional Moscow Mule with Mexican flair.",
     "github": "flyfishingbarbara",
     "ingredients": [
         {
@@ -25,8 +25,8 @@
         }
     ],
     "directions": [
-        "Pour Tequila, fresh lime juice, bitters and Ginger beer over ice in glass or copper mug",
-        "Stir and garnish with lime wedges",
+        "Pour Tequila, fresh lime juice, bitters and Ginger beer over ice in glass or copper mug.",
+        "Stir and garnish with lime wedges.",
         "Enjoy!"
     ],
     "image": "mexican-mule.jpg",

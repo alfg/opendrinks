@@ -1,6 +1,6 @@
 {
     "name": "Negroni",
-    "description": "The Negroni is an iconic Italian cocktail, also considered an apéritif",
+    "description": "The Negroni is an iconic Italian cocktail, also considered an apéritif.",
     "github": "Iaggelis",
     "ingredients": [
         {
@@ -25,7 +25,9 @@
         }
     ],
     "directions": [
-        "Combine the spirits into a mixing glass with ice. Stir until chilled. Strain into a rocks glass filled with large ice cubes.",
+        "Combine the spirits into a mixing glass with ice.",
+        "Stir until chilled.",
+        "Strain into a rocks glass filled with large ice cubes.",
         "Garnish with an orange peel."
     ],
     "image": "negroni.jpg",

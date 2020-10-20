@@ -1,6 +1,6 @@
 {
     "name": "Cucumber Lime Mint Agua Fresca",
-    "description": "Cool and refreshing agua fresca made with cucumbers, lime, and mint",
+    "description": "Cool and refreshing agua fresca made with cucumbers, lime, and mint.",
     "github": "sinisterblade",
     "ingredients": [
         {
@@ -35,7 +35,7 @@
         }
     ],
     "directions": [
-        "Put the ingredients in a blender, add enough water to fill 3/4 of the blender. Hold the lid on the blender and purée until smooth.",
+        "Put the ingredients in a blender and add enough water to fill 3/4 of the blender. Hold the lid on the blender and purée until smooth.",
         "Place a fine mesh sieve over a bowl and pour the purée through it, pressing against the sieve with a rubber spatula or the back of a spoon to extract as much liquid out as possible.",
         "Fill a large pitcher halfway with ice cubes. Add the juice. Serve with sprigs of mint and slices of lime."
     ],

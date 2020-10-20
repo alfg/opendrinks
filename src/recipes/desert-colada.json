@@ -1,6 +1,6 @@
 {
     "name": "Desert Colada",
-    "description": "A new take on the classic Pina Colada, using Prickly Pear Syrup",
+    "description": "A new take on the classic Pina Colada, using Prickly Pear Syrup.",
     "github": "spotts9",
     "ingredients": [
         {
@@ -30,11 +30,11 @@
         }
     ],
     "directions": [
-        "Prickly Pear Syrup In The Bottom Of A Hurricane Glass.",
-        "Combine Next Four Ingredients In A Blender Carafe.",
-        "Blend Until Smooth And Pour Over Top of Prickly Pear Syrup.",
-        "Swirl With Spoon.",
-        "Garnish With Pineapple And Cherry."
+        "Prickly Pear Syrup in the bottom of a hurricane glass.",
+        "Combine next four ingredients in a blender carafe.",
+        "Blend until smooth and pour over top of Prickly Pear Syrup.",
+        "Swirl with spoon.",
+        "Garnish with pineapple and cherry."
     ],
     "image": "desert-colada.jpg",
     "keywords": [
