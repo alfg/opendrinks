@@ -63,4 +63,7 @@ export default new Router({
       component: () => import('./views/PageNotFound.vue'),
     },
   ],
+  scrollBehavior() {
+    return { x: 0, y: 0 };
+  },
 });
