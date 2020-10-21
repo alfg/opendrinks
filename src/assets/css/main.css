@@ -22,6 +22,10 @@ svg{
   color: var(--main-bg-color);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--main-bg-color);
 }
