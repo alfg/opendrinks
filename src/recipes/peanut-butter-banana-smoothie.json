@@ -16,17 +16,17 @@
     {
       "quantity": "1/2",
       "measure": "cup",
-      "ingredient": "peanut butter"
+      "ingredient": "Peanut butter"
     },
     {
       "quantity": "2",
       "measure": "tablespoons",
-      "ingredient": "honey"
+      "ingredient": "Honey"
     },
     {
       "quantity": "2",
       "measure": "cup",
-      "ingredient": "ice cubs"
+      "ingredient": "Ice cubes"
     }
   ],
   "directions": [
@@ -36,5 +36,11 @@
   ],
   "image": "peanut-butter-banana-smoothie.jpg",
   "source": "https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/",
-  "keywords": ["smoothie", "banana", "peanut butter", "easy to make"]
+  "keywords": [
+      "smoothie", 
+      "banana", 
+      "honey",
+      "milk",
+      "peanut butter", 
+      "easy"]
 }
