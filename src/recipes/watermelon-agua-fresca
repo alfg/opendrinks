@@ -1,0 +1,48 @@
+{
+    "name": "Watermelon Agua Fresca",
+    "description": "Watermelon Aqua Frescsa is a watermelon-based version of Agua Fresca, commonly served in Mexico.",
+    "github": "Alvarrir",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "Cup",
+            "ingredient": "Cubed seeded watermelon"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "Cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "Cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "4",
+            "measure": "Slices",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "24",
+            "measure": "",
+            "ingredient": "Mint Leaves"
+        }
+    ],
+    "directions": [
+        "Puree the watermelon and water in a blender until smooth.",
+        "Add sugar to taste.",
+        "Cut the lime slices in half.",
+        "Place a half lime slice into each of 8 glasses along with 3 mint leaves.",
+        "Crush with a cocktail muddler, then fill each glass with ice.",
+        "Pour in the watermelon agua fresca, and stir before serving."
+    ],
+    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2017/06/watermelon-agua-fresca-2.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "mocktail",
+        "non-alcoholic",
+        "vegan"
+    ]
+}
