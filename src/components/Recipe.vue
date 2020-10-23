@@ -227,6 +227,17 @@ export default {
           content: `https://opendrinks.io${this.drink.img}`,
         },
       ],
+      scripts: [
+        {
+          type: 'application/ld+json',
+          json: {
+            '@context': 'https://schema.org/',
+            '@type': 'Recipe',
+            name: this.drink.name,
+            description: this.drink.description,
+          },
+        },
+      ],
     };
   },
   data() {
