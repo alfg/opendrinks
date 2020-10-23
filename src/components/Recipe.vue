@@ -227,14 +227,16 @@ export default {
           content: `https://opendrinks.io${this.drink.img}`,
         },
       ],
-      scripts: [
+      script: [
         {
           type: 'application/ld+json',
           json: {
             '@context': 'https://schema.org/',
             '@type': 'Recipe',
             name: this.drink.name,
+            url: `https://opendrinks.io${window.location.pathname}`,
             description: this.drink.description,
+            image: `https://opendrinks.io${this.drink.img}`,
           },
         },
       ],
