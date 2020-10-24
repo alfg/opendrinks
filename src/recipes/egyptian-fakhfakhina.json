@@ -1,0 +1,77 @@
+{
+    "name": "Egyptian Fakhfakhina Drink",
+    "description": "Fakhfakhina is the “mother of all fruit salads.”. This fruit salad includes seasonal fruits, juice cocktails and ice cream",
+    "github": "mkhy19",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "mangoes",
+            "ingredient": "cut into cubes"
+        },
+        {
+            "quantity": "2",
+            "measure": "apples",
+            "ingredient": "cut into cubes"
+        },
+        {
+            "quantity": "2",
+            "measure": "peaches",
+            "ingredient": "diced"
+        },
+        {
+            "quantity": "1",
+            "measure": "banana",
+            "ingredient": "sliced"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups strawberries",
+            "ingredient": "sliced"
+        },{
+            "quantity": "2",
+            "measure": "pineapple juice",
+            "ingredient": ""
+        },
+        {
+            "quantity": "2",
+            "measure": "cups orange juice",
+            "ingredient": ""
+        },
+        {
+            "quantity": "2",
+            "measure": "cups cream",
+            "ingredient": "(optional)"
+        },
+        {
+            "quantity": "As you like",
+            "measure": "Honey, to taste",
+            "ingredient": "(optional)"
+        },
+        {
+            "quantity": "As you like",
+            "measure": "Crushed nuts, to taste",
+            "ingredient": "(optional)"
+        }
+    ],
+    
+
+    "directions": [
+        "Chop the fruits into small pieces.",
+        "Mix the fruit pieces in a bowl. In a separate bowl, mix the pineapple juice and the orange juice.",
+        "In each serving cup, mix one-fourth of the fruit and one-fourth of the juice.",
+        "Spread the cream evenly over each cup, as well as honey and nuts."
+    ],
+    "image": "egyptian-fakhfakhina.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "banana",
+        "mangoes",
+        "apples",
+        "peaches",
+        "strawberries",
+    		"honey",
+        "coconut",
+    		"sugar",
+    		"nuts"
+    ]
+}
