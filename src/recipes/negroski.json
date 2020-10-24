@@ -1,0 +1,42 @@
+{
+    "name": "Negroski",
+    "description": "Negroski is a variation of the Negroni in which gin is replaced with vodka.",
+    "github": "Guberlo",
+    "ingredients": [
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Red Sweet Vermouth"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Orange peel"
+        }
+    ],
+    "directions": [
+        "Chill a rock medium or old fashioned glass.",
+        "Fill the glass with large ice cubes.",
+        "Pour the spirits and give a good stir.",
+        "Garnish with an orange peel."
+    ],
+    "image": "negroski.jpg",
+    "keywords": [
+        "vodka",
+        "vermouth",
+        "alcoholic",
+        "classic",
+        "vegan",
+        "campari"
+    ]
+}
