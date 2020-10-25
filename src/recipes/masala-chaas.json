@@ -45,8 +45,9 @@
         }
     ],
     "directions": [
-        "Add all ingredients to a blender, then Blend till combined, and Pour into serving glasses, garnish with fresh cilantro or mint and serve.",
-        "Enjoy!"
+        "Add all ingredients to a blender, then Blend till combined, and Pour into serving glasses", 
+         "garnish with fresh cilantro or mint and serve.",
+         "Enjoy!"
     ],
     "image": "blackthorn-cocktail.jpg",
     "source": "https://www.cookwithmanali.com/masala-chaas/",
