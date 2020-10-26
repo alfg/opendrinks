@@ -1,7 +1,7 @@
 {
     "name": "Rysgaard's Corona Special",
-    "description": "A drink for drinking alone in your appartment when quarentined.",
-    "github": "https://github.com/Crowton",
+    "description": "A drink for drinking alone in your apartment when quarantined.",
+    "github": "Crowton",
     "ingredients": [
         {
             "quantity": "4",
@@ -32,8 +32,8 @@
     ],
     "image": "rysgaardSpecial.jpg",
     "keywords": [
-        "Whiskey",
-        "Corona",
-        "Old Danish"
+        "whiskey",
+        "corona",
+        "old danish"
     ]
 }
