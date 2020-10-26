@@ -1,0 +1,59 @@
+{
+    "name": "Turmeric Latte",
+    "description": "A great home remedy beverage for cough, congestion, colds and skin problems. This winter replace your usual hot cocoa with an invigorating cup of wellness. Bonus points for jammies and slippers. Turmeric can stain clothing and counter tops, so wear an apron, proceed with caution.",
+    "github": "soumiyamathur",
+    "ingredients": [
+        {
+            "quantity": "one fourth",
+            "measure": "teaspoon",
+            "ingredient": "ground turmeric"
+        },
+        {
+            "quantity": "one fourth",
+            "measure": "teaspoon",
+            "ingredient": "ground cardamom"
+        },
+        {
+            "quantity": "one eight",
+            "measure": "teaspoon",
+            "ingredient": "ground black pepper"
+        },
+        {
+            "quantity": "one eight",
+            "measure": "teaspoon",
+            "ingredient": "ground clove"
+        },
+        {
+            "quantity": "one eight",
+            "measure": "teaspoon",
+            "ingredient": "ground allspice"
+        },
+        {
+            "quantity": "three fourth",
+            "measure": "teaspoon",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "one eight",
+            "measure": "teaspoon",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "one",
+            "measure": "cup",
+            "ingredient": "milk"
+        }
+    ],
+    "directions": [
+        "Whisk turmeric, cardamom, black pepper, ginger, cloves, and allspice together in a small bowl.",
+        "Heat milk in a small saucepan over medium heat until heated through, 3 to 4 minutes; stir honey and vanilla extract into milk until completely dissolved. Whisk 1 teaspoon turmeric mixture into milk mixture; reduce heat to medium-low and cook until flavors blend, 2 to 3 minutes. Pour mixture through a strainer."
+    ],
+    "image": "turmeric-latte.jpg",
+    "keywords": [
+        "turmeric",
+        "latte",
+        "milk",
+        "hot-beverage",
+        "winter"
+    ]
+}
