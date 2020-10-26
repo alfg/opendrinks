@@ -1,0 +1,35 @@
+{
+    "name": "Churcill",
+    "description": "Fresh and easy, non-alcohol drink",
+    "github": "cemuka",
+    "ingredients": [
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "Mineral water"
+        },
+        {
+            "quantity": "1",
+            "measure": "Amount",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "Tablespoon",
+            "ingredient": "Salt"
+        }
+    ],
+    "directions": [
+        "Squeeze the lemon into the glass.",
+        "Poor the mineral water, be carefull with bubbles.",
+        "Add salt.",
+        "Additionaly, you may add some ice."
+    ],
+    "image": "churcill-drink.jpg",
+    "keywords": [
+        "churcill",
+        "easy",
+        "non-alcohol",
+        "fresh"
+    ]
+}
