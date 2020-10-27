@@ -1,0 +1,58 @@
+{
+    "name": "Masala Chaas (Spiced Butter Milk)",
+    "description": "Masala Chaas is a popular Indian yogurt drink. This refreshing drink is lightly spiced and is the perfect way to cool off during summers.",
+    "github": "shaktibarath",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "plain yogurt"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "green chili"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "inch",
+            "ingredient": "ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "chopped cilantro"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "cumin powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "black salt"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tablespoon",
+            "ingredient": "chat masala"
+        }
+    ],
+    "directions": [
+        "Add all ingredients to a blender, then Blend till combined, and Pour into serving glasses", 
+         "Garnish with fresh cilantro or mint and serve.",
+         "Enjoy!"
+    ],
+    "image": "masala-chaas.jpg",
+    "source": "https://www.cookwithmanali.com/masala-chaas/",
+    "keywords": [
+        "Masala Chaas",
+        "Indian"
+    ]
+}
