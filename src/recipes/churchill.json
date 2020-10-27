@@ -1,5 +1,5 @@
 {
-    "name": "Churcill",
+    "name": "Churchill",
     "description": "Fresh and easy, non-alcohol drink",
     "github": "cemuka",
     "ingredients": [
@@ -23,9 +23,9 @@
         "Squeeze the lemon into the glass.",
         "Poor the mineral water, be carefull with bubbles.",
         "Add salt.",
-        "Additionaly, you may add some ice."
+        "Additionally, you may add some ice."
     ],
-    "image": "churcill-drink.jpg",
+    "image": "churchill.jpg",
     "keywords": [
         "churcill",
         "easy",
