@@ -1,0 +1,34 @@
+{
+    "name": "Fuzzy Navel",
+    "description": "A sweet and fruity alcoholic beverage thats easy to make with little ingredients.",
+    "github": "Lunarelements",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Peach Schnapps"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Add ice to a glass.",
+        "Add Orange Juice and Peach Schnapps.",
+        "(Optional) Add an orange slice to garnish."
+    ],
+    "image": "fuzzy-navel.jpg",
+    "keywords": [
+        "alcoholic",
+        "fruity",
+        "sweet",
+        "orange juice"
+    ]
+}
