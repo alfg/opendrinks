@@ -6,7 +6,7 @@
         {
             "quantity": "3",
             "measure": "oz",
-            "ingredient": "lemon and lime juice"
+            "ingredient": "Lemon and lime juice"
         },
         {
             "quantity": "1",
@@ -16,17 +16,17 @@
         {
             "quantity": "1.5",
             "measure": "oz",
-            "ingredient": "triple sec"
+            "ingredient": "Triple sec"
         },
         {
             "quantity": "1.5",
             "measure": "oz",
-            "ingredient": "butterfly pea infused tequila"
+            "ingredient": "Butterfly pea infused tequila"
         },
         {
             "quantity": "2",
             "measure": "oz",
-            "ingredient": "crushed lemon and magic ice"
+            "ingredient": "Crushed lemon and magic ice"
         }
     ],
     "directions": [
