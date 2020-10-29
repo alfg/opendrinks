@@ -1,7 +1,7 @@
 {
-    "name": "<Gingerbread latte>",
-    "description": "<Asweet drink with spices and whipped cream to warm up the holiday season>",
-    "github": "<pratyushakatti13>",
+    "name": "Gingerbread latte",
+    "description": "A sweet drink with spices and whipped cream to warm up the holiday season",
+    "github": "pratyushakatti13",
     "ingredients": [
         {
             "quantity": "1½",
@@ -10,7 +10,7 @@
         },
         {
             "quantity": "½",
-            "measure": "teaspoon>",
+            "measure": "teaspoon",
             "ingredient": "cinnamon"
         },
         {
