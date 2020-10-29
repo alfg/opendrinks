@@ -57,7 +57,7 @@
             "quantity": "",
             "measure": "",
             "ingredient": "Garnish: raisins"
-        },
+        }
     ],
     "directions": [
         "Combine all the ingredients in a pot. Heat until the wine barely reaches a simmer: avoid boiling off the alcohol.",
@@ -78,6 +78,6 @@
         "finnish",
         "norwegian",
         "estonian",
-        "danish",
+        "danish"
     ]
 }
