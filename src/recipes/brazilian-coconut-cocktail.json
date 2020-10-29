@@ -1,0 +1,48 @@
+{
+  "name": "Brazilian Coconut Cocktail",
+  "description": "This Brazilian coconut cocktail is creamy and full of flavor. So if you’re looking for a delicious tropical drink, you’ve come to the right place!",
+  "github": "kazuhirodk",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "Coconut milk"
+    },
+    {
+      "quantity": "2/3",
+      "measure": "14 oz can",
+      "ingredient": "Sweetened condensed milk"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "Cachaça or vodka"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "Coconut water"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice cubes"
+    }
+  ],
+  "directions": [
+    "Fill a pitcher with ice and set it aside.",
+    "Put all ingredients in the blender and blend until creamy and frothy.",
+    "Pour the drink in the pitcher and serve!",
+    "If you want, you can sprinkle shredded coconut on top of it.",
+    "Cheers!"
+  ],
+  "image": "brazilian-coconut-cocktail.jpg",
+  "source": "https://www.iheartbrazil.com/brazilian-coconut-cocktail/",
+  "keywords": [
+    "coconut",
+    "alcoholic",
+    "cachaca",
+    "cocktail",
+    "brazil"
+  ]
+}
