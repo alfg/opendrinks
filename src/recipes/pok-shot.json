@@ -6,22 +6,22 @@
         {
             "quantity": "1",
             "measure": "oz",
-            "ingredient": "Vodka"
+            "ingredient": "vodka"
         },
         {
             "quantity": "2",
             "measure": "oz",
-            "ingredient": "Soda (Recomended lime flavor)"
+            "ingredient": "soda (recomended lime flavor)"
         },
         {
             "quantity": "1",
             "measure": "teaspoon",
-            "ingredient": "Salt"
+            "ingredient": "salt"
         },
         {
             "quantity": "1",
             "measure": "oz",
-            "ingredient": "Lime juice"
+            "ingredient": "lime juice"
         }
     ],
     "directions": [
