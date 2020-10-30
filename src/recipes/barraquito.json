@@ -10,15 +10,15 @@
         },
         {
             "quantity": "1-2",
-            "measure": "tablespoons",
+            "measure": "oz",
             "ingredient": "Licor 43"
         },
-        { 
+        {
             "quantity": "",
             "measure": "",
-            "ingredient": "Frothed Milk"  
+            "ingredient": "Frothed Milk"
         },
-        {     
+        {
             "quantity": "2",
             "measure": "tablespoons",
             "ingredient": "Condensed Milk"
@@ -33,6 +33,7 @@
     "keywords": [
         "coffee",
         "spanish",
-        "canary isles"
+        "canary isles",
+        "canary islands"
     ]
 }
