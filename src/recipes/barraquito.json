@@ -4,24 +4,29 @@
     "github": "RichardVerbraak",
     "ingredients": [
         {
-            "quantity": "2",
-            "measure": "tablespoons",
-            "ingredient": "Condensed Milk"
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Espresso"
         },
         {
             "quantity": "1-2",
             "measure": "tablespoons",
             "ingredient": "Licor 43"
         },
-        {
-            "quantity": "1",
-            "measure": "oz",
-            "ingredient": "Esspresso"
-        },
-        {
+        { 
             "quantity": "",
             "measure": "",
-            "ingredient": "Frothed Milk"           
+            "ingredient": "Frothed Milk"  
+        },
+        {     
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Condensed Milk"
         }
     ],
     "directions": [
