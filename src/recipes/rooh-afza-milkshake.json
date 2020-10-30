@@ -1,0 +1,36 @@
+{
+    "name": "Rooh Afza Milkshake",
+    "description": "Rooh Afza milkshake recipe - very refreshing summer beverage made from roohafza syrup and milk.",
+    "github": "Sumit2399",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoon",
+            "ingredient": "Rooh afza syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Sugar"
+        }
+        
+        
+    ],
+    "directions": [
+        "Add rooh afza syrup to the chilled milk.",
+        "Add sugar. If sugar has big granules then grind into powder, so it dissolves quickly.",
+        "Mix well and keep it refrigerated till serving."
+    ],
+    "image": "rooh-afza-milkshake.jpg",
+    "source": "https://www.spiceupthecurry.com/rooh-afza-milkshake-recipe-summer-cold-drink/",
+    "keywords": [
+        "Milk",
+        "Rooh Afza"
+
+    ]
+}
