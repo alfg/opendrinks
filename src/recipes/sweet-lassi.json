@@ -1,6 +1,6 @@
 {
-    "name": "Lassi",
-    "description": "Lassi is a cooling and refreshing drink to have in the summers. It is quite popular in Punjab and north India.",
+    "name": "Sweet Lassi",
+    "description": "Sweet Lassi is a cooling and refreshing drink to have in the summers. It is quite popular in Punjab and north India.",
     "github": "sayalitandel",
     "ingredients": [
         {
@@ -34,7 +34,7 @@
         "Pour mixture over ice cubes in tall glasses.",
         "Now, relish it! :D"
     ],
-    "image": "<sweet-lassi.jpg>",
+    "image": "sweet-lassi.jpg",
     "source": "",
     "keywords": [
         "yogurt",
