@@ -27,21 +27,25 @@
             "quantity": "3",
             "measure": "dashes",
             "ingredient": "angostura bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cherry"
         }
     ],
     "directions": [
-        "Chill a cocktail glass with ice and soda.",
-        "Fill a mixing glass with ice and then add all ingredients.",
-        "Using a bar spoon, stir the drink for approximately 20 seconds.",
-        "When stirring, always ensure the glass is topped up with ice.",
+        "Chill a cocktail glass with ice and water.",
+        "Fill a shaker with ice and then add all liquid ingredients.",
+        "Shake for about 30 seconds. Shaking creates ice flakes which are fun.",
         "Taste and then strain into the chilled cocktail glass, serving straight up.",
         "Note: You can vary this by increasing buttershot schnapps and vermouth to .5 oz."
     ],
-    "image": "manhattan.jpg",
+    "image": "burnt-caramel-manhattan.jpg",
     "keywords": [
         "alcoholic",
         "classic",
-        "sweet",
+        "bourbon",
         "vegan"
     ]
 }
