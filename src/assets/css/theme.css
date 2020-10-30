@@ -29,10 +29,10 @@ html[data-theme='dark'] {
   --navbar-light-hover-border-color: rgba(255, 255, 255, 0.15);
 }
 
-.load *{
-  -webkit-transition: background-color 0.5s ease;
-  -moz-transition: background-color 0.5s ease;
-  -ms-transition: background-color 0.5s ease;
-  -o-transition: background-color 0.5s ease;
-  transition: background-color 0.5s ease;
+.load, .load *{
+  -webkit-transition: background-color 0.5s, color 0.5s, border 0.5s;
+  -moz-transition: background-color 0.5s, color 0.5s, border 0.5s;
+  -ms-transition: background-color 0.5s, color 0.5s, border 0.5s;
+  -o-transition: background-color 0.5s, color 0.5s, border 0.5s;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
 }
