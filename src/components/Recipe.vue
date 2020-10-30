@@ -27,7 +27,8 @@
             Hide Image
           </b-form-checkbox>
         </div>
-        <FavoriteStar class="mr-3" @favorite="favorited" :isFavorited="isFavorited"> </FavoriteStar>
+        <FavoriteStar class="mr-3 fav-star" @favorite="favorited" :isFavorited="isFavorited">
+        </FavoriteStar>
 
         <div class="print-button">
           <b-button v-if="isPrint" variant="outline-primary" @click="print()">
@@ -157,13 +158,89 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      window.document.title = `Open Drinks - ${this.drink.name}`;
-
       this.getFavorites();
       this.getSimilarRecipes(newVal).then(data => {
         this.similarRecipes = data;
       });
     },
+  },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      titleTemplate: `%s - ${this.drink.name}`,
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        {
+          name: 'description',
+          content: this.drink.description,
+          vmid: 'description',
+        },
+        {
+          property: 'og:title',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+          vmid: 'og:title',
+        },
+        {
+          property: 'og:type',
+          content: 'article',
+          vmid: 'og:type',
+        },
+        {
+          property: 'og:site_name',
+          content: 'Open Drinks',
+          vmid: 'og:site_name',
+        },
+        {
+          property: 'og:url',
+          content: `https://opendrinks.io${window.location.pathname}`,
+          vmid: 'og:url',
+        },
+        {
+          property: 'og:description',
+          content: this.drink.description,
+          vmid: 'og:description',
+        },
+        {
+          property: 'og:image',
+          content: `https://opendrinks.io${this.drink.img}`,
+          vmid: 'og:image',
+        },
+        {
+          property: 'og:image:alt',
+          content: this.drink.name,
+          vmid: 'og:image:alt',
+        },
+        {
+          itemprop: 'name',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+        },
+        {
+          itemprop: 'description',
+          content: this.drink.description,
+        },
+        {
+          itemprop: 'image',
+          content: `https://opendrinks.io${this.drink.img}`,
+        },
+      ],
+      script: [
+        {
+          type: 'application/ld+json',
+          json: {
+            '@context': 'https://schema.org/',
+            '@type': 'Recipe',
+            name: this.drink.name,
+            url: `https://opendrinks.io${window.location.pathname}`,
+            description: this.drink.description,
+            image: `https://opendrinks.io${this.drink.img}`,
+          },
+        },
+      ],
+    };
   },
   data() {
     return {
@@ -180,6 +257,7 @@ export default {
   },
   created() {
     this.getRecipe(this.name);
+    window.document.title = `Open Drinks - ${this.drink.name}`;
     this.getFavorites();
     this.getSimilarRecipes(this.name).then(data => {
       this.similarRecipes = data;

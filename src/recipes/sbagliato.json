@@ -25,7 +25,9 @@
         }
     ],
     "directions": [
-        "First combine the spirits into a glass. Next add that amount in sparkling wine (prosecco works best). Add ice and stir briefly until chilled.",
+        "First combine the spirits into a glass.",
+        "Add that amount in sparkling wine (prosecco works best).",
+        "Add ice and stir briefly until chilled.",
         "Garnish with an orange or lemon peel."
     ],
 	"image": "sbagliato.jpg",
@@ -34,7 +36,7 @@
 		"mistaken",
 		"negroni",
 		"sparkling wine",
-		"processco",
+		"prosecco",
 		"italian"
 	]
 }

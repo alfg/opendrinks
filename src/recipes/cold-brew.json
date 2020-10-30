@@ -1,0 +1,31 @@
+{
+    "name": "Cold Brew Coffee",
+    "description": "A super-smooth, less acidic, and highly caffeinated coffee.",
+    "github": "mccarthykp",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Whole Coffee Beans"
+        },
+        {
+            "quantity": "4",
+            "measure": "Cups",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Coarsely grind coffee beans.",
+        "Combine ground coffee and water in a 1 1/2 quart glass, jar or container by pouring water over the ground coffee.",
+        "Stir gently with a long-handled wooden spoon to make sure the grounds are thoroughly saturated with water.",
+        "Cover container with a lid and place in refrigerator to steep for 12 hours.",
+        "Line a small strainer with cheesecloth or flour sack cloth and place over a large measuring cup or bowl. Pour the coffee through the strainer.",
+        "Transfer the coffee to a small bottle or jar and store in the fridge for up to a week.",
+        "Dilute the coffee with as much water or milk as you prefer. Serve over ice if desired."
+    ],
+    "image": "cold-brew.jpg",
+    "source": "https://www.simplyrecipes.com/recipes/how_to_make_cold_brew_coffee/",
+    "keywords": [
+        "coffee"
+    ]
+}

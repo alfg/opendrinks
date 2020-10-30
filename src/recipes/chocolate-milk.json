@@ -1,6 +1,6 @@
 {
   "name": "Chocolate Milk",
-  "description": "A simple chocolate beverage with just four ingredients",
+  "description": "A simple chocolate beverage with just four ingredients.",
   "github": "Vertigeux",
   "ingredients": [
     {
@@ -25,8 +25,8 @@
     }
   ],
   "directions": [
-    "In a microwave-safe cup or mug, combine cocoa powder and water.",
-    "Microwave for 15 to 20 seconds, until steaming, and stir until very smooth.",
+    "Combine cocoa powder and water in a microwave-safe cup or mug.",
+    "Microwave for 15 to 20 seconds until steaming, and stir until very smooth.",
     "Add 1/4 cup of the milk and the sugar, and microwave for an additional 15 to 30 seconds, until steaming.",
     "Stir until completely mixed.",
     "Stir in remaining milk and enjoy."

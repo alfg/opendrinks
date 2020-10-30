@@ -1,6 +1,6 @@
 {
     "name": "Peach Bellini",
-    "description": "Frozen, refreshing peach bellini made popular by the Joey restaurants! (Not the same but we try to get there)",
+    "description": "Frozen, refreshing peach bellini made popular by the Joey restaurants! (Not the same but we try to get there).",
     "github": "brucremo",
     "ingredients": [
         {
@@ -25,18 +25,20 @@
         }
     ],
     "directions": [
-        "Add the Frozen & Sliced Peaches with Peach Vodka or Schnapps and Ice to the blender",
-        "Blend well until the mix is uniform but creamy in the blender depending on taste and if needed add more ice or peaches to get it consistent or more vodka to make it more liquid",
-        "Pour it on your favorite drink glass and add the splash of Red Wine or Prosecco on top of it to give it a lovely and tasty look"
+        "Add the frozen & sliced peaches with peach vodka or Schnapps and ice to the blender.",
+        "Blend well until the mix is uniform but creamy in the blender.",
+        "Depending on taste and if needed add more ice or peaches to get it consistent, or more vodka to make it more liquid.",
+        "Pour it on your favorite drink glass and add the splash of Red Wine or Prosecco on top of it to give it a lovely and tasty look."
     ],
     "image": "peach-bellini.jpg",
     "source": "https://www.cookswithcocktails.com/peach-bellini-with-red-wine-homemade-raspberry-liqueur/",
     "keywords": [
-        "summer drink",
-        "wine",
-        "vodka",
+        "bellini",
+        "peach",
         "schnapps",
+        "summer",
         "sweet",
-        "bellini"
+        "vodka",
+        "wine"
     ]
 }

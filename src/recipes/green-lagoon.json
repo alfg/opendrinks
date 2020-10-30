@@ -11,7 +11,7 @@
         {
             "quantity": "1",
             "measure": "oz",
-            "ingredient": "blue curacao"
+            "ingredient": "blue curaçao"
         },
         {
             "quantity": "1",
@@ -25,7 +25,7 @@
         }
     ],
     "directions": [
-        "Add the pineapple juice to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
+        "Add pineapple juice to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
         "To make it fresher and lighter, fill the glass with crushed ice beforehand. ",
         "Serve in a martini glass."
     ],
@@ -33,7 +33,7 @@
     "keywords": [
         "vodka",
         "pineapple",
-        "curacao",
+        "curaçao",
         "alcoholic",
         "vegan"
     ]

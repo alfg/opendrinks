@@ -1,12 +1,12 @@
 {
   "name": "Blue Lady",
-  "description": "A delicious blue Curacao & light rum mix (serves 2)",
+  "description": "A delicious blue Curacao & light rum mix (serves 2.)",
   "github": "alessandrojcm",
   "ingredients": [
     {
       "quantity": "3",
       "measure": "oz",
-      "ingredient": "Blue Curacao"
+      "ingredient": "Blue Curaçao"
     },
     {
       "quantity": "1.5",
@@ -20,16 +20,17 @@
     }
   ],
   "directions": [
-    "Pour ingredients in a cocktail shaker",
-    "Add ice",
-    "Shake vigorously",
-    "Strain into chilled cocktail glasses"
+    "Pour ingredients in a cocktail shaker.",
+    "Add ice.",
+    "Shake vigorously.",
+    "Strain into chilled cocktail glasses."
   ],
   "image": "blue-lady.jpg",
   "keywords": [
     "rum",
     "blue",
-    "curacao",
+    "blue curaçao",
+    "curaçao",
     "lemon",
     "fresh",
     "vegan",

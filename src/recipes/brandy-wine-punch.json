@@ -1,0 +1,52 @@
+{
+	"name": "Brandy Wine Punch",
+	"description": "Brandy, Wine and soda makes a special drink",
+	"github": "bookish",
+	"ingredients": [{
+			"quantity": "3",
+			"measure": "whole",
+			"ingredient": "oranges"
+		},
+		{
+			"quantity": "1",
+			"measure": "whole",
+			"ingredient": "lemon"
+		},
+		{
+			"quantity": "2",
+			"measure": "whole",
+			"ingredient": "honey dew melons"
+		},
+		{
+			"quantity": "2",
+			"measure": "glasses",
+			"ingredient": "brandy"
+		},
+		{
+			"quantity": "1",
+			"measure": "litre bottle",
+			"ingredient": "club soda"
+		},
+		{
+			"quantity": "2",
+			"measure": "bottles",
+			"ingredient": "red wine"
+		},
+		{
+			"quantity": "11",
+			"measure": "tbsp.",
+			"ingredient": "sugar"
+		}
+	],
+	"directions": [
+		"Slice the oranges and lemons.",
+		"Cut the melons into 1/2 in chunks.",
+		"Pour the brandy, wine and soda into a large punch bowl.",
+		"Add the cut fruit and the sugar to the bowl.",
+		"Stir the punch, pour into a glass and enjoy!"
+	],
+	"image": "brandy-wine-punch.jpg",
+	"keywords": [
+		"brandy", "red wine", "soda", "lemon", "melon", "alcoholic", "fruit", "orange", "sugar"
+	]
+}

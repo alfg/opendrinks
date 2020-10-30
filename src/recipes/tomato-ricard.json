@@ -1,6 +1,6 @@
 {
     "name": "Tomato Ricard",
-    "description": "Simple cocktail With Ricard and grenadine syrup",
+    "description": "Simple cocktail With Ricard and grenadine syrup.",
     "github": "Skydraw",
     "ingredients": [{
             "quantity": "4",
@@ -24,8 +24,8 @@
         }
     ],
     "directions": [
-        "Pour 4 teaspoon of Ricard and a dash of grenadine.",
-        "Complete with water",
+        "Pour 4 teaspoons of Ricard and a dash of grenadine.",
+        "Complete with water.",
         "Add a few ice cubes."
     ],
     "image": "tomato-ricard.jpg",

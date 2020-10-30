@@ -1,6 +1,6 @@
 {
   "name": "Simple Moscow Mule",
-  "description": "A simple, sweet and sour cocktail. And an excuse to buy a Moscow Mule Mug",
+  "description": "A simple, sweet and sour cocktail. And an excuse to buy a Moscow Mule Mug.",
   "github": "coma-toast",
   "ingredients": [
     {
@@ -26,10 +26,10 @@
   ],
   "directions": [
     "Start with several ice cubes in a Moscow Mule mug.",
-    "Add lime and lemon juice",
-    "Add Vodka",
-    "Fill with Ginger Ale",
-    "Serve with a fresh mint leaf"
+    "Add lime and lemon juice.",
+    "Add Vodka.",
+    "Fill with Ginger Ale.",
+    "Serve with a fresh mint leaf."
   ],
   "image": "moscow-mule.jpg",
   "keywords": [

@@ -1,6 +1,6 @@
 {
     "name": "Rebujito",
-    "description": "A refreshing cocktail with Manzanilla wine and soda. The flavor of hot Andalusia in a cup",
+    "description": "A refreshing cocktail with Manzanilla wine and soda. The flavor of hot Andalusia in a cup.",
     "github": "Blueko",
     "ingredients": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "directions": [
-        "Fill a jug with ice",
+        "Fill a jug with ice.",
         "Pour manzanilla wine over the ice.",
         "Add Sprite or 7Up and mix them together.",
 	"Optionally, add a bit of spearmint for a fresh touch.",

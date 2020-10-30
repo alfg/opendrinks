@@ -1,0 +1,41 @@
+{
+    "name": "Pok Shot",
+    "description": "Pok Shot is thai drink or called cocktail from thailand popular in local and simple ingredients",
+    "github": "jisack",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "soda (recomended lime flavor)"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        }
+    ],
+    "directions": [
+        "Prepare a small glass on a strong table.",
+        "Pour vodka, soda, and lime juice by step.",
+        "Put salt around the rim of the glass.",
+        "Hand cover the glass mouth and then slam on table and drink quickly."
+    ],
+    "image": "pok-shot.jpg",
+    "source": "https://th.liq9.asia/blog/pok-shot-thai-classic-cocktail.html",
+    "keywords": [
+        "vodka",
+        "cocktail",
+        "tequila",
+        "simple"
+    ]
+}

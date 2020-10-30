@@ -1,0 +1,53 @@
+{
+    "name": "Pomegranate Lemon Mint Refresher",
+    "description": "Refreshingly cold lemonade with pink pomegranate and mint",
+    "github": "bookish",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "pomegranate"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "one-litre bottles",
+            "ingredient": "sparkling water"
+        },
+        {
+            "quantity": "1",
+            "measure": "bunch",
+            "ingredient": "fresh mint"
+        }
+    ],
+    "directions": [
+        "Pour ice cubes into a large glass pitcher.",
+        "Slice the pomegranate in half.",
+        "Squeeze the juice from both halves over the ice cubes.",
+        "Slice the lemon in half.",
+        "Squeeze the lemon juice into the pitcher.",
+        "Pour the sparkling water into the pitcher.",
+        "Put the nicest leaves into the pitcher.",
+        "Pour into a tall glass and enjoy!"
+    ],
+    "image": "pomegranate-lemon-mint.jpg",
+    "source": "http://cheekeelee.blogspot.com/2012/03/jamie-olivers-pomegranate-soda.html",
+    "keywords": [
+        "sparkling water",
+        "pomegranate",
+        "mint",
+        "lemon",
+        "ice",
+        "non-alcoholic",
+        "fruit"
+    ]
+}

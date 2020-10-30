@@ -3,6 +3,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css';
 import './assets/css/main.css';
 
 import Vue from 'vue';
+import VueMeta from 'vue-meta';
 import BoostrapVue from 'bootstrap-vue';
 import VueSocialSharing from 'vue-social-sharing';
 import App from './App.vue';
@@ -12,6 +13,7 @@ import 'core-js';
 
 Vue.config.productionTip = false;
 
+Vue.use(VueMeta, { refreshOnceOnNavigation: true });
 Vue.use(BoostrapVue);
 Vue.use(VueSocialSharing);
 

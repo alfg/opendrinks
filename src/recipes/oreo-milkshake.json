@@ -21,18 +21,20 @@
 
     ],
     "directions": [
-        "combine ice cream, milk, and 4 of the Oreo cookies in your blender",
-        "Blend until pourable and pour into a glass",
-        "Take one more Oreo cookie and crush it in your hand",
+        "Combine ice cream, milk, and 4 Oreo cookies in a blender.",
+        "Blend until pourable and pour into a glass.",
+        "Crush one more Oreo cookie in your hand.",
         "Add the pieces to the the top of your shake,add a straw, and enjoy!",
         "NOTE:Use 1/2 cup milk for a thicker shake, 3/4 for a thinner one."
     ],
     "image": "oreo-milkshake.jpg",
 
     "keywords": [
-        "oreo cookies",
+	"cold",
+	"ice cream",
         "milk",
-        "vanilla ice cream",
-        "cold"
-	]
+	"non-alcoholic",
+	"oreo",
+	"vanilla ice cream"
+    ]
 }

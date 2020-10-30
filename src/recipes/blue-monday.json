@@ -1,6 +1,6 @@
 {
     "name": "Blue Monday",
-	"description": "A cocktail from Harry Craddock's 'Savoy Cocktail Book'",
+	"description": "A cocktail from Harry Craddock's 'Savoy Cocktail Book'.",
     "github": "Donearm",
 
     "ingredients": [
@@ -26,7 +26,7 @@
 		}
     ],
     "directions": [
-		"In a shaker, combine ingredients and shake with ice until chilled.",
+		"Combine ingredients in a shaker and shake with ice until chilled.",
 		"Fine strain into a cocktail glass.",
 		"Garnish with a flamed orange zest."
     ],

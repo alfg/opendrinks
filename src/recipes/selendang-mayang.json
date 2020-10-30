@@ -1,6 +1,6 @@
 {
 	"name" : "Es Selendang Mayang",
-	"description" : "Es Selendang Mayang is traditional drink from Jakarta or especially Betawi",
+	"description" : "Es Selendang Mayang is traditional drink from Jakarta or especially Betawi.",
 	"github" : "isnaini279",
 	"ingredients" : [
 		{
@@ -36,11 +36,12 @@
 	],
 	"directions": [
         "Mix together all the flour and water ingredients.",
-        "Split evenly into 3 parts and add color paste.",
+        "Split evenly into three parts and add color paste.",
         "Cook the white color first until you clot and change color. Remove and then put in a row / mold",
         "The second one cooks again the green mixture and does the same thing as the first pan. Then put d over the first batter.",
         "Comb brown sugar, Cook all the sugar sauce ingredients until thickened. Then put d glass. Set aside.",
-        "Place the ice cubes in a serving bowl. Cut the box stretching the mayang shawl and put it on ice cubes, flush it with coconut milk and sugar broth. Serve."
+        "Place the ice cubes in a serving bowl.",
+        "Cut the box stretching the mayang shawl and put it on ice cubes, then flush it with coconut milk and sugar broth. Serve."
     ],
     "image": "selendang-mayang.jpg",
     "source" : "https://cookpad.com/id/resep/10894690-es-selendang-mayang?via=search&search_term=es%20selendang%20mayang",

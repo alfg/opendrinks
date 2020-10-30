@@ -1,6 +1,6 @@
 {
     "name": "Ayran",
-    "description": "Ayran is a Turkish non-alcoholic drink made of yoghurt and water",
+    "description": "Ayran is a Turkish non-alcoholic drink made of yoghurt and water.",
     "github": "bbyalcinkaya",
     "ingredients": [
         {
@@ -21,8 +21,8 @@
     ],
     "directions": [
         "Add yoghurt, cold water, and salt into a blender",
-        "Add some fresh mint (optional)",
-        "Blend"
+        "Add some fresh mint (optional).",
+        "Blend and serve."
     ],
     "image": "ayran.jpg",
     "keywords": [

@@ -30,16 +30,18 @@
         }
     ],
     "directions": [
-        "Uncork the wine and pour it into a large pitcher",
+        "Uncork the wine and pour it into a large pitcher.",
         "Add the soda and stir well.",
         "Add the lemon and orange slices, as well as the vermouth if using. Stir to combine.",
-        "Serve over ice"
+        "Serve over ice."
     ],
     "image": "tinto-de-verano.jpg",
     "source": "https://spanishsabores.com",
     "keywords": [
+        "alcoholic",
+        "lime",
+        "orange", 
         "summer",
-        "wine",
-        "alcohol"
+        "wine"
     ]
 }

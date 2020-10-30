@@ -1,0 +1,34 @@
+{
+    "name": "Teh C",
+    "description": "Teh-C is hot tea with evaporated milk. “Teh” is the local word for tea, while “C” refers to the evaporated milk added to the beverage. This is a tea originating from and popular in Singapore and Malaysia. ",
+    "github": "kgwxf",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "1 tea bag",
+            "ingredient": "Tea leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "Full cream evaporated milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "Sugar"
+        }
+    ],
+    "directions": [
+        "Place tea bag into a cup and pour hot water until the cup is 3/4 full. Let the tea seep for 5 minutes",
+        "Add in the evaporated milk and sugar. Stir well"
+    ],
+    "image": "teh-c.jpg",
+    "keywords": [
+        "cream",
+        "Singaporean",
+        "sugar",
+        "tea",
+        "Teh"
+    ]
+}

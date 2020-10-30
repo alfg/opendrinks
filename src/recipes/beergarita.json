@@ -1,0 +1,41 @@
+{
+  "name": "Beergarita",
+  "description": "Beergarita combines beer with a freshly made margarita",
+  "github": "kazuhirodk",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Tequila"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Tattersall Grapefruit Crema"
+    },
+    {
+      "quantity": ".5",
+      "measure": "oz",
+      "ingredient": "Lime juice"
+    },
+    {
+      "quantity": "6",
+      "measure": "oz",
+      "ingredient": "Light Beer (i.e. Kolsh)"
+    }
+  ],
+  "directions": [
+    "Combine all ingredients in a glass over ice.",
+    "Garnish with a lime wedge.",
+    "Salt rim optional.",
+    "Enjoy!"
+  ],
+  "image": "beergarita.jpg",
+  "source": "https://www.marieclaire.com/food-cocktails/g3765/simple-beer-cocktails/?slide=4",
+  "keywords": [
+    "beer",
+    "tequila",
+    "margarita",
+    "alcoholic"
+  ]
+}

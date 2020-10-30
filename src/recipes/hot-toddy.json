@@ -35,10 +35,10 @@
         }
     ],
     "directions": [
-        "In a teapot or a small saucepan, bring water to simmer.",
-        "In a mug, combine bourbon, honey, and lemon juice. Pour over hot water and stir to combine.",
+        "Bring water to simmer in a teapot or a small saucepan.",
+        "Combine bourbon, honey, and lemon juice in a mug. Pour over hot water and stir to combine.",
         "Garnish with cinnamon stick and lemon slice.",
-	"For a apple cider variation, Swap apple cider for the water and caramel for the honey."
+	   "For a apple cider variation, Swap apple cider for the water and caramel for the honey."
     ],
     "image": "hot-toddy.jpg",
     "source": "https://www.delish.com/cooking/recipe-ideas/a28845622/hot-toddy-drink-recipe/",
@@ -46,7 +46,7 @@
         "honey",
         "winter",
         "lemon",
-        "burbon",
+        "bourbon",
         "cinnamon"
 	]
 }

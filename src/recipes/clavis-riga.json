@@ -1,6 +1,6 @@
 {
     "name": "Clavis Riga",
-    "description": "Clavis Riga, or Key of Riga, is the offical cocktail of Latvia, using one of it's national drinks, Riga Black Balsam",
+    "description": "Clavis Riga, or Key of Riga, is the offical cocktail of Latvia, using one of it's national drinks, Riga Black Balsam.",
     "github": "danielhouston",
     "ingredients": [
         {
@@ -35,7 +35,7 @@
         }
     ],
     "directions": [
-        "Pour ingredients into a ice cooled mixing glass",
+        "Pour ingredients into a ice cooled mixing glass.",
         "Mix, then strain into a cocktail glass.",
         "Decorate with the orange peel."
     ],

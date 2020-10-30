@@ -1,0 +1,45 @@
+{
+  "name": "Sex in the Driveway",
+  "description": "Sweeter variation of Sex on the Beach thats blue in colour.",
+  "github": "FlatText",
+  "ingredients": [
+	{
+		"quantity": "30",
+		"measure": "ml",
+		"ingredient": "Peach Shnapps"
+    },
+    {
+		"quantity": "30",
+		"measure": "ml",
+		"ingredient": "Blue Curacao"
+    },
+    {
+		"quantity": "60",
+		"measure": "ml",
+		"ingredient": "Vodka or White Rum"
+    },
+    {
+		"quantity": "1",
+		"measure": "slice",
+		"ingredient": "lemon"
+    },
+    {
+		"quantity": "60",
+		"measure": "ml",
+		"ingredient": "Sprite"
+    }
+    ],
+    "directions": [
+        "Put crushed ice in a highball glass.",
+        "Pour in the ingredients, in order, ending by topping it off with Sprite.",
+        "Stir and serve with a straw.",
+        "Garnish with a lemon wheel."
+    ],
+    "image": "sex-in-the-driveway.jpg",
+    "keywords": [
+        "vodka",
+        "blue",
+        "sweet",
+		"rum"
+    ]
+}

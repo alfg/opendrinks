@@ -1,6 +1,6 @@
 {
     "name": "Apertass",
-    "description": "Perfect drink for an appetizer",
+    "description": "Perfect drink for an appetizer.",
     "github": "Pensionato",
     "ingredients": [
         {
@@ -20,7 +20,8 @@
         }
     ],
     "directions": [
-        "Cool a tumbler with ice, drain the water formed with a strainer.",
+        "Cool a tumbler with ice.",
+        "Drain the water formed with a strainer.",
         "Pour a small bottle of Tassoni Soda cedar and add a tip of Aperol, completing with the Soda.",
         "Stir gently. Garnish with a slice of orange."
     ],
