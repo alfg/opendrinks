@@ -1,0 +1,54 @@
+{
+    "name": "Jack Frosties",
+    "description": "When the winter blues come, this blended cocktail will make you forget all about it.",
+    "github": "yoji-kojio",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Blue Curaçao"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "lemonade"
+        },
+        {
+            "quantity": "6",
+            "measure": "cups",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lemon wedge, for rimming"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "white sanding sugar, for rimming"
+        }
+    ],
+    "directions": [
+        "In a blender, combine vodka, Prosecco, blue curaçao, lemonade, and ice. Blend until combined.",
+        "Run a lemon wedge around the rim of each glass then dip in sanding sugar.",
+        "Pour frosties into rimmed glasses and serve immediately."
+    ],
+    "image": "jack-frosties.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/recipes/a56849/drunk-jack-frosties-recipe/",
+    "keywords": [
+        "curacao",
+        "prosecco",
+        "vodka"
+    ]
+}
