@@ -1,0 +1,40 @@
+{
+    "name": "Mocha",
+    "description": "A warm and rich chocolaty coffee. Simple and easy to make.",
+    "github": "caliLai",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "espresso or strong coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "cocoa powder"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sugar (to taste)"
+        }
+    ],
+    "directions": [
+        "Warm up milk in a small pot. Shut off heat just before it boils.",
+        "Stir in the cocoa powder and sugar, ensuring that there are no clumps and the sugar is dissolved.",
+        "Pour your espresso and milk into your cup of choice.",
+        "Optional: garnish with whipped cream and extra cocoa powder.",
+        "Enjoy!"
+    ],
+    "image": "mocha.jpg",
+    "keywords": [
+        "espresso",
+        "chocolate",
+        "hot"
+    ]
+}
