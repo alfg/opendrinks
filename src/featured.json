@@ -1,4 +1,25 @@
-﻿[
+[
+  {
+    "title": "Halloween Drinks",
+    "description": "👻 Spooky Drinks for October! 👻",
+    "items": [
+      "bloody-eyeball-shot",
+      "dark-and-stormy",
+      "hocus-pocus",
+      "pumpkintini",
+      "screamsicle",
+      "zombie",
+      "witches-heart",
+      "bloody-kirby",
+      "seven-devils",
+      "corpse-reviver-no2",
+      "cuban-zombie",
+      "vampiro",
+      "drunken-peanut-butter-cups"
+    ],
+    "size": 12,
+    "enabled": true
+  },
   {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
@@ -39,22 +60,6 @@
         "indonesian-avocado-milkshake"
     ],
     "size": 6
-  },
-  {
-    "title": "Halloween Drinks",
-    "description": "👻 Spooky Drinks for October! 👻",
-    "items": [
-      "zombie",
-      "witches-heart",
-      "bloody-kirby",
-      "seven-devils",
-      "corpse-reviver-no2",
-      "cuban-zombie",
-      "vampiro",
-      "drunken-peanut-butter-cups"
-    ],
-    "size": 6,
-    "enabled": false
   },
   {
     "title": "Under the Weather Drinks",
@@ -115,7 +120,8 @@
       "zombie",
       "gin-fizz"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
   {
     "title": "Strong Drinks",
@@ -170,6 +176,7 @@
       "trash-can",
       "vodka-lemonade-punch"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   }
 ]
