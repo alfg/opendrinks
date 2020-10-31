@@ -18,12 +18,12 @@
             "measure": "cup",
             "ingredient": "milk"
         },
-		{
+        {
             "quantity": "1/2",
             "measure": "teaspoon",
             "ingredient": "cardamom powder"
         },
-		{
+        {
             "quantity": "6",
             "measure": "teaspoon",
             "ingredient": "honey"
@@ -36,7 +36,6 @@
         "Serve cold."
     ],
     "image": "chickoo-lassi.jpg",
-
     "keywords": [
         "chikoo",
         "dabur honey",
