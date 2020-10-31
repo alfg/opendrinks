@@ -18,31 +18,30 @@
             "measure": "cup",
             "ingredient": "milk"
         },
-		 {
+        {
             "quantity": "1/2",
             "measure": "teaspoon",
             "ingredient": "cardamom powder"
         },
-		 {
+        {
             "quantity": "6",
             "measure": "teaspoon",
             "ingredient": "honey"
         }
     ],
     "directions": [
-       "Place all the ingredients in a blender and blend well.",
-       "Sieve the lassi to avoid lumps and make it smooth.",
-       "Garnish with almond and more dry fruits.",
-       "Serve cold."
+        "Place all the ingredients in a blender and blend well.",
+        "Sieve the lassi to avoid lumps and make it smooth.",
+        "Garnish with almond and more dry fruits.",
+        "Serve cold."
     ],
     "image": "chickoo-lassi.jpg",
-
     "keywords": [
         "chikoo",
         "dabur honey",
-      	"almond",
-      	"coconut",
-      	"cherry",
-      	"kishmish"
+        "almond",
+        "coconut",
+        "cherry",
+        "kishmish"
     ]
 }
