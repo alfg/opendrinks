@@ -1,0 +1,47 @@
+{
+    "name": "Negrumi",
+    "description": "A variant of the best known Negroni with addition of pink grapefruit. The name is a portmanteau that blends the two words \"Negroni\" and \"Agrumi\" (italian for \"Citrus fruits\") together.",
+    "github": "AlbyIanna",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Pink grapefruit juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "A slice of pink grapefruit"
+        }
+    ],
+    "directions": [
+        "Combine the spirits into a mixing glass with ice.",
+        "Stir until chilled.",
+        "Strain into a rocks glass filled with large ice cubes.",
+        "Garnish with a slice of pink grapefruit."
+    ],
+    "image": "negrumi.jpg",
+    "keywords": [
+        "gin",
+        "alcoholic",
+        "summer",
+        "vegan",
+        "simple",
+        "grapefruit",
+        "pink",
+        "Gabri",
+        "dehors",
+        "negroni",
+        "portmanteau"
+    ]
+}
