@@ -8,7 +8,7 @@ const localVue = createLocalVue();
 
 localVue.use(BootstrapVue);
 
-describe.skip('FeaturedRecipes', () => {
+describe('FeaturedRecipes', () => {
   const wrapper = shallowMount(FeaturedRecipes, {
     localVue,
     router,
