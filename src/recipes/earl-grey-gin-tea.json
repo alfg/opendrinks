@@ -1,0 +1,61 @@
+{
+    "name": "Earl Grey Gin Tea",
+    "description": "Iced sweet black tea with a hint of bergamot pairs perfectly with the juniper notes in gin. Top with milk of choice if desired.",
+    "github": "frankylee",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tbsp (bag)",
+            "ingredient": "earl grey tea"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "gin of choice"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "boiled water"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1",
+            "measure": "handful",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "honey or sweetener of choice"
+        },
+        {
+            "quantity": "1",
+            "measure": "splash",
+            "ingredient": "milk or cream of choice (optional)"
+        }
+    ],
+    "directions": [
+        "Steep earl grey tea in boiled water for 4 minutes.",
+        "Remove tea and stir in honey or sweetener of choice until dissolved.",
+        "Throw in ice cubes and mix until cooled. Add more if needed.",
+        "Add a shot of your favorite gin.",
+        "Fill with cold water, leaving room for milk or cream if desired.",
+        "Top with milk or cream of choice."
+    ],
+    "image": "earl-grey-gin-tea.jpg",
+    "keywords": [
+        "earl grey",
+        "tea",
+        "sweet",
+        "honey",
+        "gin",
+        "milk tea",
+        "bergamot",
+        "alcoholic"
+    ]
+}
