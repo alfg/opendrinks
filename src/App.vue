@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="mb-4">
-    <GitHubCorner />
+    <GitHubCorner v-if="!isMobile" />
+    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile"></ThemeHandler>
     <div class="container mb-4 mt-4">
       <div class="mb-4 d-flex">
         <h1 class="logo">
@@ -9,7 +10,6 @@
             Open Drinks
           </router-link>
         </h1>
-        <theme-handler class="mt-3 ml-auto mr-4"></theme-handler>
       </div>
 
       <b-nav tabs align="center">
@@ -98,6 +98,8 @@ export default {
 
 .logo {
   font-family: 'Pacifico', 'cursive';
+  width: 100%;
+  text-align: center;
 }
 .logo a {
   text-decoration: none;

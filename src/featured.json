@@ -40,7 +40,8 @@
       "mulled-apple-crumble-cider",
       "tumeric-latte"
     ],
-    "size": 12
+    "size": 12,
+    "enabled": false
   },
   {
     "title": "Halloween Drinks",
