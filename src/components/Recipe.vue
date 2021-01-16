@@ -118,7 +118,6 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      this.getFavorites();
       this.getSimilarRecipes(newVal).then(data => {
         this.similarRecipes = data;
       });

@@ -45,7 +45,7 @@ import recipes from '../recipes';
 const MAX_DESCRIPTION_LENGTH = 80;
 
 export default {
-  name: 'recipeTile',
+  name: 'RecipeTile',
   props: {
     id: String,
   },

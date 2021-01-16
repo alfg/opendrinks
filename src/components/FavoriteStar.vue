@@ -29,6 +29,7 @@
 
 <script>
 export default {
+  name: 'FavoriteStar',
   props: {
     isFavorited: {
       type: Boolean,
