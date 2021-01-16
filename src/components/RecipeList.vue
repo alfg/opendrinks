@@ -79,8 +79,7 @@ export default {
     },
   },
   methods: {
-    onPageChanged(page) {
-      this.pageNumber = page - 1;
+    onPageChanged() {
       window.scrollTo(0, 0);
     },
     linkGen(pageNum) {

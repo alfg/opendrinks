@@ -17,6 +17,7 @@ describe('Recipe', () => {
     propsData: { name: 'mango-juice.json' },
     localVue,
     router,
+    stubs: ['router-link'],
   });
 
   test('is a Vue instance', () => {

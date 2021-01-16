@@ -43,15 +43,6 @@ a, a:hover, h5 {
   color: var(--app-text-color);
 }
 
-#app .router-link-exact-active {
-  color: var(--main-text-color);
-  background-color: var(--main-bg-color);
-}
-
-#app .router-link-exact-active.nav-link {
-  border-color: var(--main-line-color) var(--main-line-color) var(--main-bg-color);
-}
-
 .nav-tabs {
   border-bottom: 1px solid var(--main-line-color);
 }
@@ -59,11 +50,6 @@ a, a:hover, h5 {
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
   border-color: var(--navbar-light-hover-border-color) var(--navbar-light-hover-border-color) var(--main-line-color);
   border-bottom-width: 0px;
-}
-
-#app .router-link-exact-active.nav-link {
-  border-color: var(--main-line-color) var(--main-line-color) var(--main-bg-color);
-  border-bottom-width: 1px;
 }
 
 .card {
