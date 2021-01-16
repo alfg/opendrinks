@@ -17,6 +17,16 @@ Vue.use(VueMeta, { refreshOnceOnNavigation: true });
 Vue.use(BoostrapVue);
 Vue.use(VueSocialSharing);
 
+Vue.mixin({
+  computed: {
+    isMobile() {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      );
+    },
+  },
+});
+
 new Vue({
   router,
   render: h => h(App),
