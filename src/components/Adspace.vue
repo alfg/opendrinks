@@ -1,5 +1,5 @@
 <template>
-  <div id="adspace">
+  <div class="adspace container">
     <ins
       class="adsbygoogle"
       style="display:block"
@@ -10,3 +10,9 @@
     ></ins>
   </div>
 </template>
+
+<style scoped>
+.adspace {
+  max-height: 100px;
+}
+</style>
