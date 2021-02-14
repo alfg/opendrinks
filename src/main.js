@@ -12,6 +12,7 @@ import './registerServiceWorker';
 import 'core-js';
 
 Vue.config.productionTip = false;
+Vue.config.ignoredElements = ['amp-ad'];
 
 Vue.use(VueMeta, { refreshOnceOnNavigation: true });
 Vue.use(BoostrapVue);
