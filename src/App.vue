@@ -21,6 +21,8 @@
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
+    <Adspace />
+
     <router-view />
 
     <footer class="container mt-4 text-center">
@@ -39,12 +41,14 @@
 <script>
 import GitHubCorner from '@/components/GitHubCorner.vue';
 import ThemeHandler from '@/components/ThemeHandler.vue';
+import Adspace from '@/components/Adspace.vue';
 
 export default {
   name: 'App',
   components: {
     GitHubCorner,
     ThemeHandler,
+    Adspace,
   },
   metaInfo() {
     return {
