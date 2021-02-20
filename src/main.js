@@ -25,6 +25,9 @@ Vue.mixin({
         navigator.userAgent,
       );
     },
+    isPrintPage() {
+      return this.$route.name === 'printRecipe';
+    },
   },
 });
 

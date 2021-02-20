@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="mb-4">
-    <GitHubCorner v-if="!isMobile" />
-    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile"></ThemeHandler>
+    <GitHubCorner v-if="!isMobile && !isPrintPage" />
+    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
     <div class="container mb-4 mt-4">
       <div class="mb-4 d-flex">
         <h1 class="logo">
@@ -21,7 +21,7 @@
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
-    <Adspace />
+    <Adspace v-if="!isPrintPage" />
 
     <router-view />
 
