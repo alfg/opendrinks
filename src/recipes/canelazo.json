@@ -1,0 +1,57 @@
+{
+    "name": "Canelazo",
+    "description": "Cinnamon hot cocktail (para el chachay de Ecuador)",
+    "github": "Cjuampi",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "sticks",
+            "ingredient": "Cinnamon"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Orange juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Aguardiente or puntas(trago de Ecuador)"
+        }
+    ],
+    "directions": [
+        "Stir the water, sugar, lime juice and cinnamon stick, bring to a boil.",
+        "Turn off the heat, then add the orange juice and aguardiente or puntas.",
+        "Serve in an coffee glass or coffee mug.",
+        "And say salud!!."
+    ],
+    "image": "canelazo-ecuador.jpg",
+    "source": "https://www.youtube.com/watch?v=ELPx4amM-ew",
+    "keywords": [
+        "canelazo",
+        "aguardiente",
+        "Ecuador",
+        "canela",
+        "cinnamon",
+        "hot drink",
+        "puntas",
+        "lime",
+        "orange",
+        "sugar"
+    ]
+}
