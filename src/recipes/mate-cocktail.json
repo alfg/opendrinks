@@ -1,0 +1,63 @@
+{
+    "name": "Mate-Gin Cocktail",
+    "description": "A cocktail made with the tastiest Argentine infusion",
+    "github": "Sol-Zeta",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "grams",
+            "ingredient": "Yerba Mate"
+        },
+        {
+            "quantity": "27",
+            "measure": "oz",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "units",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "6.5",
+            "measure": "oz",
+            "ingredient": "Tonic"
+        },
+        {
+            "quantity": "4",
+            "measure": "tbsp",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Ice"
+        }
+
+    ],
+    "directions": [
+        "Infuse the yerba mate with 80°C hot water for 5-8 minutes",
+        "Put the honey into the hot infusion and cool it down in the fridge",
+        "Put some ice cubes into the cocktail glasses", 
+        "pour Gin, Tonic, lemon juice and the yerba mate infusion over it",
+        "Alternatively you can use also wodka instead of the gin",
+        "Enjoy it iced!"
+    ],
+    "image": "mate-cocktail.jpg",
+    "keywords": [
+        "alcoholic",
+        "cold",
+        "gin",
+        "mate",
+        "yerba mate",
+        "honey",
+        "tonic",
+        "lemon",
+        "argentina"
+    ]
+}
