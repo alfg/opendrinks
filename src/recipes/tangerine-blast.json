@@ -1,0 +1,51 @@
+{
+    "name": "Tangerine Blast",
+    "description": "A mezcal coctel that will sorprise you.",
+    "github": "alejRes",
+    "ingredients": [
+        {
+            "quantity": "300",
+            "measure": "ml",
+            "ingredient": "Mezcal o Tequila"
+        },
+        {
+            "quantity": "1",
+            "measure": "ud",
+            "ingredient": "Tangerine"
+        },
+        {
+            "quantity": "350",
+            "measure": "ml",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "ud",
+            "ingredient": "Cinnamon stick"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Liquid cane sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "cut the peel of the tangerine and infuse it with hot water for about 30 minutes",
+        "add the cinnamon stick and the liquid cane sugar",
+        "Stir well and infuse for another 30 minutes",
+        "After the second 30 minutes we strain the mixture",
+        "We add the mezcal and mix very well again. We serve with lots of ice."
+    ],
+    "image": "tangerine-blast.jpg",
+    "source": "https://www.directoalpaladar.com/otras-bebidas/mandarina-blast-un-coctel-con-mezcal-que-te-sorprendera",
+    "keywords": [
+        "vegan",
+        "tequila",
+        "mezcal"
+    ]
+}
