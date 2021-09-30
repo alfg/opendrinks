@@ -48,7 +48,7 @@
     "url": "https://github.com/alfg/opendrinks/issues"
   },
   "engines": {
-    "node": "10.16.3"
+    "node": "14.16.x"
   },
   "homepage": "https://github.com/alfg/opendrinks",
   "license": "MIT",

@@ -38,8 +38,8 @@ If you are familiar or want to give it a shot, feel free to contribute!
 
 ### Prerequisites
 
-- Install version 10.16.3 of Node.js on your machine
-- There is [nvm](https://github.com/nvm-sh/nvm) support. If you have nvm installed the following commands will install and start using version 10.16.3
+- Install version 14+ of Node.js on your machine
+- There is [nvm](https://github.com/nvm-sh/nvm) support. If you have nvm installed the following commands will install and start using version 14.16.0
 
 ```
 nvm install
