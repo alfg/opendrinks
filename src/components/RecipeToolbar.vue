@@ -51,10 +51,8 @@
             Share on Twitter
           </ShareNetwork>
         </b-dropdown-item>
-        <b-dropdown-item>
-          <a role="menuitem" href="#" target="_self" class="dropdown-item">
-            <a href="#" @click.prevent="copyUrl">Copy link</a>
-          </a>
+        <b-dropdown-item @click.prevent="copyUrl">
+          <a href="#">Copy URL</a>
         </b-dropdown-item>
       </b-dropdown>
     </div>
