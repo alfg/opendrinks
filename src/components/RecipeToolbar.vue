@@ -53,7 +53,7 @@
         </b-dropdown-item>
         <b-dropdown-item>
           <a role="menuitem" href="#" target="_self" class="dropdown-item">
-            <a href="#" @click.prevent="copyUrl" ref="copyUrlRef">Copy link</a>
+            <a href="#" @click.prevent="copyUrl">Copy link</a>
           </a>
         </b-dropdown-item>
       </b-dropdown>
