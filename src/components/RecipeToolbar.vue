@@ -82,7 +82,7 @@ export default {
   computed: {
     isFavorited() {
       return this.favorites.indexOf(this.drink.name) !== -1;
-    }
+    },
   },
   methods: {
     getFavorites() {
