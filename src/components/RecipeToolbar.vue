@@ -51,6 +51,11 @@
             Share on Twitter
           </ShareNetwork>
         </b-dropdown-item>
+        <b-dropdown-item>
+          <a role="menuitem" href="#" target="_self" class="dropdown-item">
+            <a href="#" @click.prevent="copyUrl" ref="copyUrlRef">Copy link</a>
+          </a>
+        </b-dropdown-item>
       </b-dropdown>
     </div>
   </div>
@@ -101,6 +106,24 @@ export default {
     onShowImage() {
       this.showImage = !this.showImage;
       this.$emit('show-image', this.showImage);
+    },
+    copyUrl() {
+      // Credits to Fab for this interesting approach - https://stackoverflow.com/a/58734857
+      const el = document.createElement('textarea');
+      el.value = window.location.href;
+      el.setAttribute('readonly', '');
+      el.style.position = 'absolute';
+      el.style.left = '-9999px';
+      document.body.appendChild(el);
+      const selected =
+        document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
+      el.select();
+      document.execCommand('copy');
+      document.body.removeChild(el);
+      if (selected) {
+        document.getSelection().removeAllRanges();
+        document.getSelection().addRange(selected);
+      }
     },
   },
 };
