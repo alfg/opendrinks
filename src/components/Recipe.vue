@@ -120,7 +120,7 @@ export default {
       this.getRecipe(newVal);
       this.getSimilarRecipes(newVal).then(data => {
         this.similarRecipes = data;
-        window.scrollTo(0, 0)
+        window.scrollTo(0, 0);
       });
     },
   },
@@ -222,7 +222,7 @@ export default {
     });
   },
   mounted() {
-    window.scrollTo(0, 0)
+    window.scrollTo(0, 0);
   },
   methods: {
     async getSimilarRecipes(name) {
