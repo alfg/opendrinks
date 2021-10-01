@@ -1,0 +1,53 @@
+{
+    "name": "Mangalorean Tea",
+    "description": "The Mangalorean Tea is a herbal drink made of dry-roasted and coarsely powdered spices. The spices are boiled with water and sweetened with misri. A little bit of milk is added to the herbal concoction to balance the flavour and strength and make it pleasant to the palate. Apart from having a general rejuvenating effect,this caffeine free herbal tea also help to soothe the throat.",
+    "github": "Aniket-508",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "coriander seeds(dhania)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "cumin seeds(jeera)"
+        },
+        {
+            "quantity": "1 and 1/2",
+            "measure": "tbsp",
+            "ingredient": "fennel seeds(saunf)"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "fenugreek seeds(methi)"
+        },
+        {
+            "quantity": "1 and 1/2",
+            "measure": "tsp",
+            "ingredient": "misri(khadi sakhar)"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "milk"
+        }
+    ],
+    "directions": [
+        "Heat a small broad non-stick pan and dry roast the coriander seeds, cumin seeds, fennel seeds and fenugreek seeds on a medium flame for 2 to 3 minutes, while stirring it continuously",
+        "Cool slightly and blend in mixer to a coarse powder. Keep aside.",
+        "Heat 1 cup of water in a saucepan and add 1½ tbsp of prepared spice powder and misri, mix well and cook on a medium flame for 3 minute, while stirring occasionally.",
+        "Add the milk and cook on a medium flame for 1 minute, while stirring occasionally.",
+        "Strain the mixture through a strainer.",
+        "Serve immediately."
+    ],
+    "image": "mangaloreantea.jpg",
+    "keywords": [
+        "Indian drinks",
+        "Tea",
+        "Chai",
+        "Milk",
+        "Spices"
+    ]
+}
