@@ -1,0 +1,68 @@
+{
+    "name": "Es Sarang Burung",
+    "description": "Es Sarang Burung is a type of drink typical of Lombok with a mixture of ice cubes that can add a fresh taste sensation when enjoyed.",
+    "github": "suryamsj",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pack",
+            "ingredient": "Red gelatin powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fruit",
+            "ingredient": "Melon, pick up the fruit with a baller"
+        },
+        {
+            "quantity": "2",
+            "measure": "pcs",
+            "ingredient": "Kiwi, cut into pieces"
+        },
+        {
+            "quantity": "200",
+            "measure": "gr",
+            "ingredient": "Nata de coco"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoons",
+            "ingredient": "Basil seeds, soak in a little warm water"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "bottle",
+            "ingredient": "Red syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "l",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "sufficiently",
+            "measure": "blok",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "In a saucepan, mix all ingredients. Stir well and boil until boiling. Remove and pour into a square pan. Let it harden. Grate the jelly lengthwise with a cheese grater. Set aside. ",
+        "In a large bowl, mix melon, nata, kiwi, grated agar, syrup, water and ice cubes. Stir well. Add basil seeds. ",
+        "Ready to serve in small glasses."
+    ],
+    "image": "es-sarang-burung.jpg",
+    "source": "https://resepkoki.id/resep/resep-es-sarang-burung/",
+    "keywords": [
+        "indonesian drink",
+        "es sarang burung"
+    ]
+}
