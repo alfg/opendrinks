@@ -41,7 +41,7 @@ describe('Recipe', () => {
 
   it('shows that the drink has been favorited', () => {
     const toolbar = wrapper.find(RecipeToolbar);
-    toolbar.setData({ isFavorited: true });
+    toolbar.setData({ favorites: ["Mango Juice"] });
     const star = toolbar.find(FavoriteStar);
     const starProps = star.props();
     expect(starProps.isFavorited).toBe(true);
