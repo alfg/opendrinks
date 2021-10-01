@@ -1,0 +1,42 @@
+{
+    "name": "Orgasm",
+    "description": "The Orgasm is a cocktail that can be served either on the rocks or layered and drunk as a shooter",
+    "github": "PronomitaDey",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Baileys Irish Cream"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Kahlua"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Amaretto"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Cream"
+        }
+    ],
+    "directions": [
+        "Build all ingredients over ice in an old fashioned glass",
+        "Give it a good stir",
+        "Garnish with a cherry and serve."
+    ],
+    "image": "orgasm.jpg",
+    "keywords": [
+        "cocktail",
+        "orgasm"
+    ]
+}
