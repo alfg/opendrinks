@@ -23,6 +23,7 @@ export default {
   },
   mounted() {
     window.document.title = `Open Drinks - ${decodeURI(this.$route.params.keyword)}`;
+    window.scrollTo(0, 0);
   },
 };
 </script>
