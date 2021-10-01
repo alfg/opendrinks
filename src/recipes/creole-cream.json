@@ -1,0 +1,51 @@
+{
+    "name": "Creole Cream",
+    "description": "Cocktail created for the British show \"The Persuaders!\", you might like it if you enjoy Martini and sweet flavors!",
+    "github": "WilliamAboucaya",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Light rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "White vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Angostura bitters"
+        },
+        {
+            "quantity": "1 or 2",
+            "measure": "",
+            "ingredient": "Olives"
+        }
+    ],
+    "directions": [
+        "Put rum, vermouth, grenadine and lemon juice into a cocktail shaker and stir with crushed ice.",
+        "Pour into a martini glass.",
+        "Add a dash of Angostura and one or two olives."
+    ],
+    "image": "creole-cream.jpg",
+    "keywords": [
+        "rum",
+        "vermouth",
+        "syrup",
+        "olives",
+        "alcoholic",
+        "vegan"
+    ]
+}
