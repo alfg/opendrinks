@@ -1,0 +1,51 @@
+{
+    "name": "P2",
+    "description": "A fresh apple and vanilla drink.",
+    "github": "Zichi",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Apple Sourz"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vanilla Vodka"
+        },
+        {
+            "quantity": "4-6",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "",
+            "ingredient": "Wedges of lime"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon & lime soda, eg. 7up"
+        }
+
+    ],
+    "directions": [
+        "Add ice cubes and lime wedges to a tall glass",
+        "Add Sourz and Vodka",
+        "Top up the glass with your preferred lemon & lime soda."
+    ],
+    "image": "p2.jpg",
+    "keywords": [
+        "vanilla",
+        "vodka",
+        "p2",
+        "lime",
+        "apple",
+        "summer",
+        "fresh",
+        "dehors",
+        "negroni",
+        "portmanteau"
+    ]
+}
