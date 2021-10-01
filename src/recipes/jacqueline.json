@@ -11,7 +11,7 @@
         {
             "quantity": "8",
             "measure": "cl",
-            "ingredient": "White vine"
+            "ingredient": "White wine"
         },
         {
             "quantity": "2",
@@ -29,6 +29,6 @@
     "image": "jacqueline.jpg",
     "keywords": [
         "grenadine",
-        "vine"
+        "wine"
     ]
 }
