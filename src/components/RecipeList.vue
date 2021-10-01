@@ -53,15 +53,30 @@ export default {
   },
   data() {
     return {
-      currentPage: 1,
       perPage: 12,
-      options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
+      options: [
+        { value: 12, text: '12' },
+        { value: 24, text: '24' },
+        { value: 48, text: '48' },
+      ],
       favorites: [],
     };
   },
   mounted() {
     window.document.title = this.title;
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
+  },
+  watch: {
+    async items(newItems, oldItems) {
+      const { page } = (this.$route && this.$route.query) || 0;
+      if (newItems && newItems.length !== oldItems.length) {
+        if (newItems.length < page * this.perPage) {
+          const query = Object.assign({}, this.$route.query);
+          query.page = Math.ceil(newItems.length / this.perPage);
+          await this.$router.push({ query });
+        }
+      }
+    },
   },
   computed: {
     pages() {
