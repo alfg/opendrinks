@@ -72,7 +72,6 @@ export default {
   },
   data() {
     return {
-      isFavorited: false,
       favorites: [],
       showImage: true,
     };
@@ -80,10 +79,14 @@ export default {
   created() {
     this.getFavorites();
   },
+  computed: {
+    isFavorited() {
+      return this.favorites.indexOf(this.drink.name) !== -1;
+    },
+  },
   methods: {
     getFavorites() {
       this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
-      this.isFavorited = this.favorites.indexOf(this.drink.name) !== -1;
     },
     favorited() {
       const index = this.favorites.indexOf(this.drink.name);
@@ -92,7 +95,6 @@ export default {
       } else {
         this.favorites.push(this.drink.name);
       }
-      this.isFavorited = !this.isFavorited;
       window.localStorage.setItem('favorites', JSON.stringify(this.favorites));
     },
     print() {
