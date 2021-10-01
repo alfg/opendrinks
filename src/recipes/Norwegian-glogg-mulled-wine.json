@@ -1,0 +1,82 @@
+{
+    "name": "Norwegian Glogg (norwegian mulled wine)",
+    "description": "A heady combination of red wine, sauternes and aquavit, enriched with raisins and almonds. Glogg is traditionally served in mugs with tiny spoons for eating the nuts and fruit.",
+    "github": "rohannair11",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "bottles",
+            "ingredient": "dry red wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "sweet white wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "singular",
+            "ingredient": "lemon"
+        },
+        {
+            "quantity": "1",
+            "measure": "singular",
+            "ingredient": "orange"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "cloves"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "cardamom pods"
+        },
+        {
+            "quantity": "1",
+            "measure": "inch",
+            "ingredient": "fresh ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "raisins"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "blanched almonds"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "vodka"
+        }
+    ],
+    "directions": [
+        "Combine wines in a large saucepan. Using a vegetable peeler, remove the zest of citrus fruits. Squeeze fruits and add juice to wine. Tie up lemon peel, orange peel and spices in cheesecloth and add to wine. Add raisins, almonds and sugar.",
+
+        "Bring wine mixture to a boil. Reduce heat and gently simmer for 15 minutes, or until flavors are well blended and almonds are soft. Skim wine from time to time to remove any foam. Taste glogg and add sugar as necessary.",
+
+        "Just before serving, add bitters and aquavit or vodka. Ladle glogg into mugs or cups and provide each guest a spoon for eating the raisins and almonds."
+    ],
+    "image": "grogg_mulled-wine.jpg",
+    "source": "",
+    "keywords": [
+        "alcholic",
+        "norwegian",
+        "beverage",
+        "sweden"
+    ]
+}
