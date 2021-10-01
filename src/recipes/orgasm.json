@@ -1,10 +1,10 @@
 {
     "name": "Orgasm",
     "description": "The Orgasm is a cocktail that can be served either on the rocks or layered and drunk as a shooter",
-    "github": "pronomita-dey",
+    "github": "PronomitaDey",
     "ingredients": [
         {
-            "quantity": "<quantity of ingredient 1>",
+            "quantity": "2",
             "measure": "oz",
             "ingredient": "Baileys Irish Cream"
         },
