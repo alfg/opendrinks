@@ -26,7 +26,7 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
             "quantity": "<quantity of ingredient 3>",
             "measure": "<type of measure (oz, cup, teaspoon)>",
             "ingredient": "<ingredient 3>"
-        },
+        }
     ],
     "directions": [
         "<Step 1>",
