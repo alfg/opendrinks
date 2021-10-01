@@ -1,0 +1,53 @@
+{
+  "name": "Mango Iced Tea",
+  "description": "Iced sweet black tea with fresh mango pulp.",
+  "github": "Bluetoothworks",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "medium sized pieces",
+      "ingredient": "Mango"
+    },
+    {
+      "quantity": "3",
+      "measure": "teaspoon",
+      "ingredient": "Black tea"
+    },
+    {
+      "quantity": "4",
+      "measure": "cups",
+      "ingredient": "Water"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "tablespoon",
+      "ingredient": "Lemon Juice"
+    },
+    {
+      "quantity": "1½",
+      "measure": "tbsp",
+      "ingredient": "Cane sugar"
+    },
+    {
+      "quantity": "few",
+      "measure": "",
+      "ingredient": "Mint leaves"
+    }
+  ],
+  "directions": [
+    "Peel and chop the mangoes.",
+    "Puree them in a blender and refrigerate.",
+    "Heat water on a stove top or in the microwave.",
+    "Remove the pan of hot water.",
+    "Add the black tea and stir.",
+    "Cover and let the tea steep in the hot water for 5-7 mins.",
+    "Strain and keep the tea in the fridge.",
+    "Once the tea is cooled, remove from the fridge.",
+    "Pour the tea in a blender.",
+    "Add the mango puree, lemon juice and sugar to the tea.",
+    "Blend everything till smooth.",
+    "Serve the mango iced tea in tall glasses with some ice cubes garnished with mint leaves or mango or lemon slices."
+  ],
+  "image": "mango-iced-tea.jpg",
+  "keywords": ["black tea", "tea", "sweet", "mango", "dairy-free", "vegan"]
+}
