@@ -72,7 +72,11 @@ export default {
       if (newItems && newItems.length !== oldItems.length) {
         if (newItems.length < page * this.perPage) {
           const query = Object.assign({}, this.$route.query);
-          query.page = Math.ceil(newItems.length / this.perPage);
+          query.page = 1;
+
+          /* NOTE: Alternatively you could use:
+           * query.page = Math.ceil(newItems.length / this.perPage);
+           */
           await this.$router.push({ query });
         }
       }
