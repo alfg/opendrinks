@@ -55,7 +55,11 @@ export default {
     return {
       currentPage: 1,
       perPage: 12,
-      options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
+      options: [
+        { value: 12, text: '12' },
+        { value: 24, text: '24' },
+        { value: 48, text: '48' },
+      ],
       favorites: [],
     };
   },
