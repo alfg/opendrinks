@@ -1,0 +1,41 @@
+{
+    "name": "passion-fruit-martini",
+    "description": "the perfect drink for a night out with friends; a zingy taste that won't be forgotten",
+    "github": "esim23",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "halved passion fruit"
+        },
+        {
+            "quantity": "60",
+            "measure": "mL",
+            "ingredient": "vanilla vodka"
+        },
+        {
+            "quantity": "30",
+            "measure": "mL",
+            "ingredient": "passoa"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "lime juice"
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "sugar syrup"
+        },
+    ],
+    "directions": [
+        "Add passion fruit seeds into a cocktail shaker",
+        "Add the vodka, passoa, lime juice and sugar syrup into the cocktail shaker and mix",
+        "Add ice and place passion fruit slice on top of the cocktail"
+    ],
+    "image": "passion-fruit-martini.jpg",
+    "keywords": [
+        "passion fruit",
+        "martini"
+    ]
+}
