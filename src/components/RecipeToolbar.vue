@@ -52,7 +52,7 @@
           </ShareNetwork>
         </b-dropdown-item>
         <b-dropdown-item @click.prevent="copyUrl">
-          <a href="#">Copy URL</a>
+          <a href="#">{{ $t('Copy URL') }}</a>
         </b-dropdown-item>
       </b-dropdown>
     </div>
@@ -136,6 +136,7 @@ export default {
     "Share": "共有",
     "Share on Facebook": "Facebook",
     "Share on Twitter": "Twitter",
+    "Copy URL": "URLをコピー",
     "Hide Image": "画像を非表示"
   }
 }
