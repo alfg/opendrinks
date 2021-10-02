@@ -1,11 +1,11 @@
 <template>
   <div class="favorites container">
     <b-button class="mb-3" v-if="drinks.length > 0" variant="outline-danger" @click="confirmModal">
-      Remove All Favorites
+      {{ $t('Remove All Favorites') }}
     </b-button>
 
     <b-alert :show="drinks.length === 0">
-      You don't have any favorite drinks
+      {{ $t("You don't have any favorite drinks") }}
     </b-alert>
     <RecipeList @favoriteClick="favoriteClick" :title="`Open Drinks Favorites`" :items="drinks" />
   </div>
@@ -31,7 +31,7 @@ export default {
   methods: {
     confirmModal() {
       this.$bvModal
-        .msgBoxConfirm('Are you sure you want to remove all favorites', {
+        .msgBoxConfirm(this.$t('Are you sure you want to remove all favorites'), {
           title: '',
           size: 'md',
           buttonSize: 'md',
@@ -39,7 +39,8 @@ export default {
           headerClass: 'p-2 border-bottom-0',
           footerClass: 'p-2 border-top-0',
           centered: true,
-          okTitle: 'Delete',
+          okTitle: this.$t('Delete'),
+          cancelTitle: this.$t('Cancel'),
         })
         .then(value => {
           if (value) {
@@ -57,3 +58,15 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "ja": {
+    "You don't have any favorite drinks": "お気に入りのドリンクがありません",
+    "Remove All Favorites": "お気に入りをすべて削除する",
+    "Are you sure you want to remove all favorites": "お気に入りをすべて削除してもよろしいですか？",
+    "Delete": "削除",
+    "Cancel": "キャンセル"
+  }
+}
+</i18n>
