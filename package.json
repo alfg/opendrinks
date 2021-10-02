@@ -8,7 +8,6 @@
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
     "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/webpack.functions.js",
     "function-serve": "netlify-lambda serve .netlify/functions-src -c .netlify/webpack.functions.js",
-    "i18n:report": "vue-cli-service i18n:report --src \"./src/**/*.?(js|vue)\" --locales \"./src/locales/**/*.json\"",
     "sitemap": "node scripts/sitemap_generator.js",
     "test": "npm run validate && npm run test:unit",
     "validate": "node scripts/validate_recipes.js"
