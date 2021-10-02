@@ -1,0 +1,40 @@
+{
+    "name": "Italian Cream Soda",
+    "description": "A watermelon and passion fruit flavored Italian cream soda.",
+    "github": "ansidev",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "fluid ounces",
+            "ingredient": "carbonated water"
+        },
+        {
+            "quantity": "¾",
+            "measure": "fluid ounce",
+            "ingredient": "passion fruit flavored syrup"
+        },
+        {
+            "quantity": "¾",
+            "measure": "fluid ounce",
+            "ingredient": "watermelon flavored syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "fluid ounce",
+            "ingredient": "half-and-half cream"
+        }
+    ],
+    "directions": [
+        "Fill a tall glass half full with ice.",
+        "Fill to 2/3 with carbonated water.",
+        "Pour in watermelon and passion fruit flavored syrups, then float the half-and-half cream on top.",
+        "Stir when ready to drink."
+    ],
+    "image": "italian-cream-soda.jpg",
+    "source": "https://www.allrecipes.com/recipe/18943/italian-cream-soda/",
+    "keywords": [
+        "cream soda",
+        "italy",
+        "soda"
+    ]
+}
