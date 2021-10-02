@@ -27,7 +27,7 @@
     <p>{{ drink.description }}</p>
 
     <p class="text-muted">
-      Contributed by:
+      {{ $t('Contributed by') }}:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
 
@@ -43,7 +43,7 @@
     <b-container>
       <b-row class="justify-content-between">
         <div class="recipe-ingredients">
-          <h4>Ingredients</h4>
+          <h4>{{ $t('Ingredients') }}</h4>
           <ul>
             <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
               {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
@@ -65,7 +65,7 @@
 
       <b-row>
         <div class="recipe-directions-list">
-          <h4>Directions</h4>
+          <h4>{{ $t('Directions') }}</h4>
           <ol class="mb-4">
             <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
           </ol>
@@ -73,7 +73,7 @@
 
         <div class="mt-4" v-if="drink.source">
           <span>
-            View full recipe at:
+            {{ $t('View full recipe at') }}:
             <a :href="drink.source">{{ drink.source }}</a>
           </span>
         </div>
@@ -81,7 +81,7 @@
     </b-container>
 
     <div class="similar-drinks mt-4 mb-4">
-      <h4>Similar drinks</h4>
+      <h4>{{ $t('Similar drinks') }}</h4>
       <b-card-group deck>
         <RecipeTile
           v-for="similarRecipe in similarRecipes"
@@ -277,3 +277,14 @@ export default {
   }
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "Contributed by": "提供",
+    "Ingredients": "材料",
+    "Directions": "手順",
+    "Similar drinks": "似ているドリンク"
+  }
+}
+</i18n>
