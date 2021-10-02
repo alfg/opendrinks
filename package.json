@@ -8,6 +8,7 @@
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
     "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/webpack.functions.js",
     "function-serve": "netlify-lambda serve .netlify/functions-src -c .netlify/webpack.functions.js",
+    "i18n:report": "vue-cli-service i18n:report --src \"./src/**/*.?(js|vue)\" --locales \"./src/locales/**/*.json\"",
     "sitemap": "node scripts/sitemap_generator.js",
     "test": "npm run validate && npm run test:unit",
     "validate": "node scripts/validate_recipes.js"
@@ -19,11 +20,13 @@
     "netlify-lambda": "^1.6.3",
     "register-service-worker": "^1.7.2",
     "vue": "^2.6.14",
+    "vue-i18n": "^8.26.3",
     "vue-meta": "^2.4.0",
     "vue-router": "^3.5.2",
     "vue-social-sharing": "^3.0.8"
   },
   "devDependencies": {
+    "@intlify/vue-i18n-loader": "^1.1.0",
     "@vue/cli-plugin-babel": "^4.5.13",
     "@vue/cli-plugin-eslint": "^4.5.13",
     "@vue/cli-plugin-pwa": "^4.5.13",
@@ -42,6 +45,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "prettier": "^1.19.1",
     "sitemap": "^5.1.0",
+    "vue-cli-plugin-i18n": "~2.3.1",
     "vue-template-compiler": "^2.6.14"
   },
   "bugs": {
