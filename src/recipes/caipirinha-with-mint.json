@@ -1,0 +1,46 @@
+{
+    "name": "Caipirinha with mint",
+    "description": "Caipirinha is a Brazilian cocktail prepared with cachaça, cane sugar, and lime. But, you can add mint leaves and make their flavor refreshing.",
+    "github": "marcosbiao",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "green lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "5",
+            "measure": "leaves",
+            "ingredient": "mint"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
+    ],
+    "directions": [
+        "Wash the lemon well.",
+        "Cut the lemon 8 pieces and remove the white layer that holds the segments.",
+        "Spread the mint leaves over the edge of the cup.",
+        "Add the lemon, mint, sugar and massere to the shaker. Add ice and cachaça and mix.",
+        "Serve in a long glass."
+    ],
+    "image": "caipirinha.jpg",
+    "keywords": [
+        "cachaça",
+        "green lime",
+        "alcoholic",
+        "mint"
+	]
+}
