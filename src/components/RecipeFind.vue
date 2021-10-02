@@ -8,13 +8,13 @@
         <b-form-radio value="name">{{ $t('Name') }}</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple ingredients by separating them with a space"
+          :title="$t('You can search for multiple ingredients by separating them with a space')"
           value="ingredients"
           >{{ $t('Ingredients') }}</b-form-radio
         >
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple keywords by separating them with a space"
+          :title="$t('You can search for multiple keywords by separating them with a space')"
           value="keywords"
           >{{ $t('Keywords') }}</b-form-radio
         >
@@ -187,7 +187,9 @@ export default {
     "Filter by": "検索条件",
     "Name": "名前",
     "Ingredients": "材料",
-    "Keywords": "キーワード"
+    "Keywords": "キーワード",
+    "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
+    "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
   }
 }
 </i18n>

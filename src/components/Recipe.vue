@@ -284,6 +284,7 @@ export default {
     "Contributed by": "提供",
     "Ingredients": "材料",
     "Directions": "手順",
+    "View full recipe at": "完全なレシピを見る",
     "Similar drinks": "似ているドリンク"
   }
 }
