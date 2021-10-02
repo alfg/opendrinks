@@ -1,0 +1,34 @@
+{
+    "name": "Good Vibrations",
+    "description": "A sweet alcoholic beverage for the Orange Soda lovers in life.",
+    "github": "Lunarelements",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Orange Soda (to fill rest of glass)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Add ice to a glass.",
+        "Add Tequila.",
+        "Fill remainder of glass with Orange Soda."
+    ],
+    "image": "good-vibrations.jpg",
+    "keywords": [
+        "alcoholic",
+        "tequila",
+        "orange soda",
+        "sweet"
+    ]
+}

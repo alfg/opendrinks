@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="mb-4">
-    <GitHubCorner />
+    <GitHubCorner v-if="!isMobile && !isPrintPage" />
+    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
     <div class="container mb-4 mt-4">
       <div class="mb-4 d-flex">
         <h1 class="logo">
@@ -9,7 +10,6 @@
             Open Drinks
           </router-link>
         </h1>
-        <theme-handler class="mt-3 ml-auto mr-4"></theme-handler>
       </div>
 
       <b-nav tabs align="center">
@@ -21,6 +21,8 @@
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
+    <Adspace v-if="!isPrintPage" />
+
     <router-view />
 
     <footer class="container mt-4 text-center">
@@ -39,20 +41,29 @@
 <script>
 import GitHubCorner from '@/components/GitHubCorner.vue';
 import ThemeHandler from '@/components/ThemeHandler.vue';
+import Adspace from '@/components/Adspace.vue';
 
 export default {
   name: 'App',
   components: {
     GitHubCorner,
     ThemeHandler,
+    Adspace,
   },
-
-  computed: {
-    isMobile() {
-      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-        navigator.userAgent,
-      );
-    },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        {
+          name: 'description',
+          content: 'Open Source Drink Recipes',
+          vmid: 'description',
+        },
+      ],
+    };
   },
 };
 </script>
@@ -83,6 +94,8 @@ export default {
 
 .logo {
   font-family: 'Pacifico', 'cursive';
+  width: 100%;
+  text-align: center;
 }
 .logo a {
   text-decoration: none;

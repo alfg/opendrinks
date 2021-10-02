@@ -1,6 +1,6 @@
 {
     "name": "Madras",
-    "description": "Easy Vodka Cranberry drink",
+    "description": "Easy Vodka Cranberry drink.",
     "github": "deveshkatoch",
     "ingredients": [
         {
@@ -21,8 +21,8 @@
     ],
     "directions": [
         "Gather and pour the ingredients into a highball glass.",
-        "Stir the ingredients well",
-        "Garnish with a lime wedge"
+        "Stir the ingredients well.",
+        "Garnish with a lime wedge."
     ],
     "image": "madras.jpg",
     "source": "https://www.thespruceeats.com/madras-cocktail-recipe-759318",

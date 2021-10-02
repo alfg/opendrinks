@@ -1,0 +1,35 @@
+{
+    "name": "Madeleine",
+    "description": "A sweet cocktail tasting like the eponymous French cake. Delicious both as a full drink and as a shooter.",
+    "github": "WilliamAboucaya",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Amaretto"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "Ananas Juice"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients and shake well.",
+        "Strain into martini or shot glass"
+    ],
+    "image": "madeleine.jpg",
+    "source": "https://www.villaschweppes.com/article/la-recette-du-madeleine-un-cocktail-a-l-amaretto-ananas-et-cointreau_a51466/1",
+    "keywords": [
+        "amaretto",
+        "cointreau",
+        "sweet",
+        "vegan",
+        "french"
+    ]
+}

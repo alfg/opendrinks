@@ -4,13 +4,13 @@
     "github": "RichardVerbraak",
     "ingredients": [
         {
-            "quantity": "",
-            "measure": "",
+            "quantity": "1",
+            "measure": "oz",
             "ingredient": "Coffee"
         },
         {
-            "quantity": "",
-            "measure": "",
+            "quantity": "1-2",
+            "measure": "oz",
             "ingredient": "Licor 43"
         },
         {
@@ -19,8 +19,8 @@
             "ingredient": "Frothed Milk"
         },
         {
-            "quantity": "",
-            "measure": "",
+            "quantity": "2",
+            "measure": "tablespoons",
             "ingredient": "Condensed Milk"
         }
     ],
@@ -33,6 +33,7 @@
     "keywords": [
         "coffee",
         "spanish",
-        "canary isles"
+        "canary isles",
+        "canary islands"
     ]
 }

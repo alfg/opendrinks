@@ -1,6 +1,6 @@
 {
     "name": "Cranberry Mimosa",
-    "description": "Nice drink to shake your morning",
+    "description": "A nice drink to shake your morning.",
     "github": "keilavizcarra",
     "ingredients": [
         {
@@ -19,8 +19,9 @@
     ],
     "image": "cranberry-mimosa.jpg",
     "keywords": [
-        "champage",
+        "champagne",
         "cranberry",
+        "juice",
         "mimosa",
         "vegan"
     ]

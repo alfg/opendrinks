@@ -1,0 +1,51 @@
+{
+    "name": "Burnt Caramel Manhattan",
+    "description": "The Burnt Caramel Manhattan is a sweet, decadent variation on the classic Manhattan.",
+    "github": "kristina-hager",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": ".25",
+            "measure": "oz",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": ".25",
+            "measure": "oz",
+            "ingredient": "buttershot schnapps"
+        },
+        {
+            "quantity": ".5",
+            "measure": "oz",
+            "ingredient": "raspberry Chambord"
+        },
+        {
+            "quantity": "3",
+            "measure": "dashes",
+            "ingredient": "angostura bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cherry"
+        }
+    ],
+    "directions": [
+        "Chill a cocktail glass with ice and water.",
+        "Fill a shaker with ice and then add all liquid ingredients.",
+        "Shake for about 30 seconds. Shaking creates ice flakes which are fun.",
+        "Taste and then strain into the chilled cocktail glass, serving straight up.",
+        "Note: You can vary this by increasing buttershot schnapps and vermouth to .5 oz."
+    ],
+    "image": "burnt-caramel-manhattan.jpg",
+    "keywords": [
+        "alcoholic",
+        "classic",
+        "bourbon",
+        "vegan"
+    ]
+}

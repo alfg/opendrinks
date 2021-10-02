@@ -1,6 +1,6 @@
 {
     "name": "Mango Mastani",
-    "description": "A thick milkshake topped with a scoop of ice cream along with quirky toppings",
+    "description": "A thick milkshake topped with a scoop of ice cream along with quirky toppings.",
     "github": "sinisterblade",
     "ingredients": [
         {
@@ -61,7 +61,7 @@
     "image": "mango-mastani.jpg",
     "source": "https://www.vegrecipesofindia.com/mango-mastani-recipe",
     "keywords": [
-        "fruits",
+        "fruit",
         "non-alcoholic",
         "sweet",
         "smoothie"

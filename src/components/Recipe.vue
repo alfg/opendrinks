@@ -14,63 +14,14 @@
           >
         </div>
       </div>
-
-      <div class="d-flex align-items-center">
-        <div class="show-image" v-if="isPrint">
-          <b-form-checkbox
-            v-model="showImage"
-            name="show-image-checkbox"
-            :value="false"
-            :unchecked-value="true"
-            class="mr-3"
-          >
-            Hide Image
-          </b-form-checkbox>
-        </div>
-        <FavoriteStar class="mr-3 fav-star" @favorite="favorited" :isFavorited="isFavorited">
-        </FavoriteStar>
-
-        <div class="print-button">
-          <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-            Print
-          </b-button>
-          <b-button
-            v-else
-            variant="outline-primary"
-            :to="`/recipe/${this.name}/print`"
-            target="_blank"
-          >
-            Print
-          </b-button>
-        </div>
-
-        <div class="share-button">
-          <b-dropdown text="Share" variant="outline-primary" right class="m-2">
-            <b-dropdown-item>
-              <ShareNetwork
-                network="facebook"
-                :url="recipeAbsoluteURL"
-                :title="drink.name"
-                :description="drink.description"
-                :hashtags="drink.keywords.join()"
-              >
-                Share on Facebook
-              </ShareNetwork>
-            </b-dropdown-item>
-            <b-dropdown-item>
-              <ShareNetwork
-                network="twitter"
-                :url="recipeAbsoluteURL"
-                :title="drink.name"
-                :description="drink.description"
-                :hashtags="drink.keywords.join()"
-              >
-                Share on Twitter
-              </ShareNetwork>
-            </b-dropdown-item>
-          </b-dropdown>
-        </div>
-      </div>
+      <RecipeToolbar
+        v-if="!isMobile"
+        :url="recipeAbsoluteURL"
+        :drink="drink"
+        :name="name"
+        :isPrint="isPrint"
+        v-on:show-image="onShowImage"
+      />
     </div>
 
     <p>{{ drink.description }}</p>
@@ -79,6 +30,15 @@
       Contributed by:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
     </p>
+
+    <RecipeToolbar
+      v-if="isMobile"
+      :url="recipeAbsoluteURL"
+      :drink="drink"
+      :name="name"
+      :isPrint="isPrint"
+      v-on:show-image="onShowImage"
+    />
 
     <b-container>
       <b-row class="justify-content-between">
@@ -136,7 +96,7 @@
 <script>
 import RecipeTile from '@/components/RecipeTile.vue';
 import recipes from '../recipes';
-import FavoriteStar from './FavoriteStar.vue';
+import RecipeToolbar from '@/components/RecipeToolbar.vue';
 
 const NUMBER_OF_SIMILAR_RECIPES = 6;
 
@@ -148,7 +108,7 @@ export default {
   },
   components: {
     RecipeTile,
-    FavoriteStar,
+    RecipeToolbar,
   },
   computed: {
     recipeAbsoluteURL() {
@@ -158,13 +118,89 @@ export default {
   watch: {
     name(newVal) {
       this.getRecipe(newVal);
-      window.document.title = `Open Drinks - ${this.drink.name}`;
-
-      this.getFavorites();
       this.getSimilarRecipes(newVal).then(data => {
         this.similarRecipes = data;
+        window.scrollTo(0, 0);
       });
     },
+  },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      titleTemplate: `%s - ${this.drink.name}`,
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        {
+          name: 'description',
+          content: this.drink.description,
+          vmid: 'description',
+        },
+        {
+          property: 'og:title',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+          vmid: 'og:title',
+        },
+        {
+          property: 'og:type',
+          content: 'article',
+          vmid: 'og:type',
+        },
+        {
+          property: 'og:site_name',
+          content: 'Open Drinks',
+          vmid: 'og:site_name',
+        },
+        {
+          property: 'og:url',
+          content: `https://opendrinks.io${window.location.pathname}`,
+          vmid: 'og:url',
+        },
+        {
+          property: 'og:description',
+          content: this.drink.description,
+          vmid: 'og:description',
+        },
+        {
+          property: 'og:image',
+          content: `https://opendrinks.io${this.drink.img}`,
+          vmid: 'og:image',
+        },
+        {
+          property: 'og:image:alt',
+          content: this.drink.name,
+          vmid: 'og:image:alt',
+        },
+        {
+          itemprop: 'name',
+          content: 'Open Drinks',
+          template: chunk => `${chunk} - ${this.drink.name}`,
+        },
+        {
+          itemprop: 'description',
+          content: this.drink.description,
+        },
+        {
+          itemprop: 'image',
+          content: `https://opendrinks.io${this.drink.img}`,
+        },
+      ],
+      script: [
+        {
+          type: 'application/ld+json',
+          json: {
+            '@context': 'https://schema.org/',
+            '@type': 'Recipe',
+            name: this.drink.name,
+            url: `https://opendrinks.io${window.location.pathname}`,
+            description: this.drink.description,
+            image: `https://opendrinks.io${this.drink.img}`,
+          },
+        },
+      ],
+    };
   },
   data() {
     return {
@@ -173,26 +209,24 @@ export default {
       similarRecipes: [],
       badgeStyle: {
         'margin-right': '0.2vw',
+        'margin-left': '0.2vw',
       },
-      isFavorited: false,
-      favorites: [],
       showImage: true,
     };
   },
   created() {
     this.getRecipe(this.name);
-    this.getFavorites();
+    window.document.title = `Open Drinks - ${this.drink.name}`;
     this.getSimilarRecipes(this.name).then(data => {
       this.similarRecipes = data;
     });
   },
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   methods: {
     async getSimilarRecipes(name) {
       return (await recipes.getSimilarRecipe(name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
-    },
-    getFavorites() {
-      this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
-      this.isFavorited = this.favorites.indexOf(this.drink.name) !== -1;
     },
     getRecipe(name) {
       const drink = recipes.getRecipe(name);
@@ -204,18 +238,8 @@ export default {
     urlEncode(item) {
       return window.encodeURI(item);
     },
-    favorited() {
-      const index = this.favorites.indexOf(this.drink.name);
-      if (index !== -1) {
-        this.favorites.splice(index, 1);
-      } else {
-        this.favorites.push(this.drink.name);
-      }
-      this.isFavorited = !this.isFavorited;
-      window.localStorage.setItem('favorites', JSON.stringify(this.favorites));
-    },
-    print() {
-      window.print();
+    onShowImage(data) {
+      this.showImage = data;
     },
   },
 };

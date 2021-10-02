@@ -6,6 +6,7 @@ https://opendrinks.io/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
 [![Build Status](https://travis-ci.org/alfg/opendrinks.svg?branch=master)](https://travis-ci.org/alfg/opendrinks)
+[![Node CI](https://github.com/alfg/opendrinks/workflows/Node%20CI/badge.svg)](https://github.com/alfg/opendrinks/actions)
 
 **OpenDrinks** is powered and hosted by [Netlify](https://www.netlify.com)!
 
@@ -37,8 +38,8 @@ If you are familiar or want to give it a shot, feel free to contribute!
 
 ### Prerequisites
 
-- Install version 10.16.3 of Node.js on your machine
-- There is [nvm](https://github.com/nvm-sh/nvm) support. If you have nvm installed the following commands will install and start using version 10.16.3
+- Install version 14+ of Node.js on your machine
+- There is [nvm](https://github.com/nvm-sh/nvm) support. If you have nvm installed the following commands will install and start using version 14.16.0
 
 ```
 nvm install

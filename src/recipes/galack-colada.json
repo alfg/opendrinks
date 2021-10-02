@@ -1,6 +1,6 @@
 {
     "name": "Galack Colada",
-    "description": "Drink inspired by nestle white chocolate",
+    "description": "Drink inspired by Nestle white chocolate.",
     "github": "Kouthk",
     "ingredients": [
         {
@@ -41,10 +41,9 @@
        
     ],
     "directions": [
-        "put it all in a blender.",
-        "Blend until smooth.",
-        "In a glass of 500ml Pass condensed milk on edge",
-        "Pineapple Triangle on the Edge Cherry on the edge White chocolate bar in the glass"
+        "Blend Galack, pineapple juice, rum, coconut milk, and Malibu in a blender until smooth.",
+        "Pour into a glass along with 500ml  condensed milk on the edge",
+        "Serve with a cherry and pineapple triangle on the edge, and a white chocolate bar in the glass."
     ],
     "image": "galack-colada.jpg",
     "keywords": [

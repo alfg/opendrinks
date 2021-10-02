@@ -1,0 +1,47 @@
+{
+    "name": "Gin fizz",
+    "description": "Mix a sparkling gin fizz cocktail (or two) for when you're entertaining. With just a handful of ingredients you can create a refreshing drink that evokes summer",
+    "github": "vijayakumarGit",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Fresh lemon juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Sugar syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Egg white"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Club soda"
+        }
+    ],
+    "directions": [
+        "Add the first four ingredients to a shaker and dry-shake (without ice) for about 10 seconds.",
+        "Add 3 or 4 ice cubes and shake very well.",
+        "Double-strain into a chilled fizz glass and top with club soda.",
+        "Blend with ice.",
+        "Serve immediately while still cold."
+    ],
+    "image": "gin-fizz.jpg",
+    "keywords": [
+        "cocktail",
+        "gin",
+        "mixology",
+        "alcoholic",
+        "fresh"
+    ]
+}

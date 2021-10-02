@@ -1,0 +1,40 @@
+{
+    "name": "Kids Hot Chocolate",
+    "description": "Yummy hot chocolate for kids",
+    "github": "sophiazhang6216",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "packet",
+            "ingredient": "hot cocoa mix"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "heavy whipping cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "powdered sugar"
+        }
+    ],
+    "directions": [
+        "Put milk on stove with medium-low heat for 5-7 minutes",
+        "While the milk is on the stove, pour the hot cocoa mix into a cup fit for kids",
+        "Pour milk on top of the hot cocoa mix in the cup",
+        "Pour the heavy whipping cream and powdered sugar into a bowl and mix until fluffy",
+        "Scoop the whipped cream into the cup",
+        "Enjoy!"
+    ],
+    "image": "kids-hot-chocolate.jpg",
+    "keywords": [
+        "kids",
+        "chocolate"
+    ]
+}

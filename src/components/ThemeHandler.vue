@@ -7,6 +7,7 @@
 
 <script>
 export default {
+  name: 'ThemeHandler',
   data() {
     return {
       theme: localStorage.getItem('theme') || 'light',
@@ -16,10 +17,10 @@ export default {
   mounted() {
     this.setTheme(this.theme);
     this.darkCheckBox = this.theme === 'dark';
-    this.$nextTick(() => document.getElementById('app').classList.add('load'));
   },
   methods: {
     checkboxHandler() {
+      document.body.classList.add('load');
       if (this.darkCheckBox) {
         this.setTheme('light');
       } else {

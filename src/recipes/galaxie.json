@@ -1,0 +1,48 @@
+{
+    "name": "Galaxie Cocktail",
+    "description": "Color Changing Sunset Margarita",
+    "github": "strawberries73",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Lemon and lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Sugar syrup"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Triple sec"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Butterfly pea infused tequila"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Crushed lemon and magic ice"
+        }
+    ],
+    "directions": [
+        "Rub lime around the edge of the glass and salt the rim.",
+        "Half fill the glass with crushed lemon ice.",
+        "Pour the lemon lime juice, simple syrup and triple sec. Stir to mix.",
+        "Using the back of a spoon, layer the butterfly pea infused tequila. Top with color changing magic ice.",
+        "Serve with a slice of lemon and lime."
+    ],
+    "image": "galaxie.jpg",
+    "source": "https://www.theflavorbender.com/magical-color-changing-cocktails-galaxy-cocktails/",
+    "keywords": [
+        "cocktail",
+        "margarita",
+        "galaxie",
+        "alcoholic",
+        "butterfly pea"
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "name": "Rose Sangria",
-    "description": "A simple and tasty rosé sangria",
+    "description": "A simple and tasty rosé sangria.",
     "github": "MrValraven",
     "ingredients": [
         {
@@ -30,11 +30,11 @@
         }
     ],
     "directions": [
-        "Slice the oranges and strawberries into a jar;",
-        "Place the sugar and muddle all the ingredients",
-        "Fill the jar with ice;",
-        "Place the soda and the wine inside the jar;",
-        "Mix it all up, in circular motions, going in a upwards motion;",
+        "Slice the oranges and strawberries into a jar.",
+        "Place the sugar and muddle all the ingredients.",
+        "Fill the jar with ice.",
+        "Place the soda and the wine inside the jar.",
+        "Mix it all up, in circular motions, going in a upwards motion.",
         "Add some mint leaves as garnish and enjoy!"
 
     ],

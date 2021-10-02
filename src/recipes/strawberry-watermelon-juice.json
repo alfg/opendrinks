@@ -1,6 +1,6 @@
 {
     "name": "Strawberry watermelon juice",
-    "description": "refreshing, healthy, delicious fruit juice",
+    "description": "refreshing, healthy, delicious fruit juice.",
     "github": "Amr905",
     "ingredients": [
         {
@@ -25,9 +25,9 @@
         }
     ],
     "directions": [
-        "Take all the ingredients into the blender",
-        "Blend it till it get smooth and runny",
-        "Pour the juice into individual serving glass and serve"
+        "Put all the ingredients into the blender.",
+        "Blend it till it get smooth and runny.",
+        "Pour the juice into individual serving glass and serve."
     ],
     "image": "strawberry-watermelon-juice.jpg",
     "source": "https://www.spiceupthecurry.com/strawberry-watermelon-juice-recipe/",

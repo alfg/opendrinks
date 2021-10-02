@@ -1,7 +1,7 @@
 :root {
 	--switch-toggle-size: 1.25rem;
-	--switch-w: 4em;
-	--switch-h: 2em;
+	--switch-w: 3em;
+	--switch-h: 1.5em;
 	--switch-handle-scale: 0.65;
 	--switch-off-handle-x: -0.125em;
 	--switch-on-handle-x: calc(100% - 0.125em);

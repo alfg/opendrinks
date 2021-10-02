@@ -1,6 +1,6 @@
 {
     "name": "Yellow watermelon juice",
-    "description": "Yellow watermelon juice, will help boost your day",
+    "description": "Yellow watermelon juice, will help boost your day.",
     "github": "2pai",
     "ingredients": [
         {
@@ -25,10 +25,10 @@
         }
     ],
     "directions": [
-        "Cut the watermelon",
-        "Put the watermelon in the blender & pour with water ",
-        "Don't forget to add sugar",
-        "Blend until the watermelon is smooth",
+        "Cut the watermelon.",
+        "Put the watermelon in the blender & pour with water.",
+        "Add sugar.",
+        "Blend until the watermelon is smooth.",
         "If it's already smooth, put it in the glass. ",
         "Add ice cubes and the juice is ready to serve"
     ],

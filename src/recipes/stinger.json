@@ -1,0 +1,36 @@
+{
+    "name": "Stinger",
+    "description": "Nice after meal cocktail. A classic.",
+    "github": "kristina-hager",
+
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "brandy"
+        },
+        {
+            "quantity": ".5",
+            "measure": "oz",
+            "ingredient": "white creme de menthe"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "mint leaf"
+        }
+    ],
+    "directions": [
+		"Pour liquid ingredients over ice. Stir.",
+		"Garnish with fresh mint leaf (optional).",
+		"You can use cognac in place of brandy"
+    ],
+    "image": "stinger.jpg",
+    "keywords": [
+		"brandy",
+		"classic",
+		"simple",
+		"alcoholic"
+    ]
+    
+}

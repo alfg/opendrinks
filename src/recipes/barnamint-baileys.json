@@ -7,7 +7,7 @@
         {
             "quantity": "40",
             "measure": "ml",
-            "ingredient": "bailey's"
+            "ingredient": "baileys"
         },
         {
             "quantity": "20",
@@ -42,11 +42,11 @@
     "image": "barnamint-baileys.jpg",
         "keywords": [
 		"alcoholic",
-		"bailey's",
+		"baileys",
 		"creme de menthe",
+		"ice cream",
 		"milk",
-		"oreo cookies",
-		"ice cream"
+		"oreo"
         ]
     
 }

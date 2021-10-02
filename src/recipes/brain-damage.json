@@ -21,8 +21,8 @@
     ],
     "directions": [
         "Mix the schnapps and Irish cream together in a shot glass - *do not stir*",
-        "Gently tilt the glass to help the mixture curdle to the desired level",
-        "Add the dash of grenadine to the mix, swilling the glass more if desired for consistency"
+        "Gently tilt the glass to help the mixture curdle to the desired level.",
+        "Add the dash of grenadine to the mix, swilling the glass more if desired for consistency."
     ],
     "image": "brain-damage.jpg",
     "keywords": [
@@ -33,7 +33,6 @@
         "brain",
         "grenadine",
         "baileys",
-        "bailey's",
         "texture"
     ]
 }

@@ -1,0 +1,46 @@
+{
+    "name": "Pineapple Lemonade",
+    "description": "So refreshing, so sweet, so tangy and just so wonderfully tropical.",
+    "github": "saikoushalg",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "To make the simple syrup, combine sugar and 1 cup water in a medium saucepan over medium heat, stirring until the sugar has dissolved; let cool. ",
+        "In a large pitcher, whisk together simple syrup, lemon juice, pineapple juice, lime juice",
+        "Transfer to a clean container and refrigerate it",
+        "Add ice cubes",
+        "Give a quick stir and serve chilled."
+    ],
+    "image": "pineapple-lemonade.jpg",
+    "keywords": [
+        "fruit",
+        "sweet",
+        "refreshing",
+        "summer"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Miami Vice",
+    "description": "A cocktail made with a blend of a Piña Colada and a Strawberry Daiquiri. Not only a drink to satisfy a sweet tooth, but the beautiful red and white pattern is enough to turn heads.",
+    "github": "Lunarelements",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Pineapple Juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Coconut Cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Strawberries"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Ice"
+        }
+
+    ],
+    "directions": [
+        "In a blender, add strawberries, lime juice, simple syrup, half the rum (1 oz) and half the ice (1 cup).",
+        "Blend until smooth and pour into glass.",
+        "Clean the blender or get a second blender.",
+        "In the blender add cream of coconut, pineapple juice, the remaining rum (1 oz) and the remaining ice (1 cup).",
+        "Blend until smooth and pour into glass with the first blend.",
+        "(Optional) Add a cherry and / or pineapple slice to garnish."
+    ],
+    "image": "miami-vice.jpg",
+    "keywords": [
+        "alcoholic",
+        "cold",
+        "rum",
+        "daiquiri",
+        "pineapple juice",
+        "slush",
+        "sweet"
+    ]
+}

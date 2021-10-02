@@ -1,0 +1,54 @@
+{
+    "name": "Newfoundland Christmas Slush",
+    "description": "A frosty blend of pinapple and citrus frozen together with vodka to create a base for a delicous cocktail from the province of Newfoundland, Canada",
+    "github": "MikeRyan709",
+    "ingredients": [
+        {
+            "quantity": "7.5",
+            "measure": "cups>",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cups",
+            "ingredient": "White sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "Can",
+            "ingredient": "Frozen Lemonade"
+        },
+        {
+            "quantity": "1",
+            "measure": "Can",
+            "ingredient": "Pinapple Juice"
+        },
+        {
+            "quantity": "26",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },{
+            "quantity": "To fill",
+            "measure": "",
+            "ingredient": "Soda (7up)"
+        }
+    ],
+    "directions": [
+        "Pour the water and sugar into a large pot and bring to a boil. Let the mixture boil for 3-5 minutes",
+        "Once the mixture is cool, add your orange juice and lemonade, mix well until dissolved",
+        "Add the can of Pinapple juice and vodka to the mix and stir",
+        "Transfer the mixture to a large, freezer safe container",
+        "place in freezer, stir periodically until mixture is frozen",
+        "Add two scoops of slush to a cup and fill with 7Up"
+    ],
+    "image": "newfoundland-christmas-slush.jpg",
+    "keywords": [
+        "vodka",
+        "holiday",
+        "pinapple juice",
+        "orange",
+        "alcoholic",
+        "cocktail"
+
+    ]
+}

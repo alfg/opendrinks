@@ -1,0 +1,49 @@
+{
+  "name": "Dragon Fruit Smoothie",
+  "description": "A healthy fruit smoothie with red dragon fruit, mango and bananas.",
+  "github": "varian97",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "cubed and frozen dragon fruit"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "cubed and frozen mango"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "frozen bananas (cut into quarters)"
+    },
+    {
+      "quantity": "3/4",
+      "measure": "cup",
+      "ingredient": "almond milk"
+    },
+    {
+      "quantity": "2",
+      "measure": "tablespoons",
+      "ingredient": "lime juice"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "scoop",
+      "ingredient": "whey protein powder"
+    },
+    {
+      "quantity": "2 - 4",
+      "measure": "",
+      "ingredient": "ice cubes"
+    }
+  ],
+  "directions": [
+    "Add frozen fruits, milk, lime juice and protein powder to the blender, and blend until very smooth",
+    "Add almond milk as needed to thin out the desired texture"
+  ],
+  "image": "dragon-fruit-smoothie.jpg",
+  "source": "https://sunkissedkitchen.com/dragon-fruit-smoothie/",
+  "keywords": ["dragon fruit", "smoothie", "fruits"]
+}

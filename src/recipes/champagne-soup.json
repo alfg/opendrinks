@@ -1,6 +1,6 @@
 {
     "name": "Champagne Soup",
-    "description": "The Champagne Soup is a French cocktail, varying from the Angevine Soup. This is a recipe for 6 people. Share it!",
+    "description": "The Champagne Soup is a French cocktail, varying from the Angevine Soup. This is a recipe for six people. Share it!",
     "github": "jcolfej",
     "ingredients": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "directions": [
-        "In a very large bowl, combine the lime juice with the Cointreau and the sugar.",
+        "Combine lime juice with the Cointreau and sugar in a very large bowl.",
         "Set aside in the fridge.",
         "Add the Champagne just before serving!"
     ],

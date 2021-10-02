@@ -1,0 +1,54 @@
+{
+    "name": "Rum Old Fashioned",
+    "description": "Give the Old fashioned a little twist with some dark rum. It goes perfectly with the zesty orange to make a deeply-flavoured short cocktail.",
+    "github": "xy2z",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "dark rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "allspice dram"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "demerara syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "angostura bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "orange bitters"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: orange twist"
+        }
+    ],
+    "directions": [
+        "Place a large ice cube into an Old Fashioned glass.",
+        "Add the rum, allspice dram, demerara syrup and both bitters, and stir until well-chilled.",
+        "Garnish with an orange peel."
+    ],
+    "image": "rum-old-fashioned.jpg",
+    "source": "https://www.liquor.com/recipes/rum-old-fashioned/",
+    "keywords": [
+        "cocktail",
+        "rum",
+        "orange"
+    ]
+}

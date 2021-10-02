@@ -1,0 +1,39 @@
+{
+    "name": "Jäger Ginger",
+    "description": "Star of the night, it is drunk iced in shot or long drinks, since 85 years. Its incomparable and slightly bitter taste seduces from Berlin to Tokyo.",
+    "github": "joshuaMart",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Jägermeister"
+        },
+        {
+            "quantity": "1",
+            "measure": "quarter",
+            "ingredient": "Lime wedge"
+        },
+        {
+            "quantity": "1",
+            "measure": "Slice",
+            "ingredient": "Cucumber"
+        },
+        {
+            "quantity": "20",
+            "measure": "cl",
+            "ingredient": "Ginger Beer"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail glass halfway with ice cubes.",
+        "Pour the Jägermeister, squeeze the lime and add the ginger beer.",
+        "Mix and decorate with the cucumber."
+    ],
+    "image": "jager-ginger.jpg",
+    "keywords": [
+        "jägermeister",
+        "cucumber",
+        "lime",
+        "beer"
+    ]
+} 

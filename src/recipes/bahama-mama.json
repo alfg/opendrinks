@@ -1,0 +1,50 @@
+{
+  "name": "Bahama Mama",
+  "description": "A blend of fruit juice and rum create this delicious, tropical cocktail.",
+  "github": "titofrota",
+  "ingredients": [
+      {
+          "quantity": "1/2",
+          "measure": "fluid ounce",
+          "ingredient": "rum"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "fluid ounce",
+          "ingredient": "coconut-flavored rum"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "fluid ounce",
+          "ingredient": "grenadine syrup"
+      },
+      {
+          "quantity": "1",
+          "measure": "fluid ounce",
+          "ingredient": "orange juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "fluid ounce",
+          "ingredient": "pineapple juice"
+      },
+      {
+          "quantity": "1 ",
+          "measure": "cup",
+          "ingredient": "crushed ice"
+      }
+  ],
+  "directions": [
+      "Combine regular rum, rum with coconut flavoring, grenadine, orange juice, pineapple juice and crushed ice in an electric blender. ",
+      "Blend until the drink's consistency is slushy."
+  ],
+  "image": "bahama-mama.jpg",
+  "source": "https://www.allrecipes.com/recipe/17309/bahama-mama/",
+  "keywords": [
+      "rum",
+      "grenadine",
+      "tropical",
+      "alcoholic",
+      "pineapple"
+  ]
+}

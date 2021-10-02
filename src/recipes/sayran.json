@@ -1,0 +1,38 @@
+{
+     "name": "Şayran",
+     "description": "Extremely refreshing salty yogurt and turnip juice mix, can be consumed not only in summer but all the seasons.",
+     "github": "torelafes",
+     "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "yogurt"
+        },
+        {
+            "quantity": "125",
+            "measure": "ml",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "turnip juice"
+        }
+     ],
+     "directions": [
+         "In a blender, combine yogurt, cold water and salt. Blend until combined.",
+         "Pour the turnip juice and keep blending and you're good to go."
+     ],
+     "image": "sayran.jpg",
+     "keywords": [
+         "yogurt",
+         "salt",
+         "refreshing",
+         "traditional"
+     ]
+ }

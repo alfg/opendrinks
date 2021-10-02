@@ -1,6 +1,6 @@
 {
     "name": "Brunswick Cocktail",
-    "description": "Cocktail featuring wine floated over whiskey",
+    "description": "Cocktail featuring wine floated over whiskey.",
     "github": "ajciancimino",
     "ingredients": [
         {
@@ -25,9 +25,9 @@
         }
     ],
     "directions": [
-        "Mix all ingredients but wine and shake w/ ice",
-        "Strain into rocks glass over ice",
-        "Float wine over mixture"
+        "Mix all ingredients but wine and shake w/ ice.",
+        "Strain into rocks glass over ice.",
+        "Float wine over mixture."
     ],
     "image": "brunswick-cocktail.jpg",
     "keywords": [
