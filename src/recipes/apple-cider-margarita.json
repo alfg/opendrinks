@@ -1,0 +1,60 @@
+{
+  "name": "Apple Cider Margarita",
+  "description": "These apple cider margaritas are a seasonal twist on a classic cocktail recipe. Sweetened with maple syrup and garnished with a cinnamon sugar rim, these are perfect for Thanksgiving or another holiday gathering.",
+  "github": "iampk94",
+  "ingredients": [
+    {
+      "quantity": "125",
+      "measure": "ml",
+      "ingredient": "apple cider"
+    },
+    {
+      "quantity": "31",
+      "measure": "ml",
+      "ingredient": "silver tequila"
+    },
+   {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Cointreau or other orange flavored liqueur"
+    },
+    {
+       "quantity": "",
+       "measure": "",
+       "ingredient": "freshly squeezed lime juice"
+     },
+     {
+        "quantity": "1/2",
+        "measure": "tablespoon",
+        "ingredient": "maple syrup"
+      },
+      {
+         "quantity": "1",
+         "measure": "tablespoon",
+         "ingredient": "sugar"
+       },
+       {
+        "quantity": "1/2",
+        "measure": "tablespoon",
+        "ingredient": "cinnamon"
+      },{
+        "quantity": "1/2",
+        "measure": "tablespoon",
+        "ingredient": "salt"
+      }
+  ],
+  "directions": [
+    "Combine sugar, cinnamon, and salt on a small, flat plate.",
+    "Pour a small amount of maple syrup on another small plate.",
+	"Dip the rim of the glass in a bit of maple syrup, then coat into the cinnamon sugar mixture.",
+	"Fill a cocktail shaker halfway with ice.",
+  "Add all ingredients to cocktail shaker and shake vigorously for about 30 seconds.",
+  "Strain into glass and enjoy!"
+  ],
+  "image": "apple-cider-margarita.jpg",
+  "source": "https://www.crowdedkitchen.com/apple-cider-margarita-with-cranberry-maple-simple-syrup/",
+  "keywords": [
+    "cocktails",
+    "apple"
+  ]
+}
