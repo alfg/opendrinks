@@ -2,6 +2,7 @@ import { createLocalVue, shallowMount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import recipes from '@/recipes';
 import RecipeList from '@/components/RecipeList.vue';
 
@@ -15,6 +16,7 @@ describe('RecipeList', () => {
     propsData: { title: 'Open Drinks - Test', items: drinks },
     localVue,
     router,
+    i18n,
   });
 
   test('is a Vue instance', () => {

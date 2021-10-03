@@ -3,6 +3,7 @@ import BootstrapVue from 'bootstrap-vue';
 import VueSocialSharing from 'vue-social-sharing';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import Recipe from '@/components/Recipe.vue';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
 import FavoriteStar from '@/components/FavoriteStar.vue';
@@ -17,6 +18,7 @@ describe('Recipe', () => {
     propsData: { name: 'mango-juice.json' },
     localVue,
     router,
+    i18n,
     stubs: ['router-link'],
   });
 
@@ -41,7 +43,7 @@ describe('Recipe', () => {
 
   it('shows that the drink has been favorited', () => {
     const toolbar = wrapper.find(RecipeToolbar);
-    toolbar.setData({ favorites: ["Mango Juice"] });
+    toolbar.setData({ favorites: ['Mango Juice'] });
     const star = toolbar.find(FavoriteStar);
     const starProps = star.props();
     expect(starProps.isFavorited).toBe(true);

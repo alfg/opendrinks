@@ -1,6 +1,7 @@
 import { createLocalVue, mount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 import Search from '@/views/Search.vue';
+import i18n from '@/i18n';
 
 describe('Search view', () => {
   let fn;
@@ -13,6 +14,7 @@ describe('Search view', () => {
 
     wrapper = mount(Search, {
       localVue,
+      i18n,
       mocks: {
         $router: {
           replace: fn,

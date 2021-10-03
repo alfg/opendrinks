@@ -8,7 +8,7 @@
         :unchecked-value="true"
         @change="onShowImage"
       >
-        Hide Image
+        {{ $t('Hide Image') }}
       </b-form-checkbox>
     </div>
 
@@ -20,15 +20,15 @@
 
     <div class="print-button" v-if="!isMobile">
       <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-        Print
+        {{ $t('Print') }}
       </b-button>
       <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        Print
+        {{ $t('Print') }}
       </b-button>
     </div>
 
     <div class="share-button">
-      <b-dropdown text="Share" variant="outline-primary" right class="m-2">
+      <b-dropdown :text="$t('Share')" variant="outline-primary" right class="m-2">
         <b-dropdown-item>
           <ShareNetwork
             network="facebook"
@@ -37,7 +37,7 @@
             :description="drink.description"
             :hashtags="drink.keywords.join()"
           >
-            Share on Facebook
+            {{ $t('Share on Facebook') }}
           </ShareNetwork>
         </b-dropdown-item>
         <b-dropdown-item>
@@ -48,11 +48,11 @@
             :description="drink.description"
             :hashtags="drink.keywords.join()"
           >
-            Share on Twitter
+            {{ $t('Share on Twitter') }}
           </ShareNetwork>
         </b-dropdown-item>
         <b-dropdown-item @click.prevent="copyUrl">
-          <a href="#">Copy URL</a>
+          <a href="#">{{ $t('Copy URL') }}</a>
         </b-dropdown-item>
       </b-dropdown>
     </div>
@@ -128,3 +128,16 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "ja": {
+    "Print": "印刷",
+    "Share": "共有",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "URLをコピー",
+    "Hide Image": "画像を非表示"
+  }
+}
+</i18n>
