@@ -1,0 +1,37 @@
+{
+    "name": "Beam me up, Scotchie",
+    "description": "A simple Fall cocktail worthy of Scotty himself",
+    "github": "JoeFromDenver",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Glenfiddich Scotch"
+        },
+	{
+            "quantity": "2",
+            "measure": "seeded",
+            "ingredient": "Figs"
+        },
+       {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vanilla liqueur"
+        }
+
+    ],
+    "directions": [
+        "Muddle ingredients",
+        "Strain out fig seeds",
+        "Serve in a cocktail glass over ice",
+        "Garnish with figs",
+    ],
+    "image": "scotchie.jpg",
+    "source": "https://delishably.com/beverages/star-trek-themed-drinks",
+    "keywords": [
+        "scotch",
+        "trek",
+        "figs",
+        "fall"
+    ]
+}
