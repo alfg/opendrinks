@@ -1,0 +1,46 @@
+{
+    "name": "Chai E Zanjafeel",
+    "description": "Afghan ginger tea that is refreshing on hot days or when you feel sick.",
+    "github": "FarbrorGarbo",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "tsp",
+            "ingredient": "Green tea"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "tsp",
+            "ingredient": "Ground ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbs",
+            "ingredient": "Walnuts, very finely chopped or ground"
+        },
+        {
+            "quantity": "3 ½",
+            "measure": "cups",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Bring 3½ cups water to a boil in a pan, then add the tea and sugar. Continue boiling for about 2 minutes, then strain.",
+        "Pour the tea back into the pan and add the ground ginger and walnuts.",
+        "Boil again for about 2 minutes."
+    ],
+    "image": "chai-e-zanjafeel.jpg",
+    "source": "http://www.afghankitchenrecipes.com/recipe/chai-e-zanjafeel-ginger-tea/",
+    "keywords": [
+        "afghan",
+        "ginger",
+        "tea",
+        "refreshing",
+        "non-alcoholic"
+    ]
+}
