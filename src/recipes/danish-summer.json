@@ -1,0 +1,34 @@
+{
+    "name": "Danish Summer",
+    "description": "A pure and refreshing taste of strawberry and rhubarb leaves you think of summertime.",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Råstoff Strawberry-Rhubarb"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "freshly squeezed lime"
+        }
+    ],
+    "directions": [
+        "Pour Råstoff Strawberry-Rhubarb over ice and top with Sprite.",
+        "Then add freshly squeezed lime and decorate with a rosemary twig.",
+        "Sweet and lovely like a warm summer’s day."
+    ],
+    "image": "danish-summer.jpg",
+    "keywords": [
+        "strawberry",
+        "rhubarb",
+        "sprite",
+        "lime"
+	]
+}
