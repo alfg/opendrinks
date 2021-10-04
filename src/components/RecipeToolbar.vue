@@ -18,14 +18,6 @@
       :isFavorited="isFavorited"
     ></FavoriteStar>
 
-    <div class="mx-1 print-button" v-if="!isMobile">
-      <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-        {{ $t('Print') }}
-      </b-button>
-      <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        {{ $t('Print') }}
-      </b-button>
-    </div>
     <ShareNetwork
       network="facebook"
       :url="url"
@@ -53,6 +45,15 @@
       @click="copyUrl"
     >
     </BIconFiles>
+
+    <div class="mx-1 theme-link-color cursor-pointer clickable-icon-hover" v-if="!isMobile">
+      <BIconPrinter :fontScale="2" v-if="isPrint" variant="outline-primary" @click="print()"></BIconPrinter>
+      
+      <a v-else :href="`/recipe/${name}/print`" target="_blank">
+        <BIconPrinter :fontScale="2"  variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
+        </BIconPrinter>
+      </a>
+    </div>
 
     <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
       {{ $t('The link to this page is copied in your clipboard') }}
