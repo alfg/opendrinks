@@ -1,0 +1,56 @@
+{
+    "name": "Galack Colada",
+    "description": "Drink inspired by Nestle white chocolate.",
+    "github": "Kouthk",
+    "ingredients": [
+        {
+            "quantity": "1 or more",
+            "measure": "Cup",
+            "ingredient": "Ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "little bottle",
+            "ingredient": "Galack"
+        },
+        {
+            "quantity": "3",
+            "measure": "Tablespoon",
+            "ingredient": "Pineapple juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "Tablespoon",
+            "ingredient": "Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "Coconut milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "Malibu"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "sweetened condensed milk"
+        }
+       
+    ],
+    "directions": [
+        "Blend Galack, pineapple juice, rum, coconut milk, and Malibu in a blender until smooth.",
+        "Pour into a glass along with 500ml  condensed milk on the edge",
+        "Serve with a cherry and pineapple triangle on the edge, and a white chocolate bar in the glass."
+    ],
+    "image": "galack-colada.jpg",
+    "keywords": [
+        "galack",
+        "pineapple juice",
+        "alcoholic",
+        "rum",
+        "Malibu"
+    ]
+}

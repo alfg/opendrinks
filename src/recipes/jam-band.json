@@ -1,0 +1,56 @@
+{
+    "name": "Jam Band",
+    "description": "A delightfully botanical gin cocktail.",
+    "github": "eluthern",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "teaspoon",
+            "ingredient": "tart cherry juice/preserves"
+        },
+        {
+            "quantity": "2",
+            "measure": "dash",
+            "ingredient": "orange bitters"
+        },
+        {
+            "quantity": "5",
+            "measure": "leaves",
+            "ingredient": "mint"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "club soda"
+        }
+    ],
+    "directions": [
+        "Add all ingredients except club soda to shaker with ice.",
+        "Shake well, strain into glass filled with ice.",
+        "Top with club soda and garnish with mint."
+    ],
+    "image": "jam-band.jpg",
+    "source": "https://www.cardinalspirits.com/thedrop/jam-band-cocktail-recipe",
+    "keywords": [
+        "alcoholic",
+        "gin",
+        "mint",
+        "vegan",
+        "carbonated"
+    ]
+}

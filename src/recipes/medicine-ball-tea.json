@@ -1,0 +1,46 @@
+{
+    "name": "Medicine Ball Tea",
+    "description": "Perfect for when a cold strikes!",
+    "github": "elliecodestheweb",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "hot water"
+        },
+        {
+            "quantity": "1",
+            "measure": "teabag",
+            "ingredient": "mint tea"
+        },
+        {
+            "quantity": "1",
+            "measure": "teabag",
+            "ingredient": "green tea"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "honey"
+        },
+        {
+            "quantity": "1",
+            "measure": "half",
+            "ingredient": "lemon"
+        }
+    ],
+    "directions": [
+        "Warm the water to near boil.",
+        "Steep both the mint tea and green tea in the hot water.",
+        "Squeeze lemon into the tea.",
+        "Add honey to taste."
+    ],
+    "image": "medicine-ball-tea.jpg",
+    "keywords": [
+        "tea",
+        "non-alcoholic",
+        "sweet",
+        "soothing",
+        "vegan"
+    ]
+}

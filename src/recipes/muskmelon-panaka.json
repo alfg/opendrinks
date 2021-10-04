@@ -1,0 +1,49 @@
+{
+    "name": "Muskmelon Panaka",
+    "description": "A tasy Ayurvedic summer cooler made using muskmelon,jaggery and green cardamom",
+    "github": "Amit-Anveri",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Chopped muskmelon"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "6",
+            "measure": "tablespoon",
+            "ingredient": "powdered jaggery"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "cardamom powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "lime juice"
+        }
+    ],
+    "directions": [
+        "In a blender add half of  the chopped muskmelon and the powdered jaggery",
+        "Blend the mixture until it's completely mashed",
+        "Add cold water, lime juice and cardamom powder",
+        "Blend the mixture again till everything gets mixed",
+        "Water and jaggery can be adjusted based on personal preference",
+        "Strain the blended mixture into a jar and add the remaining half of chopped muskmelon",
+        "Serve chilled"
+    ],
+    "image": "muskmelon-panaka.jpg",
+    "keywords": [
+        "Summer",
+        "Ayurvedic",
+        "chilled",
+        "refreshing",
+        "Non-alcoholic"
+    ]
+}

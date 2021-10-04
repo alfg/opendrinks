@@ -1,0 +1,37 @@
+{
+    "name": "Frosé",
+    "description": "Frose is frozen rosé wine. it’s a mashup between a frozen cocktail and that quintessential summer wine.",
+    "github": "kevtrng",
+    "ingredients": [
+        {
+            "quantity": "750",
+            "measure": "mL",
+            "ingredient": "Rose Wine"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "cups",
+            "ingredient": "ripe strawberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+        "Open the rosé and pour 2/3 cup into a glass measuring cup; set aside for when serving.",
+        "Remove the tops of the strawberries and cut them in half.",
+        "In a blender, blend the remaining rose, strawberries, and honey until smooth and fully combined. Then pour the mixture through a strainer and into a covered baking dish.",
+        "Transfer the baking dish to the freezer and freeze at least 6 hours, or overnight. (The alcohol in the mixture will keep it a slushy texture instead of freezing solid.) Blend the mixture again until it comes to a fluffy texture.",
+        "To serve, place the blended mixture into a glass. Then pour a splash of rose into each glass (this step is important: it gives the final texture and brings in the character of the rose). If desired, garnish with strawberries and serve."
+    ],
+    "image": "frose.jpg",
+    "keywords": [
+        "cold",
+        "alcholic",
+        "frose",
+        "rose",
+        "refreshing"
+    ]
+}

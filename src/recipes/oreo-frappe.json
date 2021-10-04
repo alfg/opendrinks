@@ -1,0 +1,55 @@
+{
+    "name": "Oreo Frappe",
+    "description": "Oreo Frappuchino is a type of cold coffee loaded with the chunks of Oreo Cookies along with ice cream, milk, coffee, and chocolate syrup.",
+    "github": "AritriBasu",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Full-fat milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "scoops",
+            "ingredient": "Vanilla ice-cream"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Instant coffee powder"
+        },
+        {
+            "quantity": "10-12",
+            "measure": "",
+            "ingredient": "Ice-cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Chocolate chips"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Chocolate sauce"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Whipping cream"
+        }
+    ],
+    "directions": [
+        "Add all the above ingredients except the whipping cream in a blender.",
+        "Blend for 20 to 25 seconds or until all of it forms a thick paste.",
+        "Pour into a glass and top it up with some whipping cream using a piping bag.",
+        "Add some crushed Oreos and chocolate sauce on top.",
+        "Serve immediately!"
+    ],
+    "image": "oreo-frappe.jpg",
+    "source": "https://www.funfoodfrolic.com/oreo-frappe/",
+    "keywords": [
+        "oreo",
+        "frappachino"
+    ]
+}

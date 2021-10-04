@@ -1,0 +1,56 @@
+:root {
+	--switch-toggle-size: 1.25rem;
+	--switch-w: 3em;
+	--switch-h: 1.5em;
+	--switch-handle-scale: 0.65;
+	--switch-off-handle-x: -0.125em;
+	--switch-on-handle-x: calc(100% - 0.125em);
+  --switch-transition-duration: 0.2s;
+}
+
+#theme-toggle {
+	display: none;
+}
+
+#theme-toggle+label {
+	font-size: var(--switch-toggle-size);
+	display: flex;
+	height: var(--switch-h);
+	width: var(--switch-w);
+	border-radius: calc(var(--switch-h) / 2);
+	background-size: auto 8em;
+	background-position: bottom;
+	background-color: rgb(236, 236, 236);
+	transition: var(--switch-transition-duration);
+	border: .125em solid hsl(207, 30%, 95%);
+	overflow: hidden;
+
+	cursor: pointer;
+}
+
+#theme-toggle+label span {
+
+	background: #fffad8;
+	border-radius: 50%;
+	height: var(--switch-h);
+	width: var(--switch-h);
+	transform: translateX(var(--switch-off-handle-x)) scale(var(--switch-handle-scale));
+	transition: var(--switch-transition-duration);
+	cursor: pointer;
+	margin-top: var(--switch-off-handle-x);
+	box-shadow: 0 0 .25em .0625em #fbee8d, 0 0 2em 0 #FFEB3B, inset -.25em -.25em 0 0 #fbee8e, inset -.3125em -.3125em 0 .625em #fff5b2;
+
+}
+
+
+#theme-toggle:checked+label {
+	background-color: black;
+	border-color: hsl(207, 30%, 50%);
+}
+
+#theme-toggle:checked+label span {
+	background: transparent;
+	transform: translateX(var(--switch-on-handle-x)) scale(var(--switch-handle-scale));
+	box-shadow: inset -.1875em -.1875em 0 0 #fbe7ef, inset -.5625em -.5625em 0 0 #fffff7;
+	box-shadow: inset -.1875em -.1875em 0 0 #fbe7ef, inset -.5625em -.5625em 0 0 #fffff7;
+}

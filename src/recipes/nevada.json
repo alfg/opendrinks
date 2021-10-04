@@ -1,0 +1,41 @@
+{
+    "name": "Nevada (Snowy Cocktail)",
+    "description": "Nevada is a vodka-based alcoholic beverage. Usually you drink it for the first time when you're a teenager.",
+    "github": "annemacena",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "To your taste",
+            "measure": "",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Condensed milk"
+        },
+        {
+            "quantity": "To your taste",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "In a blender put the crushed ice, squeeze the lemon, add the condensed milk and vodka",
+        "Stir well until it looks like snow.",
+        "Serve it. Don't get drunk too fast."
+    ],
+    "image": "nevada.jpg",
+    "keywords": [
+        "alcoholic",
+        "vodka",
+        "brazil",
+        "lemon",
+        "condensed milk",
+        "nostalgia"
+    ]
+}

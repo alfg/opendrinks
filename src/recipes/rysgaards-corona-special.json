@@ -1,0 +1,39 @@
+{
+    "name": "Rysgaard's Corona Special",
+    "description": "A drink for drinking alone in your apartment when quarantined.",
+    "github": "Crowton",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cL",
+            "ingredient": "Cheap Whiskey"
+        },
+        {
+            "quantity": "33",
+            "measure": "cL",
+            "ingredient": "Soda with sport taste"
+        },
+        {
+            "quantity": "1",
+            "measure": "cL",
+            "ingredient": "Old Danish"
+        },
+        {
+            "quantity": "3",
+            "measure": "drops",
+            "ingredient": "Dark coloring for sauce"
+        }
+    ],
+    "directions": [
+        "Mix the whiskey, soda and Old Danish",
+        "Observe the discusting color. Fix with the sauce coloring",
+        "Stir the drink counterclockwise until you feel better inside",
+        "If there is too much alcohol in the drink, you can always cry in it, to lower the percentage"
+    ],
+    "image": "rysgaards-corona-special.jpg",
+    "keywords": [
+        "whiskey",
+        "corona",
+        "old danish"
+    ]
+}

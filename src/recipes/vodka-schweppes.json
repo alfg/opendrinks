@@ -1,0 +1,27 @@
+{
+    "name": "Vodka Schweppes",
+    "description": "Simple sweet drink that you can take wherever you are in your own local style.",
+    "github": "brucremo",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "cup",
+            "ingredient": "Schweppes of your preferred taste, I like the Citrus found in Brazil but you can use other flavors"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        }
+    ],
+    "directions": [
+        "Mix the vodka and the soda in the cup, preferably adding the vodka first so it blends well and that's it! Your homemade Smirnoff Ice aka Vodka Schweppes."
+    ],
+    "image": "vodka-schweppes.jpg",
+    "keywords": [
+        "summer",
+        "schweppes",
+        "vodka",
+        "sweet"
+    ]
+}

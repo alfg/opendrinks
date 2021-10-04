@@ -1,0 +1,40 @@
+{
+    "name": "Angevine Soup",
+    "description": "The Angevine Soup is a French cocktail, typical of Anjou. This is a recipe for 6 people. Share it!",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "75",
+            "measure": "cl",
+            "ingredient": "Crémant de Loire"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "sugar cane syrup"
+        }
+    ],
+    "directions": [
+        "Combine the lime juice with the Cointreau and the sugar in a very large bowl.",
+        "Set aside in the fridge.",
+        "Add the chilled Crémant just before serving!"
+    ],
+    "image": "angevine-soup.jpg",
+    "keywords": [
+        "cremant",
+        "cointreau",
+        "lime juice",
+        "angevin",
+        "anjou"
+	]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Jammy Dodger Shot",
+    "description": "The Jammy Dodger is the best-tasting shot that will ever grace your mouth. You won't be grimacing when you knock this one back!",
+    "github": "CalumChamberlain",
+    "ingredients": [
+        {
+            "quantity": "3 quarters",
+            "measure": "shot",
+            "ingredient": "Chambord (blackberry liquor)"
+        },
+        {
+            "quantity": "1 quarter",
+            "measure": "shot",
+            "ingredient": "double cream"
+        },
+        {
+            "quantity": "half",
+            "measure": "tsp",
+            "ingredient": "sugar"
+        }
+    ],
+    "directions": [
+        "Fill the shot glass 3 quarters full with Chambord",
+        "Top up the shot with cream",
+        "Sprinkle a little sugar on top, knock it back and enjoy!"
+    ],
+    "image": "jammy-dodger-shot.jpg",
+    "keywords": [
+        "jammy dodger",
+        "shot",
+        "blackberry"
+    ]
+}

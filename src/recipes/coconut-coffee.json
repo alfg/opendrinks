@@ -1,0 +1,58 @@
+{
+    "name": "Coconut Coffee",
+    "description": "A new Hanoian specialty, where the creaminess of coconut mix perfectly well with the bitter taste of espresso",
+    "github": "antran22",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "Espresso"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Coconut Milk"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Condensed Milk"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Whipping Cream"
+        },
+        {
+            "quantity": "20",
+            "measure": "gram",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Coconut Ice Cream (optional)"
+        },
+        {
+            "quantity": "10",
+            "measure": "gram",
+            "ingredient": "Coconut Flesh (optional)"
+        }
+    ],
+    "directions": [
+        "Prepare one shot of espresso. If you can't get espresso, drip brewed coffee works fine but the taste won't be as robust.",
+        "Mix the coconut milk, condensed milk, whipping cream, ice together in a blender.",
+        "Put the coconut mixture into a glass cup, pour the espresso over.",
+        "Garnish with the ice cream scoop or the coconut flesh.",
+        "This drink tastes best on a hot day."
+    ],
+    "image": "coconut-coffee.jpg",
+    "keywords": [
+        "coffee",
+        "coconut",
+        "cream",
+        "cold",
+        "non-alcoholic",
+        "organic"
+    ]
+}

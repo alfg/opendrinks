@@ -1,0 +1,48 @@
+{
+  "name": "Screamsicle",
+  "description": "With a mix of Whipped Cream Vodka, Orange Vodka, Orange juice and cream, you can be sure these boozy Halloween treats will work perfectly for your little haunted parties.",
+  "github": "speex404",
+  "ingredients": [
+    {
+      "quantity": "1 1/2",
+      "measure": "oz",
+      "ingredient": "Whipped Cream Vodka"
+    },
+    {
+      "quantity": "1 1/2",
+      "measure": "oz",
+      "ingredient": "Orange Vodka"
+    },
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "Orange Juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "Spash",
+      "ingredient": "Cream"
+    },
+    {
+      "quantity": "1",
+      "measure": "Splash",
+      "ingredient": "Grenadine"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Black Sugar"
+    }
+  ],
+  "directions": [
+    "Rim edge of glass with black sugar and set aside.",
+    "In an ice filled glass add whipped cream vodka, orange vodka and orange juice. Shake well.",
+    "Strain mix over crushed ice into rimmed glass and add a splash of grenadine, cream and a marshmallow ghost garnish."
+  ],
+  "image": "screamsicle.jpg",
+  "source": "https://tipsybartender.com/recipe/screamsicle/",
+  "keywords": [
+    "halloween",
+    "vodka"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Godchild",
+    "description": "The Godchild, which is classified as a dessert cocktail, is perfect for novices as it is simple to make and smooth and easy to drink. This is a variation of the classic Godfather cocktail, which is a mix of Scotch whisky and Amaretto and was named after Marlon Brando, who had a penchant for this drink and was obviously best known for is role as the head of a mafia family in The Godfather movies. If you fancy something a little more adventurous, you can pour the Godchild cocktail over a bowl of vanilla ice cream, for a boozy dessert.",
+    "github": "cagoncil",
+    "ingredients": [
+        {
+            "quantity": "35",
+            "measure": "ml",
+            "ingredient": "Amaretto"
+        },
+        {
+            "quantity": "35",
+            "measure": "ml",
+            "ingredient": "Heavy Cream"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Ice Cubes"
+        }
+    ],
+    "directions": [
+        "Pour both ingredients directly into Old-Fashioned glass filled with ice cubes."
+    ],
+    "image": "godchild.jpg",
+    "source": "https://www.socialandcocktail.co.uk/cocktails/godchild/",
+    "keywords": [
+        "amaretto",
+        "cream",
+        "alcoholic",
+        "cocktail"
+    ]
+}

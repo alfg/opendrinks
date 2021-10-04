@@ -1,0 +1,40 @@
+{
+    "name": "Happy Soda",
+    "description": "Soda gembira (literally, happy soda) is a popular mocktail made with soda water, coco pandan syrup, sweetened condensed milk, and crushed/shaved ice.",
+    "github": "tomorisakura",
+    "ingredients": [
+        {
+            "quantity": "330",
+            "measure": "ml",
+            "ingredient": "Chilled Soda Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Sweetened Condensed Milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Cocopandan Syrup"
+        },
+        {
+            "quantity": "66",
+            "measure": "gr",
+            "ingredient": "Ice Cubes"
+        }
+
+        
+    ],
+    "directions": [
+        "Stir together soda water, sweet condensed milk, and coco pandan syrup in a glass.",
+        "Serve immediately with crushed/shaved ice or ice cubes."
+    ],
+    "image": "happy-soda.jpg",
+    "source": "https://dailycookingquest.com/soda-gembira-happy-soda.html",
+    "keywords": [
+        "soda",
+        "syrup",
+        "non-alcoholic"
+    ]
+}

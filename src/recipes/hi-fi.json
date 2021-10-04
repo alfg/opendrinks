@@ -1,0 +1,36 @@
+{
+    "name": "Hi-Fi",
+    "description": "The Hi Fi is a simple and enjoyable drink. It is a fabulous marriage of vodka with a fizzy orange soda.",
+    "github": "anacdf",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "Top up",
+            "measure": "cup",
+            "ingredient": "Orange Soda"
+        },
+        {
+            "quantity": "a lot",
+            "measure": "cubes",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Fill an Old Fashioned glass with ice.",
+        "Pour in vodka.",
+        "Top up with orange soda.",
+        "Garnish with half orange wheel."
+    ],
+    "image": "hi-fi.jpg",
+    "source": "http://www.cocktailhunter.com/recipe/hi-fi-lowball/",
+    "keywords": [
+        "orange soda",
+        "vodka",
+        "hi-fi",
+        "vegan"
+    ]
+}

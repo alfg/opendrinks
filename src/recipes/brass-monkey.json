@@ -1,0 +1,36 @@
+{
+    "name": "Brass Monkey",
+    "description": "",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "rum (preferably dark)"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "orange juice"
+        }
+    ],
+    "directions": [
+		"Shake with ice.",
+		"Strain into a highball glass with ice."
+    ],
+    "image": "brass-monkey.jpg",
+        "keywords": [
+		"vodka",
+        "rum",
+		"dark rum",
+		"orange juice",
+		"alcoholic"
+        ]
+    
+}

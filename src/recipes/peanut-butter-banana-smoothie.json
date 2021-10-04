@@ -1,0 +1,46 @@
+{
+  "name": "Peanut Butter Banana Smoothie",
+  "description": "An easy-to-make smoothie with peanut butter and banana that makes you feel energized and refreshed.",
+  "github": "binhthaitrinh",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "Bananas"
+    },
+    {
+      "quantity": "2",
+      "measure": "cup",
+      "ingredient": "Milk"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "Peanut butter"
+    },
+    {
+      "quantity": "2",
+      "measure": "tablespoons",
+      "ingredient": "Honey"
+    },
+    {
+      "quantity": "2",
+      "measure": "cup",
+      "ingredient": "Ice cubes"
+    }
+  ],
+  "directions": [
+    "Cut bananas into chunks.",
+    "Place bananas, milk, peanut butter, honey and ice cubs in a blender.",
+    "Blend until smooth (about 30 seconds)."
+  ],
+  "image": "peanut-butter-banana-smoothie.jpg",
+  "source": "https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/",
+  "keywords": [
+      "smoothie", 
+      "banana", 
+      "honey",
+      "milk",
+      "peanut butter", 
+      "easy"]
+}

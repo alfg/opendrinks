@@ -3,15 +3,40 @@
     "description": "Voted best national drink in 1978 in Puerto Rico.",
     "github": "joshuamart",
     "ingredients": [
-        "1.5 oz white rum",
-        "0.5 fl oz amber rum ",
-        "4 oz pineapple juice",
-        "1.5 oz coconut milk",
-        "5 or 6 ice cubes"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "white rum"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "fl oz",
+            "ingredient": "amber rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "5 or 6",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
     ],
     "directions": [
-        "In a blender, pour the ingredients with 5 or 6 ice cubes and mix everything.",
+        "Pour the ingredients with 5 or 6 ice cubes in a blender and mix everything.",
         "Decorate with a piece of pineapple and a candied cherry."
     ],
-    "image": "pina-colada.jpg"
+    "image": "pina-colada.jpg",
+    "keywords": [
+        "rum",
+        "pineapple juice",
+        "milk"
+    ]
 }

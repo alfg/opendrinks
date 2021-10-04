@@ -1,0 +1,70 @@
+{
+    "name": "French Sangria",
+    "description": "A refreshing summer Sangria recipe with fruity and herbal notes.",
+    "github": "joshuaMart",
+    "ingredients": [
+        {
+            "quantity": "750",
+            "measure": "ml",
+            "ingredient": "Red wine"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Brandy"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Simple syrup"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "/",
+            "ingredient": "Orange"
+        },
+        {
+            "quantity": "1",
+            "measure": "/",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "/",
+            "ingredient": "Peach / nectarine / other seasonal fruits thinly sliced"
+        },
+        {
+            "quantity": "1",
+            "measure": "/",
+            "ingredient": "Provençale blend"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Lemon soda"
+        }
+    ],
+    "directions": [
+        "Cut the orange and lemon into thin slices.",
+        "Combine all ingredients in a container except soda; leave aside a few slices of fruit for garnish",
+        "Strain to serve in a Punch Bowl or large glass pitcher.",
+        "Add ice & remaining fruit as garnish, top with the soda.",
+        "Garnish: Fruit from mix or freshly sliced, on and/or in each glass"
+    ],
+    "image": "french-sangria.jpg",
+    "keywords": [
+        "sangria",
+        "french",
+        "lime",
+        "orange",
+        "brandy",
+        "fruits",
+        "brandy",
+        "wine"
+    ]
+} 

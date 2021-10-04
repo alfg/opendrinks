@@ -3,15 +3,34 @@
     "description": "Besides being rich in carbohydrates, corn also has many benefits such as increasing endurance to prevent heart disease and anemia. Therefore this menu is a recommendation to be given to toddlers.",
     "github": "coroo",
     "ingredients": [
-      "4 sweet corn",
-      "Sugar as needed",
-      "Salt as needed"
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "sweet corn"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar as needed"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Salt as needed"
+        }
     ],
     "directions": [
-      "Boil sweet corn until cooked (set aside the boiled water and do not throw it away).",
-      "Sweet corn stew using a knife.",
-      "Blender sweet corn that has been smeared with sweet corn boiled water according to taste."
+        "Boil sweet corn until cooked (set aside the boiled water and do not throw it away).",
+        "Sweet corn stew using a knife.",
+        "Blender sweet corn that has been smeared with sweet corn boiled water according to taste."
     ],
-    "image": "corn-juice.jpg"
-  }
-  
+    "image": "corn-juice.jpg",
+    "keywords": [
+        "corn",
+        "vegan",
+        "sugar",
+        "salt",
+        "non-alcoholic",
+        "vegan"
+        ]
+}

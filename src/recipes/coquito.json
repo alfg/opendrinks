@@ -1,0 +1,90 @@
+{
+    "name": "Coquito",
+    "description": "Traditional Christmas drink that originated in Puerto Rico.",
+    "github": "JavaVista",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "teaspoon",
+            "ingredient": "cloves"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "nutmeg"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cinnamon sticks for garnishing"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "cups",
+            "ingredient": "dark spiced rum (to give it good flavor) or white rum (adjust to taste, may be omitted)"
+        },
+        {
+            "quantity": "1",
+            "measure": "15 oz",
+            "ingredient": "coconut cream (Coco Lopez)"
+        },
+        {
+            "quantity": "1",
+            "measure": "13.5 oz",
+            "ingredient": "coconut milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "14 oz",
+            "ingredient": "sweetened condensed milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "12 oz",
+            "ingredient": "evaporated milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "whole",
+            "ingredient": "star anise (optional)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "water (optional)"
+        }
+    ],
+    "directions": [
+        "(Optional) In a small pot, add water and anise. Gently boil for 2-3 minutes. Let it cool completely, remove the anise from the water.",
+        "In a blender, add all of the ingredients. If you omit the rum, you might want to add a little water to cut some of the sweetness. (Depending on size of the blender, you may have to do this in batches.)",
+        "Pour into old rum bottles or any liquor bottles or place in a sealed container and then refrigerate. Refrigerate for at least an hour or two before serving.",
+        "Garnish with ground cinnamon and cinnamon sticks, if desired"
+    ],
+    "image": "coquito.jpg",
+    "keywords": [
+        "rum",
+        "traditional",
+        "holiday",
+        "dark rum",
+        "white rum",
+        "cocunut milk",
+        "condensed milk",
+        "coconut cream",
+        "evaporated milk",
+        "nutmeg",
+        "cinnamon",
+        "clove",
+        "salt",
+        "water"
+    ]
+}

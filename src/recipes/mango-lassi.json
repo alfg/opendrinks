@@ -3,10 +3,26 @@
     "description": "This recipe comes from the cookbook author Madhur Jaffrey, who said, 'Mangoes are supposed to be good for the eyes.'",
     "github": "parammittal16",
     "ingredients": [
-        "One cup plain yogurt",
-        "Three-fourth tablespoon sugar",
-        "One-Fourth cup fresh or canned mango pulp",
-        "Three-fourth tablespoon sugar"
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Plain Yogurt"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "tablespoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Fresh or canned Mango pulp"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "Cardamom seeds"
+        }
     ],
     "directions": [
         "Place all ingredients in a blender and puree until smooth.",
@@ -14,5 +30,12 @@
         "Garnish with a pinch of ground cardamom seeds.",
         "A few extra ice cubes may be added when serving."
     ],
-    "image": "mango-lassi.jpg"
+    "image": "mango-lassi.jpg",
+    "keywords": [
+        "yogurt",
+        "sugar",
+        "non-alcoholic",
+        "smoothie",
+        "cold"
+    ]
 }

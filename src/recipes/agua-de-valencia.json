@@ -1,0 +1,46 @@
+{
+    "name": "Agua de valencia",
+    "description": "One of the traditional cocktails of Valencia",
+    "github": "reyesbalejandroe",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "fresh-squeezed Valencia orange juice"
+        },
+        {
+            "quantity": "300",
+            "measure": "ml",
+            "ingredient": "cava (or champagne)"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "spoon",
+            "ingredient": "sugar"
+        }
+    ],
+    "directions": [
+        "Start by making fresh-squeezed orange juice (if you can find Valencia oranges, all the better). It may be a bit labor intensive, but trust me, you will taste the difference! Fresh-squeezed orange juice has a much lighter, fresher taste that will make your Agua de Valencia super refreshing. In Spain, many grocery stores have orange juice machines where you can simply press a button to get a liter of Valencia’s famous orange juice. Taste your orange juice and take note of its sweetness. If its on the bitter side, you may need to add some sugar.",
+        "Pour all the liquid ingredients in your pitcher. Mix together and taste. If you used a bitter cava or type of champagne, this will also affect how much sugar needs to be added. Agua de Valencia is not meant to be a super sugary drink, but it isn’t meant to be bitter either!",
+        "Grab a couple of large wine glasses and pour your fresh Spanish cocktail over ice. Chop a few orange slices and add them as a garnish. Clink your glasses, say “¡Salud!” and enjoy!"
+    ],
+    "image": "agua-de-valencia.jpg",
+    "source":"https://gogoespana.com/en/blog/agua-de-valencia/",
+    "keywords": [
+        "alcoholic",
+        "fruit",
+        "vegan",
+        "orange",
+        "vodka"
+    ]
+}

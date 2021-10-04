@@ -1,0 +1,41 @@
+{
+    "name": "Citrus Martini",
+    "description": "This citrus martini uses triple sec, flavored vodka, and fresh squeezed citrus juice from your very own fruit bowl to make a delicious martini!",
+    "github": "lgomesp",
+    "ingredients": [{
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Absolut Citron"
+        },
+        {
+            "quantity": "1⁄2",
+            "measure": "oz",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "1⁄4",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "1⁄2",
+            "measure": "oz",
+            "ingredient": "Triple Sec"
+        }
+    ],
+    "directions": [
+        "Fill a shaker with ice cubes.",
+        "Add all ingredients.",
+        "Shake and strain into a cocktail glass.",
+        "You can garnish with lemon zest."
+    ],
+    "image": "citrus-martini.jpg",
+    "source": "https://www.absolutdrinks.com/en/drinks/citrus-martini/",
+    "keywords": [
+        "alcoholic",
+        "martini",
+        "citrus",
+        "vodka",
+        "juice"
+    ]
+}

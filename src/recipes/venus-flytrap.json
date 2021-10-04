@@ -1,0 +1,69 @@
+{
+    "name": "Venus Flytrap",
+    "description": "The Venus Flytrip is a delicious sweet but not too sweet gin drink. It's very summer, but also somehow very holiday.",
+    "github": "kristina-hager",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "crushed ice"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin infused with kefir lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Falernum (West Indies lime based sweetener)"
+        },
+        {
+            "quantity": ".5",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": ".5",
+            "measure": "oz",
+            "ingredient": "soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "angostura bitters"
+        },
+        {
+            "quantity": "3",
+            "measure": "dash",
+            "ingredient": "absinthe"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "nutmeg"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "kefir lime leaf"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "wedge of lime"
+        }
+    ],
+    "directions": [
+        "To make the gin infusion: blend the gin with keffir lime leaves. Combine 1 double kefir lime leaf per 2oz gin.",
+        "Strain the result through a cheesecloth and retain infused gin.",
+        "Combine infused gin, other liquid ingredients, and crushed ice with a blender.",
+        "Serve in a fancy glass with lime slice, keffir leaf and dash of nutmeg as garnish."
+    ],
+    "image": "venus-flytrap.jpg",
+    "keywords": [
+        "alcoholic",
+        "gin",
+        "bitters"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Mezcal with grapefruit and jalapeno pepper",
+    "description": "To make a toast with friends, we don't need excuses, just a delicious and unique drink to celebrate in any moment.",
+    "github": "ferdox2",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "Oz",
+            "ingredient": "Mezcal"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Cup",
+            "ingredient": "Grapefruit Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "Teaspoon",
+            "ingredient": "Syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Jalapeno pepper in slices"
+        },
+        {
+            "quantity": "8",
+            "measure": "",
+            "ingredient": "Little coriander branches"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Cup",
+            "ingredient": "Tonic Water"
+        }
+    ],
+    "directions": [
+        "In a shaker put some ice with the mezcal, syrup, jalapeno slices, grapefruit juice and coriander and shake it.",
+        "Serve in glasses and add some ice and tonic water."
+    ],
+    "image": "mezcal-with-jalapeno-pepper.jpg",
+    "keywords": [
+        "mezcal",
+        "jalapeno",
+        "pepper",
+        "spicy",
+        "cocktail"
+    ]
+}

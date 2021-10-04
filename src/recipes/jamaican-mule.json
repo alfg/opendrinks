@@ -1,0 +1,56 @@
+{
+    "name": "Jamaican mule",
+    "description": "A long, rum-based drink with spicy ginger and lime.",
+    "github": "lucasmartinelle",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "brown rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "Ginger beer"
+        },
+        {
+            "quantity": "35",
+            "measure": "g",
+            "ingredient": "Cucumber"
+        },
+        {
+            "quantity": "40",
+            "measure": "g",
+            "ingredient": "Ginger root"
+        },
+        {
+            "quantity": "320",
+            "measure": "g",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Completely fill an Old Fashioned glass with ice cubes.",
+        "Place six slices of ginger root in a centrifuge and extract the juice.",
+        "Place four slices of cucumber in a shaker and crush with a pestle.",
+        "Add one cl of lime juice, 1.5 cl of ginger juice and six cl of brown rum.",
+        "Fill the shaker with ice cubes and shake.",
+        "Chinese in the Old Fashioned glass",
+        "Fill with ginger beer and mix gently.",
+        "Decorate with a slice of ginger and cucumber slices."
+    ],
+    "image": "jamaican-mule.jpg",
+    "keywords": [
+        "strong",
+        "sour",
+        "spicy",
+        "ginger",
+        "cucumber",
+        "rum"
+    ]
+}

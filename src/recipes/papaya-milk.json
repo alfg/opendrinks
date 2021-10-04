@@ -1,0 +1,35 @@
+{
+    "name": "Papaya Milk",
+    "description": "One of the most popular drink in Taiwan. The combination of tropical fruit and milk brings you back to the most memorable Summer in your childhood.",
+    "github": "yuanLeeMidori",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ripe papaya"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "table spoon",
+            "ingredient": "Sweetened condensed milk or honey (optional)"
+        }
+    ],
+    "directions": [
+        "Blend papaya cubes along with milk.",
+        "Add sweetened condensed milk and/or honey to the papaya milk and blend it again if it's not sweet enough.",
+        "Enjoy!"
+    ],
+    "image": "papaya-milk.jpg",
+    "keywords": [
+        "Taiwan",
+        "tropical",
+        "fruit smoothie",
+        "Summer",
+        "non-alcoholic"
+    ]
+}

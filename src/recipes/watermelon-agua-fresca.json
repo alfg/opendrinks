@@ -1,0 +1,44 @@
+{
+    "name": "Watermelon Agua Fresca",
+    "description": "This is a drink served throughout Mexico. It is made with several different fruits. This is a watermelon drink.",
+    "github": "ansidev",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cups",
+            "ingredient": "cubed seeded watermelon"
+        },
+        {
+            "quantity": "½",
+            "measure": "cup",
+            "ingredient": "white sugar, or to taste"
+        },
+        {
+            "quantity": "½",
+            "measure": "slimes",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "24",
+            "measure": "",
+            "ingredient": "fresh mint leaves"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Puree the watermelon and water in a blender until smooth.",
+        "Add sugar to taste. Cut the lime slices in half.",
+        "Place a half lime slice into each of 8 glasses along with 3 mint leaves.",
+        "Crush with a cocktail muddler, then fill each glass with ice. Pour in the watermelon agua fresca, and stir before serving."
+    ],
+    "image": "watermelon-agua-fresca.jpg",
+    "source": "https://www.allrecipes.com/recipe/214367/watermelon-agua-fresca/",
+    "keywords": [
+        "watermelon agua fresca",
+        "watermelon"
+    ]
+}

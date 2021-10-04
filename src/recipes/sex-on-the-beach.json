@@ -1,18 +1,46 @@
 {
     "name": "Sex on the beach",
-    "description": "In the name of a cocktail, beach is equivalent to cranberry juice. It was created by the T.G.I. Friday's",
+    "description": "In the name of a cocktail, beach is equivalent to cranberry juice. It was created by the T.G.I. Friday's.",
     "github": "joshuamart",
     "ingredients": [
-        "1 oz vodka",
-        "0.5 oz melon syrup",
-        "0.5 oz chambord",
-        "1.5 oz pineapple juice",
-        "2 oz cranberry juice ",
-        "Ice cubes"
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "melon syrup"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "chambord"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cranberry juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
     ],
     "directions": [
         "Make the recipe in a mixing glass. Pour the alcohols over ice cubes, mix and complete with the fruit juices.",
         "Serve in a tulip glass with a piece of pineapple and a candied cherry."
     ],
-    "image": "sex-on-the-beach.jpg"
+    "image": "sex-on-the-beach.jpg",
+    "keywords": [
+        "vodka",
+        "juice"
+    ]
 }

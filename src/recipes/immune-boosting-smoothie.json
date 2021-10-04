@@ -1,0 +1,46 @@
+{
+    "name": "Immune Boosting Smoothie",
+    "description": "A tasty green smoothie to boost your immune system",
+    "github": "kschmitz123",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "apple",
+            "ingredient": ""
+        },
+        {
+            "quantity": "1/2",
+            "measure": "banana",
+            "ingredient": ""
+        },
+        {
+            "quantity": "1/2",
+            "measure": "lemon",
+            "ingredient": ""
+        },
+        {
+            "quantity": "2",
+            "measure": "handful",
+            "ingredient": "spinach"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "ginger"
+        }
+    ],
+    "directions": [
+        "Wash and cut the apple, banana and spinach. Then mix them in a blender.",
+        "Squeeze the lemon and add the juice, together with the ginger into the blender.",
+        "Pour into a glass and top with a pinch of cinnamon."
+    ],
+    "image": "immune-boosting-smoothie.jpg",
+    "source": "https://www.ndr.de/ratgeber/kochen/rezepte/rezeptdb6_id-12419_broadcast-1530_station-ndrtv.html",
+    "keywords": [
+        "smoothie",
+        "healthy",
+        "non-alcoholic",
+        "banana",
+        "ginger"
+    ]
+}

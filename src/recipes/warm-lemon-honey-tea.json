@@ -1,0 +1,36 @@
+{
+    "name": "Warm Lemon Honey Tea",
+    "description": "Suitable for a cold day, or when you are ill, this drink is for everyone to enjoy! It has 3 very simple ingredients, warm water, lemon, honey, so you can't go wrong!",
+    "github": "thePCDguy",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "warm water"
+        },
+        {
+            "quantity": "2",
+            "measure": "squeezes",
+            "ingredient": "lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+        "Squeeze a lemon in a cup of warm water.",
+        "Add the honey.",
+        "stir and enjoy."
+    ],
+    "image": "warm-honey-lemon-tea.jpg",
+    "keywords": [
+        "warm",
+        "water",
+        "lemon",
+        "tea",
+        "honey",
+        "feel good"
+    ]
+}

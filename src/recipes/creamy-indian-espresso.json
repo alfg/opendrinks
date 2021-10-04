@@ -1,0 +1,46 @@
+{
+    "name": "Creamy Indian Espresso",
+    "description": "Indian Espresso Coffee made without an espresso machine.",
+    "github": "aindrila2412",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Instant Coffee Powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Granulated Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+	{
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cocoa Powder"
+        }
+    ],
+    "directions": [
+        "Put instant coffee powder and sugar in a coffee mug.",
+        "Add 1 tsp. water and mix.",
+        "Beat the mix vigorously with a spoon. You have to incorpotate as much air as you can. That will give you the whipped frothy coffee-sugar mix. The more you beat, the mix will become pale in colour. Make sure your mix is whipped and creamy enough.",
+        "Heat a cup of milk and pour it over the whipped coffe-sugar paste. Stir. Sprinkle cocoa powder and serve immediately."
+    ],
+    "image": "creamy-indian-espresso.jpg",
+    "keywords": [
+        "coffee powder",
+        "granulated sugar",
+       	"milk",
+	"water",
+	"cocoa powder"
+    ]
+}

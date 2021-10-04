@@ -1,0 +1,40 @@
+{
+  "name": "Cape Codder",
+  "description": "More commonly known as a Vodka-Cranberry, it is a simple refreshing beverage originally created by the Ocean Spray cranberry growing company as the 'Red Devil'.",
+  "github": "r-i-c-h",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "Cranberry Juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "slice",
+      "ingredient": "lime"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice"
+    }
+  ],
+  "directions": [
+    "Fill a highball glass with ice.",
+    "Add vodka, cranberry juice, and squeeze of lime.",
+    "Stir well.",
+    "Garnish with lime wedge and/or a few cranberries, if available."
+  ],
+  "image": "cape-codder.jpg",
+  "keywords": [
+    "vodka",
+    "cranberry",
+    "lime",
+    "vegan"
+  ]
+}

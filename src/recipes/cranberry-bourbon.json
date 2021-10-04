@@ -1,0 +1,62 @@
+{
+    "name": "Cranberry Bourbon Sour",
+    "description": "Putting a festive spin on a classic cocktail!",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Maple Syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "number",
+            "ingredient": "Orange, sliced"
+        },
+        {
+            "quantity": "8",
+            "measure": "ounces",
+            "ingredient": "Bourbon"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "100% cranberry juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "number",
+            "ingredient": "orange, zest"
+        },
+        {
+            "quantity": "3-4",
+            "measure": "dashes",
+            "ingredient": "orange bitters"
+        }
+    ],
+    "directions": [
+        "To make the cranberry syrup: bring 1/2 cup water, the maple syrup, and cranberries in a medium pot and boil over high heat.",
+        "Boil 5 minutes or until the cranberries begin to burst, then remove from the heat.",
+        "Stir in the orange zest. Let cool.",
+        "Combine 2-3 tablespoons cranberry syrup, the bourbon, lemon juice, cranberry juice, and orange bitters in a cocktail shaker.",
+        "Add ice and shake. Strain into a glass.",
+        "You can ground the spices in a motor and pestle too.",
+        "Boil milk in a heavy bottomed pan.",
+        "Garnish with orange slice."
+    ],
+    "image": "cranberry-bourbon.jpg",
+    "source": "https://www.halfbakedharvest.com/cranberry-bourbon-sour/",
+    "keywords": [
+        "cool",
+        "cranberry",
+        "alcoholic",
+        "party",
+        "bourbon",
+        "orange"
+    ]
+}

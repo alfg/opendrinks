@@ -1,0 +1,38 @@
+{
+    "name": "Taro Fresh Milk",
+    "description": "Taro fresh milk is a drink that you find a lot in cafes in Indonesia, young people love it.",
+    "github": "muhamadiqbalriv",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Tablespoons of taro powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Glass of pure cow's milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Tablespoons of liquid sugar"
+        },
+        {
+            "quantity": "Needed",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Dissolve taro powder with liquid sugar, add a little warm water then mix well.",
+        "Prepare whole milk in a serving glass, put ice cubes, then pour the liquid sugar that has been mixed with taro powder. Serve."
+    ],
+    "image": "taro-fresh-milk.jpg",
+    "keywords": [
+        "taro",
+        "milk",
+        "fresh",
+        "vegan"
+	]
+}

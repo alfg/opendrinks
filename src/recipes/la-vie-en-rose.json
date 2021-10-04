@@ -1,0 +1,45 @@
+{   "name": "La Vie en Rose", 
+    "description": "Champagne cocktail", 
+    "github": "bibliofilo", 
+    "ingredients": [ 
+        { 
+            "quantity": "3/4", 
+            "measure": "oz", 
+            "ingredient": "Lime juice" 
+        },
+        {
+            "quantity": "1 1⁄2", 
+            "measure": "oz", 
+            "ingredient": "Cointreau" 
+        },
+        {
+            "quantity": "1 1⁄2", 
+            "measure": "oz", 
+            "ingredient": "Cranberry juice" 
+        }, 
+        { 
+            "quantity": "1", 
+            "measure": "cup", 
+            "ingredient": "Champagne" 
+        } 
+    ], 
+    "directions": [ 
+        "Mix the lime juice, Cointreau, and cranberry juice in a pitcher. Chill, covered, for at least 2 hours or overnight.", 
+        "Moisten the rim of a glass with water and dip it into a saucer of sugar to coat", 
+        "Pour the juice mixture into the glasses and add 1/2 cup Champagne to each. Stir once gently. Garnish" 
+    ], 
+    "image": "la-vie-en-rose.jpg", 
+    "source": "https://archive.org/embed/backyardbartende00alon", 
+    "keywords": [ 
+        "alcoholic", 
+        "champagne", 
+        "cockatil", 
+        "cointreau", 
+        "cool", 
+        "cranberry", 
+        "fruit", 
+        "juice", 
+        "lime", 
+        "vegan" 
+    ]
+}

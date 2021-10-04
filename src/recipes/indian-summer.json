@@ -1,0 +1,60 @@
+{
+    "name": "Indian Summer",
+    "description": "Indian Summer is a vodka-based cocktail made with summer-themed fruits.",
+    "github": "the-bose",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "60",
+            "measure": "mL",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "60",
+            "measure": "gram",
+            "ingredient": "mangoes"
+        },
+        {
+            "quantity": "6-8",
+            "measure": "leaves",
+            "ingredient": "fresh mint"
+        },
+        {
+            "quantity": "1",
+            "measure": "inch",
+            "ingredient": "ginger"
+        },
+        {
+            "quantity": "20",
+            "measure": "mL",
+            "ingredient": "sweet and sour soup"
+        },
+        {
+            "quantity": "15",
+            "measure": "mL",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "mint sprig"
+        }
+    ],
+    "directions": [
+        "Add the vodka, fresh mangoes, mint leaves, ginger, lime juice, sweet and sour along with a few ice cubes in a blender.",
+        "Blend until well combined.",
+        "Pour it in a margarita glass and serve frozen garnished with a mint sprig."
+    ],
+    "image": "indian-summer.jpg",
+    "keywords": [
+        "alcoholic",
+        "summer",
+        "mango",
+        "indian",
+        "cocktail"
+    ]
+}

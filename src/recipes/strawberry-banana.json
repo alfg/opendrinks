@@ -1,0 +1,38 @@
+{
+    "name": "Ice Strawberry Mix Banana",
+    "description": "Ice strawberry mix banana is simple healty juice that made by strawberry and banana.",
+    "github": "isnaini279",
+    "ingredients": [{
+            "quantity": "8",
+            "measure": "pieces",
+            "ingredient": "strawberry"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "banana"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "plain yougurt"
+        },
+        {
+            "quantity": "5",
+            "measure": "ml",
+            "ingredient": "mineral water"
+        }
+    ],
+    "directions": [
+        "Wash strawberries and banana thoroughly.",
+        "Cut the banana and strawberries, then add yougurt and mineral water.",
+        "Blend all the components and after that put in your glass. The juice ready to serve!"
+    ],
+    "image": "strawberry-banana.jpg",
+    "source": "https://cookpad.com/id/resep/7208282-jus-strawberry-mix-banana-with-yogurt?via=search&search_term=jus%20strawberry%20yoghurt",
+    "keywords": [
+        "fruit",
+        "juice",
+        "non-alcoholic"
+    ]
+}

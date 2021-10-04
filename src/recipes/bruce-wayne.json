@@ -3,14 +3,33 @@
     "description": "Something magical happens to an iced coffee when you shake it with whiskey and maple syrup: You get a lovely, creamy head of foam on top — almost like a Guinness — that disguises the dark depths below (which contain enough caffeine to power any nocturnal superhero).",
     "github": "zacho112",
     "ingredients": [
-        "135 ml Cold brew coffee",
-        "60 ml Bourbon",
-        "15 ml Maple syrup"
+        {
+            "quantity": "135",
+            "measure": "ml",
+            "ingredient": "Cold brew coffee"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Bourbon"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Maple syrup"
+        }
     ],
     "directions": [
         "Prepare coffee with cold brew method of choice.",
         "Add Coffee, Bourbon and Maple Syrup into a cocktail shaker with ice.",
         "Shake until chilled and foamy and strain into your cocktail glass with ice."
     ],
-    "image": "bruce-wayne-cocktail.jpg"
+    "image": "bruce-wayne-cocktail.jpg",
+    "keywords": [
+        "bourbon",
+        "maple syrup",
+        "coffee",
+        "alcoholic",
+        "vegan"
+	]
 }
