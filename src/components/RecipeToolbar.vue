@@ -16,6 +16,7 @@
       class="mr-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
+      v-b-tooltip.hover.nonInteractive="!isFavorited ? $t('Set Favorite') : $t('Unset Favorite')"
     ></FavoriteStar>
 
     <ShareNetwork
@@ -26,7 +27,10 @@
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
     >
-      <BIconFacebook font-scale="2"></BIconFacebook>
+      <BIconFacebook
+        font-scale="2"
+        v-b-tooltip.hover.nonInteractive="$t('Share on Facebook')"
+      ></BIconFacebook>
     </ShareNetwork>
     <ShareNetwork
       network="twitter"
@@ -36,27 +40,34 @@
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
     >
-      <BIconTwitter font-scale="2"></BIconTwitter>
+      <BIconTwitter
+        font-scale="2"
+        v-b-tooltip.hover.nonInteractive="$t('Share on Twitter')"
+      ></BIconTwitter>
     </ShareNetwork>
 
     <BIconFiles
       class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
+      v-b-tooltip.hover.nonInteractive="$t('Copy URL')"
     >
     </BIconFiles>
 
     <div class="mx-1 theme-link-color cursor-pointer clickable-icon-hover" v-if="!isMobile">
-      <BIconPrinter :fontScale="2" v-if="isPrint" variant="outline-primary" @click="print()"></BIconPrinter>
-      
+      <BIconPrinter
+        :fontScale="2"
+        v-if="isPrint"
+        @click="print()"
+        v-b-tooltip.hover.nonInteractive="$t('Print')"
+      ></BIconPrinter>
       <a v-else :href="`/recipe/${name}/print`" target="_blank">
-        <BIconPrinter :fontScale="2"  variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        </BIconPrinter>
+        <BIconPrinter :fontScale="2" v-b-tooltip.hover.nonInteractive="$t('Print')"></BIconPrinter>
       </a>
     </div>
 
-    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
-      {{ $t('The link to this page is copied in your clipboard') }}
+    <b-toast v-model="copyToast" :title="$t('URL Copied')" :auto-hide-delay="500">
+      {{ $t('The URL is copied in your clipboard') }}
     </b-toast>
   </div>
 </template>
