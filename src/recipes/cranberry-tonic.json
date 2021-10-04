@@ -1,0 +1,45 @@
+{
+  "name": "Cranberry Tonic",
+  "description": "When cranberry finds a tonic side to surprise us...",
+  "github": "jcolfej",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "lime syrup"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "orange juice"
+    },
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "Gin"
+    },
+    {
+      "quantity": "3",
+      "measure": "oz",
+      "ingredient": "cranberry juice"
+    },
+    {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "tonic water soda"
+    }
+  ],
+  "directions": [
+    "Put the ingredients, except the soda, with a few ice cubes in a shaker.",
+    "Shake and pour over ice in a long drink glass.",
+    "Top off with the soda shake and add half a slice of lime."
+  ],
+  "image": "cranberry-tonic.jpg",
+  "keywords": [
+    "gin",
+    "lime syrup",
+    "orange juice",
+    "cranberry juice",
+    "tonic"
+  ]
+}
