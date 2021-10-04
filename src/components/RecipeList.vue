@@ -12,7 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :to="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+          <b-button :to="'/recipe/' + o.filename" variant="primary" v-t="'View Recipe'" />
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"
@@ -149,3 +149,11 @@ export default {
   object-fit: cover;
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "View Recipe": "レシピを見る"
+  }
+}
+</i18n>

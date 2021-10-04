@@ -13,11 +13,11 @@
       </div>
 
       <b-nav tabs align="center">
-        <b-nav-item to="/">Featured</b-nav-item>
-        <b-nav-item to="/random" v-if="!isMobile">Random</b-nav-item>
-        <b-nav-item to="/explore">Explore</b-nav-item>
-        <b-nav-item to="/keyword" v-if="!isMobile">Keywords</b-nav-item>
-        <b-nav-item to="/search">Search</b-nav-item>
+        <b-nav-item to="/">{{ $t('Featured') }}</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">{{ $t('Random') }}</b-nav-item>
+        <b-nav-item to="/explore">{{ $t('Explore') }}</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">{{ $t('Keywords') }}</b-nav-item>
+        <b-nav-item to="/search">{{ $t('Search') }}</b-nav-item>
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
@@ -108,3 +108,15 @@ export default {
   }
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "Featured": "特集",
+    "Random": "ランダム",
+    "Explore": "探索",
+    "Keywords": "キーワード",
+    "Search": "検索"
+  }
+}
+</i18n>

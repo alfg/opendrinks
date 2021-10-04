@@ -1,0 +1,29 @@
+{
+    "name": "Tornado Twist",
+    "description": "Great drink for kids and adults who don't like the bitter taste of cranberry-raspberry juice.",
+    "github": "ansidev",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "fluid onces",
+            "ingredient": "cranberry-raspberry juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "can or bottle",
+            "ingredient": "lemon-lime flavored carbonated beverage"
+        }
+    ],
+    "directions": [
+        "In a pitcher, mix cranberry-raspberry juice with lemon-lime soda.",
+        "Pour over ice and serve."
+    ],
+    "image": "tornado-twist.jpg",
+    "source": "https://www.allrecipes.com/recipe/23540/tornado-twist/",
+    "keywords": [
+        "tornado",
+        "twist",
+        "raspberry",
+        "juice"
+    ]
+}
