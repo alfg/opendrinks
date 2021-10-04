@@ -140,4 +140,14 @@ export default {
     "Hide Image": "画像を非表示"
   }
 }
+{
+  "fr": {
+    "Print": "Imprimer",
+    "Share": "Partager",
+    "Share on Facebook": "Partager sur Facebook",
+    "Share on Twitter": "Partager sur Twitter",
+    "Copy URL": "copier l'url",
+    "Hide Image": "cacher l'image"
+  }
+}
 </i18n>

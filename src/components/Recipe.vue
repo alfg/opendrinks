@@ -288,4 +288,13 @@ export default {
     "Similar drinks": "似ているドリンク"
   }
 }
+{
+  "fr": {
+    "Contributed by": "Partagé par",
+    "Ingredients": "Ingrédients",
+    "Directions": "Préparation",
+    "View full recipe at": "Voir la recette complète:",
+    "Similar drinks": "Cocktails similaires"
+  }
+}
 </i18n>

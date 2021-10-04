@@ -192,4 +192,14 @@ export default {
     "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
   }
 }
+{
+  "fr": {
+    "Filter by": "Filtrer par",
+    "Name": "Nom",
+    "Ingredients": "Ingrédients",
+    "Keywords": "Mots-clés",
+    "You can search for multiple ingredients by separating them with a space": "Vous pouvez chercher avec plusieurs ingrédients en les séparants avec un espace",
+    "You can search for multiple keywords by separating them with a space": "Vous pouvez chercher avec plusieurs mots-clés en les séparants avec un espace"
+  }
+}
 </i18n>
