@@ -141,3 +141,16 @@ export default {
   transform: scale(1.2);
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "Print": "印刷",
+    "Share": "共有",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "URLをコピー",
+    "Hide Image": "画像を非表示"
+  }
+}
+</i18n>
