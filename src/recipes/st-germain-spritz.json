@@ -1,0 +1,46 @@
+{
+    "name": "St-Germain Spritz",
+    "description": "An alternative and sweeter version of the well known Aperol Spritz",
+    "github": "bokub",
+    "ingredients": [
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "St-Germain"
+        },
+		{
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Sparkling"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon zest for garnish"
+        }
+    ],
+    "directions": [
+        "Fill a glass with ice.",
+        "Add Prosecco, St-Germain liquor and soda.",
+        "Stir gently to combine and garnish with a zest of lemon."
+    ],
+    "image": "st-germain-spritz.jpg",
+    "keywords": [
+        "st-germain",
+        "alcoholic",
+        "vegan",
+        "carbonated",
+        "club soda",
+        "prosecco"
+    ]
+}
