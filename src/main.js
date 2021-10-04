@@ -4,7 +4,7 @@ import './assets/css/main.css';
 
 import Vue from 'vue';
 import VueMeta from 'vue-meta';
-import BoostrapVue from 'bootstrap-vue';
+import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue';
 import VueSocialSharing from 'vue-social-sharing';
 import App from './App.vue';
 import router from './router';
@@ -16,7 +16,8 @@ Vue.config.productionTip = false;
 Vue.config.ignoredElements = ['amp-ad'];
 
 Vue.use(VueMeta, { refreshOnceOnNavigation: true });
-Vue.use(BoostrapVue);
+Vue.use(BootstrapVue);
+Vue.use(BootstrapVueIcons);
 Vue.use(VueSocialSharing);
 
 Vue.mixin({
