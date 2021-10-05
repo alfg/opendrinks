@@ -2,6 +2,7 @@ import { createLocalVue, mount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import Explore from '@/views/Explore.vue';
 
 const localVue = createLocalVue();
@@ -14,6 +15,7 @@ describe('Explore', () => {
     wrapper = mount(Explore, {
       localVue,
       router,
+      i18n,
     });
   });
 
