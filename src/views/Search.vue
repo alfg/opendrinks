@@ -20,6 +20,9 @@ export default {
 {
   "ja": {
     "Find Your Drink": "あなたのドリンクを見つけよう"
+  },
+    "ja": {
+    "Find Your Drink": "Rechercher votre cocktail"
   }
 }
 </i18n>

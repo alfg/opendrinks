@@ -138,9 +138,7 @@ export default {
     "Share on Twitter": "Twitter",
     "Copy URL": "URLをコピー",
     "Hide Image": "画像を非表示"
-  }
-}
-{
+  },
   "fr": {
     "Print": "Imprimer",
     "Share": "Partager",
