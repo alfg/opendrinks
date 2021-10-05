@@ -130,7 +130,6 @@ export default {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar Filtros",
     "Add Keyword": "Agregar Palabra Clave"
-  },
-
+  }
 }
 </i18n>
