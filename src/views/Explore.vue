@@ -125,6 +125,12 @@ export default {
     "Filters": "フィルター",
     "Reset Filters": "条件をクリア",
     "Add Keyword": "キーワードを追加"
-  }
+  },
+  "es": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar Filtros",
+    "Add Keyword": "Agregar Palabra Clave"
+  },
+
 }
 </i18n>

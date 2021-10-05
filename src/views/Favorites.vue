@@ -67,6 +67,13 @@ export default {
     "Are you sure you want to remove all favorites": "お気に入りをすべて削除してもよろしいですか？",
     "Delete": "削除",
     "Cancel": "キャンセル"
+  },
+  "es": {
+    "You don't have any favorite drinks": "No tienes bebidas favoritas",
+    "Remove All Favorites": "Eliminar Todos Los Favoritos",
+    "Are you sure you want to remove all favorites": "Estás seguro que quieres eliminar todos los favoritos？",
+    "Delete": "Eliminar",
+    "Cancel": "Cancelar"
   }
 }
 </i18n>

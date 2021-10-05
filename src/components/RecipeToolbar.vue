@@ -138,6 +138,14 @@ export default {
     "Share on Twitter": "Twitter",
     "Copy URL": "URLをコピー",
     "Hide Image": "画像を非表示"
+  },
+  "es": {
+    "Print": "Imprimir",
+    "Share": "Compartir",
+    "Share on Facebook": "Compartir en Facebook",
+    "Share on Twitter": "Compartir en Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Ocultar imagen"
   }
 }
 </i18n>

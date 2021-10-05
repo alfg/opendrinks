@@ -154,6 +154,9 @@ export default {
 {
   "ja": {
     "View Recipe": "レシピを見る"
+  },
+  "es": {
+    "View Recipe": "Ver Receta"
   }
 }
 </i18n>

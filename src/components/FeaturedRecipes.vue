@@ -56,6 +56,9 @@ export default {
 {
   "ja": {
     "Load More": "もっと見る"
+  },
+  "es": {
+    "Load More": "Cargar Más"
   }
 }
 </i18n>

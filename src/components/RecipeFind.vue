@@ -190,6 +190,14 @@ export default {
     "Keywords": "キーワード",
     "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
     "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
+  },
+  "es": {
+    "Filter by": "Filtrar por",
+    "Name": "Nombre",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palabras Clave",
+    "You can search for multiple ingredients by separating them with a space": "Puedes buscar múltiples ingredientes separandolos con espacios",
+    "You can search for multiple keywords by separating them with a space": "Puedes buscar múltiples palabras claves separandolas con espacios"
   }
 }
 </i18n>
