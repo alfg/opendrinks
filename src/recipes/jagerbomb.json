@@ -1,0 +1,29 @@
+{
+    "name": "JagerBomb",
+    "description": "",
+    "github": "kaczmarekdaniel",
+    "ingredients": [
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Jagermeister"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "Red Bull"
+        }
+        
+    ],
+    "directions": [
+        "Pour Red Bull in highball glass",
+        "Gently put a shot of red bull in glass",
+        "Serve and enjoy!"
+    ],
+    "image": "jagerbomb.jpg",
+    "keywords": [
+        "jagermeister",
+        "redbull",
+        "jagerbomb"
+    ]
+}
