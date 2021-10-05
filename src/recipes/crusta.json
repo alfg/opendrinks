@@ -1,62 +1,60 @@
 {
-    "name": "Crusta",
-    "description": "A New Orleans based cocktail, named after its sugary outside crust.",
-    "github": "JeswinSunsi",
-    "ingredients": [
-        {
-            "quantity": "2",
-            "measure": "oz",
-            "ingredient": "brandy"
-        },
-        {
-            "quantity": "1/2",
-            "measure": "oz",
-            "ingredient": "fresh lemon juice"
-        },
-        {
-            "quantity": "1/4",
-            "measure": "oz",
-            "ingredient": "curaçao"
-        },
-        {
-            "quantity": "1/2",
-            "measure": "oz",
-            "ingredient": "simple syrup"
-        },
-        {
-            "quantity": "1",
-            "measure": "teaspoon",
-            "ingredient": "Maraschino liqueur"
-        },
-        {
-            "quantity": "1",
-            "measure": "dash",
-            "ingredient": "Angostura bitters"
-        },
-        {
-            "quantity": "1",
-            "measure": "slice",
-            "ingredient": "lemon"
-        },
-        {
-            "quantity": "1",
-            "measure": "tablespoon",
-            "ingredient": "sugar"
-        },
-    ],
-    "directions": [
-        "Rim a coupe glass with sugar and set aside.",
-        "Add all ingredients into a shaker with ice and shake.",
-        "Strain into the prepared glass.",
-        "Garnish with a lemon twist.",
-        "Freeze for five minutes, serve cold."
-    ],
-    "image": "crusta.jpg",
-    "keywords": [
-        "brandy",
-        "american",
-        "orleans",
-        "crusta",
-        "..."
-    ]
+	"name": "Crusta",
+	"description": "A New Orleans based cocktail, named after its sugary outside crust.",
+	"github": "JeswinSunsi",
+	"ingredients": [{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "brandy"
+		},
+		{
+			"quantity": "1/2",
+			"measure": "oz",
+			"ingredient": "fresh lemon juice"
+		},
+		{
+			"quantity": "1/4",
+			"measure": "oz",
+			"ingredient": "curaçao"
+		},
+		{
+			"quantity": "1/2",
+			"measure": "oz",
+			"ingredient": "simple syrup"
+		},
+		{
+			"quantity": "1",
+			"measure": "teaspoon",
+			"ingredient": "Maraschino liqueur"
+		},
+		{
+			"quantity": "1",
+			"measure": "dash",
+			"ingredient": "Angostura bitters"
+		},
+		{
+			"quantity": "1",
+			"measure": "slice",
+			"ingredient": "lemon"
+		},
+		{
+			"quantity": "1",
+			"measure": "tablespoon",
+			"ingredient": "sugar"
+		}
+	],
+	"directions": [
+		"Rim a coupe glass with sugar and set aside.",
+		"Add all ingredients into a shaker with ice and shake.",
+		"Strain into the prepared glass.",
+		"Garnish with a lemon twist.",
+		"Freeze for five minutes, serve cold."
+	],
+	"image": "crusta.jpg",
+	"keywords": [
+		"brandy",
+		"american",
+		"orleans",
+		"crusta"
+	]
 }
