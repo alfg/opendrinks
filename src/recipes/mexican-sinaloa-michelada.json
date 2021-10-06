@@ -1,0 +1,77 @@
+{
+  "name": "Mexican Michelada Sinaloa Style",
+  "description": "Is a Mexican cocktail with beer and seafood, prepared with lemon, shrimp, tomato juice, clam, inglesa sauce, and celery add a delicious flavor to the drink.",
+  "github": "evertcode",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "Dark Beer"
+      },
+      {
+          "quantity": "1",
+          "measure": "Teaspoon",
+          "ingredient": "inglesa sauce"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "Teaspoon",
+          "ingredient": "hot sauce"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "Cups",
+          "ingredient": "tomato juice with clams"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "Lemon"
+      },
+      {
+        "quantity": "50",
+        "measure": "Grams",
+        "ingredient": "'pacotilla' shrimp"
+      },
+      {
+        "quantity": "2",
+        "measure": "Sticks",
+        "ingredient": "celery, cut into strips and without skin"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Salt to taste"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Black pepper, to taste"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Chili pepper, to taste"
+      }
+  ],
+  "directions": [
+      "With the help of a wet napkin and a flat plate covered with chili pepper, frost the ball glass.",
+      "Add all the ingredients (except the beer and the celery).",
+      "Add the Beer.",
+      "Add the celery sticks.",
+      "Mix the drink slightly with a spoon.",
+      "Enjoy!"
+  ],
+  "image": "mexican-sinaloa-michelada.jpg",
+  "keywords": [
+      "lemon",
+      "salt",
+      "beer",
+      "shrimp",
+      "clams",
+      "tomato",
+      "alcoholic",
+      "mexican",
+      "cold"
+  ]
+}
