@@ -1,0 +1,43 @@
+{
+    "name": "Passion fruit martini",
+    "description": "This easy passion fruit cocktail is bursting with zingy flavours and is perfect for celebrating with friends.",
+    "github": "Nightowl-8",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "halved",
+            "ingredient": "ripe passion fruits"
+        },
+        {
+            "quantity": "1",
+            "measure": "60ml",
+            "ingredient": "vanilla vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "30ml",
+            "ingredient": "passoa"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient":"sugar syrup"
+        }
+    ],
+    "directions": [
+        "Scoop the seeds from one of the passion fruits into the glass of a cocktail shaker, add the vodka, passoa, lime juice and sugar syrup.",
+        "Add a handful of ice and shake well, strain into 2 martini glasses, top up with prosecco, then add half a passion fruit to each.",
+        "Serve immediately."
+    ],
+    "image": "passion-fruit-martini.webp",
+    "source": "https://www.bbcgoodfood.com/recipes/passionfruit-pornstar-martini",
+    "keywords": [
+        "<keywords if available>",
+        "..."
+    ]
+}
