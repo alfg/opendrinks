@@ -155,6 +155,9 @@ export default {
   "ja": {
     "View Recipe": "レシピを見る"
   },
+  "fr": {
+    "View Recipe": "Voir la Recette"
+  },
   "es": {
     "View Recipe": "Ver Receta"
   }

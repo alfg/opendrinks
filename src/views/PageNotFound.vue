@@ -28,6 +28,10 @@ export default {
     "The page you are looking for was not found.": "お探しのページは見つかりませんでした。",
     "Back to Home": "ホームに戻る"
   },
+  "fr": {
+  "The page you are looking for was not found.": "Page non trouvée",
+  "Back to Home": "Retour à l'accueil"
+  },
   "es": {
     "The page you are looking for was not found.": "No se encontró la página que estás buscando",
     "Back to Home": "Volver al Inicio"

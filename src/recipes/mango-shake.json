@@ -1,0 +1,39 @@
+{
+    "name": "Mango Shake",
+    "description": "Mango shake is a tempting fruit drink prepared by simply blending ripe mango, milk and sugar.",
+    "github": "theishanbh",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "medium sized",
+            "ingredient": "ripe and sweet mangoes"
+        },
+        {
+            "quantity": "1½",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Rinse and pat dry the ripe and sweet mangoes.",
+        "Peel and chop the mangoes.",
+        "Discard the stones.",
+        "Add the chopped mangoes in a blender jar.",
+        "Add milk in the jar.",
+        "Add ice cubes in the jar.",
+        "Blend till smooth.",
+        "Pour mango shake in glasses and server immediately."
+    ],
+    "image": "mango-shake.jpg",
+    "keywords": [ "mango", "sweet", "milk", "shake"]
+}

@@ -287,6 +287,13 @@ export default {
     "View full recipe at": "完全なレシピを見る",
     "Similar drinks": "似ているドリンク"
   },
+    "fr": {
+    "Contributed by": "Partagé par",
+    "Ingredients": "Ingrédients",
+    "Directions": "Préparation",
+    "View full recipe at": "Voir la recette complète:",
+    "Similar drinks": "Cocktails similaires"
+  },
   "es": {
     "Contributed by": "Aportado por",
     "Ingredients": "Ingredientes",

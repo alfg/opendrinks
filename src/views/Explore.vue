@@ -126,6 +126,11 @@ export default {
     "Reset Filters": "条件をクリア",
     "Add Keyword": "キーワードを追加"
   },
+  "fr": {
+    "Filters": "Filtres",
+    "Reset Filters": "Enlever les filtres",
+    "Add Keyword": "Ajouter un mot-clés"
+  },
   "es": {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar Filtros",

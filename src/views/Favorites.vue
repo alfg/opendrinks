@@ -68,6 +68,13 @@ export default {
     "Delete": "削除",
     "Cancel": "キャンセル"
   },
+  "fr": {
+    "You don't have any favorite drinks": "Vous n'avez pas de cocktails favoris",
+    "Remove All Favorites": "Supprimer tous les cocktails favoris",
+    "Are you sure you want to remove all favorites": "Etes-vous sûr de vouloir supprimer tous les favoris",
+    "Delete": "Supprimer",
+    "Cancel": "Annuler"
+  },
   "es": {
     "You don't have any favorite drinks": "No tienes bebidas favoritas",
     "Remove All Favorites": "Eliminar Todos Los Favoritos",
