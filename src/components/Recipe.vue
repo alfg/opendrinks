@@ -293,6 +293,13 @@ export default {
     "Directions": "Préparation",
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
+  },
+    "hi": {
+    "Contributed by": "योगदानी",
+    "Ingredients": "सामग्री",
+    "Directions": "तैयारी",
+    "View full recipe at": "पूरी विधि यहाँ देखें",
+    "Similar drinks": "समान पेय"
   }
 }
 </i18n>

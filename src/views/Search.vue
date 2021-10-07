@@ -23,6 +23,9 @@ export default {
   },
   "fr": {
     "Find Your Drink": "Rechercher votre cocktail"
+  },
+  "hi": {
+    "Find Your Drink": "अपना पेय खोजें"
   }
 }
 </i18n>

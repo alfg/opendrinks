@@ -130,6 +130,11 @@ export default {
     "Filters": "Filtres",
     "Reset Filters": "Enlever les filtres",
     "Add Keyword": "Ajouter un mot-clés"
+  },
+  "hi": {
+    "Filters": "छन्नी",
+    "Reset Filters": "छन्नी रीसेट करें",
+    "Add Keyword": "सूचक-शब्द जोड़ें"
   }
 }
 </i18n>

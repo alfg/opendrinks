@@ -124,6 +124,13 @@ export default {
     "Explore": "Parcourir",
     "Keywords": "Mots-Clés",
     "Search": "Recherche"
+  },
+  "hi": {
+    "Featured": "विशेष रुप से प्रदर्शित",
+    "Random": "अनियमित",
+    "Explore": "अन्वेषण करिये",
+    "Keywords": "सूचक-शब्द",
+    "Search": "खोजिये"
   }
 }
 </i18n>

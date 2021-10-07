@@ -157,6 +157,9 @@ export default {
   },
   "fr": {
     "View Recipe": "Voir la Recette"
+  },
+  "hi": {
+    "View Recipe": "विधि देखे"
   }
 }
 </i18n>
