@@ -1,0 +1,45 @@
+{
+    "name": "Vodka Lemonade Punch",
+    "description": "A cocktail popular amongst party goers!",
+    "github": "sdmmssa",
+    "ingredients": [
+        {
+            "quantity": "1.25",
+            "measure": "Quart",
+            "ingredient": "Sprite or Lemonade"
+        },
+        {
+            "quantity": "60",
+            "measure": "mL",
+            "ingredient": "Malibu"
+        },
+        {
+            "quantity": "80",
+            "measure": "mL",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "80",
+            "measure": "mL",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "180",
+            "measure": "mL",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "Cup",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Combine all of the ingredients in a large pitcher filled with ice, adding the soda last."
+    ],
+    "image": "vodka-lemonade-punch.jpg",
+    "source": "https://cafedelites.com/pink-vodka-lemonade/",
+    "keywords": [
+        "alcoholic"
+    ]
+}

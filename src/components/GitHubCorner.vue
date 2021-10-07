@@ -1,9 +1,14 @@
 <template>
   <!-- http://tholman.com/github-corners/  -->
-  <a href="https://github.com/alfg/opendrinks" class="github-corner" aria-label="View source on GitHub">
+  <a
+    href="https://github.com/alfg/opendrinks"
+    class="github-corner"
+    aria-label="View source on GitHub"
+  >
     <svg
       width="80"
       height="80"
+      class="theme-bg-color"
       viewBox="0 0 250 250"
       style="fill:#E5F578; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
       aria-hidden="true"

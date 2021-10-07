@@ -1,0 +1,35 @@
+{
+	"name": "Kopi",
+	"description": "Kopi is a type of traditional coffee local to Singapore and Malaysia. It is a highly caffeinated black coffee served with milk and sugar. ",
+	"github": "ChenQirui1",
+	"ingredients": [{
+			"quantity": "1",
+			"measure": "4/5 cup (‘cup’ refers to your cup, not US measuring cup)",
+			"ingredient": "Kopi concentrate"
+		},
+		{
+			"quantity": "1",
+			"measure": "1 teaspoon",
+			"ingredient": "Condensed milk"
+		},
+		{
+			"quantity": "1",
+			"measure": "20g / ~3 teaspoons",
+			"ingredient": "Evaporated milk"
+		}
+	],
+
+	"directions": [
+		"To an empty cup, add condensed milk and evaporated milk (feel free to tweak amount to taste)",
+		"Add 4/5 cup of kopi concentrate",
+		"Top up with hot water (95 to 98°C). Feel free to dilute your kopi to desired strength.",
+		"Stir well to dissolve milk."
+	],
+	"image": "kopi.jpg",
+	"source": "https://www.alliancecoffee.net/kopi-recipes/#kopi",
+	"keywords": [
+		"coffee",
+		"singaporean",
+		"malaysian"
+	]
+}

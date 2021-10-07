@@ -1,0 +1,36 @@
+{
+    "name": "Dorflinger",
+    "description": "A classic pre prohibition drink that offers a unique taste, named after famed glass maker, Christian Dorflinger.",
+    "github": "astnrgn",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Absinthe"
+        },
+        {
+            "quantity": "1 - 2",
+            "measure": "dash",
+            "ingredient": "Orange Bitters"
+        }
+    ],
+    "directions": [
+        "Pour the ingredients into a cocktail shaker filled with ice. Stir well.",
+        "Strain into a chilled cocktail glass.",
+        "Add an extra dash (or two) of orange bitters to taste."
+    ],
+    "image": "dorflinger.jpg",
+    "source": "https://absinthia.com/recipes/dorflinger/#",
+    "keywords": [
+        "absinthe",
+        "classic",
+        "gin",
+        "orange bitters",
+        "pre prohibition"
+    ]
+}

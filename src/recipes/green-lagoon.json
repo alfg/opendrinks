@@ -1,18 +1,40 @@
-  
 {
     "name": "Green Lagoon",
     "description": "It is a twist on the more known blue lagoon.",
     "github": "KasperZutterman",
     "ingredients": [
-        "1.5 oz vodka",
-        "1 oz blue curacao",
-        "1 oz pineapple juice ",
-        "Ice cube"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "blue curaçao"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
     ],
     "directions": [
-        "Add the pineapple juice to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
+        "Add pineapple juice to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
         "To make it fresher and lighter, fill the glass with crushed ice beforehand. ",
         "Serve in a martini glass."
     ],
-    "image": "green-lagoon.jpg"
+    "image": "green-lagoon.jpg",
+    "keywords": [
+        "vodka",
+        "pineapple",
+        "curaçao",
+        "alcoholic",
+        "vegan"
+    ]
 }

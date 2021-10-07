@@ -3,16 +3,42 @@
     "description": "The French 75 is a Parisian cocktail first served during World War 1, renowned for having \"Such a kick it felt like being shelled by a field gun.\"",
     "github": "maxPiroddi",
     "ingredients": [
-        "ice",
-        "2 dashes simple syrup",
-        "2 ounces French Champagne",
-        "1/2 ounce fresh lemon juice",
-        "1 ounce gin"
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "French Champagne"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "fresh lemon juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "gin"
+        }
     ],
     "directions": [
         "Combine gin, syrup and lemon juice in a cocktail shaker filled with ice.",
         "Shake vigorously and strain into a chilled Champagne glass.",
         "Top up with Champagne and stir gently."
     ],
-    "image": "french75.jpg"
+    "image": "french75.jpg",
+    "keywords":[
+        "alcoholic",
+        "gin",
+        "vegan",
+        "strong"
+    ]
 }

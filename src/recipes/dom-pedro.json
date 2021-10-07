@@ -1,0 +1,51 @@
+{
+    "name": "Dom Pedro",
+    "description": "Dom Pedro is a deliciously creamy drink, this particular recipe is a bit spiced up, so it packs a good punch!",
+    "github": "jessicavrooyen",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Tots",
+            "ingredient": "Amarula Cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tot",
+            "ingredient": "Frangelico"
+        },
+        {
+            "quantity": "150",
+            "measure": "ml",
+            "ingredient": "Vanilla Ice-cream"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Coconut cream"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Pinch of cinnamon"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "Blocks",
+            "ingredient": "of grated chocolate"
+        }
+    ],
+    "directions": [
+        "Add your ice-cream, coconut cream, and amarula cream into a blender.",
+        "Add a few cubes of ice (optional).",
+        "Blend it all up & pour into glass.",
+        "Drizzle Frangelico on top.",
+        "Garnish with cinnamon and chocolate."
+    ],
+    "image": "dom-pedro.jpg",
+    "source": "https://www.greedygourmet.com/recipes-by-course/desserts/don-pedro/",
+    "keywords":[
+        "alcoholic",
+        "sweet",
+        "creamy"
+    ]
+}

@@ -1,0 +1,66 @@
+@import './theme.css';
+@import './slider.css';
+
+.theme-bg-color{
+  color: var(--main-bg-color) !important;
+}
+
+.theme-link-color{
+  color: var(--main-link-color) !important;
+}
+
+.list-group-item {
+  background-color: var(--main-bg-color);
+  border: 1px solid var(--main-line-color);
+  color: var(--main-text-color);
+}
+
+.list-group-item:hover {
+  background-color: var(--main-bg-hover-color);
+  border: 1px solid var(--main-line-color);
+  color: var(--main-text-color);
+}
+
+.badge-primary {
+  background-color: var(--main-link-color);
+  color: var(--main-bg-color);
+}
+
+body {
+  background-color: var(--main-bg-color);
+}
+
+h1, h2, h3, h4, h6, p {
+  color: var(--main-text-color);
+}
+
+a, a:hover, h5 {
+  color: var(--main-link-color);
+}
+
+.btn-outline-primary {
+  color:var(--main-link-color);
+  border-color: var(--main-link-color);
+}
+
+#app {
+  color: var(--app-text-color);
+}
+
+.nav-tabs {
+  border-bottom: 1px solid var(--main-line-color);
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+  border-color: var(--navbar-light-hover-border-color) var(--navbar-light-hover-border-color) var(--main-line-color);
+  border-bottom-width: 0px;
+}
+
+.card {
+  background-color: var(--main-bg-color);
+  border:1px solid var(--main-line-color);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

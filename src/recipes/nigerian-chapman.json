@@ -1,0 +1,72 @@
+{
+    "name": "Nigerian Chapman",
+    "description": "The Nigerian Chapman is the perfect cocktail for any occasion",
+    "github": "SalmaanShire365",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Grenadine Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Angostura Aromatic Bitters"
+        },
+        {
+            "quantity": "350",
+            "measure": "ml",
+            "ingredient": "Fanta Orange"
+        },
+        {
+            "quantity": "350",
+            "measure" : "ml",
+            "ingredient" : "Sprite"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient":"Orange"
+        },
+        {
+
+            "quantity":"1/2",
+            "measure":"",
+            "ingredient":"Lemon"
+        },
+        {
+            "quantity":"2 or 3",
+            "measure":"full",
+            "ingredient":"Ice Cubes"
+         },
+         {
+            "quantity":"1",
+            "measure":"",
+            "ingredient":"Ribena Blackcurrant"
+         },
+         {
+             "quantity":"3",
+             "measure":"sliced",
+             "ingredient":"oranges,cucumbers and apples"
+         }
+    ],
+
+    "directions": [
+        "Put the icecubes in your mixing jar.",
+        "Add half a cup of the Grenadine Syrup",
+        "Add 2 tablespoons of Angostura Bitters.",
+        "Add a squeeze of orange and lemon each.",
+        "Add the Fanta Orange and the Sprite. ",
+        "Add your sliced garnishings: cucumber, apples, orange and lemons.",
+        "Top off with Ribena blackcurrant and stir."
+    ],
+    "image": "nigerian-chapman.jpg",
+    "keywords": [
+        "fanta",
+        "fruit",
+        "grenadine",
+        "lemon",
+        "orange",
+        "sprite"
+    ]
+}

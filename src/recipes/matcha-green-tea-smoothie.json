@@ -1,0 +1,43 @@
+{
+    "name": "Matcha Green Tea Smoothie",
+    "description": "This vegan Matcha Smoothie is smooth, low carb and lightly sweetened.",
+    "github": "Kirti-Motwani",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "large",
+            "ingredient": "Mango"
+        },
+        {
+            "quantity": "2",
+            "measure": "frozen",
+            "ingredient": "Bananas"
+        },
+        {
+            "quantity": "2",
+            "measure": "large handfuls",
+            "ingredient": "Bany Spinach"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Matcha Green Tea Powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "light coconut milk"
+        }
+    ],
+    "directions": [
+        "Add the coconut milk to your blender jug, followed by the matcha green tea powder and spinach. Blend.",
+        "Add the mango and frozen bananas and blend until creamy and smooth."
+    ],
+    "image": "matcha-green-tea-smoothie.jpg",
+    "keywords": [
+        "matcha",
+        "vegan",
+        "smoothie",
+        "non-alcoholic"
+    ]
+}

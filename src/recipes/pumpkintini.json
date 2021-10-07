@@ -1,0 +1,54 @@
+{
+  "name": "The Pumpkintini",
+  "description": "This beautiful Halloween cocktail mixes up cinnamon, rum, and pumpkin flavors, and is guaranteed to put some smiles on all of your ghoulish faces.",
+  "github": "speex404",
+  "ingredients": [
+    {
+      "quantity": "1 1/2",
+      "measure": "oz",
+      "ingredient": "Rum Cream"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Cinnamon Whiskey"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Pumpkin Spice Liqueur"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Half & Half"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Rim: Caramel Syrup, Graham Cracker Crumbs"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Garnish: Whipped Cream, Sprinkles"
+    }
+  ],
+  "directions": [
+    "Rim edge of a martini glass with caramel syrup and graham cracker crumbs.",
+    "In a shaker with ice, combine ingredients and shake thoroughly.",
+    "Strain mix into rimmed glass and top with whipped cream and sprinkles."
+  ],
+  "image": "pumpkintini.jpg",
+  "source": "https://tipsybartender.com/recipe/the-pumpkintini/",
+  "keywords": [
+    "whiskey",
+    "cinnamon",
+    "pumpkin",
+    "rum",
+    "caramel syrup",
+    "half and half",
+    "cream",
+    "halloween"
+  ]
+}

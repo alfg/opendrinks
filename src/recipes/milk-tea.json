@@ -1,0 +1,39 @@
+{
+	"name": "Milk Tea",
+	"description": "Traditional homemade milk tea, famous all over the world for color, aroma and taste.",
+	"github": "dasgupta002",
+	"ingredients": [{
+			"quantity": "1",
+			"measure": "Table Spoon",
+			"ingredient": "Tea powder(chai ki patti)"
+		},
+		{
+			"quantity": "3/4",
+			"measure": "Cup",
+			"ingredient": "Normal Milk"
+		},
+		{
+			"quantity": "1/2",
+			"measure": "Table Spoon",
+			"ingredient": "Sugar"
+		}
+	],
+	"directions": [
+		"In a non-stick saucepan put tea powder(chai ia patti).",
+		"Add sugar.",
+		"Add water.",
+		"Add milk.",
+		"Boil all ingredients together on a moderate flame.",
+		"Boil the tea till the mixture rises to the brim.",
+		"Once boiling starts, reduce the flame to low to prevent spilling out and continue to boil for 3 to 4 minutes, while stirring off to prevent the tea leaves from sticking on the sides of the pan.",
+		"Strain immediately using a strainer and discard the tea powder mixture.",
+		"Serve in a mug."
+	],
+	"image": "milk-tea.jpg",
+	"keywords": [
+		"homemade",
+		"tea",
+		"chai",
+		"milk tea"
+	]
+}

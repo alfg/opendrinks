@@ -1,0 +1,61 @@
+{
+    "name": "Coconut Lime Cilantro Cooler",
+    "description": "Making a twist on a coconut mojito, the Cilantro was substituted for the mint. The perfect cocktail for summer!",
+    "github": "FionaFR",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "coconut water"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "cup",
+            "ingredient": "sparkling water OR ginger ale OR club soda"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "rum(optional)"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "fresh cilantro chopped"
+        },
+        {
+            "quantity": "3",
+            "measure": "cubes",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "2",
+            "measure": "leaves",
+            "ingredient": "fresh cilantro for garnish"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "lime for garnish"
+        }
+
+    ],
+    "directions": [
+        "In a glass, stir all ingredients together except for the two garnishes.",
+        "Garnish with the slice of lime and the 2 fresh cilantro leaves",
+        "Serve immediately."
+    ],
+    "image": "coconut-lime-cilantro-cooler.jpg",
+    "source": "https://www.momontimeout.com/coconut-lime-cilantro-cooler/",
+    "keywords": [
+        "coconut",
+        "lime",
+        "cilantro",
+        "cooler"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Cold Brew Old Fashioned",
+    "description": "This is a new spin on an Old Fashioned. This recipe features Rye, black coffee, bitters, and was adapted from How To Drink's YouTube Channel.",
+    "github": "latonis",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "black coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Rye"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "orange bitters"
+        }
+    ],
+    "directions": [
+        "Do not stir, simply build the drink in the glass.",
+        "Add the cold black coffee.",
+        "Add the rye and then the bitters.",
+        "Served on the rocks, stir to combine."
+    ],
+    "image": "cold-brew-old-fashioned.jpg",
+    "keywords": [
+        "coffee",
+        "rye",
+        "alcoholic",
+        "orange bitters"
+    ]
+}

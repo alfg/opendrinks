@@ -1,0 +1,48 @@
+
+{
+    "name": "Tschunk",
+    "description": "Mix Club-Mate with rum for all your hacker needs.",
+    "github": "zeno4ever",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Gold rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Fresh lime slice"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Cane sugar"
+        },
+        {
+            "quantity": "20",
+            "measure": "cl",
+            "ingredient": "Club-Mate"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Dice limes, put them together with the brown sugar into a high glass and crush both.",
+        "Add crushed ice and pour the rum and the Club-Mate over it.",
+        "Add a straw"
+    ],
+    "image": "tschunk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Club-Mate",
+    "keywords": [
+        "cocktail",
+        "hacker",
+        "club-mate",
+        "rum",
+        "alcoholic",
+        "fresh"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Cherry Bourbon Smash",
+    "description": "Summer garden inspired cocktail!",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "pieces",
+            "ingredient": "cherry"
+        },
+        {
+            "quantity": "4",
+            "measure": "sprigs",
+            "ingredient": "basil"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "fresh thyme leaves"
+        },
+        {
+            "quantity": "half",
+            "measure": "piece",
+            "ingredient": "lemon, juiced"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "teaspoon",
+            "ingredient": "white wine vinegar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ginger beer for topping"
+        }
+    ],
+    "directions": [
+        "Muddle the cherries, basil, thyme, and lemon juice in a cocktail shaker or glass jar, squashing everything to release the juices.",
+        "Add the bourbon, Cointreau, and vinegar.",
+        "Fill with ice and shake until combined.",
+        "Strain and pour into prepared glasses.",
+        "Top off with ginger beer.",
+        "Finish with basil and a cherry on top.",
+        "Serve and enjoy!"
+    ],
+    "image": "cherry-bourbon-smash.jpg",
+    "source": "https://www.halfbakedharvest.com/cherry-bourbon-smash/",
+    "keywords": [
+        "bourbon",
+        "cherry",
+        "thyme",
+        "alcoholic"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Old Cuban",
+    "description": "The cocktail takes inspiration from the Mojito, but it features a few important tweaks that result in a wholly unique flavor experience.",
+    "github": "Bhavesh988",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Simple syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "5 or 6",
+            "measure": "oz",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient" : "Angostura bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "champagne"
+        }
+    ],
+    "directions": [
+        "Muddle the mint leaves with simple syrup and lime juice in a shaker.",
+        "Add the rum, bitters and ice, and shake until well-chilled.",
+        "Double-strain into a coupe glass.",
+        "Top with champagne."
+    ],
+    "image": "oldcuban.jpg",
+    "source": "https://www.liquor.com/recipes/old-cuban/",
+    "keywords": [
+        "Simple syrup",
+        "lime"
+    ]
+}

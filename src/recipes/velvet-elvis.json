@@ -1,0 +1,38 @@
+{
+    "name": "Velvet Elvis",
+    "description": "This drink is a combination of Tennessee Whiskey, Chambord Liqueur and Freshly squeezed lime juice plus a top-up lemonade.",
+    "github": "evilfactory",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "Shot Tennessee Whiskey"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Shot Chambord Liqueur"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "part",
+            "ingredient": "Shot Freshly squeezed lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "part",
+            "ingredient": "Top-up Lemonade"
+        }
+    ],
+    "directions": [
+        "Place all the ingredients (except lemonade) into a Boston Shaker over ice.",
+        "Strain into a chilled Old Fashioned tumbler glass.",
+        "Top-up with lemonade."
+    ],
+    "image": "velvet-elvis.jpg",
+    "source": "https://www.passionforcocktails.com/en/whiskey/velvet-elvis",
+    "keywords": [
+        "bourbon",
+        "velvet"
+    ]
+}

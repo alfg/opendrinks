@@ -1,0 +1,45 @@
+{
+    "name": "Mint Julep",
+    "description": "Mint juleps are the quintessential Southern cocktail. ",
+    "github": "KelseyDCooper",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "leaves",
+            "ingredient": "mint"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "mint Simple Syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "crushed ice"
+        },
+         {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "bourbon"
+        },
+         {
+            "quantity": "1",
+            "measure": "sprig",
+            "ingredient": "mint leaf"
+        }
+    ],
+    "directions": [
+        "Place mint leaves and Mint Simple Syrup in a chilled julep cup. Gently press leaves against cup with back of spoon to release flavors. ",
+        "Pack cup tightly with crushed ice; pour bourbon over ice. Place mint sprig directly next to straw, and serve immediately."
+
+    ],
+    "image": "mint-julep.jpg",
+    "source": "https://www.myrecipes.com/recipe/classic-mint-julep-1",
+    "keywords": [
+        "mint",
+        "julep",
+        "vegan",
+        "classic"
+    ]
+}

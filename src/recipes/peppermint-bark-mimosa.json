@@ -1,0 +1,46 @@
+{
+    "name": "Peppermint Bark Mimosa",
+    "description": "When you are creating a cocktail based off a traditional holiday candy you must opt for the sweet stuff!",
+    "github": "yoji-kojio",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "semisweet chocolate chips, melted"
+        },
+        {
+            "quantity": "3",
+            "measure": "units",
+            "ingredient": "candy cane, crushed"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "peppermint schnapps, divided"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "champagne or prosecco"
+        },
+        {
+            "quantity": "6",
+            "measure": "units",
+            "ingredient": "candy canes, whole"
+        }
+    ],
+    "directions": [
+        "Pour melted chocolate onto a small plate.",
+        "Pour crushed candy canes onto a separate plate.",
+        "Dip rims of champagne flutes first in chocolate, then in crushed candy canes to coat.",
+        "Add an ounce of peppermint schnapps to each glass, then top with champagne or prosecco.",
+        "Garnish with full candy canes before serving."
+    ],
+    "image": "peppermint-bark-mimosa.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a25128817/peppermint-bark-mimosas-recipe/",
+    "keywords": [
+        "candy",
+        "peppermint",
+        "champagne"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Mudslide",
+    "description": "Perfect dessert cocktail with rich coffee flavours.",
+    "github": "small-ac",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "coffee liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Baileys Irish Cream"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "heavy cream"
+        }
+    ],
+    "directions": [
+        "Add all ingredients into a shaker with ice and shake until well chilled",
+        "Strain into a chilled Fizz glass",
+        "Optional: Garnish with chocolate shavings"
+    ],
+    "image": "mudslide.jpg",
+    "keywords": [
+        "vodka",
+	"cream",
+	"cocktail",
+        "alcoholic"
+    ]
+}

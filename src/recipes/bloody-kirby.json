@@ -3,16 +3,45 @@
     "description": "Don’t let the Bloody Mary steal all of the limelight.",
     "github": "zzyzy",
     "ingredients": [
-        "1 1⁄2 oz Grey Goose Le Citron vodka",
-        "1 1⁄2 Kirby cucumber slice, peeled",
-        "1 dash Tabasco sauce",
-        "1⁄4 oz Dry vermouth",
-        "1 1⁄2 oz Tomato juice"
+        {
+            "quantity": "1 1⁄2",
+            "measure": "oz",
+            "ingredient": "Grey Goose Le Citron vodka"
+        },
+        {
+            "quantity": "1 1⁄2",
+            "measure": "",
+            "ingredient": "Kirby cucumber slice, peeled"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Tabasco sauce"
+        },
+        {
+            "quantity": "1⁄4",
+            "measure": "oz",
+            "ingredient": "Dry vermouth"
+        },
+        {
+            "quantity": "1 1⁄2",
+            "measure": "oz",
+            "ingredient": "Tomato juice"
+        }
     ],
     "directions": [
-        "In a shaker, muddle the vodka, cucumber, Tabasco, and vermouth.",
+        "Muddle the vodka, cucumber, Tabasco, and vermouth in a shaker.",
         "Strain into a rocks glass filled with ice.",
         "Top with the tomato juice and garnish with a Kirby cucumber spear."
     ],
-    "image": "bloody-kirby.jpg"
+    "image": "bloody-kirby.jpg",
+    "keywords": [
+        "vodka",
+        "tabasco",
+        "vermouth",
+        "tomato juice",
+        "alcoholic",
+        "vegan",
+        "savory"
+	]
 }

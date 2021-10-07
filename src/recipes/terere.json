@@ -1,0 +1,39 @@
+{
+    "name": "Terere",
+    "description": " Tereré or tererê is a typical South American drink made with the infusion of yerba mate in cold water.  Of Guarani origin, it can be consumed with lemon, mint, among others.",
+    "github": "phfbueno",
+    "ingredients": [
+        {
+            "quantity": "1.000",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "green lemon"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "mate herb"
+        }
+    ],
+    "directions": [
+        "Put 1 liter of cold water in a thermos, the juice of the lemon juice packet, the juice of the 4 lemons, sugar and stir.",
+        "Serve in the bowl with the herb."
+    ],
+    "image": "terere.jpg",
+    "keywords": [
+        "lemon",
+        "lemon juice",
+        "mate herb",
+        "non-alcoholic",
+        "vegan"
+	]
+}

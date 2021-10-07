@@ -1,0 +1,47 @@
+{
+  "name": "Watermelon Vodka",
+  "description": "In its clever cubicle, guaranteed effect !",
+  "github": "jcolfej",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "watermelon"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "lemons"
+    },
+    {
+      "quantity": "10",
+      "measure": "oz",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "6",
+      "measure": "teaspoon",
+      "ingredient": "brown sugar"
+    },
+    {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "mint leaves"
+    }
+  ],
+  "directions": [
+    "Open the watermelon by cutting a hat on top.",
+    "Scoop out the flesh with a spoon and blend the pieces to make a puree.",
+    "Collect the juice from the watermelon by straining it through a sieve.",
+    "Pierce the watermelon with an apple corer and install the cubicle tap.",
+    "If necessary, roll up some cellophane to seal the watermelon.",
+    "Put the vodka, brown sugar, lemon juice and watermelon juice inside and mix.",
+    "Serve and add a few mint leaves and ice cubes."
+  ],
+  "image": "watermelon-vodka.jpg",
+  "keywords": [
+    "watermelon",
+    "lemon",
+    "vodka"
+  ]
+}

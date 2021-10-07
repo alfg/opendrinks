@@ -1,0 +1,66 @@
+{
+    "name": "Fall Old-Fashioned",
+    "description": "A classic Old-Fashioned tailored to Fall.",
+    "github": "s-hale",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "bourbon"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "star anise"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cinnamon sticks"
+        },
+        {
+            "quantity": "12",
+            "measure": "",
+            "ingredient": "whole cloves"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "split vanilla bean"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "maple syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "4",
+            "measure": "dashes",
+            "ingredient": "Angostura Aromatic Bitters"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "infused bourbon"
+        }
+
+    ],
+    "directions": [
+       "Place bourbon and spices in a glass jar with a lid.",
+       "Allow to infuse for 24 hours, shaking occasionally.",
+       "Strain the bourbon into a clean jar. This makes enough for 8 cocktails.",
+       "Make the cocktail: Add the maple syrup, water, and bitters to the bottom of an old-fashioned glass.",
+       "Add the ice and the bourbon, and stir for about 30 seconds.",
+       "Garnish with orange peel: Rub a piece of orange peel around the rim of the glass and drop it in."
+    ],
+    "image": "fall-old-fashioned.jpg",
+    "keywords": [
+        "fall",
+        "old-fashioned"
+    ]
+}

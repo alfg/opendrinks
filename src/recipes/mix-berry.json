@@ -3,27 +3,49 @@
     "description": "Berries are fresh fruit and can be processed into various types of fresh drinks. The sour and sweet flavors that combine bring a refreshing sensation when eaten.",
     "github": "coroo",
     "ingredients": [
-      "12 strawberries",
-      "12 blueberries",
-      "1 sachet of sweetened condensed milk",
-      "1 tablespoon sugar",
-      "Ice cubes as needed",
-      "Rock water as needed"
+        {
+            "quantity": "12",
+            "measure": "",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "12",
+            "measure": "",
+            "ingredient": "blueberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "sachet",
+            "ingredient": "of sweetened condensed milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes as needed"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Rock water as needed"
+        }
     ],
     "directions": [
-      "Wash strawberries and blackberries.",
-      "Put strawberries and blackberries into the blender.",
-      "Add sweetened condensed milk, sugar, ice cubes, and enough water.",
-      "Last but not least, blend until the juice is evenly mixed."
+        "Wash strawberries and blackberries.",
+        "Put strawberries and blackberries into the blender.",
+        "Add sweetened condensed milk, sugar, ice cubes, and enough water.",
+        "Blend until the juice is evenly mixed."
     ],
     "image": "mix-berry.jpg",
     "keywords": [
-      "non-alcoholic",
-      "vegan",
-      "smoothie",
-      "milk",
-      "blueberries",
-      "strawberries"
-
+        "non-alcoholic",
+        "smoothie",
+        "milk",
+        "blueberries",
+        "strawberry"
     ]
-  }
+}

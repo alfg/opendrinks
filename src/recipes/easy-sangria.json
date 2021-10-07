@@ -1,0 +1,78 @@
+{
+  "name": "Easy sangria",
+  "description": "Embrace balmy summer days with a jug of sangria. With red wine, Spanish brandy, sparkling water, cinnamon and chopped fruit, it's a lovely sharing cocktail.",
+  "github": "xtbe",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "pieces",
+      "ingredient": "chopped oranges"
+    },
+    {
+      "quantity": "2",
+      "measure": "pieces",
+      "ingredient": "chopped pears"
+    },
+    {
+      "quantity": "1",
+      "measure": "piece",
+      "ingredient": "chopped lemon"
+    },
+    {
+      "quantity": "1",
+      "measure": "pieces",
+      "ingredient": "juiced lemon"
+    },
+    {
+      "quantity": "200",
+      "measure": "gr",
+      "ingredient": "chopped red berries"
+    },
+    {
+      "quantity": "3",
+      "measure": "tablespoon",
+      "ingredient": "caster sugar"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon",
+      "ingredient": "cinnamon"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "ice"
+    },
+    {
+      "quantity": "750",
+      "measure": "ml",
+      "ingredient": "light red wine"
+    },
+    {
+      "quantity": "100",
+      "measure": "ml",
+      "ingredient": "Spanish brandy"
+    },
+    {
+      "quantity": "300",
+      "measure": "ml",
+      "ingredient": "sparkling water"
+    }
+  ],
+  "directions": [
+    "Put the chopped fruit in a bowl and sprinkle over the sugar and cinnamon, then stir to coat. ",
+    "Cover and leave to macerate in the fridge for at least 1 hr, or ideally overnight.",
+    "Fill a large jug with ice.",
+    "Stir the macerated fruit mixture to ensure the sugar is dissolved, then tip into the jug with the wine and brandy.",
+    "Stir, then top up with the sparkling water and serve."
+  ],
+  "image": "easy-sangria.jpg",
+  "keywords": [
+    "brandy",
+    "wine",
+    "water",
+    "lemon",
+    "orange",
+    "berry"
+  ]
+}

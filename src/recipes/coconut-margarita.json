@@ -1,0 +1,48 @@
+{
+    "name": "Coconut Margarita",
+    "description": "Setting out to duplicate the coconut margaritas we had in Costa Rica, my first attempt was awful! I surfed the internet for a good recipe with little luck. I then took what I'd learned from my first nasty try and the ideas I picked up online and after about 5 or 6 attempts I came up with this. Enjoy!",
+    "github": "ferdox2",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Cup",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "Cup",
+            "ingredient": "Sweetened coconut cream"
+        },
+        {
+            "quantity": "4 1/2",
+            "measure": "Oz",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "Oz",
+            "ingredient": "Triple Sec"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "Cup",
+            "ingredient": "Sweetened flaked coconut"
+        }
+    ],
+    "directions": [
+        "Fill a blender with ice.", 
+        "Add the coconut cream, tequila, and triple sec.",
+        "Blend at high speed until smooth.", 
+        "Scatter the coconut onto a plate.", 
+        "Wet the rims of four glasses.",
+        "Dip the glass rims in the coconut.", 
+        "Serve the margaritas in the prepared glasses."
+    ],
+    "image": "coconut-margarita.jpg",
+    "keywords": [
+        "tequila",
+        "margarita",
+        "cocktail",
+        "coconut"
+    ]
+}

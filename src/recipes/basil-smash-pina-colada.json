@@ -1,0 +1,54 @@
+{
+    "name": "Basil Smash Pina Colada",
+    "description": "Perfect frozen cocktail to celebrate the unofficial start of summer!",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "pieces",
+            "ingredient": "lime, quartered"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "basil or mint leaves"
+        },
+        {
+            "quantity": "8",
+            "measure": "ounces",
+            "ingredient": "white rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "dark rum"
+        },
+        {
+            "quantity": "3 1/2",
+            "measure": "cup",
+            "ingredient": "pineapple chunks"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "canned coconut cream"
+        }
+    ],
+    "directions": [
+        "Muddle the lime juice, basil (or mint) together in a cocktail shaker or glass jar, squashing everything to release the juices.",
+        "Add the white rum and dark rum. Fill with ice and shake until combined. Strain into a blender.",
+        "Add the pineapple chunks and coconut cream to the blender and blend until smooth.",
+        "Add three cups ice and blend until frozen.",
+        "Pour into glasses and enjoy!"
+    ],
+    "image": "basil-smash-pina-colada.jpg",
+    "source": "https://www.halfbakedharvest.com/cranberry-bourbon-sour/",
+    "keywords": [
+        "cool",
+        "basil",
+        "alcoholic",
+        "summer",
+        "rum",
+        "pina colada"
+    ]
+}

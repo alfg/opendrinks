@@ -1,0 +1,32 @@
+{
+    "name": "Washington Apple",
+    "description": "A pleasant apple flavored beverage",
+    "github": "tnoeding",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Whiskey"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Sour Apple Pucker Schnapps"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Cranberry Juice"
+        }
+    ],
+    "directions": [
+        "Add ice and ingredients to a shaker.",
+        "Shake until it's completely cold.",
+        "Serve in a martini or highball glass."
+    ],
+    "image": "washington-apple.jpg",
+    "keywords": [
+        "apple",
+        "martini"
+    ]
+}

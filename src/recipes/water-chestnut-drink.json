@@ -1,0 +1,35 @@
+{
+    "name": "Water Chestnut Drink",
+    "description": "A super refreshing, clean and sweet chestnut drink. ",
+    "github": "Vraidd",
+    "ingredients": [
+        {
+            "quantity": "20-30",
+            "measure": "pieces",
+            "ingredient": "water chestnuts"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "pieces",
+            "ingredient": "candied winter melon"
+        },
+        {
+            "quantity": "",
+            "measure": "To taste",
+            "ingredient": "Rock Sugar"
+        }
+    ],
+    "directions": [
+        "Wash the water chestnuts. Scrub the water chestnuts with brush and wash thoroughly, sliced off the heads and bottoms and smash each water chestnut.",
+        "Bring water to boil in a large pot.",
+        "Add water chestnuts and winter melon and simmer for 45mins – 1 hr.",
+        "Add rock sugar and stir.",
+        "Turn off heat."
+    ],
+    "image": "water-chestnut-drink.jpg",
+    "keywords": [
+        "refreshing",
+        "water chestnut",
+        "asian"
+    ]
+}

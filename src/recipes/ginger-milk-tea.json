@@ -1,25 +1,54 @@
 {
-  "name": "Ginger Milk Tea",
-  "description": "Indonesian milk tea with lemongrass and ginger syrup. Great for cold weathers.",
-  "github": "VVNoodle",
-  "ingredients": [
-    "250 ml hot water",
-    "1 teabag of black tea",
-    "100 ml fresh milk",
-    "50 gr fresh ginger, peeled and bruised",
-    "1 lemongrass, chopped and bruised",
-    "50 gr sugar",
-    "250 ml water"
-  ],
-  "directions": [
-    "Boil all ginger syrup ingredients on a stovetop. Reduce heat and simmer for 5-10 minutes until all the sugar has dissolved.",
-    "Strain to get a clear syrup.",
-    "Steep the teabag in the hot water according to the manufacturer instruction.",
-    "Pour the milk and the ginger syrup. Stir to combine. Serve immediately."
-  ],
-  "image": "ginger-milk-tea.jpg",
-  "keywords": [
-    "tea",
-    "milk"
-  ]
+    "name": "Ginger Milk Tea",
+    "description": "Indonesian milk tea with lemongrass and ginger syrup. Great for cold weathers.",
+    "github": "VVNoodle",
+    "ingredients": [
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "hot water"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "teabag of black tea"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "fresh milk"
+        },
+        {
+            "quantity": "50",
+            "measure": "gr",
+            "ingredient": "fresh ginger, peeled and bruised"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemongrass, chopped and bruised"
+        },
+        {
+            "quantity": "50",
+            "measure": "gr",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "Boil all ginger syrup ingredients on a stovetop. Reduce heat and simmer for 5-10 minutes until all the sugar has dissolved.",
+        "Strain to get a clear syrup.",
+        "Steep the teabag in the hot water according to the manufacturer instruction.",
+        "Pour the milk and the ginger syrup. Stir to combine. Serve immediately."
+    ],
+    "image": "ginger-milk-tea.jpg",
+    "keywords": [
+        "tea",
+        "milk",
+        "non-alcoholic"
+    ]
 }

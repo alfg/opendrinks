@@ -1,0 +1,56 @@
+{
+  "name": "Pomegranate Margarita",
+  "description": "A sweet and sour drink perfect for Cinco de Mayo and Summer celebrations!",
+  "github": "zahrakhadijha",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "cups",
+          "ingredient": "Pure pomegranate juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "Fresh squeexed lime juice"
+      },
+      {
+          "quantity": "3/4",
+          "measure": "cup",
+          "ingredient": "tequila"
+      },
+      {
+          "quantity": "3/4",
+          "measure": "cup",
+          "ingredient": "Cointreau or Triple Sec"
+      },
+      {
+          "quantity": "3",
+          "measure": "cups",
+          "ingredient": "Ice"
+      },
+      {
+          "quantity": "1/2",
+          "measure": "cup",
+          "ingredient": "pomegranate seeds, for garnish"
+      },
+      {
+          "quantity": "2",
+          "measure": "",
+          "ingredient": "Lime wedges, for garnish"
+      }
+  ],
+  "directions": [
+      "In a pitcher, add pomegranate juice, lime juice, tequila, and Cointreau (or Triple Sec) and mix well until combined.",
+      "Taste and adjust if needed (more juice, more lime, more tequila, etc.",
+      "Divide among ice filled glasses, and garnish with pomegranate seeds and lime wedges.",
+      "Serve at once."
+  ],
+  "image": "pomegranate-margarita.jpg",
+  "source": "https://bakerbynature.com/easy-pomegranate-margaritas/",
+  "keywords": [
+      "tequila",
+      "pomegranate",
+      "alcoholic",
+      "margarita"
+  ]
+}

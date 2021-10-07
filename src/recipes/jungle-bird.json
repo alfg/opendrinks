@@ -1,0 +1,45 @@
+{
+    "name": "Jungle Bird",
+    "description": "This classic Tiki drink was created in 1978 at the Aviary bar of the Kuala Lumpur Hilton.",
+    "github": "caseydierking",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "dark rum"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Fresh Pineapple Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "fresh lime juice"
+        }
+    ],
+    "directions": [
+        "Fill a mixing glass three-quarters with ice, and add all of the ingredients.",
+        "Shake until chilled for about 30 seconds.",
+        "Strain into a rocks glass over ice cubes or one large piece of ice, and add the garnish."
+    ],
+    "image": "jungle-bird.jpg",
+    "source": "https://www.liquor.com/recipes/jungle-bird/#gs.7cblkv" ,
+    "keywords": [
+        "alcoholic",
+        "fresh",
+        "vegan",
+        "fruit"
+    ]
+}

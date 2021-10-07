@@ -1,0 +1,56 @@
+{
+  "name": "Lillet Buck",
+  "description": "A wonderfully refreshing drink - perfect to start off your next dinner-party",
+  "github": "Sina-Sche",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Lillet Blanc"
+    },
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "Ginger Ale"
+    },
+    {
+      "quantity": "1",
+      "measure": "splash",
+      "ingredient": "lime juice, freshly squeezed"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice cubes"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "lime"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "mint leaves"
+    }
+  ],
+  "directions": [
+    "Add Lillet Blanc to a glass with ice cubes.",
+    "Top up with Ginger Ale and a splash of lime juice.",
+    "Serve with a slice of lime and garnish with mint leaves."
+  ],
+
+  "image": "lillet-buck.jpg",
+  "source": "https://lillet.de/rezepte/lillet-buck/",
+  "keywords": [
+      "cool", 
+      "refreshing", 
+      "alcoholic", 
+      "ginger",
+      "lime",
+      "lime juice",
+      "mint leaves",
+      "white wine",
+      "wine"
+    ]
+}

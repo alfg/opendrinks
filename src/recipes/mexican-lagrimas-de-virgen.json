@@ -1,0 +1,57 @@
+{
+    "name": "Mexican Lágrimas de la Virgen",
+    "description": "Called Lágrimas de la virgen (Virgin's tears) - This is a traditional beverage that is made in the holy week in Mexico (central).",
+    "github": "rene-ph",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Beetroot (coocked without skin)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "128",
+            "measure": "oz",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "Lettuce"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Oranges"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Apple"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Bananas"
+        }
+    ],
+    "directions": [
+        "Cut the beetroot into small pieces.",
+        "Chopp the apple and the bananas.",
+        "Cut into small slices the oranges.",
+        "Cut the lettuce into small slices.",
+        "Add the beetroot into a blender, add some water ( only the right amount) and add sugar at one's liking.",
+        "Pour out the beetroot's liquid into a bigger jar and add the remaining water and mix it.",
+        "Add all of the fruit and the lettuce and mix it.",
+        "Enjoy!"
+    ],
+    "source": "https://www.cocinadelirante.com/bebida/lagrimas-de-la-virgen",
+    "image": "mexican-lagrimas-de-virgen.jpg",
+    "keywords": [
+        "non-alcoholic"
+    ]
+}

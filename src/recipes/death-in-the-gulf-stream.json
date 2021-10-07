@@ -1,0 +1,34 @@
+{
+    "name": "Death in the Gulf Stream",
+    "description": "A bitter favorite of Ernest Hemingway's, this drink is a tart pick me up on a sultry summer afternoon.",
+    "github": "nikolas-haug",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Holland Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Lime juice (freshly squeezed)"
+        },
+        {
+            "quantity": "15",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        }
+    ],
+    "directions": [
+        "Shake all ingredients with ice.",
+        "Fill glass with crushed ice.",
+        "Strain into glass and garnish with sliced lime."
+    ],
+    "image": "death-in-the-gulf-stream.jpg",
+    "keywords": [
+        "bitter",
+        "gin",
+        "lime",
+        "bitters"
+    ]
+}

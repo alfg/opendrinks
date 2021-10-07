@@ -1,0 +1,58 @@
+{
+    "name": "Singapore Sling",
+    "description": "A fresh blend that pays homage to the shores of this East Asian country.",
+    "github": "JoshuaMart",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Cherry liquor"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Grenadine syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cl",
+            "ingredient": "Triple sec (cointreau)"
+        },
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "8",
+            "measure": "cl",
+            "ingredient": "Pineapple juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cl",
+            "ingredient": "Bénédectine"
+        },
+        {
+            "quantity": "1",
+            "measure": "line",
+            "ingredient": "Angostura bitters"
+        }
+    ],
+    "directions": [
+        "Squeeze half a lime over the ice cubes and discard it. Add the ingredients. Stir and complete with sparkling water.",
+        "Serve in a tumbler type glass.",
+        "Decorate with a slice of pineapple and a candied cherry. "
+    ],
+    "image": "singapore-sling.jpg",
+    "keywords": [
+        "gin",
+        "fresh",
+        "East Asia"
+    ]
+}

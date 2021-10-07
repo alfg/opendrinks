@@ -1,0 +1,57 @@
+{
+    "name": "Berrylicious Frozen Sangria Slush",
+    "description": "This boozy, fruity frozen sangria is an adult version of the icy slushies we slurped down as kids. So refreshing on a hot summer night. Cheers!",
+    "github": "wfebriad",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "red wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes, crushed"
+        },
+        {
+            "quantity": "⅓ ",
+            "measure": "cup",
+            "ingredient": "frozen blueberries"
+        },
+        {
+            "quantity": "⅓",
+            "measure": "cup",
+            "ingredient": "fresh raspberries"
+        },
+        {
+            "quantity": "¼ ",
+            "measure": "cup",
+            "ingredient": "orange-flavored liqueur"
+        },
+        {
+            "quantity": "½",
+            "measure": "",
+            "ingredient": "orange, juiced"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "white sugar, or more to taste"
+        }
+    ],
+    "directions": [
+        "Combine red wine, ice cubes, blueberries, raspberries, strawberries, orange-flavored liqueur, orange juice, and sugar in a blender.",
+        "process until smooth.",
+        "Serve immediately or freeze."
+    ],
+    "image": "berrylicious-frozen-sangria-slush.jpg",
+    "keywords": [
+        "fruit",
+        "fruit juice",
+        "juice",
+        "non-alcoholic",
+        "orange",
+        "red wine",
+        "wine"
+    ]
+}

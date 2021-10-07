@@ -1,0 +1,43 @@
+{
+    "name": "Green Beast",
+    "description": "Punch is not only based on rum. The proof is in this one, created in the 2000s by a French barman, Charles Vexenat, for the great (legal) return of French absinthe in our glasses.",
+    "github": "joshuaMart",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Absinthe"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Simple sugar syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Cucumber"
+        }
+    ],
+    "directions": [
+        "Pour the ingredients into a whiskey glass and stir.",
+        "Add 2 ice cubes.",
+        "Serve."
+    ],
+    "image": "green-beast.jpg",
+    "keywords": [
+        "absinthe",
+        "lime",
+        "cucumber"
+    ]
+} 

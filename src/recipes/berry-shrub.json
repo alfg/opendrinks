@@ -1,0 +1,37 @@
+{
+    "name": "Berry Shrub",
+    "description": "A delicious berry cocktail shrub.",
+    "github": "cedrvanh",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "pint",
+            "ingredient": "fresh or frozen raspberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "sprig",
+            "ingredient": "thyme"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "white balsamic vinegar"
+        }
+    ],
+    "directions": [
+        "Add the berries, thyme and sugar to a large bowl and refrigerate overnight.",
+        "Stir in the vinegar and let sit for 3 hours, mixing or shaking occasionally, then stir until sugar is dissolved.",
+        "Strain out solids and store in the refrigerator."
+    ],
+    "image": "berry-shrub.jpg",
+    "keywords": [
+        "cocktail",
+        "fresh"
+    ]
+}

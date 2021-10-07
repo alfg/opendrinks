@@ -1,0 +1,83 @@
+{
+    "name": "Glögg",
+    "description": "Glögg (or glogg) is a warm, spiced drink, usually alcoholic in nature. It's a traditional Nordic drink during winter.",
+    "github": "stbaz",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "red wine"
+        },
+        {
+            "quantity": "Optional: 1 1/2",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "orange zest"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "cardamom pods"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "ginger (sliced)"
+        },
+        {
+            "quantity": "8",
+            "measure": "",
+            "ingredient": "cloves"
+        },
+        {
+            "quantity": "1",
+            "measure": "stick",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: orange slices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: almonds (blanched and slivered)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Garnish: raisins"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients in a pot. Heat until the wine barely reaches a simmer: avoid boiling off the alcohol.",
+        "Reduce the heat and let the wine simmer for 5-30 minutes.",
+        "Remove from the heat and strain the mixture.",
+        "Serve in heat proof glasses and garnish to your taste!"
+    ],
+    "image": "glogg.jpg",
+    "source": "https://www.flickr.com/photos/chaparral/4212802999",
+    "keywords": [
+        "alcoholic",
+        "red wine",
+        "warm",
+        "winter",
+        "christmas",
+        "scandinavian",
+        "swedish",
+        "finnish",
+        "norwegian",
+        "estonian",
+        "danish"
+    ]
+}

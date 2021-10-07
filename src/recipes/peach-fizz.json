@@ -1,0 +1,47 @@
+{
+    "name": "Peach Fizz",
+    "description": "The Peach Fizz is a cocktail that goes down easy. It’s all about peach and lemon with a little bit of sweeteners and some soda water to liven it up.",
+    "github": "sandryar",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "peach schnapps"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "gum syrup"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "soda"
+        }
+    ],
+    "directions": [
+        "Rim a highball glass with sugar.",
+        "Fill a cocktail shaker with ice.",
+        "Pour in everything exept the soda.",
+        "Shake until chilled.",
+        "Pour the mixture into a sugar-rimmed highball glass.",
+        "Top the rest of the way with soda."
+    ],
+    "image": "peach-fizz.jpg",
+    "keywords": [
+        "vodka",
+        "peach",
+        "alcoholic",
+        "vegan"
+    ]
+}

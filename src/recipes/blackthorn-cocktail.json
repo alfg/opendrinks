@@ -1,0 +1,52 @@
+{
+    "name": "Blackthorn Cocktail",
+    "description": "One of the few classics to highlight Irish whiskey",
+    "github": "DDuplinszki",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz.",
+            "ingredient": "Irish whiskey"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz.",
+            "ingredient": "dry vermouth"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz.",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Angostura bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "absinthe"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz.",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece of",
+            "ingredient": "lemon twist"
+        }
+    ],
+    "directions": [
+        "Stir all ingredients with ice, then strain into a glass filled with fresh ice, and garnish.",
+        "Enjoy!"
+    ],
+    "image": "blackthorn-cocktail.jpg",
+    "source": "https://imbibemagazine.com/recipe/blackthorn-cocktail/",
+    "keywords": [
+        "Irish whiskey",
+        "vermouth"
+    ]
+}
