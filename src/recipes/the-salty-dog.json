@@ -1,0 +1,42 @@
+{
+    "name": "The Salty Dog",
+    "description": "The Salty Dog is a lot friendlier than it sounds. This classic cocktail is a modified Greyhound that is differentiated by the drink’s salted rim.",
+    "github": "theishanbh",
+    "ingredients": [
+        {
+            "quantity": "5½",
+            "measure": "ounces",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "3",
+            "measure": "ounces",
+            "ingredient": "grapefruit juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "coarse salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "grapefruit slice"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Wet the rim of a highball glass. and dip it in coarse salt.",
+        "Dip the rim in coarse salt.",
+        "Fill the glass with ice.",
+        "Then add the gin and grapefruit juice.",
+        "Stir gently to combine.",
+        "Garnish with a grapefruit slice."
+    ],
+    "image": "the-salty-dog.jpg",
+    "keywords": [ "gin", "salty", "cold", "grapefruit", "juice"]
+} 
