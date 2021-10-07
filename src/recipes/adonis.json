@@ -1,0 +1,40 @@
+{
+    "name": "Adonis",
+    "description": "Nineteenth Century aperitif using sherry.",
+    "github": "bitsam",
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "sweet vermouth, Carpano Antica"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "fino sherry, lustau La Ina"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "orange bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "orange zest"
+        }
+    ],
+    "directions": [
+        "Pour sherry, vermouth and bitters in to a mixing glass.",
+        "Fill glass with ice and stir quickly.",
+        "Strain into a coupe glass and garnish with orange zest"
+    ],
+    "image": "<adonis.jpg>",
+    "keywords": [
+        "adonis",
+        "vermouth",
+        "sherry",
+        "orange",
+        "bitters"
+    ]
+}
