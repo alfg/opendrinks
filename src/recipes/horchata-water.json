@@ -1,0 +1,62 @@
+{
+    "name": "Horchata Water",
+    "description": "Refreshing rice horchata water ideal for hot days. Accompany it with lots of ice and enjoy a typical Mexican drink that everyone will like.",
+    "github": "Wiki-10",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "white rice, uncooked and washed"
+        },
+        {
+            "quantity": "1",
+            "measure": "can (16 oz)",
+            "ingredient": "condensed milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "can (16 oz)",
+            "ingredient": "evaporated milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "liter",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sugar (to taste)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cinammon sticks (to taste)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice (to taste)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "vanilla extract"
+        }
+    ],
+    "directions": [
+        "Put half a liter of water to heat in a pot. When it starts to boil, remove from the heat and add the rice. Let the rice soak for at least one hour.",
+        "Put the rice in the blender together with the water in which it was soaked and blend until everything is finely ground. Transfer the mixture to a large pitcher.",
+        "Add the condensed milk, the evaporated milk, the liter and a half of water, the sugar, the vanilla extract and the cinnamon. Stir until well incorporated.",
+        "Serve over ice. If desired, sprinkle cinnamon powder. "
+    ],
+    "image": "horchata-water.jpg",
+    "source": "https://res.cloudinary.com/mealthy1/image/upload/ar_16:11,c_fill,f_auto,h_760,q_auto:best,w_1140/v1535068697/cms_recipe_featured_image/yz3vqbodojti3kfbyqex.jpg",
+    "keywords": [
+        "mexican",
+        "horchata",
+        "water",
+        "fresh",
+        "homemade"
+    ]
+}

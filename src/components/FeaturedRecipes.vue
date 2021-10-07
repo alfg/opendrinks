@@ -15,9 +15,8 @@
         variant="outline-primary"
         v-if="feature.items.length > featuredItemSize && feature.size < feature.items.length"
         v-on:click="loadMore(i)"
-      >
-        Load More</b-button
-      >
+        v-t="'Load More'"
+      />
 
       <hr v-if="featuredList.length !== i + 1" />
     </div>
@@ -52,3 +51,17 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "ja": {
+    "Load More": "もっと見る"
+  },
+  "fr": {
+    "Load More": "Voir plus"
+  },
+  "hi": {
+    "Load More": "और विधि देखिये"
+  }
+}
+</i18n>

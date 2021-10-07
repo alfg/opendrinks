@@ -1,6 +1,6 @@
 <template>
   <div class="search container">
-    <h2 class="text-center">Find Your Drink</h2>
+    <h2 class="text-center">{{ $t('Find Your Drink') }}</h2>
     <RecipeFind />
   </div>
 </template>
@@ -15,3 +15,17 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "ja": {
+    "Find Your Drink": "あなたのドリンクを見つけよう"
+  },
+  "fr": {
+    "Find Your Drink": "Rechercher votre cocktail"
+  },
+  "hi": {
+    "Find Your Drink": "अपना पेय खोजें"
+  }
+}
+</i18n>

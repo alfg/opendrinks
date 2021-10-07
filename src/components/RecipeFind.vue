@@ -3,20 +3,20 @@
     <b-form-input @keydown.enter="onEnter" v-on:keydown="onKeydown" v-model.trim="search">
     </b-form-input>
 
-    <b-form-group class="mt-2" label="Filter by:">
+    <b-form-group class="mt-2" :label="`${$t('Filter by')}:`">
       <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
-        <b-form-radio value="name">Name</b-form-radio>
+        <b-form-radio value="name">{{ $t('Name') }}</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple ingredients by separating them with a space"
+          :title="$t('You can search for multiple ingredients by separating them with a space')"
           value="ingredients"
-          >Ingredients</b-form-radio
+          >{{ $t('Ingredients') }}</b-form-radio
         >
         <b-form-radio
           v-b-tooltip.hover
-          title="You can search for multiple keywords by separating them with a space"
+          :title="$t('You can search for multiple keywords by separating them with a space')"
           value="keywords"
-          >Keywords</b-form-radio
+          >{{ $t('Keywords') }}</b-form-radio
         >
       </b-form-radio-group>
     </b-form-group>
@@ -180,3 +180,32 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "ja": {
+    "Filter by": "検索条件",
+    "Name": "名前",
+    "Ingredients": "材料",
+    "Keywords": "キーワード",
+    "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
+    "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
+  },
+  "fr": {
+    "Filter by": "Filtrer par",
+    "Name": "Nom",
+    "Ingredients": "Ingrédients",
+    "Keywords": "Mots-clés",
+    "You can search for multiple ingredients by separating them with a space": "Vous pouvez chercher avec plusieurs ingrédients en les séparants avec un espace",
+    "You can search for multiple keywords by separating them with a space": "Vous pouvez chercher avec plusieurs mots-clés en les séparants avec un espace"
+  },
+  "hi": {
+    "Filter by": "छाने",
+    "Name": "नाम",
+    "Ingredients": "सामग्री",
+    "Keywords": "सूचक-शब्द",
+    "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
+    "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
+  }
+}
+</i18n>

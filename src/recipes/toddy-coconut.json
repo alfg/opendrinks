@@ -1,0 +1,42 @@
+{
+    "name": "Toddy from Coconut Water",
+    "description": "Toddy is an alcoholic drink got from palm or coconut tree.",
+    "github": "Ashwin-exe",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Coconut water or tender coconut water "
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tsp",
+            "ingredient": "Yeast"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Lukewarm water"
+        }
+        
+    ],
+    "directions": [
+        "Take 1/2 cup of lukewarm water add,",
+        "1/2 tsp yeast and 2 tbsp of sugar. Mix it well and keep this mixture aside covered for 10 minutes.",
+         "Take a large clean dry jar. Add 500 ml of coconut water.",
+         "Add yeast sugar mixture.",
+         "Now cover the jar with a muslin cloth and leave it to ferment for about 24 hours."
+
+    ],
+    "image": "toddy-coconut.jpg",
+    "source": "https://www.holidify.com/pages/toddy-in-kerala-378.html",
+    "keywords": [
+        "alcoholic",
+        "vegan"
+    ]
+}

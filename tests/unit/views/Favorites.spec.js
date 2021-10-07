@@ -2,6 +2,7 @@ import { createLocalVue, mount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import Favorites from '@/views/Favorites.vue';
 
 const localVue = createLocalVue();
@@ -16,6 +17,7 @@ describe('Favorites (Populated)', () => {
     wrapper = mount(Favorites, {
       localVue,
       router,
+      i18n,
     });
   });
 
@@ -42,6 +44,7 @@ describe('Favorites (Empty)', () => {
     wrapper = mount(Favorites, {
       localVue,
       router,
+      i18n,
     });
   });
 
@@ -50,6 +53,7 @@ describe('Favorites (Empty)', () => {
     wrapper = mount(Favorites, {
       localVue,
       router,
+      i18n,
     });
     expect(wrapper.find('.alert-info').html()).toContain("You don't have any favorite drinks");
   });

@@ -8,7 +8,7 @@
         :unchecked-value="true"
         @change="onShowImage"
       >
-        Hide Image
+        {{ $t('Hide Image') }}
       </b-form-checkbox>
     </div>
 
@@ -18,44 +18,45 @@
       :isFavorited="isFavorited"
     ></FavoriteStar>
 
-    <div class="print-button" v-if="!isMobile">
+    <div class="mx-1 print-button" v-if="!isMobile">
       <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-        Print
+        {{ $t('Print') }}
       </b-button>
       <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        Print
+        {{ $t('Print') }}
       </b-button>
     </div>
+    <ShareNetwork
+      network="facebook"
+      :url="url"
+      :title="drink.name"
+      :description="drink.description"
+      :hashtags="drink.keywords.join()"
+      class="px-1 clickable-icon-hover"
+    >
+      <BIconFacebook font-scale="2"></BIconFacebook>
+    </ShareNetwork>
+    <ShareNetwork
+      network="twitter"
+      :url="url"
+      :title="drink.name"
+      :description="drink.description"
+      :hashtags="drink.keywords.join()"
+      class="px-1 clickable-icon-hover"
+    >
+      <BIconTwitter font-scale="2"></BIconTwitter>
+    </ShareNetwork>
 
-    <div class="share-button">
-      <b-dropdown text="Share" variant="outline-primary" right class="m-2">
-        <b-dropdown-item>
-          <ShareNetwork
-            network="facebook"
-            :url="url"
-            :title="drink.name"
-            :description="drink.description"
-            :hashtags="drink.keywords.join()"
-          >
-            Share on Facebook
-          </ShareNetwork>
-        </b-dropdown-item>
-        <b-dropdown-item>
-          <ShareNetwork
-            network="twitter"
-            :url="url"
-            :title="drink.name"
-            :description="drink.description"
-            :hashtags="drink.keywords.join()"
-          >
-            Share on Twitter
-          </ShareNetwork>
-        </b-dropdown-item>
-        <b-dropdown-item @click.prevent="copyUrl">
-          <a href="#">Copy URL</a>
-        </b-dropdown-item>
-      </b-dropdown>
-    </div>
+    <BIconFiles
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      font-scale="2"
+      @click="copyUrl"
+    >
+    </BIconFiles>
+
+    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
+      {{ $t('The link to this page is copied in your clipboard') }}
+    </b-toast>
   </div>
 </template>
 
@@ -77,6 +78,7 @@ export default {
     return {
       favorites: [],
       showImage: true,
+      copyToast: false,
     };
   },
   created() {
@@ -119,6 +121,7 @@ export default {
         document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
       el.select();
       document.execCommand('copy');
+      this.copyToast = true;
       document.body.removeChild(el);
       if (selected) {
         document.getSelection().removeAllRanges();
@@ -128,3 +131,42 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.clickable-icon-hover {
+  transition: transform 0.2s;
+}
+
+.clickable-icon-hover:hover {
+  transform: scale(1.2);
+}
+</style>
+
+<i18n>
+{
+  "ja": {
+    "Print": "印刷",
+    "Share": "共有",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "URLをコピー",
+    "Hide Image": "画像を非表示"
+  },
+  "fr": {
+    "Print": "Imprimer",
+    "Share": "Partager",
+    "Share on Facebook": "Partager sur Facebook",
+    "Share on Twitter": "Partager sur Twitter",
+    "Copy URL": "copier l'url",
+    "Hide Image": "cacher l'image"
+  },
+  "hi": {
+    "Print": "प्रिंट करे",
+    "Share": "बाटें",
+    "Share on Facebook": "फेसबुक पर बाटे",
+    "Share on Twitter": "ट्विटर पर बाटे",
+    "Copy URL": "यूआरएल नकल करें",
+    "Hide Image": "चित्र छुपाएं"
+  }
+}
+</i18n>

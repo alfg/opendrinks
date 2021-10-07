@@ -3,6 +3,7 @@ import BootstrapVue from 'bootstrap-vue';
 import recipes from '@/recipes';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import RecipeTile from '@/components/RecipeTile.vue';
 
 const localVue = createLocalVue();
@@ -34,6 +35,7 @@ describe('RecipeTile', () => {
     propsData: { id: 'americano' },
     localVue,
     router,
+    i18n,
   });
 
   test('is a Vue instance', () => {

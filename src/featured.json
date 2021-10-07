@@ -62,7 +62,7 @@
       "drunken-peanut-butter-cups"
     ],
     "size": 12,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Everything is Chocolate",
@@ -175,7 +175,9 @@
       "peanut-butter-banana-smoothie",
       "royal-milk-tea",
       "thandai",
-      "yogurt-fruit-shake"
+      "yogurt-fruit-shake",
+      "nevada",
+      "meia-de-seda"
     ],
     "size": 6
   },

@@ -3,12 +3,12 @@
     <div v-if="showFilter">
       <div class="row">
         <div class="col-12">
-          <h4>Filters</h4>
+          <h4>{{ $t('Filters') }}</h4>
         </div>
       </div>
       <div class="row">
         <div class="col-6 d-flex flex-row align-items-center mb-2">
-          <span class="text-nowrap mr-2">Add Keyword</span>
+          <span class="text-nowrap mr-2">{{ $t('Add Keyword') }}</span>
           <b-form-select
             v-model="selectedKeyword"
             @change="addNewKeywordToFilter($event)"
@@ -37,10 +37,9 @@
         class="mr-2"
         size="sm"
         v-if="showFilter"
-      >
-        Reset Filters
-      </b-button>
-      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm">Filters</b-button>
+        v-t="'Reset Filters'"
+      />
+      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
     </div>
     <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
@@ -119,3 +118,23 @@ export default {
   content: '×';
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "Filters": "フィルター",
+    "Reset Filters": "条件をクリア",
+    "Add Keyword": "キーワードを追加"
+  },
+  "fr": {
+    "Filters": "Filtres",
+    "Reset Filters": "Enlever les filtres",
+    "Add Keyword": "Ajouter un mot-clés"
+  },
+  "hi": {
+    "Filters": "छन्नी",
+    "Reset Filters": "छन्नी रीसेट करें",
+    "Add Keyword": "सूचक-शब्द जोड़ें"
+  }
+}
+</i18n>
