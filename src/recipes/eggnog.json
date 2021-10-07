@@ -1,0 +1,37 @@
+{
+    "name": "Eggnog",
+    "description": "Eggnog, historically also known as a milk punch or an egg milk punch when alcoholic beverages are added, is a rich, chilled, sweetened, dairy-based beverage. It is traditionally made with milk, cream, sugar, whipped egg whites, and egg yolks.",
+    "github": "Majdi-Zlitni",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "Egg Measure",
+            "ingredient": "eggs"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "cup",
+            "ingredient": "honey or sugar"
+        },
+        {
+            "quantity": "0,5",
+            "measure": "ml",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "4",
+            "measure": "cup",
+            "ingredient": "milk"
+        }
+    ],
+    "directions": [
+        "In a large saucepan, whisk together the eggs, honey and salt. Gradually add 2 cups (500 mL) of milk. Cook over medium-low heat, stirring constantly, until the mixture coats the back of the spoon, 12 to 15 minutes. (Avoid boiling).",
+        "Pour into a large fireproof bowl: stir in the rest of the milk and the vanilla. Place bowl over ice water and stir frequently until mixture is cold, about 15 minutes. Cover and refrigerate for at least 3 hours."
+    
+    ],
+    "image": "eggnos.jpg",
+    "keywords": [
+        "fruit",
+        "juice"
+    ]
+}
