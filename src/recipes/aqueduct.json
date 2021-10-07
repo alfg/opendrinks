@@ -1,0 +1,40 @@
+
+{
+  "name": "Aqueduct",
+  "description": "The Aqueduct cocktail is made from vodka, Cointreau, apricot brandy and lime juice, and served in a cocktail glass.",
+  "github": "lazav94",
+  "ingredients": [
+      {
+          "quantity": "45",
+          "measure": "ml",
+          "ingredient": "Vodka"
+      },
+      {
+          "quantity": "15",
+          "measure": "ml",
+          "ingredient": "Cointreau"
+      },
+      {
+          "quantity": "15",
+          "measure": "ml",
+          "ingredient": "Apricot Liqueur"
+      },
+      {
+          "quantity": "15",
+          "measure": "ml",
+          "ingredient": "Lime Juice"
+      }
+  ],
+  "directions": [
+      "Fill a shaker with ice cubes.",
+      "Add all ingredients.",
+      "Shake and strain into a cocktail glass.",
+      "Garnish with orange."
+  ],
+  "image": "aqueduct.jpg",
+  "keywords": [
+      "vodka",
+      "cointreau",
+      "apricot"
+  ]
+}

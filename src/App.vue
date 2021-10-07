@@ -117,6 +117,13 @@ export default {
     "Explore": "探索",
     "Keywords": "キーワード",
     "Search": "検索"
+  },
+  "fr": {
+    "Featured": "En vedette",
+    "Random": "Aléatoire",
+    "Explore": "Parcourir",
+    "Keywords": "Mots-Clés",
+    "Search": "Recherche"
   }
 }
 </i18n>

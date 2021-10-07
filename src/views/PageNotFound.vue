@@ -27,6 +27,10 @@ export default {
   "ja": {
     "The page you are looking for was not found.": "お探しのページは見つかりませんでした。",
     "Back to Home": "ホームに戻る"
+  },
+  "fr": {
+  "The page you are looking for was not found.": "Page non trouvée",
+  "Back to Home": "Retour à l'accueil"
   }
 }
 </i18n>

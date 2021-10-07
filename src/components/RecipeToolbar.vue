@@ -65,6 +65,26 @@
         <BIconPrinter :fontScale="2" v-b-tooltip.hover.nonInteractive="$t('Print')"></BIconPrinter>
       </a>
     </div>
+    <ShareNetwork
+      network="facebook"
+      :url="url"
+      :title="drink.name"
+      :description="drink.description"
+      :hashtags="drink.keywords.join()"
+      class="px-1 clickable-icon-hover"
+    >
+      <BIconFacebook font-scale="2"></BIconFacebook>
+    </ShareNetwork>
+    <ShareNetwork
+      network="twitter"
+      :url="url"
+      :title="drink.name"
+      :description="drink.description"
+      :hashtags="drink.keywords.join()"
+      class="px-1 clickable-icon-hover"
+    >
+      <BIconTwitter font-scale="2"></BIconTwitter>
+    </ShareNetwork>
 
     <b-toast v-model="copyToast" :title="$t('URL Copied')" :auto-hide-delay="500">
       {{ $t('The URL is copied in your clipboard') }}
@@ -163,6 +183,14 @@ export default {
     "Share on Twitter": "Twitter",
     "Copy URL": "URLをコピー",
     "Hide Image": "画像を非表示"
+  },
+  "fr": {
+    "Print": "Imprimer",
+    "Share": "Partager",
+    "Share on Facebook": "Partager sur Facebook",
+    "Share on Twitter": "Partager sur Twitter",
+    "Copy URL": "copier l'url",
+    "Hide Image": "cacher l'image"
   }
 }
 </i18n>
