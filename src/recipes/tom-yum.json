@@ -1,0 +1,62 @@
+{
+  "name": "Tom Yum",
+  "description": "With its exotic flavors, light acidity, aromatic Thai ingredients and tequila with vegetal notes, this cocktail opens new perspectives and stimulates your taste buds.",
+  "github": "jcolfej",
+  "ingredients": [
+    {
+      "quantity": "1.5",
+      "measure": "oz",
+      "ingredient": "Patrón Silver infused with coriander and Kaffir lime"
+    },
+    {
+      "quantity": "7",
+      "measure": "oz",
+      "ingredient": "milk"
+    },
+    {
+      "quantity": "0.35",
+      "measure": "oz",
+      "ingredient": "lime juice"
+    },
+    {
+      "quantity": "0.35",
+      "measure": "oz",
+      "ingredient": "agave syrup"
+    },
+    {
+        "quantity": "1",
+        "measure": "teaspoon",
+        "ingredient": "white wine vinegar"
+    },
+    {
+        "quantity": "4",
+        "measure": "",
+        "ingredient": "coriander"
+    },
+    {
+        "quantity": "2",
+        "measure": "",
+        "ingredient": "lemongrass"
+    },
+    {
+        "quantity": "2",
+        "measure": "",
+        "ingredient": "pepper"
+    }
+  ],
+  "directions": [
+    "Place all ingredients in a shaker with ice.",
+    "Shake and pour into a whiskey glass rimmed with shrimp salt.",
+    "Garnish with coriander and dried chili pepper.",
+    "Optional shrimp salt: mix 150g of shrimp powder with 250g of salt."
+  ],
+  "image": "tom-yum.jpg",
+  "keywords": [
+    "milk",
+    "lime juice",
+    "agave syrup",
+    "coriander",
+    "lemongrass",
+    "pepper"
+  ]
+}
