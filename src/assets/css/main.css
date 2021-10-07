@@ -1,8 +1,12 @@
 @import './theme.css';
 @import './slider.css';
 
-svg{
+.theme-bg-color{
   color: var(--main-bg-color) !important;
+}
+
+.theme-link-color{
+  color: var(--main-link-color) !important;
 }
 
 .list-group-item {
@@ -55,4 +59,8 @@ a, a:hover, h5 {
 .card {
   background-color: var(--main-bg-color);
   border:1px solid var(--main-line-color);
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }
