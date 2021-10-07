@@ -59,6 +59,9 @@ export default {
   },
   "fr": {
     "Load More": "Voir plus"
+  },
+  "hi": {
+    "Load More": "और विधि देखिये"
   }
 }
 </i18n>

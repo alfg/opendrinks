@@ -74,6 +74,13 @@ export default {
     "Are you sure you want to remove all favorites": "Etes-vous sûr de vouloir supprimer tous les favoris",
     "Delete": "Supprimer",
     "Cancel": "Annuler"
+  },
+  "hi": {
+    "You don't have any favorite drinks": "आपका कोई पसंदीदा पेय नहीं है",
+    "Remove All Favorites": "सभी पसंदीदा हटाएं",
+    "Are you sure you want to remove all favorites": "क्या आप वाकई सभी पसंदीदा हटाना चाहते हैं",
+    "Delete": "हटाइये",
+    "Cancel": "रद्द करें"
   }
 }
 </i18n>

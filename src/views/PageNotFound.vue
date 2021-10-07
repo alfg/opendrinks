@@ -31,6 +31,10 @@ export default {
   "fr": {
   "The page you are looking for was not found.": "Page non trouvée",
   "Back to Home": "Retour à l'accueil"
+  },
+  "hi": {
+  "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
+  "Back to Home": "घर वापसी"
   }
 }
 </i18n>

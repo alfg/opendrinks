@@ -159,6 +159,14 @@ export default {
     "Share on Twitter": "Partager sur Twitter",
     "Copy URL": "copier l'url",
     "Hide Image": "cacher l'image"
+  },
+  "hi": {
+    "Print": "प्रिंट करे",
+    "Share": "बाटें",
+    "Share on Facebook": "फेसबुक पर बाटे",
+    "Share on Twitter": "ट्विटर पर बाटे",
+    "Copy URL": "यूआरएल नकल करें",
+    "Hide Image": "चित्र छुपाएं"
   }
 }
 </i18n>
