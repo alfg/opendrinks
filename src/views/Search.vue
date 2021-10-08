@@ -26,6 +26,9 @@ export default {
   },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
+  },
+  "nl": {
+    "Find Your Drink": "Vind jouw drankje"
   }
 }
 </i18n>
