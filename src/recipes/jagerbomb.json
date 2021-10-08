@@ -1,12 +1,12 @@
 {
-    "name": "JagerBomb",
-    "description": "",
+    "name": "Jägerbomb",
+    "description": "The Jägerbomb is a bomb mixed drink made by dropping a shot of Jägermeister into an energy drink, typically Red Bull.",
     "github": "kaczmarekdaniel",
     "ingredients": [
         {
             "quantity": "20",
             "measure": "ml",
-            "ingredient": "Jagermeister"
+            "ingredient": "Jägermeister"
         },
         {
             "quantity": "200",
@@ -17,13 +17,13 @@
     ],
     "directions": [
         "Pour Red Bull in highball glass",
-        "Gently put a shot of red bull in glass",
+        "Gently put a shot of Jägerbomb in glass",
         "Serve and enjoy!"
     ],
     "image": "jagerbomb.jpg",
     "keywords": [
-        "jagermeister",
+        "Jägermeister",
         "redbull",
-        "jagerbomb"
+        "Jägerbomb"
     ]
 }
