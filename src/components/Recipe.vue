@@ -300,6 +300,13 @@ export default {
     "Directions": "तैयारी",
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
+  },
+    "po": {
+    "Contributed by": "Contribuíram por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instruções",
+    "View full recipe at": "Veja a receita completa em",
+    "Similar drinks": "Bebidas semelhantes"
   }
 }
 </i18n>

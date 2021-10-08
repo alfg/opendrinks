@@ -160,6 +160,9 @@ export default {
   },
   "hi": {
     "View Recipe": "विधि देखे"
+  },
+  "po": {
+    "View Recipe": "Ver Receita"
   }
 }
 </i18n>

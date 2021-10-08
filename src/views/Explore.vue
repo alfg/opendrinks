@@ -135,6 +135,11 @@ export default {
     "Filters": "छन्नी",
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
+  },
+  "po": {
+    "Filters": "Filtros",
+    "Reset Filters": "Redefinir Filtros",
+    "Add Keyword": "Adicionar palavra-chave"
   }
 }
 </i18n>

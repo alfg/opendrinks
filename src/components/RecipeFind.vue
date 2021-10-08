@@ -206,6 +206,14 @@ export default {
     "Keywords": "सूचक-शब्द",
     "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
     "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
+  },
+  "po": {
+    "Filter by": "Filtrar por",
+    "Name": "Nome",
+    "Ingredients": "Ingredientes",
+    "Keywords": "palavras-chave",
+    "You can search for multiple ingredients by separating them with a space": "Você pode pesquisar vários ingredientes separando-os com um espaço",
+    "You can search for multiple keywords by separating them with a space": "Você pode pesquisar várias palavras-chave separando-as com um espaço"
   }
 }
 </i18n>

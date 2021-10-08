@@ -131,6 +131,13 @@ export default {
     "Explore": "अन्वेषण करिये",
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
+  },
+  "po": {
+    "Featured": "Apresentou",
+    "Random": "Aleatório",
+    "Explore": "Explorar",
+    "Keywords": "Palavras-chave",
+    "Search": "Procurar"
   }
 }
 </i18n>

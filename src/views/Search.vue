@@ -26,6 +26,9 @@ export default {
   },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
+  },
+  "po": {
+    "Find Your Drink": "Encontre sua bebida"
   }
 }
 </i18n>
