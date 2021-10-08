@@ -1,0 +1,35 @@
+{
+"name": "Blueberry Banana Smoothie",
+"description": "Added wheat germ gives this a nutty taste!",
+"github": "bookish",
+"ingredients": [{
+"quantity": "1",
+"measure": "peeled",
+"ingredient": "banana"
+},
+{
+"quantity": "1",
+"measure": "cup",
+"ingredient": "frozen blueberries"
+},
+{
+"quantity": "1",
+"measure": "tbsp",
+"ingredient": "orange juice"
+},
+{
+"quantity": "1",
+"measure": "tbsp",
+"ingredient": "wheat germ"
+}
+],
+"directions": [
+"Combine all ingredients in a blender.",
+"Optionally, add a tablespoon of flax seed oil, if desired.",
+"Pour into a glass and enjoy!"
+],
+"image": "blueberry-banana-smoothie.jpg",
+"keywords": [
+"orange", "banana", "smoothie", "vitamins", "vitamin", "juice", "non-alcoholic", "fruit", "cold", "blueberries", "blueberry", "flax", "wheat germ", "oil", "flax seed", "frozen", "nut", "nutty", "fibre", "fiber"
+]
+}
