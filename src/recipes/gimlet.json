@@ -3,17 +3,38 @@
     "description": "A refreshing classic cocktail made with gin, lime juice and simple syrup. Perfect for the summer.",
     "github": "arxcdr",
     "ingredients": [
-        "2 oz gin",
-        "1/2 oz simple syrup",
-        "1/2 oz fresh lime juice",
-        "Fresh lime wedge or wheel"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Fresh lime wedge or wheel"
+        }
     ],
     "directions": [
         "Fill a mixing glass with ice, then add the gin, simple syrup and lime juice.",
         "Stir the ice and the ingredients with a bar spoon for a few minutes.",
         "Strain the cocktail into a chilled martini or cocktail glass.",
         "Garnish with the lime wedge/wheel."
-
     ],
-    "image": "gimlet.jpg"
+    "image": "gimlet.jpg",
+    "keywords": [
+        "gin",
+        "lime juice",
+        "alcoholic",
+        "vegan"
+    ]
 }

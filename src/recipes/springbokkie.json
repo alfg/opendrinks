@@ -1,0 +1,28 @@
+{
+    "name": "Springbokkie",
+    "description": "The Springbokkie, composed of creme de menthe and Amarula, is a cocktail shooter that is popular in South Africa.",
+    "github": "acesaft",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Amarula"
+        },
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "Crème de menthe"
+        }
+    ],
+    "directions": [
+      "The Crème de menthe is poured into the shot glass and the Amarula is carefully layered on top."
+    ],
+    "image": "springbokkie.jpg",
+    "source": "By Lorienkee - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7463016",
+    "keywords": [
+        "mint",
+        "amarula",
+        "shot",
+        "alcoholic"
+    ]
+}

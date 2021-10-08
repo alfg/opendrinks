@@ -1,0 +1,51 @@
+{
+    "name": "Ginger Lime Whiskey Sour",
+    "description": "A whiskey sour with a spicy kick from the ginger",
+    "github": "mongjong86",
+    "ingredients": [
+        {
+            "quantity": "60 mL",
+            "measure": "",
+            "ingredient": "whiskey"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "juice of 1 lime"
+        },
+        {
+            "quantity": "120mL",
+            "measure": "",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "150g",
+            "measure": "",
+            "ingredient": "granulated sugar"
+        },
+        {
+            "quantity": "1 piece",
+            "measure": "",
+            "ingredient": "fresh ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "egg white (optional)"
+        }
+    ],
+    "directions": [
+        "Make your ginger simple syrup by heating the Water (120 mL) and Granulated Sugar (150 g) over medium heat. Stir until combined. Once combined, remove from heat and add Fresh Ginger (1 piece). Let cool.",
+        "Mix your drink by combining Whiskey (60 mL), Lime Juice (1), Egg White (1), and 1 part ginger syrup in a tumbler. Shake for 20 seconds.",
+        "Strain into a coupe glass and garnish with Lemons (to taste). Serve and enjoy!"
+    ],
+    "image": "ginger-lime-whiskey-sour.jpg",
+    "keywords": [
+        "fruit",
+        "lemon",
+        "lime",
+        "ginger",
+        "whiskey",
+        "sour"
+    ]
+}

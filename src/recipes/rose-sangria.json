@@ -1,0 +1,50 @@
+{
+    "name": "Rose Sangria",
+    "description": "A simple and tasty rosé sangria.",
+    "github": "MrValraven",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "oranges"
+        },
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "3",
+            "measure": "teaspoon",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "11",
+            "measure": "oz (or 330ml)",
+            "ingredient": "7up or any citrus soda"
+        },
+        {
+            "quantity": "17",
+            "measure": "oz (or 550Mml)",
+            "ingredient": "rosé wine"
+        }
+    ],
+    "directions": [
+        "Slice the oranges and strawberries into a jar.",
+        "Place the sugar and muddle all the ingredients.",
+        "Fill the jar with ice.",
+        "Place the soda and the wine inside the jar.",
+        "Mix it all up, in circular motions, going in a upwards motion.",
+        "Add some mint leaves as garnish and enjoy!"
+
+    ],
+    "image": "rose-sangria.jpg",
+    "keywords": [
+        "summer",
+        "fresh",
+        "sangria",
+        "sweet",
+        "vegan",
+        "alcoholic"
+    ]
+}

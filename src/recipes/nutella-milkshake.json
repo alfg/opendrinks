@@ -1,0 +1,55 @@
+{
+    "name": "Ultimate Nutella Milkshake",
+    "description": "A cold concotion for the sweet tooth.",
+    "github": "JeswinSunsi",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Nutella"
+        },
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Vanilla Icecream"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Hazelnut Icecream - Optional"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "chocolate paste"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "whole milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sprinkles"
+        }
+    ],
+    "directions": [
+        "Mix the Nutella and the vanilla icecream.",
+        "Blend the mixture to an almost-liquid consistency.",
+        "Transfer the blend into a cup or a glass.",
+        "Add the hazelnut icecream on top.",
+        "Design with chocolate paste.",
+        "Add the sprinkles on top.",
+        "Freeze in the refrigerator for a while.",
+        "Serve and enjoy!"
+    ],
+    "image": "Nutella-Milkshake.jpg",
+    "source": "https://chefsavvy.com",
+    "keywords": [
+        "chocolate",
+        "nutella",
+        "non-alcoholic",
+        "cold"
+    ]
+}

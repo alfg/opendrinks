@@ -1,0 +1,46 @@
+{
+    "name": "The Bengal Tiger",
+    "description": "Light and punchy, Novotel (Kolkata) Ritika Rai's Bengal Tiger is aptly named.",
+    "github": "ch1771dr0b0",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "White Rum"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "brandy"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Pineapple juice"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "Pomegranate juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "piece",
+            "ingredient": "Gondraj lemon"
+        }
+    ],
+    "directions": [
+        "In a shaker filled with ice pour the spirits, some sweet and sour mix",
+        "Pour the juices and shake the mixture.",
+        "In a tall glass filled with ice pour the drink.",
+        "Garnish with a wedge of gondoraj lemon and twist a peel of the lemon over the drink.",
+        "Rub the peel on the glass for the freshness and aroma.",
+        "Serve with a smile!"
+    ],
+    "image": "the-bengal-tiger.jpg",
+    "source": "https://www.huffingtonpost.in/2016/04/04/summer-cocktails-indian-b_n_9579878.html",
+    "keywords": [
+        "Indian",
+        "alcoholic"
+    ]
+}

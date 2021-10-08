@@ -1,0 +1,55 @@
+{
+    "name": "Calamity Jane",
+    "description": "Fruity tequila cocktail with a spicy aftertaste.",
+    "github": "mbartlet",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime slice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "fresno chili"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "strawberry"
+        },
+        {
+            "quantity": "1.25",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "orange liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "ancho reyes"
+        },
+        {
+            "quantity": "1",
+            "measure": "leaf",
+            "ingredient": "basil"
+        }
+    ],
+    "directions": [
+        "Pour tequila in glass first, mix with basil leaf.",
+        "Lightly top with orange liqueur and ancho reyes to keep a orange glow near the top of the drink.",
+		"Slice strawberry and lime slice and place the slice on the rim of the glass for decoration.",
+        "Drop the fresno chili through the center of the drink to lightly mix."
+    ],
+    "image": "calamity-jane.jpg",
+    "keywords": [
+        "alcoholic",
+        "ancho reyes",
+        "tequila",
+        "spicy"
+    ]
+}

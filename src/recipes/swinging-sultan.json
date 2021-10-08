@@ -1,0 +1,49 @@
+{
+    "name": "Swinging Sultan",
+    "description": "A kind of Turkish Cosmopolitan, an exotic pomegranate cocktail with lime juice, Triple-sec and raki.",
+    "github": "goktugacik",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Pomegranate Juice."
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+		{
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Raki"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Triple Sec"
+        },
+		{
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Lime Juice "
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Combine vodka, pomegranate juice, Triple Sec and lime juice in a large shaker with ice.",
+        "Shake vigorously for five to ten seconds.",
+        "Pour into two martini glasses.",
+        "Spray raki over surface of each drink, 1- 2 spritzes per glass."
+    ],
+    "image": "swinging-sultan.jpg",
+    "keywords": [
+        "raki",
+        "pomegranate",
+		"cosmopolitan"
+    ]
+}

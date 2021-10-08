@@ -1,0 +1,61 @@
+{
+    "name": "Lynchburg Lemonade",
+	"description": "A cocktail and long drink made with, among other ingredients, Jack Daniel's Tennessee whiskey. It is named after Lynchburg, Tennessee, home of the Jack Daniel's distillery.",
+    "github": "Donearm",
+    "ingredients": [
+        {
+            "quantity": "40",
+            "measure": "ml",
+            "ingredient": "jack daniels"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "triple sec"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lemonade/sprite"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lemon slices"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "cherries"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+		"Shake first 3 ingredients with ice.",
+		"Strain into a ice-filled glass.",
+		"Top with lemonade.",
+		"Add more ice and stir.",
+		"Garnish with lemon slices and cherries."
+    ],
+    "image": "lynchburg-lemonade.jpg",
+    "keywords": [
+        "whisky",
+        "jack daniels",
+        "lemonade",
+        "lemon"
+    ]
+}

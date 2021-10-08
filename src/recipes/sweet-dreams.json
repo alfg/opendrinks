@@ -1,0 +1,49 @@
+{
+  "name": "Sweet Dreams",
+  "description": "A low alcohol drink, delicious to enjoy on a hot summer day.",
+  "github": "renanlmiranda",
+  "ingredients": [
+      {
+          "quantity": "1/32",
+          "measure": "oz",
+          "ingredient": "Apricot Brandy"
+      },
+      {
+          "quantity": "1",
+          "measure": "oz",
+          "ingredient": "Light rum"
+      },
+      {
+          "quantity": "1/32",
+          "measure": "oz",
+          "ingredient": "Pineapple juice"
+      },
+      {
+        "quantity": "1",
+        "measure": "oz",
+        "ingredient": "Gin"
+      },
+      {
+        "quantity": "1",
+        "measure": "",
+        "ingredient": "Maraschino cherry"
+      },
+      {
+        "quantity": "",
+        "measure": "",
+        "ingredient": "Ice cubes"
+      }
+  ],
+  "directions": [
+      "Fill a cocktail shaker with ice cubes.",
+      "Add all the ingredients.",
+      "Shake and strain into a cocktail glass.",
+      "Decorate with a Maraschino cherry."
+  ],
+  "image": "sweet-dreams.jpg",
+  "keywords": [
+      "alcoholic",
+      "gin",
+      "sweet dreams"
+  ]
+} 

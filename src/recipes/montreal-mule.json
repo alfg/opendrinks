@@ -1,0 +1,35 @@
+{
+  "name": "Montreal Mule",
+  "description": "It's a simple and fresh cocktail. Don't forget the mug.",
+  "github": "marionFlx",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "canadian gin"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "oz",
+      "ingredient": "lime juice, freshly squeezed"
+    },
+    {
+      "quantity": "6",
+      "measure": "oz",
+      "ingredient": "ginger beer"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "fresh mint sprig"
+    }
+  ],
+  "directions": [
+    "Squeeze lime juice into a Moscow Mule mug (or a Collins glass) and drop in the spent shell.",
+    "Add 2 or 3 ice cubes, then pour in the gin and fill with cold ginger beer.",
+    "Add fresh mint sprig.",
+    "Serve with a stirring rod."
+  ],
+  "image": "montreal-mule.jpg",
+  "keywords": ["gin", "ginger beer", "alcoholic", "classic", "vegan"]
+}

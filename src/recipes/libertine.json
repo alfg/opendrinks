@@ -1,0 +1,60 @@
+{
+    "name": "Libertine",
+    "description": "Created by Jen Riley of Le Red House in Paris (La maison rouge) Favorite among hipsters and bartender professionals alike!",
+    "github": "kourto",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsps",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "2",
+            "measure": "tspn",
+            "ingredient": "Simple Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Grapefruit Juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Egg"
+        },
+        {
+            "quantity": "1",
+            "measure": "bar spoon",
+            "ingredient": "Rhubarb and Ginger Jam"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Ruby Port"
+        }
+    ],
+    "directions": [
+        "Add the ingredients to shaker filled with ice and shake to combine.",
+        "Double strain, then shake again without ice.",
+        "Pour into Champagne flute, top with Ruby Port et voilà mon ami!",
+        "Et une bonne dégustation!"
+    ],
+    "image": "libertine.jpg",
+    "keywords": [
+        "vodka",
+        "Grapefruit",
+        "Rhubarb",
+        "Ginger"
+    ]
+} 

@@ -1,0 +1,38 @@
+{
+    "name": "Rich Hot Cocoa",
+    "description": "A thick and decadent vegan hot cocoa with your favorite milk alternative",
+    "github": "frankylee",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "cacao or cocoa powder"
+        },
+        {
+            "quantity": "12",
+            "measure": "oz",
+            "ingredient": "soymilk or dairy-free milk of choice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "maple syrup or sweetener of choice"
+        }
+    ],
+    "directions": [
+        "Bring soymilk or milk alternative to a simmer on the stove or use hot milk-frother.",
+        "Stir cacao powder and maple syrup or sweetener of choice until fully combined.",
+        "Add the mixture to the warmed soymilk and blend together.",
+        "Pour into your favorite mug and enjoy!"
+    ],
+    "image": "rich-hot-cocoa.jpeg",
+    "keywords": [
+        "hot chocolate",
+        "cocoa",
+        "cacao",
+        "soymilk",
+        "maple syrup",
+        "dairy-free",
+        "vegan"
+    ]
+}

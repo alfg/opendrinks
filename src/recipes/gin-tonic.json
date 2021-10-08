@@ -1,0 +1,41 @@
+{
+    "name": "Gin & Tonic",
+    "description": "A classic cocktail with just a few ingredients that is sure to accentuate the botanical flavors of any gin.",
+    "github": "kevinhhuynh",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "Tonic water"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "Strips",
+            "ingredient": "Fresh cucumber"
+        }
+    ],
+    "directions": [
+        "Pour gin into a glass.",
+        "Top with lemon wedges and cucumber to your taste.",
+        "Add ice and pour in tonic water.",
+        "Squeeze fresh lemon juice to top and stir - serve and enjoy!"
+    ],
+    "image": "gin-tonic.jpg",
+    "keywords": [
+        "gin",
+        "tonic",
+        "floral",
+        "alcoholic",
+        "vegan"
+    ]
+}

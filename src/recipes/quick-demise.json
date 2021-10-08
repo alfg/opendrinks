@@ -1,0 +1,70 @@
+{
+    "name": "Quick Demise",
+    "description": "a carrot-y dream that will have you reaching for a second glass. Perfect for Halloween!",
+    "github": "dcorriveau",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "carrot juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "fresh squeezed orange juice"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "ginger cardamom simple syrup"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "fresh squeezed lime juice"
+        },
+        {
+            "quantity": "0.2",
+            "measure": "oz",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Cocktail Shaker"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Black Sugar Sprinkles"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Squeeze the citrus beforehand.",
+        "Add the vodka, carrot juice, orange juice, lime juice, ginger cardamom syrup, and a splash of club soda/seltzer into the cocktail shaker with ice.",
+        "Shake well.",
+        "Pour over a rocks glass rimmed with the black sugar sprinkles.",
+        "Enjoy!"
+    ],
+	"image": "quick-demise.jpg",
+	"source": "https://bestfriendsforfrosting.com/scary-good-cocktails-halloween/",
+	"keywords": [
+		"alcoholic",
+		"vodka",
+		"citrus",
+		"orange",
+		"lime",
+		"carrot",
+		"halloween"
+	]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Caramel Snickerdoodle Martini",
+    "description": "This martini has all the flavor of a snickerdoodle without any of the work of baking cookies.",
+    "github": "yoji-kojio",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "caramel, warmed"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "cinnamon sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "heavy cream"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Smirnoff Kissed Caramel"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "ground cinnamon"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "whipped cream, for garnish"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "cinnamon sticks, for garnish"
+        }
+    ],
+    "directions": [
+        "Place caramel on a plate and cinnamon sugar on another.",
+        "Dip rims of martini glasses in caramel, then in cinnamon sugar. ",
+        "In a cocktail shaker, add heavy cream, Smirnoff Kissed Caramel, and cinnamon.",
+        "Add ice and shake until cold.",
+        "Pour into glasses and top each one with whipped cream and a cinnamon stick."
+    ],
+    "image": "caramel-snickerdoodle-martini.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a26243112/caramel-snickerdoodle-martini-recipe/",
+    "keywords": [
+        "cinnamon",
+        "caramel",
+        "vodka"
+    ]
+}

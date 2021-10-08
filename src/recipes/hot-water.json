@@ -1,0 +1,27 @@
+{
+    "name": "Hot Water",
+    "description": "Great for a cold day, any day.",
+    "github": "KevinLu",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Take your water and put it in the kettle (as much or as little as you want).",
+        "Wait for the water to boil or reach your preferred temperature (90°C to 100°C should suffice).",
+        "Pour the hot water out from the kettle into a cup."
+    ],
+    "image": "hot-water.jpg",
+    "source": "Multiple years of water-boiling experience.",
+    "keywords": [
+        "easy",
+        "hot",
+        "non-alcoholic",
+        "pure",
+        "vegan",
+        "water"
+    ]
+}

@@ -3,15 +3,37 @@
     "description": "A simple tequila cocktail with layered colors.",
     "github": "sessihers",
     "ingredients": [
-        "2 oz tequila",
-        "4 oz orange juice",
-        "0.25 oz grenadine",
-        "Ice cubes"
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "oz",
+            "ingredient": "grenadine"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
     ],
     "directions": [
         "Fill a long drink glass with ice cubes.",
-        "Add tequila and then orange juice to the glass",
-        "Top the drink with grenadine"
+        "Add tequila and then orange juice to the glass.",
+        "Top the drink with grenadine."
     ],
-    "image": "tequila-sunrise.jpg"
+    "image": "tequila-sunrise.jpg",
+    "keywords": [
+        "orange juice",
+        "tequila",
+        "grenadine",
+        "ice"
+    ]
 }

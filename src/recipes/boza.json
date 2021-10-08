@@ -1,0 +1,55 @@
+{
+    "name": "Boza",
+    "description": "This traditional Turkish drink is indispensable in cold winter nights.",
+    "github": "Bekci",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "coarse bulghur"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cups",
+            "ingredient": "rice"
+        },
+        {
+            "quantity": "11",
+            "measure": "cups",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "powdered sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "coffe spoon",
+            "ingredient": "sourdough"
+        },
+        {
+            "quantity": "1",
+            "measure": "cups",
+            "ingredient": "warm milk"
+        }
+    ],
+    "directions": [
+        "Transfer the coarse bulgur and rice you washed in plenty of water into a deep saucepan. Add the water and boil over medium heat until it becomes soft.",
+        "After straining  the water of the mashed bulgur rice mixture, pass it through a fine-hole strainer. You can discard the pulp part.",
+        "Leave the bulghur porridge that you filtered at the room temperature to cool completely.",
+        "For the yeast mixture that will make boza sour; Mix warm milk, fresh yeast and powdered sugar in a separate bowl.",
+        "Transfer the porridge mixture cooled at room temperature into a large pot. After mixing it with the yeast mixture you have prepared, keep it in the pot you have closed its lid in, in a sunless environment for 24 hours.",
+        "Open the lid of the boza mixture that you have kept for fermentation from time to time and let it vent.",
+        "After the boza wait enough, add the powdered sugar and then the water little by little to the boza and adjust its consistency.",
+        "You can serve the boza cold for better taste."
+    ],
+    "image": "boza.jpg",
+    "keywords": [
+        "traditional",
+        "non-alcoholic",
+        "cold",
+        "milk",
+        "sugar"
+    ]
+}

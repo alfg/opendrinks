@@ -1,9 +1,9 @@
 <template>
   <div id="app" class="mb-4">
-    <GitHubCorner />
-
+    <GitHubCorner class="theme-bg-color" v-if="!isMobile && !isPrintPage" />
+    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
     <div class="container mb-4 mt-4">
-      <div class="mb-4">
+      <div class="mb-4 d-flex">
         <h1 class="logo">
           <router-link to="/">
             <img alt="Logo" src="./assets/logo.png" width="50" />
@@ -12,21 +12,24 @@
         </h1>
       </div>
 
-      <b-nav tabs>
-        <b-nav-item to="/">Random</b-nav-item>
-        <b-nav-item to="/explore">Explore</b-nav-item>
-        <b-nav-item to="/search">Search</b-nav-item>
+      <b-nav tabs align="center">
+        <b-nav-item to="/">{{ $t('Featured') }}</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">{{ $t('Random') }}</b-nav-item>
+        <b-nav-item to="/explore">{{ $t('Explore') }}</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">{{ $t('Keywords') }}</b-nav-item>
+        <b-nav-item to="/search">{{ $t('Search') }}</b-nav-item>
+        <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
+    <Adspace v-if="!isPrintPage" />
+
     <router-view />
 
     <footer class="container mt-4 text-center">
       <hr />
       <div>
         View the source or contribute a drink recipe on
-        <a
-          href="https://github.com/alfg/opendrinks"
-        >GitHub</a>!
+        <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
         <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
@@ -37,27 +40,39 @@
 
 <script>
 import GitHubCorner from '@/components/GitHubCorner.vue';
+import ThemeHandler from '@/components/ThemeHandler.vue';
+import Adspace from '@/components/Adspace.vue';
 
 export default {
   name: 'App',
   components: {
     GitHubCorner,
+    ThemeHandler,
+    Adspace,
+  },
+  metaInfo() {
+    return {
+      title: 'Open Drinks',
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        {
+          name: 'description',
+          content: 'Open Source Drink Recipes',
+          vmid: 'description',
+        },
+      ],
+    };
   },
 };
 </script>
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-}
-
-#app .router-link-exact-active {
-  color: #495057;
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
 }
 
 #nav {
@@ -74,14 +89,48 @@ export default {
 }
 
 .container {
-  max-width: 720px;
+  max-width: 960px;
 }
 
 .logo {
-  font-family: "Pacifico", "cursive";
+  font-family: 'Pacifico', 'cursive';
+  width: 100%;
+  text-align: center;
 }
 .logo a {
   text-decoration: none;
   color: inherit;
 }
+
+@media (max-width: 576px) {
+  .nav {
+    font-size: 0.9rem;
+  }
+}
 </style>
+
+<i18n>
+{
+  "ja": {
+    "Featured": "特集",
+    "Random": "ランダム",
+    "Explore": "探索",
+    "Keywords": "キーワード",
+    "Search": "検索"
+  },
+  "fr": {
+    "Featured": "En vedette",
+    "Random": "Aléatoire",
+    "Explore": "Parcourir",
+    "Keywords": "Mots-Clés",
+    "Search": "Recherche"
+  },
+  "hi": {
+    "Featured": "विशेष रुप से प्रदर्शित",
+    "Random": "अनियमित",
+    "Explore": "अन्वेषण करिये",
+    "Keywords": "सूचक-शब्द",
+    "Search": "खोजिये"
+  }
+}
+</i18n>

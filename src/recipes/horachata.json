@@ -1,0 +1,57 @@
+{
+    "name": "Horchata",
+    "description": "A deliciously milky drink from Valencia made with tiger nuts. You can add Gin and make it a Horchata-libre",
+    "github": "beat-tech",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Tiger nuts"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "tsp",
+            "ingredient": "cinnamon powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "lemon zest"
+        },
+        {
+            "quantity": "",
+            "measure": "tablespoon",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cups",
+            "ingredient": "Gin"
+        }
+        
+
+    ],
+    "directions": [
+        "Add 2 cups of raw tiger nuts into a large bowl and fill with water, about 1 inch above the tiger nuts and soak them for 24 hours.",
+        "After 24 hours drain the tiger nuts, rinse them under cold water and add half of them to a blender, also add 1/2 of the cold water (2 1/4 cups) and blend until well combined, then add the remainder of the tiger nuts, the remainder of the cold water (2 1/4 cups), a 1/4 teaspoon of cinnamon powder and some fresh lemon zest, blend until well .",
+        "Run the mixture through a sieve and into a large bowl, using a wooden spoon push down on the mixture to release all the liquid into the bowl, once done discard what is in the sieve.",
+        "Transfer the liquid into a pitcher, add 2 tablespoons of white sugar and mix together, add the pitcher into the fridge for at least 4 hours to let all the flavors develop.",
+        "After 4 hours your horchata de chufas is ready to be served, give the horchata a quick mix and transfer into tall glasses, add a straw to drink, remember to always serve this horchata very cold.",
+        "You can add Gin."    
+    ],
+    "image": "horchata.jpg",
+    "keywords": [
+        "horchata",
+        "milk",
+        "nuts",
+        "creamy",
+        "cinnamon",
+        "sugar",
+        "Gin"
+	]
+}

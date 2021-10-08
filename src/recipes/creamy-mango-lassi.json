@@ -1,0 +1,57 @@
+{
+    "name": "Creamy Mango Lassi",
+    "description": "Creamy Mango Lassi made with sweet mangoes, yogurt and touch of cardamom!",
+    "github": "saikoushalg",
+    "ingredients": [
+        {
+            "quantity": "250",
+            "measure": "ml",
+            "ingredient": "mango pulp"
+        },
+        {
+            "quantity": "240",
+            "measure": "ml",
+            "ingredient": "yougurt"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoons",
+            "ingredient": "cardamom powder"
+        },
+        {
+            "quantity": "3-5",
+            "measure": "grams",
+            "ingredient": "crushed almonds"
+        }
+
+
+
+    ],
+    "directions": [
+        "Take a large bowl, add 250ml of fresh mango pulp.",
+        "To the same bowl, now add yogurt.",
+        "Now add cold milk.",
+        "Also add the sugar and the cardamom powder.",
+        "Blend everything until well combined.",
+        "Pour the mango lassi into serving glasses and chill before serving.",
+        "Garnish with crushed almonds,before serving!"
+    ],
+    "image": "creamy-mango-lassi.jpg",
+
+    "keywords": [
+        "mango",
+        "sweet",
+        "summer drink",
+        "refreshing"
+    ]
+}

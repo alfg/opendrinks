@@ -1,0 +1,47 @@
+{
+  "name": "Bloody Eyeball Shot",
+  "description": "With a mix of coconut rum, Peach Schnapps, vodka, lychee fruits, and blueberries, you can be sure these boozy Halloween treats will work perfectly for your little haunted parties. Plus, these little creepy Halloween cocktails look like they have real eyes in them!",
+  "github": "speex404",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "part",
+      "ingredient": "Coconut Rum"
+    },
+    {
+      "quantity": "1",
+      "measure": "part",
+      "ingredient": "Peach Schnapps"
+    },
+    {
+      "quantity": "1",
+      "measure": "part",
+      "ingredient": "Vodka"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Red Food Coloring"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Lychee"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Jelly"
+    }
+  ],
+  "directions": [
+    "Create bloody eyeball garnish by placing a small amount of red jam into a lychee before adding a blueberry inside also.",
+    "Add ice, coconut rum, peach schnapps and vodka to a shaking glass and combine until cold.",
+    "Strain mix into shot glass and add a splash of red food coloring. Garnish with eyeball.\u2028"
+  ],
+  "image": "bloody-eyeball-shot.jpg",
+  "source": "https://tipsybartender.com/recipe/bloody-eyeball-shot/",
+  "keywords": [
+    "halloween"
+  ]
+}

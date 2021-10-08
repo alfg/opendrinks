@@ -1,0 +1,63 @@
+{
+    "name": "Pomegranate Martini",
+    "description": "",
+    "github": "andrewsnapz",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Pomegranate Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Triple Sec"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Club Soda"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tea spoon",
+            "ingredient": "Lemon Juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Pomegranate Seeds"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice Cubes"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Lemon Zest Strips (optional)"
+        }
+    ],
+    "directions": [
+        "The first step is to take and fill a shaker with three-fourths of it filled with ice",
+        "Second step is to then proceed to add pomegranate juice, vodka, triple sec, club soda, and the lemon juice all together",
+        "Afterwards, cover the shaker and shake for 10-15 seconds, or until you see the condensation forms on the outside of the shaker",
+        "Then, pour the strain into a chilled cocktail glass",
+        "Finally, add the pomegranate seeds and the lemon zest strips(the lemon zest is optional)"
+    ],
+    "image": "pomegranate-martini.jpg",
+    "source": "https://www.acouplecooks.com/pomegranate-martini/",
+    "keywords": [
+        "pomegranate",
+        "lime",
+        "martini",
+        "alcoholic",
+        "vodka"
+    ]
+}

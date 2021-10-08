@@ -1,0 +1,40 @@
+{
+  "name": "Rye Tai",
+  "description": "The Rye Tai is a riff on (you guessed it!) the classic Mai Tai, with rye whiskey in place of rum and pineapple lengthening the drink in place of the usual curaçao. It’s the creation of Nick Brown at NYC’s The Spaniard.",
+  "github": "lazav94",
+  "ingredients": [
+  {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Rye whiskey"
+  },
+  {
+      "quantity": "3/4",
+      "measure": "oz",
+      "ingredient": "Pineapple juice"
+  },
+  {
+    "quantity": "3/4",
+    "measure": "oz",
+    "ingredient": "fresh lemon juice"
+  },
+  {
+    "quantity": "6-10",
+    "measure": "dashes",
+    "ingredient": "Angostura bitters"
+  }
+  ],
+  "directions": [
+      "Combine the rye, orgeat and juices in a shaker and fill with ice.",
+      "Shake until chilled. ",
+      "Strain into a highball filled with crushed ice.",
+      "Top with bitters and garnish.",
+      "Serve!"
+  ],
+  "image": "rye-tai.jpg",
+  "keywords": [
+      "alcoholic",
+      "whiskey",
+      "bitters"
+  ]
+}

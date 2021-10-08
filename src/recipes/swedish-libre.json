@@ -1,0 +1,34 @@
+{
+	"name": "Swedish Libre",
+	"description": "A staple of the Swedish Christmas celebrations.",
+	"github": "ItenR",
+	"ingredients": [{
+			"quantity": "2-4",
+			"measure": "large",
+			"ingredient": "Ice cubes"
+		},
+		{
+			"quantity": "6",
+			"measure": "Cl",
+			"ingredient": "Dark Rum"
+		},
+		{
+			"quantity": "0.50",
+			"measure": "Liter",
+			"ingredient": "Julmust"
+		}
+	],
+	"directions": [
+		"Gently drop the ice cubes in a Highball glass.",
+		"Grab the aged cork on top of the rum bottle and pull until you hear the classic pop.",
+		"Use eye measurement to pour between 6-10 cl of rum over the ice cubes.",
+		"Gently pour the Julmust into the glass so it does not foam over.",
+		"Serve."
+	],
+	"image": "swedish-libre.jpg",
+	"keywords": [
+		"rum",
+		"Swedish",
+		"christmas"
+	]
+}

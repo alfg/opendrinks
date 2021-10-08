@@ -1,0 +1,45 @@
+{
+    "name": "Watermelon Moscow Mule",
+    "description": "Refreshing variation of the one-and-only copper classic.",
+    "github": "Sina-Sche",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Watermelon Juice (pureed)"
+        },
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Ginger Beer"
+        },
+        {"quantity": "",
+        "measure": "",
+        "ingredient": "Mint leaves"},
+        
+        {"quantity": "",
+        "measure": "",
+        "ingredient": "Ice cubes"},
+                {"quantity": "",
+            "measure": "",
+            "ingredient": "Slice of lime"}
+    ],
+    "directions": [
+        "Slice watermelon, blend and strain.",
+        "Add Watermelon, Vodka and ice into shaker and shake for 30 seconds.",
+        "Pour over ice in mule mug and top it off with ginger beer. Add mint leaves and a slice of lime and enjoy!"
+    ],
+    "image": "watermelon-moscow-mule.jpg",
+    "keywords": [
+        "classic",
+        "alcoholic",
+        "refreshing",
+        "ginger beer",
+        "vodka"
+    ]
+}

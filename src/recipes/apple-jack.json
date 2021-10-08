@@ -1,0 +1,35 @@
+{
+  "name": "Apple Jack",
+  "description": "A year round favorite served warm or cold.",
+  "github": "matteomessmer",
+  "ingredients": [
+    {
+      "quantity": "50",
+      "measure": "ml",
+      "ingredient": "Jack Daniel's Old No. 7"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Apple juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "slice",
+      "ingredient": "Apple"
+    }
+  ],
+  "directions": [
+    "3/4 fill a highball glass with cubed ice.",
+    "Pour Old No. 7 over ice.",
+	"Top with apple juice.",
+	"Add apple slice to garnish."
+  ],
+  "image": "apple-jack.jpg",
+  "source": "https://www.jackdaniels.com/en-ca/recipes/apple-jack",
+  "keywords": [
+    "alcoholic",
+    "apple",
+    "whiskey"
+  ]
+}

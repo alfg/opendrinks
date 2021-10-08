@@ -1,0 +1,39 @@
+{
+  "name": "Port & Tonic",
+  "description": "A very refreshing and simple drink perfect for hot summer days.",
+  "github": "lldh",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "White dry Port"
+    },
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Tonic Water"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Cubed Ice"
+    },
+    {
+      "quantity": "1 leaf",
+      "measure": "",
+      "ingredient": "Peppermint"
+    },
+    {
+      "quantity": "1",
+      "measure": "slice",
+      "ingredient": "Orange, Lemon, or Lime"
+    }
+  ],
+  "directions": [
+    "Add ice, Port and Tonic to glass",
+    "Mix well with spoon.",
+    "Add peppermint leaf and  garnish with your choice of citrus wedge."
+  ],
+  "image": "port-tonic.jpg",
+  "keywords": ["port", "tonic"]
+}

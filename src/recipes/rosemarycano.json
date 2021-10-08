@@ -1,0 +1,46 @@
+{
+  "name": "Rosemarycano",
+  "description": "An Americano that elevates the usual Campari and vermouth base with the herbal, woody aroma of a bruised rosemary sprig.",
+  "github": "stmoerman",
+  "ingredients": [
+    {
+      "quantity": "0.5",
+      "measure": "",
+      "ingredient": "Untreated lemon"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "Sprigs rosemary"
+    },
+    {
+      "quantity": "4",
+      "measure": "cl",
+      "ingredient": "Campari"
+    },
+    {
+      "quantity": "4",
+      "measure": "cl",
+      "ingredient": "Antica Formula (or another red vermouth of your choice)"
+    },
+    {
+      "quantity": "10",
+      "measure": "cl",
+      "ingredient": "Tonic Water (preferably Fever-Tree)"
+    }
+  ],
+  "directions": [
+    "Cut the lemon in quarters and squeeze them directly into the glass, making sure that the essential oils from the zest hit the glass.",
+    "Rub and twist the rosemary between your hands to release the aromatics and add to the glass along with ice cubes.",
+    "Add Campari and Antica Formula and fill with Tonic Water.",
+    "Stir vertically once with a long spoon.",
+    "A rosemary sprig and a lemon twist go well as garnish.",
+    "Enjoy!"
+  ],
+  "image": "rosemarycano.jpg",
+  "source": "https://bragnbutter.wordpress.com/2014/06/07/rosemarycano-cocktail/",
+  "keywords": [
+    "alcoholic",
+    "campari"
+  ]
+}

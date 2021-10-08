@@ -3,15 +3,38 @@
     "description": "It was created by Andy MacElhone at Harry's New York Bar in Paris in 1960. Andy MacElhone is none other than Harry's son, founder of Harry's New York Bar and inventor of the White Lady.",
     "github": "joshuamart",
     "ingredients": [
-        "1.5 oz vodka",
-        "1 oz blue curacao",
-        "0.5 oz lemon juice ",
-        "Ice cube"
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "blue curaçao"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cube"
+        }
     ],
     "directions": [
         "Squeeze the juice of half a lemon, add it to the shaker with the other ingredients and ice cubes. Strike and pour into the glass while filtering.",
         "To make it fresher and lighter, fill the glass with crushed ice beforehand. ",
         "Serve in a martini glass."
     ],
-    "image": "blue-lagoon.jpg"
+    "image": "blue-lagoon.jpg",
+    "keywords": [
+        "vodka",
+        "blue curaçao",
+        "lemon juice",
+        "alcoholic",
+        "vegan"
+	]
 }

@@ -1,0 +1,45 @@
+{
+    "name": "Raspberry Caipirinha",
+    "description": "Traditional Caipirinha but with the sweetness of the strawberry",
+    "github": "Mayie",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",	
+            "ingredient": "cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "green lime"
+        },
+        {
+            "quantity": "3",
+            "measure": "",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Crushed Ice"
+        }
+    ],
+    "directions": [
+        "Wash the lime and cut the lime into 4 pieces.",
+        "Place the pieces in the glass and pour a good tablespoon of sugar. Crush firmly into the glass until the juice is extracted as completely as possible.",
+        "Place the raspberry and gently crush them.",
+        "Cover the lime-sugar mixture with a good layer of crushed ice.",
+        "Add the cachaça.",
+        "Serve in an old fashioned glass. " 
+    ],    
+    "image": "raspberry-caipirinha.jpg",
+    "keywords": [
+        "cachaca",
+        "raspberry"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Banana with cocoa powder",
+  "description": "A delicious drink with banana and cocoa powder.",
+  "github": "Muurilo",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "bananas"
+    },
+    {
+      "quantity": "4",
+      "measure": "cup",
+      "ingredient": "milk"
+    },
+    {
+      "quantity": "4",
+      "measure": "tablespoon",
+      "ingredient": "Cocoa Powder"
+    }
+  ],
+  "directions": [
+    "Cut the banana into slices",
+    "Put the bananas, the milk, the Cocoa Powder in the blender, turn it on, and blend these ingredients.",
+    "Put ice in the blender and beat very little"
+  ],
+  "image": "banana-cocoa.jpg",
+  "keywords": [
+    "milk",
+    "banana",
+    "cocoa powder",
+    "cocoa",
+    "chocolate",
+    "fruit",
+    "non-alcoholic"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Orange Pineapple Moscow Mule",
+    "description": "Perfect for spring and summer nights, and warm backyard parties!",
+    "github": "Oishika-Pradhan",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "ounces",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "piece",
+            "ingredient": "lime, juiced"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "cup",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "cup",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ginger beer for topping"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Optional: pineapple wedges, and fresh mint, for serving"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail glass with ice.",
+        "Add the vodka, lime juice, orange juice, and pineapple juice.",
+        "Stir to combine.",
+        "Top off with ginger beer.",
+        "Garnish with pineapple wedges and fresh mint.",
+        "Enjoy!"
+    ],
+    "image": "orange-pineapple-moscow-mule.jpg",
+    "source": "https://www.halfbakedharvest.com/pineapple-moscow-mule/",
+    "keywords": [
+        "cool",
+        "orange",
+        "alcoholic",
+        "pineapple",
+        "vodka"
+    ]
+}

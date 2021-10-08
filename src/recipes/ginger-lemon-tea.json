@@ -1,0 +1,39 @@
+{
+    "name": "Ginger Lemon Tea",
+    "description": "A healthy drink that's great for digestion, soothing and healing",
+    "github": "Lakshita2002",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Ginger root"
+        },
+        {
+            "quantity": "4",
+            "measure": "cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Fresh lime juice"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "tablespoons",
+            "ingredient": "Honey"
+        }
+    ],
+    "directions": [
+        "Prepare the fresh ginger by slicing it thinly to maximize the surface area. This will help you make a very flavorful tea.",
+        "Add the water and ginger in a pot and bring to a boil for at least 10 minutes. For a stronger and tangier tea, allow to boil for 20 minutes or more, and use more ginger slices.",
+        "Remove it from the heat, strain, and add the lime juice and honey to taste.",
+        "Enjoy your ginger lemon tea."
+    ],
+    "image": "ginger-lemon-tea.jpg",
+    "source": "https://www.thespruceeats.com/homemade-ginger-tea-3377239",
+    "keywords": [
+        "digestion",
+        "healthy"
+    ]
+}

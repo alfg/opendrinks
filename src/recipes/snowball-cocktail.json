@@ -1,0 +1,43 @@
+{
+    "name": "Snowball",
+    "description": "A Snowball is a mixture of Advocaat and a carbonated lemonade in approximately equal parts. It may have other ingredients, to taste.",
+    "github": "geekquad",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cherry",
+            "ingredient": "maraschino"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "advocaat"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "sparkling lemonade"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "club soda"
+        }
+    ],
+    "directions": [
+        "Pour lemonade and lime juice into an ice-filled tall glass.",
+        "Add advocaat which will mostly sink through other ingredients.",
+        "lightly stir to integrate while retaining the lemonade's carbonation.",
+        "Fill up with ice and then add the rum.",
+        "Enjoy"
+    ],
+    "image": "snowball-cocktail.jpg",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/1841/snowball",
+    "keywords": [
+        "advocaat",
+        "lime",
+        "Snowball",
+        "sugar",
+        "ice"
+    ]
+}

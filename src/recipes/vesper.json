@@ -1,0 +1,34 @@
+{
+    "name": "Vesper",
+    "description": "The Vesper or Vesper Martini is a cocktail made of gin vodka, and Kina Lillet.",
+    "github": "codekendo",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "Lillet Blonde"
+        }
+    ],
+    "directions": [
+        "Shake over ice until well chilled.",
+        "Strain into a deep goblet.",
+        "Add a thin slice of lemon peel."
+    ],
+    "image": "vesper.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vesper_(cocktail)",
+    "keywords": [
+        "Gin",
+        "Vodka",
+        "Lillet"
+    ]
+}

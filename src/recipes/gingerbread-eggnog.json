@@ -1,0 +1,62 @@
+{
+    "name": "Gingerbread Eggnog",
+    "description": "Everyone's favorite holiday drink gets boozy and a little spicy.",
+    "github": "yoji-kojio",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "cinnamon sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "eggnog"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Kahlúa"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "molasses"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "ground ginger"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "whipped cream, for topping"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Wet rims of four cocktail glasses and dip in cinnamon sugar.",
+        "In a cocktail shaker filled with ice, add eggnog, vodka, Kahlúa, molasses, and ginger and shake to combine.",
+        "Pour into rimmed glasses.",
+        "Top with whipped cream and drizzle with molasses before serving."
+    ],
+    "image": "gingerbread-eggnog.jpg",
+    "source": "https://www.delish.com/holiday-recipes/christmas/recipes/a45175/gingerbread-eggnog-white-russian-recipe/",
+    "keywords": [
+        "gingerbread",
+        "eggnog",
+        "vodka",
+        "kahlua",
+        "molasses"
+    ]
+}

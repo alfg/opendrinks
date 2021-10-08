@@ -1,0 +1,44 @@
+{
+    "name": "Strawberry Ginger Turmeric  Tea",
+    "description": "This drink is fresh and healthy because the ingredients for the manufacture itself consist of ginger, turmeric, strawberry and honey which have anti-inflammatory properties. Of course, it's low in calories too, because you use honey instead of sugar. This drink is really delicious served with a mixture of ice cubes or cooled first in the refrigerator but it does not rule out if served warm",
+    "github": "erryh",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "knuckles",
+            "ingredient": "Turmeric"
+        },
+        {
+            "quantity": "2",
+            "measure": "knuckles",
+            "ingredient": "Ginger"
+        },
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "200",
+            "measure": "gr",
+            "ingredient": "Strawberry"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "Honey"
+        }
+    ],
+    "directions": [
+        "Blend coarsely of turmeric and ginger with 500 ml of mineral water and boil. Strain, cool and store in the refrigerator.",
+        "Roughly blend the strawberries or dice them or crush them with a fork. store in the refrigerator",
+        "After the ingredients are cool enough, you can immediately serve them: add about 1 tablespoon of honey or according to taste in a glass, add 2 tablespoons of crushed strawberries and pour the turmeric ginger water until the glass is full. Put one stalk of lemongrass geprek to add extra aroma. If you like, you can add more ice cubes."
+    ],
+    "image": "strawberry-ginger-turmeric-tea.jpg",
+    "keywords": [
+        "strawberry",
+        "tea",
+        "ginger",
+        "turmeric"
+    ]
+}

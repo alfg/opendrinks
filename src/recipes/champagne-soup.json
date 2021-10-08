@@ -1,0 +1,40 @@
+{
+    "name": "Champagne Soup",
+    "description": "The Champagne Soup is a French cocktail, varying from the Angevine Soup. This is a recipe for six people. Share it!",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "75",
+            "measure": "cl",
+            "ingredient": "Champagne"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "sugar cane syrup"
+        }
+    ],
+    "directions": [
+        "Combine lime juice with the Cointreau and sugar in a very large bowl.",
+        "Set aside in the fridge.",
+        "Add the Champagne just before serving!"
+    ],
+    "image": "champagne-soup.jpg",
+    "keywords": [
+        "champagne",
+        "cointreau",
+        "lime juice",
+        "angevin",
+        "anjou"
+	]
+}

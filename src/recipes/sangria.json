@@ -3,23 +3,71 @@
     "description": "Portuguese Sangria is sweet and acidic at the same time.",
     "github": "marcelosantos89",
     "ingredients": [
-        "2 oranges (one whole and another for juice)",
-        "1 pear",
-        "1 apple",
-        "8 strawberries",
-        "1 lemon (juiced)",
-        "3 soup spoons of brown sugar",
-        "1 cup of Port Wine",
-        "2 cinnamon sticks",
-        "6 mint leaves",
-        "26 oz (750 ml) of red wine",
-        "18 oz (500 ml) of soda water"
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "oranges (one whole and another for juice)"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "pear"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "apple"
+        },
+        {
+            "quantity": "8",
+            "measure": "",
+            "ingredient": "strawberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon (juiced)"
+        },
+        {
+            "quantity": "3",
+            "measure": "soup spoons",
+            "ingredient": "of brown sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "of Port Wine"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "cinnamon sticks"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "26",
+            "measure": "oz",
+            "ingredient": "(750 ml) of red wine"
+        },
+        {
+            "quantity": "18",
+            "measure": "oz",
+            "ingredient": "(500 ml) of soda water"
+        }
     ],
     "directions": [
-        "Slice the fruit and mix with the brown sugar, Port Wine and the mint leaves in a big bowl;",
-        "Pour the lemon and the orange juice on the mixture and let it rest for an hour;",
-        "Put everything in a jug and then add the wine and the soda on top;",
+        "Slice the fruit and mix with the brown sugar, Port Wine and the mint leaves in a big bowl.",
+        "Pour the lemon and the orange juice on the mixture and let it rest for an hour.",
+        "Put everything in a jug and then add the wine and the soda on top.",
         "Finally, add the cinnamon sticks and ice to your taste. Enjoy!"
     ],
-    "image": "portuguese-sangria.jpg"
+    "image": "portuguese-sangria.jpg",
+    "keywords": [
+        "wine",
+        "fruit"
+    ]
 }

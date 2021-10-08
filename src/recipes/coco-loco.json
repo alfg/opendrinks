@@ -1,0 +1,45 @@
+{
+    "name": "Coco loco",
+    "description": "A rum and coconut cocktail from the West Indies.",
+    "github": "lucasmartinelle",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "White Rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Coconut milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "Milk"
+        }
+    ],
+    "directions": [
+        "Make the Coco Loco cocktail recipe in a blender or blender.",
+        "Add white rum and coconut milk.",
+        "Add the sugar and milk.",
+        "Add ice cubes.",
+        "Blend for a few seconds.",
+        "Pour the mixture into a large tumbler glass.",
+        "Add a few ice cubes to obtain a fresh cocktail."
+    ],
+    "image": "coco-loco.jpg",
+    "keywords": [
+        "coconut",
+        "coconut milk",
+        "sugar",
+        "alcoholic",
+        "rum",
+        "milk"
+    ]
+}

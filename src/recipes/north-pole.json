@@ -1,0 +1,50 @@
+{
+    "name": "The North Pole",
+    "description": "To be sipped on December 24th while waiting for the visit of the most famous character of this part of the country!",
+    "github": "JoshuaMart",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "",
+            "ingredient": "Canneberges"
+        },
+        {
+            "quantity": "2",
+            "measure": "line",
+            "ingredient": "Bitter with orange"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "Tablespoon",
+            "ingredient": "Orange Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "line",
+            "ingredient": "Vanilla syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Mix the orange zest, cranberries and 2 dashes of bitter orangeIin a shaker.",
+        "Add ice cream, vanilla syrup, gin and orange juice soup.",
+        "Shake well and add a little club soda.",
+        "Decorate according to your inspiration."
+    ],
+    "image": "north-pole.jpg",
+    "keywords": [
+        "gin",
+        "orange",
+        "fresh",
+        "christmas"
+    ]
+}

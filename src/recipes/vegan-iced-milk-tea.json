@@ -1,0 +1,54 @@
+{
+    "name": "Vegan Iced Milk Tea",
+    "description": "Iced sweet black tea with a splash of your favorite dairy-free milk.",
+    "github": "frankylee",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tbsp (bag)",
+            "ingredient": "organic black tea"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "boiled water"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1",
+            "measure": "handful",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "sweetener of choice"
+        },
+        {
+            "quantity": "1",
+            "measure": "splash",
+            "ingredient": "soymilk or milk alternative"
+        }
+    ],
+    "directions": [
+        "Steep black tea in boiled water for 4 minutes.",
+        "Remove tea and stir in sweetener until fully dissolved.",
+        "Mix with ice cubes until cool. Add more as needed.",
+        "Fill with cold water, leaving room for milk alternative.",
+        "Stir and enjoy!"
+    ],
+    "image": "vegan-iced-milk-tea.jpg",
+    "keywords": [
+        "black tea",
+        "tea",
+        "sweet",
+        "soymilk",
+        "milk tea",
+        "dairy-free",
+        "vegan"
+    ]
+}

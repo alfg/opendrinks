@@ -1,0 +1,47 @@
+{
+  "name": "Kiwi Caipisake",
+  "description": "While the traditional brazilian caipirinha is made with cachaça, the caipisake is made with sake!",
+  "github": "kazuhirodk",
+  "ingredients": [
+    {
+      "quantity": "1/3",
+      "measure": "cup",
+      "ingredient": "sake"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "kiwi"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon",
+      "ingredient": "fine sugar"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice cube"
+    }
+  ],
+  "directions": [
+    "Peel the kiwi and cut it into quarters. Optional: cut off one small slice of the kiwi to decorate your cocktail once it’s done.",
+    "Put the kiwi and sugar in the cocktail shaker.",
+    "Muddle the kiwi and sugar until it has a paste-like texture.",
+    "Add the ice and sake.",
+    "Put the lid on the shaker and shake.",
+    "Pour your drink into the glass.",
+    "Enjoy!"
+  ],
+  "image": "kiwi-caipisake.jpg",
+  "source": "https://www.iheartbrazil.com/caipisake-recipe/",
+  "keywords": [
+    "sake",
+    "kiwi",
+    "sugar",
+    "alcoholic",
+    "caipirinha",
+    "caipisake",
+    "brazil"
+  ]
+}

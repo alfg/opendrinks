@@ -1,0 +1,36 @@
+{
+    "name": "Sgroppino",
+    "description": "The Sgroppino al Limone is a Lemon Sorbet Cocktail. Tart, citrusy, simple yet tasty.",
+    "github": "Guberlo",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Lemon Sorbet"
+        }
+    ],
+    "directions": [
+        "Pour the spirits in a champagne glass.",
+        "Put the lemon sorbet scoop inside the glass.",
+        "Put the glass in the freezer for 3-5 minutes.",
+        "Drink and enjoy it."
+    ],
+    "image": "sgroppino.jpg",
+    "keywords": [
+        "vodka",
+        "prosecco",
+        "alcoholic",
+        "vegan",
+        "lemon"
+    ]
+}

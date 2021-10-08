@@ -1,0 +1,46 @@
+{
+    "name": "American Trilogy",
+    "description": "Brown sugar mingles with a half-rye, half-Applejack backbone to shift the classic into a slightly darker place.",
+    "github": "Bigshmow",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "rye whiskey"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "applejack"
+        },
+        {
+            "quantity": "1",
+            "measure": "cube",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "orange bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "long, curly",
+            "ingredient": "orange peel"
+        }
+    ],
+    "directions": [
+        "In a rocks glass, add sugar cube and saturate with orange bitters.",
+        "Gently muddle to make a granulated paste.",
+        "Add whiskey and ice (preferably an oversized cube).",
+        "Garnish with a long, curly orange peel.",
+        "Enjoy!"
+    ],
+    "image": "american-trilogy.jpg",
+    "keywords": [
+        "alcoholic",
+        "american",
+        "whisky",
+        "whiskey"
+    ]
+}

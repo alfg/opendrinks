@@ -1,0 +1,40 @@
+{
+    "name": "Vietnamese Coffee (Cafe Sua Da)",
+    "description": "Vietnamese Iced Coffee is an intensely brewed coffee concentrate that drips down into a tall glass of ice and a big spoonful of sweetened condensed milk.",
+    "github": "christinetu",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "French Roast Coffee grinds"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Sweetened condensed milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "Boil water. Add coffee grounds to phin coffee filter (or pour over coffee filter) and stamp down.",
+        "Pour hot water in phin coffee filter (or pour over coffee filter).",
+        "Add in Sweetened condensed milk. Stir until well combined.",
+        "Add ice and enjoy"
+    ],
+    "image": "vietnamese-coffee.jpg",
+    "keywords": [
+        "vietnamese",
+        "coffee",
+        "non-alcoholic",
+        "phin"
+    ]
+}

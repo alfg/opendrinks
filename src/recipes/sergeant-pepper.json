@@ -1,0 +1,74 @@
+{
+    "name": "Sergeant Pepper",
+    "description": "Usually Pineapple drinks are monotonous, sweet and simple, but then comes Sergeant Pepper. A unique fusion of Indian Spices and Pineapple, Sergeant Pepper is mellow and tart. A touch of Almond makes drink unique, creamy and savory.",
+    "github": "vybhav72954",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Dry and Bold Gin (Calyx)"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Pineapple Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Almond Orgeat"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Cumin-Pepper Syrup (See Below)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Cumin Seeds"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Black Pepper"
+        },
+        {
+            "quantity": "2",
+            "measure": "cubes",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "The Ingredients are for 2 servings of Sergeant Pepper.",
+        "Toast cumin seeds on a Saucepan until they just begin to darken.",
+        "Add water, sugar, and black pepper, regularly stir to dissolve sugar.",
+        "Simmer for 15 minutes, strain, and let cool, This is the Cumin-Pepper Syrup.",
+        "Add Pineapple Juice, Orgeat, Lime Juice, Cumin-Pepper Syrup, Gin and some extra pepper according to taste.",
+        "Add Ice Cubes, Shake well.",
+        "Strain and Serve immediately."
+    ],
+    "image": "sergeant-pepper.jpg",
+    "keywords": [
+        "gin",
+        "pineapple",
+        "mellow",
+        "cumin",
+        "cocktail"
+    ]
+}
