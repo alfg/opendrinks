@@ -131,6 +131,13 @@ export default {
     "Explore": "अन्वेषण करिये",
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
+  },
+  "nl": {
+    "Featured": "Aanbevolen",
+    "Random": "Willekeurig",
+    "Explore": "Alle recepten",
+    "Keywords": "Trefwoorden",
+    "Search": "Zoeken"
   }
 }
 </i18n>
