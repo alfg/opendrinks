@@ -26,6 +26,7 @@ export default {
   },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
+
   }
 }
 </i18n>

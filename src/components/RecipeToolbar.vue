@@ -167,6 +167,7 @@ export default {
     "Share on Twitter": "ट्विटर पर बाटे",
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
+
   }
 }
 </i18n>

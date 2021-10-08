@@ -131,6 +131,7 @@ export default {
     "Explore": "अन्वेषण करिये",
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
+
   }
 }
 </i18n>
