@@ -206,6 +206,22 @@ export default {
     "Keywords": "Palabras Clave",
     "You can search for multiple ingredients by separating them with a space": "Puedes buscar múltiples ingredientes separandolos con espacios",
     "You can search for multiple keywords by separating them with a space": "Puedes buscar múltiples palabras claves separandolas con espacios"
+  },
+  "hi": {
+    "Filter by": "छाने",
+    "Name": "नाम",
+    "Ingredients": "सामग्री",
+    "Keywords": "सूचक-शब्द",
+    "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
+    "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
+  },
+  "nl": {
+    "Filter by": "Filter op",
+    "Name": "Naam",
+    "Ingredients": "Ingrediënten",
+    "Keywords": "Trefwoorden",
+    "You can search for multiple ingredients by separating them with a space": "Je kunt zoeken op meerdere ingrediënten door ze met een spatie te scheiden",
+    "You can search for multiple keywords by separating them with a space": "Je kunt zoeken op meerdere trefwoorden door ze met een spatie te scheiden"
   }
 }
 </i18n>

@@ -160,6 +160,12 @@ export default {
   },
   "es": {
     "View Recipe": "Ver Receta"
+  },
+  "hi": {
+    "View Recipe": "विधि देखे"
+  },
+  "nl": {
+    "View Recipe": "Recept bekijken"
   }
 }
 </i18n>

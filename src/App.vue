@@ -131,6 +131,20 @@ export default {
     "Explore": "Explora",
     "Keywords": "Palabras Claves",
     "Search": "Búsqueda"
+  },
+  "hi": {
+    "Featured": "विशेष रुप से प्रदर्शित",
+    "Random": "अनियमित",
+    "Explore": "अन्वेषण करिये",
+    "Keywords": "सूचक-शब्द",
+    "Search": "खोजिये"
+  },
+  "nl": {
+    "Featured": "Aanbevolen",
+    "Random": "Willekeurig",
+    "Explore": "Alle recepten",
+    "Keywords": "Trefwoorden",
+    "Search": "Zoeken"
   }
 }
 </i18n>

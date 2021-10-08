@@ -167,6 +167,22 @@ export default {
     "Share on Twitter": "Compartir en Twitter",
     "Copy URL": "Copiar URL",
     "Hide Image": "Ocultar imagen"
+  },
+  "hi": {
+    "Print": "प्रिंट करे",
+    "Share": "बाटें",
+    "Share on Facebook": "फेसबुक पर बाटे",
+    "Share on Twitter": "ट्विटर पर बाटे",
+    "Copy URL": "यूआरएल नकल करें",
+    "Hide Image": "चित्र छुपाएं"
+  },
+  "nl": {
+    "Print": "Printen",
+    "Share": "Delen",
+    "Share on Facebook": "Deel op Facebook",
+    "Share on Twitter": "Deel op Twitter",
+    "Copy URL": "URL kopiëren",
+    "Hide Image": "Afbeelding verbergen"
   }
 }
 </i18n>

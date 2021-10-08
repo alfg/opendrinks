@@ -62,6 +62,12 @@ export default {
   },
   "es": {
     "Load More": "Cargar Más"
+  },
+  "hi": {
+    "Load More": "और विधि देखिये"
+  },
+  "nl": {
+    "Load More": "Laad meer"
   }
 }
 </i18n>

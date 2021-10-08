@@ -300,6 +300,20 @@ export default {
     "Directions": "Instrucciones",
     "View full recipe at": "Mira la receta completa en",
     "Similar drinks": "Bebidas similares"
+  },
+  "hi": {
+    "Contributed by": "योगदानी",
+    "Ingredients": "सामग्री",
+    "Directions": "तैयारी",
+    "View full recipe at": "पूरी विधि यहाँ देखें",
+    "Similar drinks": "समान पेय"
+  },
+  "nl": {
+    "Contributed by": "Bijdrage door",
+    "Ingredients": "Ingrediënten",
+    "Directions": "Bereidingswijze",
+    "View full recipe at": "Bekijk het volledige recept op",
+    "Similar drinks": "Vergelijkbare drankjes"
   }
 }
 </i18n>

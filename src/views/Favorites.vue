@@ -81,6 +81,20 @@ export default {
     "Are you sure you want to remove all favorites": "Estás seguro que quieres eliminar todos los favoritos？",
     "Delete": "Eliminar",
     "Cancel": "Cancelar"
+  },
+  "hi": {
+    "You don't have any favorite drinks": "आपका कोई पसंदीदा पेय नहीं है",
+    "Remove All Favorites": "सभी पसंदीदा हटाएं",
+    "Are you sure you want to remove all favorites": "क्या आप वाकई सभी पसंदीदा हटाना चाहते हैं",
+    "Delete": "हटाइये",
+    "Cancel": "रद्द करें"
+  },
+  "nl": {
+    "You don't have any favorite drinks": "Je hebt nog geen favoriete drankjes",
+    "Remove All Favorites": "Alle favorieten verwijderen",
+    "Are you sure you want to remove all favorites": "Weet je zeker dat je al je favorieten wilt verwijderen?",
+    "Delete": "Verwijderen",
+    "Cancel": "Annuleren"
   }
 }
 </i18n>

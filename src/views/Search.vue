@@ -26,6 +26,12 @@ export default {
   },
   "es": {
     "Find Your Drink": "Encuentra Tu Bebida"
+  },
+  "hi": {
+    "Find Your Drink": "अपना पेय खोजें"
+  },
+  "nl": {
+    "Find Your Drink": "Vind jouw drankje"
   }
 }
 </i18n>

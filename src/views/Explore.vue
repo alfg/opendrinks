@@ -135,6 +135,16 @@ export default {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar Filtros",
     "Add Keyword": "Agregar Palabra Clave"
+  },
+  "hi": {
+    "Filters": "छन्नी",
+    "Reset Filters": "छन्नी रीसेट करें",
+    "Add Keyword": "सूचक-शब्द जोड़ें"
+  },
+  "nl": {
+    "Filters": "Filters",
+    "Reset Filters": "Filters resetten",
+    "Add Keyword": "Trefwoord toevoegen"
   }
 }
 </i18n>
