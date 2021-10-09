@@ -39,6 +39,10 @@ export default {
   "nl": {
     "The page you are looking for was not found.": "Deze pagina is niet beschikbaar.",
     "Back to Home": "Naar de homepage"
-  }
+  },
+  "bn": {
+    "The page you are looking for was not found.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি",
+    "Back to Home": "হোমপেজে ফিরে যান"
+  },
 }
 </i18n>
