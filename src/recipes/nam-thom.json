@@ -1,0 +1,34 @@
+{
+    "name": "Nam Thom",
+    "description": "It's the most famous drink for a teenager in the southside of Thailand",
+    "github": "Kritsana135",
+    "ingredients": [
+        {
+            "quantity": "20 - 30",
+            "measure": "leaves",
+            "ingredient": "kratom leaf"
+        },
+        {
+            "quantity": "1.5 - 2",
+            "measure": "liter",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1.5 - 2",
+            "measure": "liter",
+            "ingredient": "soft drink ex. Pepsi,CocaCola"
+        }
+    ],
+    "directions": [
+        "Bring the water to a boil and bring the prepared kratom leaves to wash thoroughly. When the kratom leaves are clean and crushed, put them into boiling water.",
+        "Boil for a period of approximately 30 minutes. When the time is up, then filter out the water. Then pour the sparkling water into it and stir to combine.",
+        "When everything is mixed well, set it aside to cool and fill a bottle. It can be stored in the refrigerator for 1 week. Drinking volume 250 ml / time (should not drink more than 2 times a day)."
+    ],
+    "image": "nam-thom.jpg",
+    "keywords": [
+        "Herb",
+        "chilled",
+        "refreshing",
+        "Non-alcoholic"
+    ]
+}

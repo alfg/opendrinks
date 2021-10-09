@@ -1,0 +1,34 @@
+{
+    "name": "Chocoline Milk",
+    "description": "A Tunisian childhood breakfast drink (a real nostalgia bomb).",
+    "github": "ayoub3bidi",
+    "ingredients": [
+      {
+        "quantity": "10",
+        "measure": "tablespoon (5g)",
+        "ingredient": "Chocoline"
+      },
+      {
+        "quantity": "1",
+        "measure": "cup",
+        "ingredient": "Milk"
+      },
+      {
+        "quantity": "1",
+        "measure": "tablespoon (12g)",
+        "ingredient": "Sugar"
+      }
+    ],
+    "directions": [
+        "Heat the milk until it boils",
+        "Combine chocoline powder and Sugar in the cup or mug.",
+        "Add the milk.",
+        "Stir until completely mixed and enjoy."
+    ],
+    "image": "chocoline.jpg",
+    "keywords": [
+      "chocolate",
+      "milk",
+      "non-alcoholic"
+    ]
+  }
