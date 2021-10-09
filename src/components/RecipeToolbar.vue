@@ -175,6 +175,22 @@ export default {
     "Share on Twitter": "Deel op Twitter",
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
+  },
+  "ru": {
+    "Print": "Распечатать",
+    "Share": "Поделиться",
+    "Share on Facebook": "Поделиться через Facebook",
+    "Share on Twitter": "Поделиться через Twitter",
+    "Copy URL": "скопировать URL",
+    "Hide Image": "Скрыть изображение"
+  },
+  "uk": {
+    "Print": "Роздрукувати",
+    "Share": "Поділитися",
+    "Share on Facebook": "Поділитися через Facebook",
+    "Share on Twitter": "Поділитися через Twitter",
+    "Copy URL": "скопіювати URL",
+    "Hide Image": "Приховати зображення"
   }
 }
 </i18n>

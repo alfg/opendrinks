@@ -307,6 +307,20 @@ export default {
     "Directions": "Bereidingswijze",
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "ru": {
+    "Contributed by": "Автор",
+    "Ingredients": "Ингредиенты",
+    "Directions": "Способы приготовления",
+    "View full recipe at": "Посмотреть полный рецепт на",
+    "Similar drinks": "Подобные напитки"
+  },
+  "uk": {
+    "Contributed by": "Автор",
+    "Ingredients": "Інгредієнти",
+    "Directions": "Способи приготування",
+    "View full recipe at": "Подивитися повний рецепт на",
+    "Similar drinks": "Подібні напої"
   }
 }
 </i18n>

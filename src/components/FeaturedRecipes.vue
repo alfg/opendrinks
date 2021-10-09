@@ -65,6 +65,12 @@ export default {
   },
   "nl": {
     "Load More": "Laad meer"
+  },
+  "ru": {
+    "Load More": "Загрузить еще"
+  },
+  "uk": {
+    "Load More": "Завантажити більше"
   }
 }
 </i18n>
