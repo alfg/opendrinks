@@ -32,6 +32,10 @@ export default {
   "The page you are looking for was not found.": "Page non trouvée",
   "Back to Home": "Retour à l'accueil"
   },
+  "es": {
+    "The page you are looking for was not found.": "No se encontró la página que estás buscando",
+    "Back to Home": "Volver al Inicio"
+  },
   "hi": {
   "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
   "Back to Home": "घर वापसी"

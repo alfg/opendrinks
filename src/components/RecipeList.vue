@@ -158,11 +158,14 @@ export default {
   "fr": {
     "View Recipe": "Voir la Recette"
   },
+  "es": {
+    "View Recipe": "Ver Receta"
+  },
   "hi": {
     "View Recipe": "विधि देखे"
   },
   "nl": {
-  "View Recipe": "Recept bekijken"
+    "View Recipe": "Recept bekijken"
   },
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"

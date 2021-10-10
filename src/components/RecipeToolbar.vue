@@ -160,6 +160,14 @@ export default {
     "Copy URL": "copier l'url",
     "Hide Image": "cacher l'image"
   },
+  "es": {
+    "Print": "Imprimir",
+    "Share": "Compartir",
+    "Share on Facebook": "Compartir en Facebook",
+    "Share on Twitter": "Compartir en Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Ocultar imagen"
+  },
   "hi": {
     "Print": "प्रिंट करे",
     "Share": "बाटें",

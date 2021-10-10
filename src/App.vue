@@ -125,6 +125,13 @@ export default {
     "Keywords": "Mots-Clés",
     "Search": "Recherche"
   },
+  "es": {
+    "Featured": "Destacadas",
+    "Random": "Aleatorio",
+    "Explore": "Explora",
+    "Keywords": "Palabras Claves",
+    "Search": "Búsqueda"
+  },
   "hi": {
     "Featured": "विशेष रुप से प्रदर्शित",
     "Random": "अनियमित",

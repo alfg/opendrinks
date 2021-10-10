@@ -294,7 +294,14 @@ export default {
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
   },
-    "hi": {
+  "es": {
+    "Contributed by": "Aportado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucciones",
+    "View full recipe at": "Mira la receta completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "hi": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
     "Directions": "तैयारी",

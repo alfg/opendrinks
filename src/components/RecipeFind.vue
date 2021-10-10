@@ -199,6 +199,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "Vous pouvez chercher avec plusieurs ingrédients en les séparants avec un espace",
     "You can search for multiple keywords by separating them with a space": "Vous pouvez chercher avec plusieurs mots-clés en les séparants avec un espace"
   },
+  "es": {
+    "Filter by": "Filtrar por",
+    "Name": "Nombre",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palabras Clave",
+    "You can search for multiple ingredients by separating them with a space": "Puedes buscar múltiples ingredientes separandolos con espacios",
+    "You can search for multiple keywords by separating them with a space": "Puedes buscar múltiples palabras claves separandolas con espacios"
+  },
   "hi": {
     "Filter by": "छाने",
     "Name": "नाम",

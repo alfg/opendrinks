@@ -60,6 +60,9 @@ export default {
   "fr": {
     "Load More": "Voir plus"
   },
+  "es": {
+    "Load More": "Cargar Más"
+  },
   "hi": {
     "Load More": "और विधि देखिये"
   },

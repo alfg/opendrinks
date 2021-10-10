@@ -24,6 +24,9 @@ export default {
   "fr": {
     "Find Your Drink": "Rechercher votre cocktail"
   },
+  "es": {
+    "Find Your Drink": "Encuentra Tu Bebida"
+  },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },

@@ -131,6 +131,11 @@ export default {
     "Reset Filters": "Enlever les filtres",
     "Add Keyword": "Ajouter un mot-clés"
   },
+  "es": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar Filtros",
+    "Add Keyword": "Agregar Palabra Clave"
+  },
   "hi": {
     "Filters": "छन्नी",
     "Reset Filters": "छन्नी रीसेट करें",
