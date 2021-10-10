@@ -1,0 +1,27 @@
+{
+    "name": "Vodka Red Bull",
+    "description": "Do you like simple shots? Then try this sweet vodka-based cocktail, alcoholic and strong.",
+    "github": "thaseyor",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "can",
+            "ingredient": "Red Bull"
+        }
+    ],
+    "directions": [
+        "Either mix, with or without ice, or drop a shot of vodka into the Red Bull in the style of Depth charge"
+    ],
+    "image": "vodka-red-bull.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vodka_Red_Bull",
+    "keywords": [
+        "Red",
+        "Bull",
+        "Vodka"
+    ]
+}

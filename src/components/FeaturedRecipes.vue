@@ -68,6 +68,9 @@ export default {
   },
   "nl": {
     "Load More": "Laad meer"
+  },
+  "bn":{
+    "Load More": "আরো দেখুন"
   }
 }
 </i18n>
