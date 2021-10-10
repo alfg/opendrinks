@@ -40,6 +40,10 @@ export default {
   "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
   "Back to Home": "घर वापसी"
   },
+  "de": {
+    "The page you are looking for was not found.": "Diese Seite ist nicht verfügbar.",
+    "Back to Home": "Zur Homepage"
+  },
   "nl": {
     "The page you are looking for was not found.": "Deze pagina is niet beschikbaar.",
     "Back to Home": "Naar de homepage"
