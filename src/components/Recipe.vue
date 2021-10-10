@@ -307,6 +307,13 @@ export default {
     "Directions": "Bereidingswijze",
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "bn": {
+    "Contributed by": "অবদান করেছেন",
+    "Ingredients": "উপকরণ সমূহ",
+    "Directions": "প্রস্তুত প্রণালি",
+    "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
+    "Similar drinks": "অনুরূপ পানীয়গুলো"
   }
 }
 </i18n>

@@ -175,6 +175,14 @@ export default {
     "Share on Twitter": "Deel op Twitter",
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
+  },
+  "bn": {
+    "Print": "প্রিন্ট",
+    "Share": "শেয়ার",
+    "Share on Facebook": "ফেসবুকে শেয়ার করুন",
+    "Share on Twitter": "টুইটারে শেয়ার করুন",
+    "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
+    "Hide Image": "ছবি লুকান"
   }
 }
 </i18n>
