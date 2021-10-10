@@ -138,6 +138,13 @@ export default {
     "Explore": "Alle recepten",
     "Keywords": "Trefwoorden",
     "Search": "Zoeken"
+  },
+  "bn": {
+    "Featured": "বিশেষ ভাবে প্রকাশিত",
+    "Random": "এলোমেলো",
+    "Explore": "ঘুরে দেখুন",
+    "Keywords": "কীওয়ার্ড সমূহ",
+    "Search": "খুঁজে দেখুন "
   }
 }
 </i18n>

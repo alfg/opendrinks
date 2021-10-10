@@ -88,6 +88,13 @@ export default {
     "Are you sure you want to remove all favorites": "Weet je zeker dat je al je favorieten wilt verwijderen?",
     "Delete": "Verwijderen",
     "Cancel": "Annuleren"
+  },
+  "bn": {
+    "You don't have any favorite drinks": "আপনার কোন প্রিয় পানীয় নেই",
+    "Remove All Favorites": "সমস্ত প্রিয় সরান",
+    "Are you sure you want to remove all favorites": "আপনি কি নিশ্চিত যে আপনি সমস্ত পছন্দ অপসারণ করতে চান",
+    "Delete": "মুছুন",
+    "Cancel": "বাতিল করুন"
   }
 }
 </i18n>

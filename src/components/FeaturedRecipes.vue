@@ -71,6 +71,9 @@ export default {
   },
   "uk": {
     "Load More": "Завантажити більше"
+  },
+  "bn":{
+    "Load More": "আরো দেখুন"
   }
 }
 </i18n>

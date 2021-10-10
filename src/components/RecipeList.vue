@@ -169,6 +169,9 @@ export default {
   },
   "uk": {
     "View Recipe": "Переглянути рецепт"
+  },
+  "bn": {
+    "View Recipe": "রেসিপিটি দেখুন"
   }
 }
 </i18n>
