@@ -167,6 +167,12 @@ export default {
   "nl": {
     "View Recipe": "Recept bekijken"
   },
+  "ru": {
+    "View Recipe": "Просмотреть рецепт"
+  },
+  "uk": {
+    "View Recipe": "Переглянути рецепт"
+  },
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"
   }
