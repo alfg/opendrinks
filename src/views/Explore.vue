@@ -15,7 +15,10 @@
             :options="keywordFilter"
           ></b-form-select>
         </div>
-        <div v-if="filteredKeywords" class="col-6 d-flex flex-row align-items-center mb-2">
+        <div
+          v-if="filteredKeywords"
+          class="col-6 d-flex flex-row align-items-center mb-2"
+        >
           <p class="mb-0">
             <b-badge
               v-for="(o, i) in filteredKeywords"
@@ -39,9 +42,17 @@
         v-if="showFilter"
         v-t="'Reset Filters'"
       />
-      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
+      <b-button
+        variant="outline-secondary"
+        :pressed.sync="showFilter"
+        size="sm"
+        v-t="'Filters'"
+      />
     </div>
-    <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
+    <RecipeList
+      title="Open Drinks - Explore"
+      v-bind:items="filterResults"
+    />
   </div>
 </template>
 
@@ -76,7 +87,9 @@ export default {
       return this.drinks.filter(
         drink =>
           drink.keywords &&
-          this.filteredKeywords.every(keyword => drink.keywords.includes(keyword)),
+          this.filteredKeywords.every(keyword =>
+            drink.keywords.includes(keyword),
+          ),
       );
     },
   },
@@ -130,6 +143,31 @@ export default {
     "Filters": "Filtres",
     "Reset Filters": "Enlever les filtres",
     "Add Keyword": "Ajouter un mot-clés"
+  },
+  "es": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar Filtros",
+    "Add Keyword": "Agregar Palabra Clave"
+  },
+  "hi": {
+    "Filters": "छन्नी",
+    "Reset Filters": "छन्नी रीसेट करें",
+    "Add Keyword": "सूचक-शब्द जोड़ें"
+  },
+  "de": {
+    "Filters": "Filter",
+    "Reset Filters": "Filter zurücksetzen",
+    "Add Keyword": "Stichwort hinzufügen"
+  },
+  "nl": {
+    "Filters": "Filters",
+    "Reset Filters": "Filters resetten",
+    "Add Keyword": "Trefwoord toevoegen"
+  },
+  "bn": {
+    "Filters": "ফিল্টার",
+    "Reset Filters": "ফিল্টার রিসেট করুন",
+    "Add Keyword": "কীওয়ার্ড যোগ করুন"
   }
 }
 </i18n>
