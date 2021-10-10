@@ -145,6 +145,6 @@ export default {
     "Filters": "ফিল্টার",
     "Reset Filters": "ফিল্টার রিসেট করুন",
     "Add Keyword": "কীওয়ার্ড যোগ করুন"
-  },
+  }
 }
 </i18n>

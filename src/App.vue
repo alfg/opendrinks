@@ -145,6 +145,6 @@ export default {
     "Explore": "ঘুরে দেখুন",
     "Keywords": "কীওয়ার্ড সমূহ",
     "Search": "খুঁজে দেখুন "
-  },
+  }
 }
 </i18n>

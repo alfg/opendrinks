@@ -183,6 +183,6 @@ export default {
     "Share on Twitter": "টুইটারে শেয়ার করুন",
     "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
     "Hide Image": "ছবি লুকান"
-  },
+  }
 }
 </i18n>

@@ -164,8 +164,8 @@ export default {
   "nl": {
   "View Recipe": "Recept bekijken"
   },
-  "hi": {
+  "bn": {
     "View Recipe": "রেসিপিটি দেখুন"
-  },
+  }
 }
 </i18n>

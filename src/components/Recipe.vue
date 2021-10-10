@@ -314,6 +314,6 @@ export default {
     "Directions": "প্রস্তুত প্রণালি",
     "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
     "Similar drinks": "অনুরূপ পানীয়গুলো"
-  },
+  }
 }
 </i18n>
