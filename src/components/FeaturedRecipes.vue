@@ -57,6 +57,9 @@ export default {
   "ja": {
     "Load More": "もっと見る"
   },
+    "fr": {
+      "Load More": "Mehr"
+    },
   "fr": {
     "Load More": "Voir plus"
   },

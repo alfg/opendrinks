@@ -287,14 +287,21 @@ export default {
     "View full recipe at": "完全なレシピを見る",
     "Similar drinks": "似ているドリンク"
   },
-    "fr": {
+  "de": {
+    "Contributed by": "Eingetragen von",
+    "Ingredients": "Zutaten",
+    "Directions": "Anleitung",
+    "View full recipe at": "Vollständiges Rezept anzeigen auf",
+    "Similar drinks": "Ähnliche Drinks"
+  },
+  "fr": {
     "Contributed by": "Partagé par",
     "Ingredients": "Ingrédients",
     "Directions": "Préparation",
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
   },
-    "hi": {
+  "hi": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
     "Directions": "तैयारी",

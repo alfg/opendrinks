@@ -22,6 +22,9 @@ export default {
     "Find Your Drink": "あなたのドリンクを見つけよう"
   },
   "fr": {
+    "Find Your Drink": "Finde deinen Drink"
+  },
+  "fr": {
     "Find Your Drink": "Rechercher votre cocktail"
   },
   "hi": {

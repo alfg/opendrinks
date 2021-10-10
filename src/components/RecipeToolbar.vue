@@ -152,6 +152,14 @@ export default {
     "Copy URL": "URLをコピー",
     "Hide Image": "画像を非表示"
   },
+  "de": {
+    "Print": "Drucken",
+    "Share": "Teilen",
+    "Share on Facebook": "Auf Facebook teilen",
+    "Share on Twitter": "Auf Twitter teilen",
+    "Copy URL": "URL kopieren",
+    "Hide Image": "Bild ausblenden"
+  },
   "fr": {
     "Print": "Imprimer",
     "Share": "Partager",

@@ -118,6 +118,13 @@ export default {
     "Keywords": "キーワード",
     "Search": "検索"
   },
+  "de": {
+    "Featured": "Featured",
+    "Random": "Zufällig",
+    "Explore": "Durchsuchen",
+    "Keywords": "Keywords",
+    "Search": "Suchen"
+  },
   "fr": {
     "Featured": "En vedette",
     "Random": "Aléatoire",

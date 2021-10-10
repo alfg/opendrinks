@@ -191,6 +191,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
     "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
   },
+  "de": {
+    "Filter by": "Filtern nach",
+    "Name": "Name",
+    "Ingredients": "Zutaten",
+    "Keywords": "Keywords",
+    "You can search for multiple ingredients by separating them with a space": "Du kannst nach mehreren Zutaten suchen, indem du sie durch ein Leerzeichen trennst",
+    "You can search for multiple keywords by separating them with a space": "Du kannst nach mehreren Keywords suchen, indem du sie durch ein Leerzeichen trennst"
+  },
   "fr": {
     "Filter by": "Filtrer par",
     "Name": "Nom",

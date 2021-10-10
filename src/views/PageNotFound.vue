@@ -28,13 +28,17 @@ export default {
     "The page you are looking for was not found.": "お探しのページは見つかりませんでした。",
     "Back to Home": "ホームに戻る"
   },
+  "de": {
+    "The page you are looking for was not found.": "Seite nicht gefunden",
+    "Back to Home": "Zurück zur Startseite"
+  },
   "fr": {
-  "The page you are looking for was not found.": "Page non trouvée",
-  "Back to Home": "Retour à l'accueil"
+    "The page you are looking for was not found.": "Page non trouvée",
+    "Back to Home": "Retour à l'accueil"
   },
   "hi": {
-  "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
-  "Back to Home": "घर वापसी"
+    "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
+    "Back to Home": "घर वापसी"
   },
   "nl": {
     "The page you are looking for was not found.": "Deze pagina is niet beschikbaar.",
