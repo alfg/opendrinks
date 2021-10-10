@@ -3,15 +3,17 @@
     <div class="d-flex justify-content-between align-items-start">
       <div>
         <h1>{{ drink.name }}</h1>
-        <div v-if="drink.keywords" class="mb-2">
+        <div
+          v-if="drink.keywords"
+          class="mb-2"
+        >
           <b-badge
             v-for="(o, i) in drink.keywords"
             v-bind:key="i"
             variant="secondary"
             :style="badgeStyle"
             :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-            >{{ o }}</b-badge
-          >
+          >{{ o }}</b-badge>
         </div>
       </div>
       <RecipeToolbar
@@ -45,13 +47,19 @@
         <div class="recipe-ingredients">
           <h4>{{ $t('Ingredients') }}</h4>
           <ul>
-            <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+            <li
+              v-for="(o, i) in drink.ingredients"
+              v-bind:key="i"
+            >
               {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
             </li>
           </ul>
         </div>
 
-        <div class="recipe-image" v-if="showImage">
+        <div
+          class="recipe-image"
+          v-if="showImage"
+        >
           <b-img
             right
             class="mb-4"
@@ -67,11 +75,17 @@
         <div class="recipe-directions-list">
           <h4>{{ $t('Directions') }}</h4>
           <ol class="mb-4">
-            <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
+            <li
+              v-for="(o, i) in drink.directions"
+              v-bind:key="i"
+            >{{ o }}</li>
           </ol>
         </div>
 
-        <div class="mt-4" v-if="drink.source">
+        <div
+          class="mt-4"
+          v-if="drink.source"
+        >
           <span>
             {{ $t('View full recipe at') }}:
             <a :href="drink.source">{{ drink.source }}</a>
@@ -226,7 +240,10 @@ export default {
   },
   methods: {
     async getSimilarRecipes(name) {
-      return (await recipes.getSimilarRecipe(name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
+      return (await recipes.getSimilarRecipe(name)).slice(
+        0,
+        NUMBER_OF_SIMILAR_RECIPES,
+      );
     },
     getRecipe(name) {
       const drink = recipes.getRecipe(name);
@@ -294,12 +311,26 @@ export default {
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
   },
-    "hi": {
+  "es": {
+    "Contributed by": "Aportado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucciones",
+    "View full recipe at": "Mira la receta completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "hi": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
     "Directions": "तैयारी",
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
+  },
+  "de": {
+    "Contributed by": "Beitrag von",
+    "Ingredients": "Zutaten",
+    "Directions": "Rezeptschritte",
+    "View full recipe at": "Das vollständige Rezept finden Sie auf",
+    "Similar drinks": "Ähnliche Getränke"
   },
   "nl": {
     "Contributed by": "Bijdrage door",
@@ -307,6 +338,27 @@ export default {
     "Directions": "Bereidingswijze",
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "ru": {
+    "Contributed by": "Автор",
+    "Ingredients": "Ингредиенты",
+    "Directions": "Способы приготовления",
+    "View full recipe at": "Посмотреть полный рецепт на",
+    "Similar drinks": "Подобные напитки"
+  },
+  "uk": {
+    "Contributed by": "Автор",
+    "Ingredients": "Інгредієнти",
+    "Directions": "Способи приготування",
+    "View full recipe at": "Подивитися повний рецепт на",
+    "Similar drinks": "Подібні напої"
+  },
+  "bn": {
+    "Contributed by": "অবদান করেছেন",
+    "Ingredients": "উপকরণ সমূহ",
+    "Directions": "প্রস্তুত প্রণালি",
+    "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
+    "Similar drinks": "অনুরূপ পানীয়গুলো"
   }
 }
 </i18n>

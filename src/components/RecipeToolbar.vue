@@ -1,6 +1,12 @@
 <template>
-  <div class="d-flex align-items-center" v-bind:class="{ 'justify-content-end': isMobile }">
-    <div class="show-image" v-if="isPrint">
+  <div
+    class="d-flex align-items-center"
+    v-bind:class="{ 'justify-content-end': isMobile }"
+  >
+    <div
+      class="show-image"
+      v-if="isPrint"
+    >
       <b-form-checkbox
         class="mr-3"
         name="show-image-checkbox"
@@ -18,11 +24,23 @@
       :isFavorited="isFavorited"
     ></FavoriteStar>
 
-    <div class="mx-1 print-button" v-if="!isMobile">
-      <b-button v-if="isPrint" variant="outline-primary" @click="print()">
+    <div
+      class="mx-1 print-button"
+      v-if="!isMobile"
+    >
+      <b-button
+        v-if="isPrint"
+        variant="outline-primary"
+        @click="print()"
+      >
         {{ $t('Print') }}
       </b-button>
-      <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
+      <b-button
+        v-else
+        variant="outline-primary"
+        :to="`/recipe/${name}/print`"
+        target="_blank"
+      >
         {{ $t('Print') }}
       </b-button>
     </div>
@@ -54,7 +72,11 @@
     >
     </BIconFiles>
 
-    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
+    <b-toast
+      v-model="copyToast"
+      :title="$t('Link Copied')"
+      :auto-hide-delay="500"
+    >
       {{ $t('The link to this page is copied in your clipboard') }}
     </b-toast>
   </div>
@@ -91,7 +113,8 @@ export default {
   },
   methods: {
     getFavorites() {
-      this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
+      this.favorites =
+        JSON.parse(window.localStorage.getItem('favorites')) || [];
     },
     favorited() {
       const index = this.favorites.indexOf(this.drink.name);
@@ -118,7 +141,9 @@ export default {
       el.style.left = '-9999px';
       document.body.appendChild(el);
       const selected =
-        document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
+        document.getSelection().rangeCount > 0
+          ? document.getSelection().getRangeAt(0)
+          : false;
       el.select();
       document.execCommand('copy');
       this.copyToast = true;
@@ -160,6 +185,14 @@ export default {
     "Copy URL": "copier l'url",
     "Hide Image": "cacher l'image"
   },
+  "es": {
+    "Print": "Imprimir",
+    "Share": "Compartir",
+    "Share on Facebook": "Compartir en Facebook",
+    "Share on Twitter": "Compartir en Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Ocultar imagen"
+  },
   "hi": {
     "Print": "प्रिंट करे",
     "Share": "बाटें",
@@ -168,6 +201,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "de": {
+    "Print": "Drucken",
+    "Share": "Teilen",
+    "Share on Facebook": "Auf Facebook teilen",
+    "Share on Twitter": "Auf Twitter teilen",
+    "Copy URL": "URL kopieren",
+    "Hide Image": "Bild ausblenden"
+  },
   "nl": {
     "Print": "Printen",
     "Share": "Delen",
@@ -175,6 +216,30 @@ export default {
     "Share on Twitter": "Deel op Twitter",
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
+  },
+  "ru": {
+    "Print": "Распечатать",
+    "Share": "Поделиться",
+    "Share on Facebook": "Поделиться через Facebook",
+    "Share on Twitter": "Поделиться через Twitter",
+    "Copy URL": "скопировать URL",
+    "Hide Image": "Скрыть изображение"
+  },
+  "uk": {
+    "Print": "Роздрукувати",
+    "Share": "Поділитися",
+    "Share on Facebook": "Поділитися через Facebook",
+    "Share on Twitter": "Поділитися через Twitter",
+    "Copy URL": "скопіювати URL",
+    "Hide Image": "Приховати зображення"
+  },
+  "bn": {
+    "Print": "প্রিন্ট",
+    "Share": "শেয়ার",
+    "Share on Facebook": "ফেসবুকে শেয়ার করুন",
+    "Share on Twitter": "টুইটারে শেয়ার করুন",
+    "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
+    "Hide Image": "ছবি লুকান"
   }
 }
 </i18n>
