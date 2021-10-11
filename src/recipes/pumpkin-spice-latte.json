@@ -53,5 +53,8 @@
   ],
   "image": "pumpkin-spice-latte.jpeg",
   "source": "https://fofarms.com/wp-content/uploads/2018/09/PumpkinSpiceLatte.jpg"
-  "keywords": ["pumpkin", "spice", "latte", "psl"]
+  "keywords": 
+    [
+      "pumpkin", "spice", "latte", "psl"
+    ]
 }
