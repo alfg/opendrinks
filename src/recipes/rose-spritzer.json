@@ -1,0 +1,43 @@
+{
+    "name": "Rosé Spritzer",
+    "description": "A wine spritzer is similar to a spritz: they both come from the same German word!",
+    "github": "Daniele1209",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "rosé wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "soda water"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "lemon"           
+        }
+    ],
+    "directions": [
+        "Place ice in glass.",
+        "Fill the glass half full with wine, then top up with the club soda.",
+        "Garnish with the slice of lemon. ",
+        "Enjoy immediately; preferably on a patio somewhere."
+    ],
+    "image": "rose-wine-spritzer.jpg",
+    "source": "https://www.saltandlavender.com/wp-content/uploads/2018/05/easy-rose-wine-spritzer-recipe-1-720x1080.jpg",
+    "keywords": [
+        "rose",
+        "wine",
+        "lemon",
+        "ice",
+        "alcoholic"
+    ]
+
+}
