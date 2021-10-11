@@ -100,6 +100,7 @@
 
 <script>
 import FavoriteStar from './FavoriteStar.vue';
+import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
 
 export default {
   name: 'RecipeToolbar',
@@ -111,6 +112,10 @@ export default {
   },
   components: {
     FavoriteStar,
+    BIconTwitter,
+    BIconPrinter,
+    BIconFiles,
+    BIconFacebook
   },
   data() {
     return {
