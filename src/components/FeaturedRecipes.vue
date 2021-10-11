@@ -1,6 +1,9 @@
 <template>
   <div class="featured-recipes">
-    <div v-for="(feature, i) in featuredList" v-bind:key="i">
+    <div
+      v-for="(feature, i) in featuredList"
+      v-bind:key="i"
+    >
       <h2>{{ feature.title }}</h2>
       <p>{{ feature.description }}</p>
       <b-card-group deck>
@@ -62,6 +65,9 @@ export default {
   },
   "hi": {
     "Load More": "और विधि देखिये"
+  },
+  "gl": {
+    "Load More": "Cargar máis"
   },
   "nl": {
     "Load More": "Laad meer"

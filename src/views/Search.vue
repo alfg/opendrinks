@@ -27,6 +27,9 @@ export default {
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
+  "gl": {
+    "Find Your Drink": "Atopa a túa bebida"
+  },
   "nl": {
     "Find Your Drink": "Vind jouw drankje"
   },
