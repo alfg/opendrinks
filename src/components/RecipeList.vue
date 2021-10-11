@@ -184,14 +184,25 @@ export default {
   "fr": {
     "View Recipe": "Voir la Recette"
   },
+  "es": {
+    "View Recipe": "Ver Receta"
+  },
   "hi": {
     "View Recipe": "विधि देखे"
   },
   "gl": {
     "View Recipe": "Ver receita"
+  "de": {
+  "View Recipe": "Rezept ansehen"
   },
   "nl": {
-  "View Recipe": "Recept bekijken"
+    "View Recipe": "Recept bekijken"
+  },
+  "ru": {
+    "View Recipe": "Просмотреть рецепт"
+  },
+  "uk": {
+    "View Recipe": "Переглянути рецепт"
   },
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"

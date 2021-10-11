@@ -24,11 +24,16 @@ export default {
   "fr": {
     "Find Your Drink": "Rechercher votre cocktail"
   },
+  "es": {
+    "Find Your Drink": "Encuentra Tu Bebida"
+  },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
   "gl": {
     "Find Your Drink": "Atopa a túa bebida"
+  "de": {
+    "Find Your Drink": "Finden Sie Ihr Getränk"
   },
   "nl": {
     "Find Your Drink": "Vind jouw drankje"

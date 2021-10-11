@@ -32,6 +32,10 @@ export default {
   "The page you are looking for was not found.": "Page non trouvée",
   "Back to Home": "Retour à l'accueil"
   },
+  "es": {
+    "The page you are looking for was not found.": "No se encontró la página que estás buscando",
+    "Back to Home": "Volver al Inicio"
+  },
   "hi": {
   "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
   "Back to Home": "घर वापसी"
@@ -39,6 +43,9 @@ export default {
   "gl": {
     "The page you are looking for was not found.": "Non se atopou a páxina que estás a buscar",
     "Back to Home": "Volver ao comezo"
+  "de": {
+    "The page you are looking for was not found.": "Diese Seite ist nicht verfügbar.",
+    "Back to Home": "Zur Homepage"
   },
   "nl": {
     "The page you are looking for was not found.": "Deze pagina is niet beschikbaar.",
