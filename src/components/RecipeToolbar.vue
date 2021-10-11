@@ -1,12 +1,6 @@
 <template>
-  <div
-    class="d-flex align-items-center"
-    v-bind:class="{ 'justify-content-end': isMobile }"
-  >
-    <div
-      class="show-image"
-      v-if="isPrint"
-    >
+  <div class="d-flex align-items-center" v-bind:class="{ 'justify-content-end': isMobile }">
+    <div class="show-image" v-if="isPrint">
       <b-form-checkbox
         class="mr-3"
         name="show-image-checkbox"
@@ -99,8 +93,8 @@
 </template>
 
 <script>
-import FavoriteStar from './FavoriteStar.vue';
 import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
+import FavoriteStar from './FavoriteStar.vue';
 
 export default {
   name: 'RecipeToolbar',
@@ -115,7 +109,7 @@ export default {
     BIconTwitter,
     BIconPrinter,
     BIconFiles,
-    BIconFacebook
+    BIconFacebook,
   },
   data() {
     return {
@@ -134,8 +128,7 @@ export default {
   },
   methods: {
     getFavorites() {
-      this.favorites =
-        JSON.parse(window.localStorage.getItem('favorites')) || [];
+      this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     },
     favorited() {
       const index = this.favorites.indexOf(this.drink.name);
@@ -162,9 +155,7 @@ export default {
       el.style.left = '-9999px';
       document.body.appendChild(el);
       const selected =
-        document.getSelection().rangeCount > 0
-          ? document.getSelection().getRangeAt(0)
-          : false;
+        document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
       el.select();
       document.execCommand('copy');
       this.copyToast = true;
