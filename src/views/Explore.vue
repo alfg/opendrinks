@@ -158,6 +158,7 @@ export default {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar filtros",
     "Add Keyword": "Agregar palabra chave"
+  },
   "de": {
     "Filters": "Filter",
     "Reset Filters": "Filter zurücksetzen",

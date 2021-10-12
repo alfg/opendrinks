@@ -108,6 +108,7 @@ export default {
     "Are you sure you want to remove all favorites": "Estás seguro que queres eliminar todos os favoritos？",
     "Delete": "Eliminar",
     "Cancel": "Cancelar"
+  },
   "de": {
     "You don't have any favorite drinks": "Sie haben noch keine Lieblingsgetränke",
     "Remove All Favorites": "Alle Favoriten löschen",

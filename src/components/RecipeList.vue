@@ -192,6 +192,7 @@ export default {
   },
   "gl": {
     "View Recipe": "Ver receita"
+  },
   "de": {
   "View Recipe": "Rezept ansehen"
   },

@@ -32,6 +32,7 @@ export default {
   },
   "gl": {
     "Find Your Drink": "Atopa a túa bebida"
+  },
   "de": {
     "Find Your Drink": "Finden Sie Ihr Getränk"
   },

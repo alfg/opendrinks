@@ -71,6 +71,7 @@ export default {
   },
   "gl": {
     "Load More": "Cargar máis"
+  },
   "de": {
     "Load More": "Mehr laden"
   },

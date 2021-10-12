@@ -331,6 +331,7 @@ export default {
     "Directions": "Instrucións",
     "View full recipe at": "Mira a receita completa en",
     "Similar drinks": "Bebidas similares"
+  },
   "de": {
     "Contributed by": "Beitrag von",
     "Ingredients": "Zutaten",

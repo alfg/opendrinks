@@ -208,6 +208,7 @@ export default {
     "Share on Twitter": "Compartir en Twitter",
     "Copy URL": "Copiar URL",
     "Hide Image": "Ocultar imaxe"
+  },
   "de": {
     "Print": "Drucken",
     "Share": "Teilen",
