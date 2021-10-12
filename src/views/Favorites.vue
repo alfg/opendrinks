@@ -116,6 +116,13 @@ export default {
     "Delete": "Verwijderen",
     "Cancel": "Annuleren"
   },
+  "no": {
+    "You don't have any favorite drinks": "Du har ingen favorittdrinker",
+    "Remove All Favorites": "Fjern alle favoritter",
+    "Are you sure you want to remove all favorites": "Er du sikker på at du vil fjerne alle favoritter?",
+    "Delete": "Slett",
+    "Cancel": "Avbryt"
+  },
   "bn": {
     "You don't have any favorite drinks": "আপনার কোন প্রিয় পানীয় নেই",
     "Remove All Favorites": "সমস্ত প্রিয় সরান",

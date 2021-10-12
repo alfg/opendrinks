@@ -164,6 +164,11 @@ export default {
     "Reset Filters": "Filters resetten",
     "Add Keyword": "Trefwoord toevoegen"
   },
+  "no": {
+    "Filters": "Filter",
+    "Reset Filters": "Nullstill filter",
+    "Add Keyword": "Legg til nøkkelord"
+  },
   "bn": {
     "Filters": "ফিল্টার",
     "Reset Filters": "ফিল্টার রিসেট করুন",

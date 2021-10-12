@@ -339,6 +339,13 @@ export default {
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
   },
+  "no": {
+    "Contributed by": "Bidrag fra",
+    "Ingredients": "Ingredienser",
+    "Directions": "Fremgangsmåte",
+    "View full recipe at": "Se hele oppskriften på",
+    "Similar drinks": "Lignende drinker"
+  },
   "ru": {
     "Contributed by": "Автор",
     "Ingredients": "Ингредиенты",

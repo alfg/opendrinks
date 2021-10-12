@@ -75,6 +75,9 @@ export default {
   "nl": {
     "Load More": "Laad meer"
   },
+  "no": {
+    "Load More": "Last mer"
+  },
   "ru": {
     "Load More": "Загрузить еще"
   },

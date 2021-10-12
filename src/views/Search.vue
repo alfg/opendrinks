@@ -36,6 +36,9 @@ export default {
   "nl": {
     "Find Your Drink": "Vind jouw drankje"
   },
+  "no": {
+    "Find Your Drink": "Finn din drink"
+  },
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"
   }
