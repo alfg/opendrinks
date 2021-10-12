@@ -173,7 +173,7 @@ export default {
     "Explore": "Explora",
     "Keywords":"Palabras Craves",
     "Search": "Procura"
-
+  },
   "de": {
     "Featured": "Empfohlen",
     "Random": "Zufallsrezepte",
