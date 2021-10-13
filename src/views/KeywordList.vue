@@ -1,14 +1,16 @@
 <template>
   <div class="container">
-    <b-form-input v-model="filter" placeholder="Enter your keyword"></b-form-input>
+    <b-form-input
+      v-model="filter"
+      placeholder="Enter your keyword"
+    ></b-form-input>
 
     <b-list-group class="mt-4">
       <b-list-group-item
         v-for="(keyword, index) in keywords.filter((row) => {return row.includes(filter) || !filter})"
         :key="index"
         :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
-        >{{ keyword }}</b-list-group-item
-      >
+      >{{ keyword }}</b-list-group-item>
     </b-list-group>
   </div>
 </template>
@@ -22,7 +24,7 @@ export default {
     const keywords = recipes.getAllKeywords().sort();
     return {
       keywords,
-      filter: null
+      filter: null,
     };
   },
   mounted() {
@@ -35,3 +37,10 @@ export default {
   },
 };
 </script>
+<i18n>
+{
+  "de": {
+    "Enter your keyword": "Gib dein Stichwort ein"
+  }
+}
+</i18n>
