@@ -42,6 +42,12 @@ export default {
 {
   "no": {
     "Enter your keyword": "Søk etter nøkkelord"
+  },
+  "ru": {
+    "Enter your keyword": "Введите ключевое слово"
+  },
+  "uk": {
+    "Enter your keyword": "Введіть ключове слово"
   }
 }
 </i18n>
