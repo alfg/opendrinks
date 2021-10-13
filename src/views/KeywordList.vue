@@ -42,11 +42,20 @@ export default {
   "no": {
     "Enter your keyword": "Søk etter nøkkelord"
   },
+  "ru": {
+    "Enter your keyword": "Введите ключевое слово"
+  },
+  "uk": {
+    "Enter your keyword": "Введіть ключове слово"
+  },
   "hi": {
     "Enter your keyword": "अपना सूचक-शब्द दर्ज करें"
   },
   "es": {
     "Enter your keyword": "Introduce tu palabra clave"
+  },
+  "de": {
+    "Enter your keyword": "Gib dein Stichwort ein"
   }
 }
 </i18n>
