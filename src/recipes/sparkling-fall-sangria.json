@@ -1,0 +1,49 @@
+{
+	"name": "Sparkling Fall Sangria",
+	"description": "This wild cocktail combines champagne, sparkling wine, and prosecco.",
+	"github": "speex404",
+	"ingredients": [{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "Amaretto"
+		},
+		{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "Cinnamon Whiskey"
+		},
+		{
+			"quantity": "20",
+			"measure": "oz",
+			"ingredient": "Apple Cider"
+		},
+		{
+			"quantity": "750",
+			"measure": "ml",
+			"ingredient": "Champagne"
+		},
+		{
+			"quantity": "8",
+			"measure": "oz",
+			"ingredient": "Sparkling Apple Drink"
+		},
+		{
+			"quantity": "How many you want",
+			"measure": "pcs",
+			"ingredient": "Pears, Red Apples, Cinnamon Sticks, Star Anise"
+		}
+	],
+	"directions": [
+		"Drop fruits and cinnamon sticks into base of pitcher and pour over amaretto and cinnamon whiskey.",
+		"Add apple cider, followed by champagne and sparkling drink. Stir well.",
+		"Pour to serve."
+	],
+	"image": "sparkling-fall-sangria.jpg",
+	"source": "https://tipsybartender.com/recipe/sparkling-fall-sangria",
+	"keywords": [
+		"champagne",
+		"sparkling wine",
+		"amaretto",
+		"apple cider"
+	]
+}

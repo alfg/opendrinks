@@ -1,0 +1,45 @@
+{
+    "name": "Across the Pacific",
+    "description": "A cocktail creation of Meaghan Dorman, bar director of Dear Irving and The Raines Law Room, New York. The Across the Pacific is another bitter tiki creation. The Averna Amaro brings dried fruit and raisin notes to the tropical, split-rum base cocktail.",
+    "github": "lazav94",
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Blended Aged Rum"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Jamaican Rum"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Averna Amaro"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "Orgeat Syrup"
+        }
+    ],
+    "directions": [
+        "Add all ingredients into a shaker with one ice cube.",
+        "Shake until the ice melts and mixture is frothy.",
+        "Pour into a rocks glass filled with crushed ice.",
+        "Garnish with a lime wheel and grated nutmeg."
+    ],
+    "image": "across-the-pacific.jpg",
+    "keywords": [
+        "alcoholic",
+        "rum",
+        "amaro",
+        "vegan"
+    ]
+}

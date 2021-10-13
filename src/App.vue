@@ -125,6 +125,13 @@ export default {
     "Keywords": "Mots-Clés",
     "Search": "Recherche"
   },
+  "es": {
+    "Featured": "Destacadas",
+    "Random": "Aleatorio",
+    "Explore": "Explora",
+    "Keywords": "Palabras Claves",
+    "Search": "Búsqueda"
+  },
   "hi": {
     "Featured": "विशेष रुप से प्रदर्शित",
     "Random": "अनियमित",
@@ -132,12 +139,33 @@ export default {
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
   },
+  "gl": {
+    "Featured": "Destacadas",
+    "Random": "Aleatorio",
+    "Explore": "Explora",
+    "Keywords":"Palabras Craves",
+    "Search": "Procura"
+  },
+  "de": {
+    "Featured": "Empfohlen",
+    "Random": "Zufallsrezepte",
+    "Explore": "Alle Rezepte",
+    "Keywords": "Schlüsselwörter",
+    "Search": "Suche"
+  },
   "nl": {
     "Featured": "Aanbevolen",
     "Random": "Willekeurig",
     "Explore": "Alle recepten",
     "Keywords": "Trefwoorden",
     "Search": "Zoeken"
+  },
+  "no": {
+    "Featured": "Fremhevet",
+    "Random": "Tilfeldig",
+    "Explore": "Alle oppskrifter",
+    "Keywords": "Nøkkelord",
+    "Search": "Søk"
   },
   "bn": {
     "Featured": "বিশেষ ভাবে প্রকাশিত",
