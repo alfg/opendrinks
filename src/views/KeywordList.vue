@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <b-form-input v-model="filter" placeholder="Enter your keyword"></b-form-input>
+    <b-form-input v-model="filter" :placeholder="$t('Enter your keyword')"></b-form-input>
 
     <b-list-group class="mt-4">
       <b-list-group-item
@@ -35,3 +35,11 @@ export default {
   },
 };
 </script>
+
+<i18n>
+{
+  "no": {
+    "Enter your keyword": "Søk etter nøkkelord"
+  }
+}
+</i18n>
