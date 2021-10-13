@@ -43,5 +43,10 @@ export default {
   "no": {
     "Enter your keyword": "Søk etter nøkkelord"
   }
+},
+{
+  "bn": {
+    "Enter your keyword": "আপনার কীওয়ার্ড লিখুন"
+  }
 }
 </i18n>
