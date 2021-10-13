@@ -190,6 +190,9 @@ export default {
   "hi": {
     "View Recipe": "विधि देखे"
   },
+  "gl": {
+    "View Recipe": "Ver receita"
+  },
   "de": {
   "View Recipe": "Rezept ansehen"
   },

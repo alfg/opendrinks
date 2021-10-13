@@ -325,6 +325,13 @@ export default {
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
   },
+  "gl": {
+    "Contributed by": "Achegado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucións",
+    "View full recipe at": "Mira a receita completa en",
+    "Similar drinks": "Bebidas similares"
+  },
   "de": {
     "Contributed by": "Beitrag von",
     "Ingredients": "Zutaten",

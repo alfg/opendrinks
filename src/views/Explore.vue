@@ -154,6 +154,11 @@ export default {
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
   },
+  "gl": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar filtros",
+    "Add Keyword": "Agregar palabra chave"
+  },
   "de": {
     "Filters": "Filter",
     "Reset Filters": "Filter zurücksetzen",

@@ -167,6 +167,13 @@ export default {
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
   },
+  "gl": {
+    "Featured": "Destacadas",
+    "Random": "Aleatorio",
+    "Explore": "Explora",
+    "Keywords":"Palabras Craves",
+    "Search": "Procura"
+  },
   "de": {
     "Featured": "Empfohlen",
     "Random": "Zufallsrezepte",

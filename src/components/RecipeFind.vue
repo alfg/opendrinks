@@ -239,6 +239,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
     "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
   },
+  "gl": {
+    "Filter by": "Filtrar por",
+    "Name": "Nomee",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palabras chave",
+    "You can search for multiple ingredients by separating them with a space": "Podes buscar múltiples ingredientes separándoos con espazos",
+    "You can search for multiple keywords by separating them with a space": "Podes buscar múltiples palabras craves separándoas con espazos"
+  },
   "de": {
     "Filter by": "Filtern nach",
     "Name": "Name",

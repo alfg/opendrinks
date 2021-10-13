@@ -40,6 +40,10 @@ export default {
   "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
   "Back to Home": "घर वापसी"
   },
+  "gl": {
+    "The page you are looking for was not found.": "Non se atopou a páxina que estás a buscar",
+    "Back to Home": "Volver ao comezo"
+  },
   "de": {
     "The page you are looking for was not found.": "Diese Seite ist nicht verfügbar.",
     "Back to Home": "Zur Homepage"

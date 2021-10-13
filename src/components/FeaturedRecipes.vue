@@ -69,6 +69,9 @@ export default {
   "hi": {
     "Load More": "और विधि देखिये"
   },
+  "gl": {
+    "Load More": "Cargar máis"
+  },
   "de": {
     "Load More": "Mehr laden"
   },
