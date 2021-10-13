@@ -65,7 +65,7 @@
 
       <b-row tag="section">
         <div class="recipe-directions-list">
-          <h4>{{ $t('Directions') }}</h4>
+          <h3 class="h4">{{ $t('Directions') }}</h3>
           <ol class="mb-4">
             <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
           </ol>
