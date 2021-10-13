@@ -51,6 +51,9 @@ export default {
   "hi": {
     "Enter your keyword": "अपना सूचक-शब्द दर्ज करें"
   },
+  "es": {
+    "Enter your keyword": "Introduce tu palabra clave"
+  },
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
   }
