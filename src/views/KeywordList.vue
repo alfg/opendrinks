@@ -42,6 +42,9 @@ export default {
 {
   "no": {
     "Enter your keyword": "Søk etter nøkkelord"
+  },
+  "hi": {
+    "Enter your keyword": "अपना सूचक-शब्द दर्ज करें"
   }
 }
 </i18n>
