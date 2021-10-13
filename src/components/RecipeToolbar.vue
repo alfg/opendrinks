@@ -225,6 +225,14 @@ export default {
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
   },
+  "no": {
+    "Print": "Skriv ut",
+    "Share": "Del",
+    "Share on Facebook": "Del på Facebook",
+    "Share on Twitter": "Del på Twitter",
+    "Copy URL": "Kopier URL",
+    "Hide Image": "Skjul bilde"
+  },
   "ru": {
     "Print": "Распечатать",
     "Share": "Поделиться",

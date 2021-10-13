@@ -263,6 +263,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "Je kunt zoeken op meerdere ingrediënten door ze met een spatie te scheiden",
     "You can search for multiple keywords by separating them with a space": "Je kunt zoeken op meerdere trefwoorden door ze met een spatie te scheiden"
   },
+  "no": {
+    "Filter by": "Filtrer etter",
+    "Name": "Navn",
+    "Ingredients": "Ingredienser",
+    "Keywords": "Nøkkelord",
+    "You can search for multiple ingredients by separating them with a space": "Du kan søke etter flere ingredienser ved å skille dem med et mellomrom",
+    "You can search for multiple keywords by separating them with a space": "Du kan søke etter flere nøkkelord ved å skille dem med et mellomrom"
+  },
   "ru": {
     "Filter by": "Фильтровать по",
     "Name": "Название",

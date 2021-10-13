@@ -199,6 +199,9 @@ export default {
   "nl": {
     "View Recipe": "Recept bekijken"
   },
+  "no": {
+    "View Recipe": "Se oppskrift"
+  },
   "ru": {
     "View Recipe": "Просмотреть рецепт"
   },

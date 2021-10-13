@@ -188,6 +188,13 @@ export default {
     "Keywords": "Trefwoorden",
     "Search": "Zoeken"
   },
+  "no": {
+    "Featured": "Fremhevet",
+    "Random": "Tilfeldig",
+    "Explore": "Alle oppskrifter",
+    "Keywords": "Nøkkelord",
+    "Search": "Søk"
+  },
   "bn": {
     "Featured": "বিশেষ ভাবে প্রকাশিত",
     "Random": "এলোমেলো",
