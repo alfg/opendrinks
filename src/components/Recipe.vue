@@ -294,12 +294,33 @@ export default {
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
   },
-    "hi": {
+  "es": {
+    "Contributed by": "Aportado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucciones",
+    "View full recipe at": "Mira la receta completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "hi": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
     "Directions": "तैयारी",
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
+  },
+  "gl": {
+    "Contributed by": "Achegado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucións",
+    "View full recipe at": "Mira a receita completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "de": {
+    "Contributed by": "Beitrag von",
+    "Ingredients": "Zutaten",
+    "Directions": "Rezeptschritte",
+    "View full recipe at": "Das vollständige Rezept finden Sie auf",
+    "Similar drinks": "Ähnliche Getränke"
   },
   "nl": {
     "Contributed by": "Bijdrage door",
@@ -307,6 +328,27 @@ export default {
     "Directions": "Bereidingswijze",
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "no": {
+    "Contributed by": "Bidrag fra",
+    "Ingredients": "Ingredienser",
+    "Directions": "Fremgangsmåte",
+    "View full recipe at": "Se hele oppskriften på",
+    "Similar drinks": "Lignende drinker"
+  },
+  "ru": {
+    "Contributed by": "Автор",
+    "Ingredients": "Ингредиенты",
+    "Directions": "Способы приготовления",
+    "View full recipe at": "Посмотреть полный рецепт на",
+    "Similar drinks": "Подобные напитки"
+  },
+  "uk": {
+    "Contributed by": "Автор",
+    "Ingredients": "Інгредієнти",
+    "Directions": "Способи приготування",
+    "View full recipe at": "Подивитися повний рецепт на",
+    "Similar drinks": "Подібні напої"
   },
   "bn": {
     "Contributed by": "অবদান করেছেন",

@@ -131,15 +131,35 @@ export default {
     "Reset Filters": "Enlever les filtres",
     "Add Keyword": "Ajouter un mot-clés"
   },
+  "es": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar Filtros",
+    "Add Keyword": "Agregar Palabra Clave"
+  },
   "hi": {
     "Filters": "छन्नी",
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
   },
+  "gl": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar filtros",
+    "Add Keyword": "Agregar palabra chave"
+  },
+  "de": {
+    "Filters": "Filter",
+    "Reset Filters": "Filter zurücksetzen",
+    "Add Keyword": "Stichwort hinzufügen"
+  },
   "nl": {
     "Filters": "Filters",
     "Reset Filters": "Filters resetten",
     "Add Keyword": "Trefwoord toevoegen"
+  },
+  "no": {
+    "Filters": "Filter",
+    "Reset Filters": "Nullstill filter",
+    "Add Keyword": "Legg til nøkkelord"
   },
   "bn": {
     "Filters": "ফিল্টার",

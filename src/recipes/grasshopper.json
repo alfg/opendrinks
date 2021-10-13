@@ -1,0 +1,46 @@
+{
+    "name": "Grasshopper",
+    "description": "A minty dessert in a glass.",
+    "github": "crislanarafael",
+    "ingredients": [
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Creme de Menthe"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "White Creme de Cacao"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "heavy cream"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "ice"
+        }
+
+    ],
+    "directions": [
+        "Combine Creme de Menthe, White Creme de Cacao, heavy cream, and ice in a blender",
+        "Blend until smooth"
+        
+    ],
+    "image": "grasshopper.jpg",
+    "source": "https://www.allrecipes.com/recipe/222885/grasshopper-cocktail/",
+    "keywords": [
+        "cold",
+        "sweet",
+        "minty",
+        "alcoholic",
+        "creme de menthe",
+        "creme de cacao",
+        "heavy cream",
+        "ice",
+        "blended"
+    ]
+}
