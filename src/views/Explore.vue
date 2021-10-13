@@ -15,10 +15,7 @@
             :options="keywordFilter"
           ></b-form-select>
         </div>
-        <div
-          v-if="filteredKeywords"
-          class="col-6 d-flex flex-row align-items-center mb-2"
-        >
+        <div v-if="filteredKeywords" class="col-6 d-flex flex-row align-items-center mb-2">
           <p class="mb-0">
             <b-badge
               v-for="(o, i) in filteredKeywords"
@@ -42,17 +39,9 @@
         v-if="showFilter"
         v-t="'Reset Filters'"
       />
-      <b-button
-        variant="outline-secondary"
-        :pressed.sync="showFilter"
-        size="sm"
-        v-t="'Filters'"
-      />
+      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
     </div>
-    <RecipeList
-      title="Open Drinks - Explore"
-      v-bind:items="filterResults"
-    />
+    <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
 </template>
 
@@ -87,9 +76,7 @@ export default {
       return this.drinks.filter(
         drink =>
           drink.keywords &&
-          this.filteredKeywords.every(keyword =>
-            drink.keywords.includes(keyword),
-          ),
+          this.filteredKeywords.every(keyword => drink.keywords.includes(keyword)),
       );
     },
   },
