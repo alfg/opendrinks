@@ -48,6 +48,9 @@ export default {
   },
   "uk": {
     "Enter your keyword": "Введіть ключове слово"
+  },
+  "hi": {
+    "Enter your keyword": "अपना सूचक-शब्द दर्ज करें"
   }
 }
 </i18n>
