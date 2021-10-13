@@ -1,12 +1,6 @@
 <template>
-  <div
-    class="d-flex align-items-center"
-    v-bind:class="{ 'justify-content-end': isMobile }"
-  >
-    <div
-      class="show-image"
-      v-if="isPrint"
-    >
+  <div class="d-flex align-items-center" v-bind:class="{ 'justify-content-end': isMobile }">
+    <div class="show-image" v-if="isPrint">
       <b-form-checkbox
         class="mr-3"
         name="show-image-checkbox"
@@ -24,23 +18,11 @@
       :isFavorited="isFavorited"
     ></FavoriteStar>
 
-    <div
-      class="mx-1 print-button"
-      v-if="!isMobile"
-    >
-      <b-button
-        v-if="isPrint"
-        variant="outline-primary"
-        @click="print()"
-      >
+    <div class="mx-1 print-button" v-if="!isMobile">
+      <b-button v-if="isPrint" variant="outline-primary" @click="print()">
         {{ $t('Print') }}
       </b-button>
-      <b-button
-        v-else
-        variant="outline-primary"
-        :to="`/recipe/${name}/print`"
-        target="_blank"
-      >
+      <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
         {{ $t('Print') }}
       </b-button>
     </div>
@@ -72,11 +54,7 @@
     >
     </BIconFiles>
 
-    <b-toast
-      v-model="copyToast"
-      :title="$t('Link Copied')"
-      :auto-hide-delay="500"
-    >
+    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
       {{ $t('The link to this page is copied in your clipboard') }}
     </b-toast>
   </div>
@@ -113,8 +91,7 @@ export default {
   },
   methods: {
     getFavorites() {
-      this.favorites =
-        JSON.parse(window.localStorage.getItem('favorites')) || [];
+      this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     },
     favorited() {
       const index = this.favorites.indexOf(this.drink.name);
@@ -141,9 +118,7 @@ export default {
       el.style.left = '-9999px';
       document.body.appendChild(el);
       const selected =
-        document.getSelection().rangeCount > 0
-          ? document.getSelection().getRangeAt(0)
-          : false;
+        document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
       el.select();
       document.execCommand('copy');
       this.copyToast = true;
@@ -201,6 +176,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "gl": {
+    "Print": "Imprimir",
+    "Share": "Compartir",
+    "Share on Facebook": "Compartir en Facebook",
+    "Share on Twitter": "Compartir en Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Ocultar imaxe"
+  },
   "de": {
     "Print": "Drucken",
     "Share": "Teilen",
@@ -216,6 +199,14 @@ export default {
     "Share on Twitter": "Deel op Twitter",
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
+  },
+  "no": {
+    "Print": "Skriv ut",
+    "Share": "Del",
+    "Share on Facebook": "Del på Facebook",
+    "Share on Twitter": "Del på Twitter",
+    "Copy URL": "Kopier URL",
+    "Hide Image": "Skjul bilde"
   },
   "ru": {
     "Print": "Распечатать",

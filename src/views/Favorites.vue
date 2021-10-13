@@ -1,22 +1,13 @@
 <template>
   <div class="favorites container">
-    <b-button
-      class="mb-3"
-      v-if="drinks.length > 0"
-      variant="outline-danger"
-      @click="confirmModal"
-    >
+    <b-button class="mb-3" v-if="drinks.length > 0" variant="outline-danger" @click="confirmModal">
       {{ $t('Remove All Favorites') }}
     </b-button>
 
     <b-alert :show="drinks.length === 0">
       {{ $t("You don't have any favorite drinks") }}
     </b-alert>
-    <RecipeList
-      @favoriteClick="favoriteClick"
-      :title="`Open Drinks Favorites`"
-      :items="drinks"
-    />
+    <RecipeList @favoriteClick="favoriteClick" :title="`Open Drinks Favorites`" :items="drinks" />
   </div>
 </template>
 
@@ -34,27 +25,23 @@ export default {
     };
   },
   created() {
-    const favorites =
-      JSON.parse(window.localStorage.getItem('favorites')) || [];
+    const favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
     this.drinks = recipes.getFavoritedRecipes(favorites);
   },
   methods: {
     confirmModal() {
       this.$bvModal
-        .msgBoxConfirm(
-          this.$t('Are you sure you want to remove all favorites'),
-          {
-            title: '',
-            size: 'md',
-            buttonSize: 'md',
-            okVariant: 'danger',
-            headerClass: 'p-2 border-bottom-0',
-            footerClass: 'p-2 border-top-0',
-            centered: true,
-            okTitle: this.$t('Delete'),
-            cancelTitle: this.$t('Cancel'),
-          },
-        )
+        .msgBoxConfirm(this.$t('Are you sure you want to remove all favorites'), {
+          title: '',
+          size: 'md',
+          buttonSize: 'md',
+          okVariant: 'danger',
+          headerClass: 'p-2 border-bottom-0',
+          footerClass: 'p-2 border-top-0',
+          centered: true,
+          okTitle: this.$t('Delete'),
+          cancelTitle: this.$t('Cancel'),
+        })
         .then(value => {
           if (value) {
             localStorage.removeItem('favorites');
@@ -102,6 +89,13 @@ export default {
     "Delete": "हटाइये",
     "Cancel": "रद्द करें"
   },
+  "gl": {
+    "You don't have any favorite drinks": "Non tes bebidas favoritas",
+    "Remove All Favorites": "Eliminar todos os favoritos",
+    "Are you sure you want to remove all favorites": "Estás seguro que queres eliminar todos os favoritos？",
+    "Delete": "Eliminar",
+    "Cancel": "Cancelar"
+  },
   "de": {
     "You don't have any favorite drinks": "Sie haben noch keine Lieblingsgetränke",
     "Remove All Favorites": "Alle Favoriten löschen",
@@ -115,6 +109,13 @@ export default {
     "Are you sure you want to remove all favorites": "Weet je zeker dat je al je favorieten wilt verwijderen?",
     "Delete": "Verwijderen",
     "Cancel": "Annuleren"
+  },
+  "no": {
+    "You don't have any favorite drinks": "Du har ingen favorittdrinker",
+    "Remove All Favorites": "Fjern alle favoritter",
+    "Are you sure you want to remove all favorites": "Er du sikker på at du vil fjerne alle favoritter?",
+    "Delete": "Slett",
+    "Cancel": "Avbryt"
   },
   "bn": {
     "You don't have any favorite drinks": "আপনার কোন প্রিয় পানীয় নেই",

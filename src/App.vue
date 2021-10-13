@@ -1,49 +1,24 @@
 <template>
-  <div
-    id="app"
-    class="mb-4"
-  >
-    <GitHubCorner
-      class="theme-bg-color"
-      v-if="!isMobile && !isPrintPage"
-    />
-    <ThemeHandler
-      class="mt-2 ml-2"
-      v-if="!isMobile && !isPrintPage"
-    ></ThemeHandler>
+  <div id="app" class="mb-4">
+    <GitHubCorner class="theme-bg-color" v-if="!isMobile && !isPrintPage" />
+    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
     <div class="container mb-4 mt-4">
       <div class="mb-4 d-flex">
         <h1 class="logo">
           <router-link to="/">
-            <img
-              alt="Logo"
-              src="./assets/logo.png"
-              width="50"
-            />
+            <img alt="Logo" src="./assets/logo.png" width="50" />
             Open Drinks
           </router-link>
         </h1>
       </div>
 
-      <b-nav
-        tabs
-        align="center"
-      >
+      <b-nav tabs align="center">
         <b-nav-item to="/">{{ $t('Featured') }}</b-nav-item>
-        <b-nav-item
-          to="/random"
-          v-if="!isMobile"
-        >{{ $t('Random') }}</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">{{ $t('Random') }}</b-nav-item>
         <b-nav-item to="/explore">{{ $t('Explore') }}</b-nav-item>
-        <b-nav-item
-          to="/keyword"
-          v-if="!isMobile"
-        >{{ $t('Keywords') }}</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">{{ $t('Keywords') }}</b-nav-item>
         <b-nav-item to="/search">{{ $t('Search') }}</b-nav-item>
-        <b-nav-item
-          to="/favorites"
-          alt="Favorites"
-        >⭐</b-nav-item>
+        <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
     <Adspace v-if="!isPrintPage" />
@@ -57,10 +32,7 @@
         <a href="https://github.com/alfg/opendrinks">GitHub</a>!
       </div>
       <a href="https://www.netlify.com">
-        <img
-          src="https://www.netlify.com/img/global/badges/netlify-light.svg"
-          alt="Netlify"
-        />
+        <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Netlify" />
       </a>
     </footer>
   </div>
@@ -167,6 +139,13 @@ export default {
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
   },
+  "gl": {
+    "Featured": "Destacadas",
+    "Random": "Aleatorio",
+    "Explore": "Explora",
+    "Keywords":"Palabras Craves",
+    "Search": "Procura"
+  },
   "de": {
     "Featured": "Empfohlen",
     "Random": "Zufallsrezepte",
@@ -180,6 +159,13 @@ export default {
     "Explore": "Alle recepten",
     "Keywords": "Trefwoorden",
     "Search": "Zoeken"
+  },
+  "no": {
+    "Featured": "Fremhevet",
+    "Random": "Tilfeldig",
+    "Explore": "Alle oppskrifter",
+    "Keywords": "Nøkkelord",
+    "Search": "Søk"
   },
   "bn": {
     "Featured": "বিশেষ ভাবে প্রকাশিত",

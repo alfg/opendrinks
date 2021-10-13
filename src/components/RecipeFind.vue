@@ -1,38 +1,27 @@
 <template>
   <div id="recipe-find">
-    <b-form-input
-      @keydown.enter="onEnter"
-      v-on:keydown="onKeydown"
-      v-model.trim="search"
-    >
+    <b-form-input @keydown.enter="onEnter" v-on:keydown="onKeydown" v-model.trim="search">
     </b-form-input>
 
-    <b-form-group
-      class="mt-2"
-      :label="`${$t('Filter by')}:`"
-    >
-      <b-form-radio-group
-        v-model="selectedSearch"
-        name="selectedSearch"
-      >
+    <b-form-group class="mt-2" :label="`${$t('Filter by')}:`">
+      <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
         <b-form-radio value="name">{{ $t('Name') }}</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
           :title="$t('You can search for multiple ingredients by separating them with a space')"
           value="ingredients"
-        >{{ $t('Ingredients') }}</b-form-radio>
+          >{{ $t('Ingredients') }}</b-form-radio
+        >
         <b-form-radio
           v-b-tooltip.hover
           :title="$t('You can search for multiple keywords by separating them with a space')"
           value="keywords"
-        >{{ $t('Keywords') }}</b-form-radio>
+          >{{ $t('Keywords') }}</b-form-radio
+        >
       </b-form-radio-group>
     </b-form-group>
 
-    <b-list-group
-      class="mt-4"
-      v-if="search.length > 0"
-    >
+    <b-list-group class="mt-4" v-if="search.length > 0">
       <b-list-group-item
         v-for="o in filterResults"
         v-bind:key="o.name"
@@ -40,7 +29,8 @@
         v-on:mouseleave="onMouseLeave"
         v-on:mousemove="onMouseOverOrMove"
         :to="'/recipe/' + o.filename"
-      >{{ o.name }}</b-list-group-item>
+        >{{ o.name }}</b-list-group-item
+      >
     </b-list-group>
   </div>
 </template>
@@ -103,9 +93,7 @@ export default {
           searchParts.every(
             s =>
               recipe.keywords &&
-              recipe.keywords.some(k =>
-                k.toLowerCase().includes(s.toLowerCase()),
-              ),
+              recipe.keywords.some(k => k.toLowerCase().includes(s.toLowerCase())),
           ),
         );
       }
@@ -113,10 +101,7 @@ export default {
       // Sort the results.
       filtered = filtered.sort((recipeA, recipeB) => {
         // Name-matches to the top if the user wanted to find a drink based on the name
-        const hasName =
-          recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1
-            ? 1
-            : -1;
+        const hasName = recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1;
 
         // Doesn't seem to be used. Disabling for now.
         // const alphabetical = recipeB.name.toLowerCase() > recipeB.name.toLowerCase() ? -1 : 1;
@@ -151,19 +136,12 @@ export default {
     },
     onEnter() {
       const listElements = this.$children.filter(component => {
-        return (
-          component.$el && component.$el.classList.contains('list-group-item')
-        );
+        return component.$el && component.$el.classList.contains('list-group-item');
       });
-      const currentHighlightedComponentIndex = listElements.findIndex(
-        component => {
-          return component.$el && component.$el.classList.contains('highlight');
-        },
-      );
-      const index =
-        currentHighlightedComponentIndex > 0
-          ? currentHighlightedComponentIndex
-          : 0;
+      const currentHighlightedComponentIndex = listElements.findIndex(component => {
+        return component.$el && component.$el.classList.contains('highlight');
+      });
+      const index = currentHighlightedComponentIndex > 0 ? currentHighlightedComponentIndex : 0;
 
       this.$router.push({
         name: 'recipe',
@@ -172,9 +150,7 @@ export default {
     },
     onKeydown(event) {
       const listElements = this.$children.filter(component => {
-        return (
-          component.$el && component.$el.classList.contains('list-group-item')
-        );
+        return component.$el && component.$el.classList.contains('list-group-item');
       });
       if (listElements.length === 0) {
         return;
@@ -239,6 +215,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
     "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
   },
+  "gl": {
+    "Filter by": "Filtrar por",
+    "Name": "Nomee",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palabras chave",
+    "You can search for multiple ingredients by separating them with a space": "Podes buscar múltiples ingredientes separándoos con espazos",
+    "You can search for multiple keywords by separating them with a space": "Podes buscar múltiples palabras craves separándoas con espazos"
+  },
   "de": {
     "Filter by": "Filtern nach",
     "Name": "Name",
@@ -254,6 +238,14 @@ export default {
     "Keywords": "Trefwoorden",
     "You can search for multiple ingredients by separating them with a space": "Je kunt zoeken op meerdere ingrediënten door ze met een spatie te scheiden",
     "You can search for multiple keywords by separating them with a space": "Je kunt zoeken op meerdere trefwoorden door ze met een spatie te scheiden"
+  },
+  "no": {
+    "Filter by": "Filtrer etter",
+    "Name": "Navn",
+    "Ingredients": "Ingredienser",
+    "Keywords": "Nøkkelord",
+    "You can search for multiple ingredients by separating them with a space": "Du kan søke etter flere ingredienser ved å skille dem med et mellomrom",
+    "You can search for multiple keywords by separating them with a space": "Du kan søke etter flere nøkkelord ved å skille dem med et mellomrom"
   },
   "ru": {
     "Filter by": "Фильтровать по",
