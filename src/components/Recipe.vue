@@ -1,18 +1,18 @@
 <template>
-  <div id="recipe">
-    <div class="d-flex justify-content-between align-items-start">
+  <article id="recipe">
+    <header class="d-flex justify-content-between align-items-start">
       <div>
         <h1>{{ drink.name }}</h1>
-        <div v-if="drink.keywords" class="mb-2">
-          <b-badge
-            v-for="(o, i) in drink.keywords"
-            v-bind:key="i"
-            variant="secondary"
-            :style="badgeStyle"
-            :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-            >{{ o }}</b-badge
-          >
-        </div>
+        <ul v-if="drink.keywords" class="mb-2 list-reset d-flex">
+          <li v-for="(o, i) in drink.keywords" v-bind:key="i">
+            <b-badge
+              variant="secondary"
+              :style="badgeStyle"
+              :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+              >{{ o }}</b-badge
+            >
+          </li>
+        </ul>
       </div>
       <RecipeToolbar
         v-if="!isMobile"
@@ -22,14 +22,14 @@
         :isPrint="isPrint"
         v-on:show-image="onShowImage"
       />
-    </div>
+    </header>
 
     <p>{{ drink.description }}</p>
 
-    <p class="text-muted">
+    <address class="text-muted">
       {{ $t('Contributed by') }}:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
-    </p>
+    </address>
 
     <RecipeToolbar
       v-if="isMobile"
@@ -40,10 +40,10 @@
       v-on:show-image="onShowImage"
     />
 
-    <b-container>
-      <b-row class="justify-content-between">
+    <b-container tag="article">
+      <b-row class="justify-content-between" tag="section">
         <div class="recipe-ingredients">
-          <h4>{{ $t('Ingredients') }}</h4>
+          <h2 class="h4">{{ $t('Ingredients') }}</h2>
           <ul>
             <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
               {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
@@ -63,9 +63,9 @@
         </div>
       </b-row>
 
-      <b-row>
+      <b-row tag="section">
         <div class="recipe-directions-list">
-          <h4>{{ $t('Directions') }}</h4>
+          <h3 class="h4">{{ $t('Directions') }}</h3>
           <ol class="mb-4">
             <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
           </ol>
@@ -80,7 +80,7 @@
       </b-row>
     </b-container>
 
-    <div class="similar-drinks mt-4 mb-4">
+    <section class="similar-drinks mt-4 mb-4">
       <h4>{{ $t('Similar drinks') }}</h4>
       <b-card-group deck>
         <RecipeTile
@@ -89,8 +89,8 @@
           v-bind:id="similarRecipe.id"
         />
       </b-card-group>
-    </div>
-  </div>
+    </section>
+  </article>
 </template>
 
 <script>
@@ -259,6 +259,12 @@ export default {
   width: 100%;
   float: left;
   margin-top: 1em;
+}
+
+.list-reset, .list-reset li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 @media (max-width: 768px) {

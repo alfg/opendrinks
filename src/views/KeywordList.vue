@@ -9,8 +9,7 @@
         })"
         :key="index"
         :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
-        >{{ keyword }}</b-list-group-item
-      >
+      >{{ keyword }}</b-list-group-item>
     </b-list-group>
   </div>
 </template>
@@ -45,6 +44,21 @@ export default {
   },
   "bn": {
     "Enter your keyword": "আপনার কীওয়ার্ড লিখুন"
+  },
+  "ru": {
+    "Enter your keyword": "Введите ключевое слово"
+  },
+  "uk": {
+    "Enter your keyword": "Введіть ключове слово"
+  },
+  "hi": {
+    "Enter your keyword": "अपना सूचक-शब्द दर्ज करें"
+  },
+  "es": {
+    "Enter your keyword": "Introduce tu palabra clave"
+  },
+  "de": {
+    "Enter your keyword": "Gib dein Stichwort ein"
   }
 }
 </i18n>
