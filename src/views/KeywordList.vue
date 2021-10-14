@@ -42,6 +42,9 @@ export default {
   "no": {
     "Enter your keyword": "Søk etter nøkkelord"
   },
+  "bn": {
+    "Enter your keyword": "আপনার কীওয়ার্ড লিখুন"
+  },
   "ru": {
     "Enter your keyword": "Введите ключевое слово"
   },
