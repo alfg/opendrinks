@@ -1,0 +1,45 @@
+{
+    "name": "Sweet Lassi",
+    "description": "Sweet Lassi is a cooling and refreshing drink to have in the summers. It is quite popular in Punjab and north India.",
+    "github": "sayalitandel",
+    "ingredients": [
+        {
+            "quantity": "1 ¾",
+            "measure": "cups",
+            "ingredient": "Plain yogurt"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "Ice cubes, crushed"
+        },
+        {
+            "quantity": "1 ½",
+            "measure": "cups",
+            "ingredient": "Ice water"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoons",
+            "ingredient": "White sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Salt"
+        }
+    ],
+    "directions": [
+        "In a blender, blend the yogurt, ice, water, sugar and salt until mixture becomes frothy.",
+        "Pour mixture over ice cubes in tall glasses.",
+        "Now, relish it! :D"
+    ],
+    "image": "sweet-lassi.jpg",
+    "source": "",
+    "keywords": [
+        "yogurt",
+        "sweet",
+        "healthy",
+        "refreshing"
+    ]
+}

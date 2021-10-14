@@ -1,0 +1,32 @@
+{
+  "name": "Submarino",
+  "description": "Submarino is a beer cocktail that is made by dropping a bomb shot of tequila into a glass of beer.",
+  "github": "kazuhirodk",
+  "ingredients": [
+    {
+      "quantity": "6",
+      "measure": "oz",
+      "ingredient": "Beer"
+    },
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "Tequila"
+    }
+  ],
+  "directions": [
+    "Pour your beer into a beer glass.",
+    "Pour the tequila into a shot glass.",
+    "Put the shot glass gently in the beer to finish your Submarino.",
+    "Your Submarino is ready!"
+  ],
+  "image": "submarino.jpg",
+  "source": "https://cocktailsandshots.com/recipe/submarino/",
+  "keywords": [
+    "submarino",
+    "tequila",
+    "beer",
+    "alcoholic",
+    "mexico"
+  ]
+}

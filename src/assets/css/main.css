@@ -1,8 +1,12 @@
 @import './theme.css';
 @import './slider.css';
 
-svg{
+.theme-bg-color{
   color: var(--main-bg-color) !important;
+}
+
+.theme-link-color{
+  color: var(--main-link-color) !important;
 }
 
 .list-group-item {
@@ -43,15 +47,6 @@ a, a:hover, h5 {
   color: var(--app-text-color);
 }
 
-#app .router-link-exact-active {
-  color: var(--main-text-color);
-  background-color: var(--main-bg-color);
-}
-
-#app .router-link-exact-active.nav-link {
-  border-color: var(--main-line-color) var(--main-line-color) var(--main-bg-color);
-}
-
 .nav-tabs {
   border-bottom: 1px solid var(--main-line-color);
 }
@@ -61,12 +56,11 @@ a, a:hover, h5 {
   border-bottom-width: 0px;
 }
 
-#app .router-link-exact-active.nav-link {
-  border-color: var(--main-line-color) var(--main-line-color) var(--main-bg-color);
-  border-bottom-width: 1px;
-}
-
 .card {
   background-color: var(--main-bg-color);
   border:1px solid var(--main-line-color);
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }

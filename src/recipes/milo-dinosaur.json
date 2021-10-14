@@ -1,0 +1,43 @@
+{
+    "name": "Milo Dinosaur",
+    "description": "Drink made of chocolate-malt, popular in Malaysia and Singapore.",
+    "github": "pj",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "measure": "tbsp",
+            "ingredient": "Nestle Milo powder"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "hot water"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "tbsp",
+            "ingredient": "condensed milk"
+        },
+        {
+            "quantity": "a few",
+            "measure": "cubes",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "3",
+            "measure": "tbsp",
+            "ingredient": "Nestle Milo powder to top it off"
+        }
+    ],
+    "directions": [
+        "Stir Milo and condensed milk with hot water in a tall glass until dissolved.",
+        "Add ice cubes and stir lightly.",
+        "Add ample amount of Milo to provide a crunchy top."
+    ],
+    "image": "milo-dinosaur.jpg",
+    "keywords": [
+        "milo",
+        "chocolate",
+        "non-alcoholic"
+    ]
+}

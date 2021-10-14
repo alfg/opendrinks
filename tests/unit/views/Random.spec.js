@@ -2,6 +2,7 @@ import { createLocalVue, mount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 import VueSocialSharing from 'vue-social-sharing';
 import Random from '@/views/Random.vue';
+import i18n from '@/i18n';
 
 describe('Random view', () => {
   let fn;
@@ -15,11 +16,13 @@ describe('Random view', () => {
 
     wrapper = mount(Random, {
       localVue,
+      i18n,
       mocks: {
         $router: {
           replace: fn,
         },
       },
+      stubs: ['router-link'],
     });
   });
 

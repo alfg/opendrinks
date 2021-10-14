@@ -1,0 +1,63 @@
+{
+    "name": "White Christmas Margaritas",
+    "description": "Spike up your traditional holiday drinks from the traditional eggnog with a winterized margarita.",
+    "github": "yoji-kojio",
+    "ingredients": [
+        {
+            "quantity": "14",
+            "measure": "oz",
+            "ingredient": "unsweetened coconut milk"
+        },
+        {
+            "quantity": "12",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "triple sec"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "cups",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lime wedge, for rimming glass"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "sanding sugar, for rimming glass"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lime slices, for garnish"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "cranberries, for garnish"
+        }
+    ],
+    "directions": [
+        "Combine coconut milk, tequila, triple sec, lime juice and ice in a blender. Blend until smooth.",
+        "Rim glasses with lime wedge and dip in sanding sugar.",
+        "Pour into glass and garnish with lime and cranberries."
+    ],
+    "image": "white-christmas-margarita.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/recipes/a57117/white-christmas-margaritas-recipe/",
+    "keywords": [
+        "coconut",
+        "tequila"
+    ]
+}

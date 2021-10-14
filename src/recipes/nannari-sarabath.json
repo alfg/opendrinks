@@ -1,0 +1,41 @@
+{
+    "name": "Nannari Sarabath",
+    "description": "Nannari Sarbath is one of the refreshing drinks to relish every summer",
+    "github": "saikoushalg",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "Nannari Syrup"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+        "Heat up the syrup and let it boil until it reaches a fine string of single thread consistency.",
+        "Let it cool down completely and add lemon juice",
+        "Transfer to a clean container and refrigerate it",
+        "take a serving glass add 120ml of water",
+        "Add ice cubes",
+        "Give a quick stir and serve chilled."
+    ],
+    "image": "nannari-sarabath.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "sweet",
+        "refreshing"
+    ]
+}

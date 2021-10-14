@@ -1,0 +1,41 @@
+{
+    "name": "Airmail",
+    "description": "Though not fully official on account of the plane breaking down, the first attempt at modern airmail was documented in 1911. It traveled from Petaluma to Santa Rosa, California and contained exactly three pieces of correspondence. The first instance of the Air Mail cocktail was documented in Esquire magazine’s 1949 edition of Handbook for Hosts. It’s not certain why the drink is named for the modern delivery method, but it can be said the Air Mail is quite like the Caribbean version of a French 75, with a splash of lime whisked into a turbulent mix of rum, honey and Champagne.",
+    "github": "lazav94",
+    "ingredients": [
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Honey Syrup"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Aged rum"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Champagne"
+        }
+    ],
+    "directions": [
+        "Add rum, lime juice and honey syrup to a cocktail shaker.",
+        "Add ice and shake until chilled.",
+        "Strain over ice into a Collins glass.",
+        "Top with Champagne and add a straw.",
+        "Garnish with a lime or orange twist."
+    ],
+    "image": "airmail.jpg",
+    "keywords": [
+      "rum",
+      "lime juice",
+      "honey syrup",
+      "champagne"
+    ]
+}

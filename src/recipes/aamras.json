@@ -9,28 +9,28 @@
             "ingredient": "kesar mangoesr"
         },
         {
-            "quantity": "1/2 teaspoon",
-            "measure": "",
+            "quantity": "1/2",
+            "measure": "teaspoon",
             "ingredient": "cardamom powder"
         },
         {
-            "quantity": "1 pinch",
-            "measure": "",
+            "quantity": "1",
+            "measure": "pinch",
             "ingredient": "saffron strands(kesar)"
         },
         {
-            "quantity": "1 teaspoon",
-            "measure": "",
+            "quantity": "1",
+            "measure": "teaspoon",
             "ingredient": "Sugar"
         },
         {
-            "quantity": "1/4 teaspoon",
-            "measure": "",
+            "quantity": "1/4",
+            "measure": "teaspoon",
             "ingredient": "dry ginger powder"
         },
         {
-            "quantity": "1 glass",
-            "measure": "",
+            "quantity": "1",
+            "measure": "cup",
             "ingredient": "Milk (Optional)"
         }
     ],

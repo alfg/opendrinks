@@ -1,0 +1,41 @@
+{
+    "name": "Cinnamon Maple Whiskey Sour",
+    "description": "Meet the best whiskey sour recipe—it’s full of bourbon and fresh lemon, sweetened with maple syrup and includes a hint of cinnamon.",
+    "github": "jjohn50",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "tablespoons",
+            "ingredient": "Bulleit bourbon or your bourbon of choice"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "Fresh lemon juice"
+        },
+        {
+            "quantity": "2-4",
+            "measure": "teaspoons",
+            "ingredient": "Maple Syrup "
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Ground cinnamon"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail shaker or mason jar about two-thirds full with ice. ",
+        "Pour in the bourbon, lemon juice, maple syrup and a pinch of ground cinnamon. ",
+        "Securely fasten the lid and shake well.",
+        "Fill a cocktail shaker or mason jar about two-thirds full with ice. ",
+        "Pour fresh ice into your cocktail glass and strain the cold whiskey sour mixture into the glass. Enjoy!"
+    ],
+    "image": "cinnamon-maple-whiskey-sour.jpg",
+    "keywords": [
+        "cinnamon",
+        "maple",
+        "whiskey", 
+        "alcoholic"
+    ]
+}

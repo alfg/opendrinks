@@ -5,27 +5,27 @@
     "ingredients": [
         {
             "quantity": "1",
-            "measure": "",
+            "measure": "cup",
             "ingredient": "Sugar"
         },
         {
             "quantity": "2",
-            "measure": "",
+            "measure": "cups",
             "ingredient": "Unripe Green Mango"
         },
         {
             "quantity": "3",
-            "measure": "",
+            "measure": "tsp",
             "ingredient": "Cardamom"
         },
         {
-            "quantity": "4",
-            "measure": "",
+            "quantity": "1",
+            "measure": "cup",
             "ingredient": "Fresh Mint"
         },
         {
             "quantity": "5",
-            "measure": "",
+            "measure": "tsp",
             "ingredient": "Black Salt"
         }
     ],

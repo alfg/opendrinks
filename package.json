@@ -13,42 +13,45 @@
     "validate": "node scripts/validate_recipes.js"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "bootstrap-vue": "^2.0.1",
-    "core-js": "^3.4.3",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.18.1",
     "netlify-lambda": "^1.6.3",
-    "register-service-worker": "^1.6.2",
-    "vue": "^2.6.10",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.14",
+    "vue-i18n": "^8.26.3",
     "vue-meta": "^2.4.0",
-    "vue-router": "^3.0.3",
-    "vue-social-sharing": "^3.0.0"
+    "vue-router": "^3.5.2",
+    "vue-social-sharing": "^3.0.8"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.1.1",
-    "@vue/cli-plugin-eslint": "^4.1.1",
-    "@vue/cli-plugin-pwa": "^4.1.1",
-    "@vue/cli-plugin-unit-jest": "^4.1.1",
-    "@vue/cli-service": "^4.1.1",
+    "@intlify/vue-i18n-loader": "^1.1.0",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-plugin-pwa": "^4.5.13",
+    "@vue/cli-plugin-unit-jest": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
     "@vue/eslint-config-airbnb": "^4.0.0",
-    "@vue/eslint-config-prettier": "^5.0.0",
+    "@vue/eslint-config-prettier": "^5.1.0",
     "@vue/test-utils": "1.0.0-beta.29",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.6",
     "babel-core": "7.0.0-bridge.0",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^23.6.0",
     "babel-plugin-require-context-hook": "^1.0.0",
-    "eslint": "^6.5.1",
-    "eslint-plugin-prettier": "^3.1.1",
+    "eslint": "^6.8.0",
+    "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-vue": "^5.2.3",
-    "prettier": "^1.18.2",
-    "sitemap": "^5.0.1",
-    "vue-template-compiler": "^2.6.10"
+    "prettier": "^1.19.1",
+    "sitemap": "^5.1.0",
+    "vue-cli-plugin-i18n": "~2.3.1",
+    "vue-template-compiler": "^2.6.14"
   },
   "bugs": {
     "url": "https://github.com/alfg/opendrinks/issues"
   },
   "engines": {
-    "node": "10.16.3"
+    "node": "14.18.0"
   },
   "homepage": "https://github.com/alfg/opendrinks",
   "license": "MIT",

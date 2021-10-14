@@ -2,6 +2,7 @@ import { createLocalVue, shallowMount } from '@vue/test-utils';
 import BootstrapVue from 'bootstrap-vue';
 
 import router from '@/router';
+import i18n from '@/i18n';
 import recipes from '@/recipes';
 import RecipeList from '@/components/RecipeList.vue';
 
@@ -15,6 +16,7 @@ describe('RecipeList', () => {
     propsData: { title: 'Open Drinks - Test', items: drinks },
     localVue,
     router,
+    i18n,
   });
 
   test('is a Vue instance', () => {
@@ -31,7 +33,7 @@ describe('RecipeList', () => {
   });
 
   test('should display the correct items when the page number changes', () => {
-    wrapper.setData({ perPage: 3, pageNumber: 1 });
+    wrapper.setData({ perPage: 3 });
     wrapper.vm.$router.push({ query: { page: 2 } });
     expect(wrapper.vm.paginatedItems[0]).toBe(drinks[3]);
   });

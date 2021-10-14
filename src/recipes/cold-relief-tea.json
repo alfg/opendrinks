@@ -1,0 +1,90 @@
+{
+    "name": "Cold Relief Tea",
+    "description": "A great yet simple way to treat mild cold or a sore throat",
+    "github": "Lakshita2002",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "Quarter Cups",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "Quarter Cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "Teaspoon",
+            "ingredient": "Tea Leaves"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "Teaspoons",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "Stalks",
+            "ingredient": "Lemongrass"
+        },
+        {
+            "quantity": "1",
+            "measure": "Teaspoon",
+            "ingredient": "Grated Ginger"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "Nos",
+            "ingredient": "Cardamom"
+        },
+        {
+            "quantity": "5-6",
+            "measure": "Nos",
+            "ingredient": "Tulsi Leaves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Teaspoon",
+            "ingredient": "Black Pepper Powder"
+        },
+        {
+            "quantity": "1/4th",
+            "measure": "Teaspoon",
+            "ingredient": "Turmeric Powder"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "Nos",
+            "ingredient": "Cloves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Teaspoon",
+            "ingredient": "Cinnamon"
+        },
+        {
+            "quantity": "2",
+            "measure": "Teaspoons",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "1",
+            "measure": "Teaspoon",
+            "ingredient": "Jaggery"
+        }
+    ],
+    "directions": [
+        "In a saucepan, heat up quarter cup of water.",
+        "To this, add the tea leaves and sugar as per your taste call.",
+        "After it comes to a gradual boil, add the milk and bring it to a boil.",
+        "Now, add the lemongrass, grated ginger, cardamom, tulsi leaves, balck pepper powder, turmeric powder, cloves and cinnamon.",
+        "At the end, add a teaspoon of honey or jaggery to it.",
+        "Sit back and enjoy your relief tea!"
+    ],
+    "image": "cold-relief-tea.jpg",
+    "keywords": [
+        "healing",
+        "curing"
+    ]
+}

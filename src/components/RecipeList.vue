@@ -12,7 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :to="'/recipe/' + o.filename" variant="primary">View Recipe</b-button>
+          <b-button :to="'/recipe/' + o.filename" variant="primary" v-t="'View Recipe'" />
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"
@@ -53,15 +53,34 @@ export default {
   },
   data() {
     return {
-      currentPage: 1,
       perPage: 12,
-      options: [{ value: 12, text: '12' }, { value: 24, text: '24' }, { value: 48, text: '48' }],
+      options: [
+        { value: 12, text: '12' },
+        { value: 24, text: '24' },
+        { value: 48, text: '48' },
+      ],
       favorites: [],
     };
   },
   mounted() {
     window.document.title = this.title;
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
+  },
+  watch: {
+    async items(newItems, oldItems) {
+      const { page } = (this.$route && this.$route.query) || 0;
+      if (newItems && newItems.length !== oldItems.length) {
+        if (newItems.length < page * this.perPage) {
+          const query = Object.assign({}, this.$route.query);
+          query.page = 1;
+
+          /* NOTE: Alternatively you could use:
+           * query.page = Math.ceil(newItems.length / this.perPage);
+           */
+          await this.$router.push({ query });
+        }
+      }
+    },
   },
   computed: {
     pages() {
@@ -79,8 +98,7 @@ export default {
     },
   },
   methods: {
-    onPageChanged(page) {
-      this.pageNumber = page - 1;
+    onPageChanged() {
       window.scrollTo(0, 0);
     },
     linkGen(pageNum) {
@@ -131,3 +149,41 @@ export default {
   object-fit: cover;
 }
 </style>
+
+<i18n>
+{
+  "ja": {
+    "View Recipe": "レシピを見る"
+  },
+  "fr": {
+    "View Recipe": "Voir la Recette"
+  },
+  "es": {
+    "View Recipe": "Ver Receta"
+  },
+  "hi": {
+    "View Recipe": "विधि देखे"
+  },
+  "gl": {
+    "View Recipe": "Ver receita"
+  },
+  "de": {
+  "View Recipe": "Rezept ansehen"
+  },
+  "nl": {
+    "View Recipe": "Recept bekijken"
+  },
+  "no": {
+    "View Recipe": "Se oppskrift"
+  },
+  "ru": {
+    "View Recipe": "Просмотреть рецепт"
+  },
+  "uk": {
+    "View Recipe": "Переглянути рецепт"
+  },
+  "bn": {
+    "View Recipe": "রেসিপিটি দেখুন"
+  }
+}
+</i18n>

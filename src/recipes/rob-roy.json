@@ -1,0 +1,35 @@
+{
+    "name": "Rob Roy",
+    "description": "A cocktail consisting primarily of whisky and vermouth, created in 1894 by a bartender at the Waldorf Astoria in Manhattan, New York City.",
+    "github": "bg-s-25",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Scotch"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "Sweet vermouth"
+        },
+        {
+            "quantity": "3",
+            "measure": "dashes",
+            "ingredient": "Angostura bitters"
+        }
+    ],
+    "directions": [
+        "Add all the ingredients into a mixing glass over ice and stir.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with 2 speared brandied cherries."
+    ],
+    "image": "rob-roy.jpg",
+    "source": "https://www.liquor.com/recipes/rob-roy/",
+    "keywords": [
+        "cocktail",
+        "whisky",
+        "vermouth",
+        "alcoholic"
+    ]
+}

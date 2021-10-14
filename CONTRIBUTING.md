@@ -37,14 +37,14 @@ The [/src/recipes/](/src/recipes/) directory contains all the drink recipes as a
     "source": "<source url if available, otherwise remove this line>",
     "keywords": [
         "<keywords if available>",
-        "...",
+        "..."
     ]
 }
 ```
 
 * Add an image to the [/src/assets/recipes/](/src/assets/recipes/).
   * Filename should match recipe filename
-  * JPG format, **600x400px** if possible, 200KB max in size
+  * JPG format, horizontal **600x400px** if possible, 200KB max in size
 * source is an optional field
 * Check your raw JSON file with [JSONLint](https://jsonlint.com/) to make sure that your JSON file is valid.
 * Submit a Pull Request with your recipe! 

@@ -1,0 +1,57 @@
+{
+    "name": "Californication",
+    "description": "A mixture of run, vodka, tequila and gin finished with orange liqueur, lemon juice and orange juice to mask the various spirits used throughout. Strong and yet sweet. The cocktail is finished with either a slice of orange or a twisted peel of orange rind.",
+    "github": "manueldose",
+    "ingredients": [
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "White Rum"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Tequila"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "70",
+            "measure": "ml",
+            "ingredient": "Orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Fresh orange"
+        }
+    ],
+    "directions": [
+        "Add vodka, gin, white rum and tequila into a large glass",
+        "Add lemon juice, a good dose of freshly squeezed orange juice and lots of ice",
+        "Add a lots of ice",
+        "Decorate with a slice of fresh orange"
+    ],
+    "image": "californication.jpg",
+    "keywords": [
+        "White Rum",
+        "Vodka",
+        "Tequila",
+        "Gin",
+        "Lemon",
+        "Orange"
+    ]
+}

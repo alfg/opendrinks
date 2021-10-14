@@ -1,0 +1,59 @@
+{
+    "name": "Gingerbread latte",
+    "description": "A sweet drink with spices and whipped cream to warm up the holiday season",
+    "github": "pratyushakatti13",
+    "ingredients": [
+        {
+            "quantity": "1½",
+            "measure": "teaspoon",
+            "ingredient": "ground ginger, plus extra to serve"
+        },
+        {
+            "quantity": "½",
+            "measure": "teaspoon",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "¼",
+            "measure": "teaspoon",
+            "ingredient": "ground nutmeg plus extra to serve"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "soft brown sugar"
+        },
+        {
+            "quantity": "½",
+            "measure": "teaspoon",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "600",
+            "measure": "ml",
+            "ingredient": "whole milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "shots",
+            "ingredient": "hot espresso (optional)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "whipped cream and mini gingerbread men, to serve"
+        }
+    ],
+    "directions": [
+        "In a bowl, mix together the spices, sugar and vanilla extract. Heat 100ml of the milk in a pan with the spice and sugar mix, whisking until the sugar has dissolved. Whisk in the remaining milk in additions until incorporated, then heat through  until steaming.",
+        "Put a shot of espresso in each glass (if using) and top up with the spiced milk. Top with whipped cream, extra spices and a mini gingerbread man."
+    ],
+    "image": "gingerbread-latte.jpg",
+    "source": "https://www.bbcgoodfood.com/recipes/gingerbread-latte",
+    "keywords": [
+        "gingerbread",
+        "holiday",
+        "christmas",
+        "milk"
+    ]
+}

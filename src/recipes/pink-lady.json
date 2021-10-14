@@ -1,0 +1,47 @@
+{
+	"name": "Pink Lady",
+	"description": "An exotic cocktail for aperitif.",
+	"github": "leopaul29",
+	"ingredients": [{
+			"quantity": "4",
+			"measure": "oz",
+			"ingredient": "Gin"
+		},
+		{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "Lemon juice"
+		},
+		{
+			"quantity": "0.5",
+			"measure": "oz",
+			"ingredient": "Grenadine"
+		},
+		{
+			"quantity": "1",
+			"measure": "",
+			"ingredient": "Fresh egg white"
+		},
+		{
+			"quantity": "1",
+			"measure": "teaspoon",
+			"ingredient": "liquid crème fraîche"
+		}
+	],
+	"directions": [
+		"Add all ingredients into a shaker", "Add ice into the shaker.",
+		"Shake vigorously.",
+		"Strain into a chilled cocktail glass.",
+		"Garnish with a cherry."
+	],
+	"image": "pink-lady.jpg",
+	"keywords": [
+		"gin",
+		"pink",
+		"lemon",
+		"fresh",
+		"grenadine",
+		"vegan",
+		"alcoholic"
+	]
+}

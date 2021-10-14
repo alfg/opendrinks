@@ -1,0 +1,45 @@
+{
+    "name": "Vodka Irish Coffee",
+    "description": "A cocktail of coffee, vodka, and Irish cream. An alternative to the classic Irish Coffee with whiskey.",
+    "github": "bg-s-25",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "oz",
+            "ingredient": "Cold brewed coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Ketel One vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Bailey's Irish cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Angostura aromatic bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "Ground nutmeg"
+        }
+    ],
+    "directions": [
+        "Add cold brewed coffee, vodka, Irish cream, and a dash of bitters to an ice-filled cocktail shaker.",
+        "Cover and shake until combined.",
+        "Strain into a 6-oz. ice-filled glass. Sprinkle with ground nutmeg, if desired."
+    ],
+    "image": "vodka-irish-coffee.jpg",
+    "source": "https://www.hy-vee.com/recipes-ideas/recipes/vodka-irish-coffee",
+    "keywords": [
+        "vodka",
+        "coffee",
+        "irish cream",
+        "alcoholic"
+    ]
+}

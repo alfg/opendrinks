@@ -1,0 +1,32 @@
+{
+    "name": "Gin Coke",
+    "description": "Cocktail using gin",
+    "github": "Toyomi-i",
+    "ingredients": [
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "Coke"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "Lime juice"
+        }
+    ],
+    "directions": [
+        "Pour gin into a glass.",
+        "Add ice and pour in lime juice.",
+        "Squeeze fresh lime juice to top and stir - serve and enjoy!"
+    ],
+    "image": "gin-coke.jpg",
+    "keywords": [
+        "gin",
+        "coke"
+    ]
+}

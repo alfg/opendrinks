@@ -1,0 +1,61 @@
+{
+    "name": "Grilled Grapefruit Paloma Cocktail",
+    "description": "Here's a fired up twist on a traditional Mexican cocktail. You'll grill the grapefruit and lime to caramelize the fruit and give the juice a subtle smoky edge. Stir it up with tequila or mezcal and top with club soda for a refreshing drink that's perfect all summer long.",
+    "github": "ferdox2",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Limes"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "Cup",
+            "ingredient": "White sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Red grapefruit, halved widthwise"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "Cup",
+            "ingredient": "Kosher salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "Cup",
+            "ingredient": "Ice cubes"
+        },
+        {
+            "quantity": "4",
+            "measure": "Oz",
+            "ingredient": "Tequila or mezcal"
+        },
+        {
+            "quantity": "2",
+            "measure": "Tablespoons",
+            "ingredient": "SImple syrup"
+        },
+        {
+            "quantity": "44",
+            "measure": "Oz",
+            "ingredient": "Club soda"
+        }
+    ],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Cut limes in half widthwise. Cut 1 half into 3 wheels.",
+        "Pour sugar into a shallow bowl. Dip lime halves, 2 of the lime wheels, and grapefruit into sugar to coat thoroughly.",
+        "Place limes and grapefruit cut-side down on the hot grill. Cook, turning lime wheels occasionally, until browned and grill marks form, 5 to 10 minutes. Transfer to a rimmed baking sheet to cool.",
+        "Rub remaining lime wheel over the rim of 2 highball glasses. Dip rims in kosher salt. Fill glasses with ice.",
+        "Juice grilled lime halves and grapefruit into a small pitcher. Pour in any juices that accumulated on the baking sheet. Stir in tequila or mezcal and simple syrup. Divide mixture between glasses and top off with club soda. Garnish with grilled lime wheels."
+    ],
+    "image": "grilled-grapefruit-paloma-cocktail.jpg",
+    "keywords": [
+        "tequila",
+        "paloma",
+        "cocktail"
+    ]
+}

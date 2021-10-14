@@ -1,0 +1,37 @@
+{
+    "name": "Yale Cocktail",
+    "description": "The Yale cocktail recipe is a classic drink made from gin, dry vermouth, maraschino liqueur and bitters, and served shaken in a chilled cocktail glass.",
+    "github": "YashGupta29",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Dry Vermouth"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Maraschino Liqueur"
+        },
+        {
+            "quantity": "3-5",
+            "measure": "dashes",
+            "ingredient": "Angostura Bitters"
+        }
+    ],
+    "directions": [
+        "Shake all ingredients well with ice in a cocktail shaker.",
+        "Strain into a chilled cocktail glass and serve"
+    ],
+    "image": "yale-cocktail.jpg",
+    "keywords": [
+        "Cocktail",
+        "Alcoholic",
+        "Gin"
+    ]
+}
