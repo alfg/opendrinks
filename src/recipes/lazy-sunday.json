@@ -1,0 +1,50 @@
+{
+	"name": "Lazy Sunday",
+	"description": "An easier version of Vanilla 'Masala Chai' with an American twist for lazy people!",
+	"github": "rehman000",
+	"ingredients": [{
+			"quantity": "1-2",
+			"measure": "cups",
+			"ingredient": "water"
+		},
+		{
+			"quantity": "2-3",
+			"measure": "teaspons",
+			"ingredient": "black tea leaves, (thick grain)"
+		},
+		{
+			"quantity": "1-2",
+			"measure": "cup",
+			"ingredient": "International Delight French Vanilla flavored Coffee Creamer"
+		},
+		{
+			"quantity": "2-3",
+			"measure": "seeds",
+			"ingredient": "Cardamom [optional]"
+		},
+		{
+			"quantity": "1",
+			"measure": "stick",
+			"ingredient": "Cinnamon [optional]"
+		}
+	],
+	"directions": [
+		"Bring the water to boiling",
+		"Add the black tea leaves, (thick grain) into the water, the tea leaves will release their flavor and the water will look dark like a brownish black color, let the tea leaves cook for a while for 3-4 minutes",
+		"(Optional) Add some cinnamon, some sugar, some cardamom, etc. If you do go through with this step, make sure to go easy on the spices as it can over power the vanilla flavoring in the creamer! This will require experimentation to fully understand the balance to get it right. However, once the balance is figured out, this is a pretty straightforward drink you can make rather quickly without much effort.",
+		"Add the Vanilla Creamer into the tea leaves + water mixture, and let it cook until the milk has come to a boil.",
+		"Pour the mixture into a thermal insulated cup, and enjoy. (It's best served warm!)"
+	],
+	"image": "lazy-sunday.jpg",
+	"keywords": [
+		"new york",
+		"nyc",
+        "non-alcholic",
+        "lazy",
+        "hot",
+        "creamer",
+        "tea",
+        "milk",
+        "sugar"
+	]
+}
