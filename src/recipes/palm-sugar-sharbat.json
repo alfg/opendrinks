@@ -37,9 +37,10 @@
         "Now wait for the drink to get cold",
         "Your Drink is ready, Enjoy this yummy drink!"
     ],
-    "image": "<Palm-sugar-sharbat.jpg>",
+    "image": "<palm-sugar-sharbat.jpg>",
     "keywords": [
-        "shatbat",
+        "sharbat",
         "cold"
     ]
+    
 }
