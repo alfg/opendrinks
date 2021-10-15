@@ -1,6 +1,6 @@
 {
     "name": "Hi-Fi",
-    "description": "The Hi Fi is a simple and enjoyable drink. It is a fabulous marriage of vodka with a fizzy orange soda.",
+    "description": "The Hi-Fi is a simple and enjoyable drink. It is a fabulous marriage of vodka with a fizzy orange soda.",
     "github": "anacdf",
     "ingredients": [
         {
@@ -30,7 +30,9 @@
     "keywords": [
         "orange soda",
         "vodka",
-        "hi-fi",
+        "ice",
+        "simple",
+        "alcoholic",
         "vegan"
     ]
 }
