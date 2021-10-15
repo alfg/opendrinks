@@ -19,9 +19,9 @@
             "ingredient": "Pink grapefruit juice"
         },
         {
-            "quantity": "",
-            "measure": "",
-            "ingredient": "A slice of pink grapefruit"
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "pink grapefruit"
         }
     ],
     "directions": [
@@ -39,9 +39,6 @@
         "simple",
         "grapefruit",
         "pink",
-        "Gabri",
-        "dehors",
-        "negroni",
-        "portmanteau"
+        "negroni"
     ]
 }

@@ -26,12 +26,12 @@
         {
             "quantity": "1",
             "measure": "cube",
-            "ingredient": "Sugar Cube(white)"
+            "ingredient": "Sugar Cube (white)"
         },
         {
             "quantity": "1",
             "measure": "Peel",
-            "ingredient": "Lemon Peel"
+            "ingredient": "Lemon"
         }
     ],
     "directions": [
@@ -43,8 +43,10 @@
     "image": "sazerac.jpg", 
     "keywords": [
         "rye",
+        "absinthe",
+        "angostura bitters",
         "whiskey",
         "absinthe",
-        "NOLA"
+        "lemon"
     ]
 }
