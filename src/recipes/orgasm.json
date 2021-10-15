@@ -11,7 +11,7 @@
         {
             "quantity": "2",
             "measure": "oz",
-            "ingredient": "Kahlua"
+            "ingredient": "Kahlúa"
         },
         {
             "quantity": "2",
@@ -40,7 +40,7 @@
         "amaretto",
         "cream",
         "vodka",
-        "Kahlua",
+        "kahlúa",
         "baileys"
     ]
 }
