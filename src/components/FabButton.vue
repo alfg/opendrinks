@@ -11,7 +11,6 @@ export default {
   name: 'FabButton',
   methods: {
     scrollTop() {
-      console.log('scroll top');
       window.scrollTo(0, 0);
     },
   },
