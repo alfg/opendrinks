@@ -65,6 +65,9 @@ export default {
   },
   "nl": {
     "Enter your keyword": "Voer uw trefwoord in"
+  },
+  "ja": {
+    "Enter your keyword": "キーワードを入力してください"
   }
 }
 </i18n>
