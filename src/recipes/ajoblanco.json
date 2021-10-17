@@ -1,5 +1,5 @@
 {
-    "name": "Ajoblanco malagueño",
+    "name": "Ajoblanco",
     "description": "Ajoblanco is a delicious cold almond and garlic soup typical of southern Spain. Some say it’s the precursor to better known Spanish cold soups like gazpacho and salmorejo.",
     "github": "maximetinu",
     "ingredients": [
@@ -61,7 +61,7 @@
         "To serve, top with sliced green grapes."
 
     ],
-    "image": "ajoblanco-malagueño.jpg",
+    "image": "ajoblanco.jpg",
     "keywords": [
         "fresh",
         "healthy",
