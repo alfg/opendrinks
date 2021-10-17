@@ -1,0 +1,61 @@
+{
+    "name": "Kancha Aamer Sharbat/Green Mango Sharbat",
+    "description": "Made with pureed unripe tart mangoes, sugar and ice, sweet-tangy green mango juice is a popular summer drink in tropical Asia that's so easy to make at home.",
+    "github": "Appledora",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "medium size",
+            "ingredient": "Green Mango"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Ginger (grated)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Fresh Mint Leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Black Salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "medium large",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "5",
+            "measure": "cup",
+            "ingredient": "Ice-cool water"
+        }
+    ],
+    "directions": [
+        "Boil, peel and cut the mango to give the blender an easier time to puree it.",
+        "In a small vessel boil sugar, ginger and 2 cups of water until sugar is dissolve. Remove from flame and let them cool.",
+        "In a blender pour remaining water, mango, salt, mint leaves, and sugar water. Blend them well until all mint leaves blended.",
+        "Pour into a jug and mix lemon juice. Adjust salt and sugar.Repeat until you get the desired sweet-tangy balance",
+        "Strain and transfer to serving glasses.",
+        "Drop ice cubes into flour glasses and serve with mint."
+    ],
+    "image": "green-mango-sharbat.jpg",
+    "keywords": [
+        "summer",
+        "tropical",
+        "mango",
+        "mint leaves",
+        "lemon",
+        "sour",
+        "sweet",
+        "cold"
+    ]
+}

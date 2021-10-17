@@ -1,0 +1,64 @@
+{
+    "name": "CoronaRita",
+    "description": "A CoronaRita is simply defined as, an overturned Corona bottle draining into a margarita and it is a popular summertime cocktail drink",
+    "github": "swarnimstrange",
+    "ingredients": [
+        {
+            "quantity": "7",
+            "measure": "",
+            "ingredient": "limes"
+        },
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "Orange juice"
+        },
+        {
+            "quantity": "8",
+            "measure": "cups",
+            "ingredient": "Ice"
+        },
+	{
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Tequila"
+        },
+	{
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "triple sec"
+        },
+	{
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "margarita mix"
+        },
+	{
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sea salt"
+        },
+	{
+            "quantity": "6",
+            "measure": "pack",
+            "ingredient": "Coronitas"
+        }
+    ],
+    "directions": [
+        "Slice the 2 limes in wedges for garnish.",
+        "Run a cut lime around the rim of the glass.",
+        "Dip glass rim into sea salt poured on a small plate.",
+	    "Test your bottles in your glasses, you can see the glasses I have used, are made with a well to fit the neck of the beer bottle.",
+	    "Pour margaritas from blender (see below for Frozen Margarita Recipe), carefully tip open Coronita (small 7 oz Corona beer) into the glass. That is it! Garnish with cut limes and colorful straws.",
+	    "You can serve CoronaRitas"
+	],
+    "image": "coronarita.jpg",
+    "keywords": [
+        "corona",
+        "margarita",
+        "lime",
+        "salt",
+        "alcoholic",
+        "beer"
+        ]
+}

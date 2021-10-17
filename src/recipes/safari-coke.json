@@ -1,0 +1,42 @@
+{
+  "name": "Safari Coke",
+  "description": "A fruity licor with the adition of coke.",
+  "github": "marcelosantos89",
+  "ingredients": [
+      {
+          "quantity": "1 1/4",
+          "measure": "oz",
+          "ingredient": "Safari Exotic Fruit Liqueur"
+      },
+      {
+          "quantity": "4 1/2",
+          "measure": "oz",
+          "ingredient": "Coca-cola / Coke"
+      },
+      {
+          "quantity": "4",
+          "measure": "drops",
+          "ingredient": "Lemon juice"
+      },
+      {
+          "quantity": "",
+          "measure": "",
+          "ingredient": "Ice"
+      }
+  ],
+  "directions": [
+      "Add all ingredients to a shaker except Coca-cola / Coke.",
+      "Shake well and serve in a tall drink glass.",
+      "Add Coca-cola / Coke until glass is almost full.",
+      "Decorate with a slice of lemon if you would like. Enjoy!"
+  ],
+  "image": "safari-coke.jpg",
+  "keywords": [
+      "ice",
+      "lemon",
+      "coke",
+      "coca-cola",
+      "exotic",
+      "liqueur"
+  ]
+}

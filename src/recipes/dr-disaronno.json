@@ -1,0 +1,37 @@
+{
+    "name": "Dr. Disaronno",
+    "description": "A simple yet outstanding mixed drink, featuring Dr. Pepper and Disaronno. Tastes like a sweeter Dr. Pepper.",
+    "github": "MaksimumYT",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Disaronno"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "Dr. Pepper"
+        },
+        {
+            "quantity": "5",
+            "measure": "cubes",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Add ice to taste (5 cubes recommended)",
+        "Pour 2 oz of Disaronno",
+        "Pour half a can of Dr. Pepper (6 oz)",
+        "Mix well"
+    ],
+    "image": "dr-disaronno.jpg",
+    "source": "https://cdn1.foodviva.com/static-content/food-images/cocktail-recipes/alcoholic-dr-pepper/alcoholic-dr-pepper.jpg",
+    "keywords": [
+        "dr. pepper",
+        "ice",
+        "alcoholic",
+        "soda",
+        "liqueur"
+    ]
+}

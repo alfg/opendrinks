@@ -193,6 +193,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "gl": {
+    "Print": "Imprimir",
+    "Share": "Compartir",
+    "Share on Facebook": "Compartir en Facebook",
+    "Share on Twitter": "Compartir en Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Ocultar imaxe"
+  },
   "de": {
     "Print": "Drucken",
     "Share": "Teilen",
@@ -208,6 +216,14 @@ export default {
     "Share on Twitter": "Deel op Twitter",
     "Copy URL": "URL kopiëren",
     "Hide Image": "Afbeelding verbergen"
+  },
+  "no": {
+    "Print": "Skriv ut",
+    "Share": "Del",
+    "Share on Facebook": "Del på Facebook",
+    "Share on Twitter": "Del på Twitter",
+    "Copy URL": "Kopier URL",
+    "Hide Image": "Skjul bilde"
   },
   "ru": {
     "Print": "Распечатать",

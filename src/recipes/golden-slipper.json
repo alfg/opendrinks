@@ -1,0 +1,46 @@
+{
+    "name": "Golden Slipper",
+    "description": "An egg yolk suspended between layers of wine and Goldwasser, surprisingly delicious.",
+    "github": "bibliofilo",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "wine glass",
+            "ingredient": "yellow chartreuse wine"
+        },
+        {
+            "quantity": "1",
+            "measure": "yolk",
+            "ingredient": "egg"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "wine glass",
+            "ingredient": "Danziger Goldwasser"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        }
+
+    ],
+    "directions": [
+        "Make sure all ingredients are chilled",
+        "Pour the Danziger Goldwasser first",
+        "Pour the chartreuse yellow second",
+        "Separate the chilled egg yolk from the white, then without breaking it drop gently into the wine glass",
+        "Add the lemon juice"
+        
+    ],
+    "image": "golden-slipper.jpg",
+    "source": "https://twitter.com/noelsharkey/status/962058582127624193",
+    "keywords": [
+        "alcoholic",
+        "egg",
+        "lemon",
+        "liqueur",
+        "wine",
+        "layers"
+    ]
+}

@@ -1,20 +1,18 @@
 <template>
-  <div id="recipe">
-    <div class="d-flex justify-content-between align-items-start">
+  <article id="recipe">
+    <header class="d-flex justify-content-between align-items-start">
       <div>
         <h1>{{ drink.name }}</h1>
-        <div
-          v-if="drink.keywords"
-          class="mb-2"
-        >
-          <b-badge
-            v-for="(o, i) in drink.keywords"
-            v-bind:key="i"
-            variant="secondary"
-            :style="badgeStyle"
-            :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-          >{{ o }}</b-badge>
-        </div>
+        <ul v-if="drink.keywords" class="mb-2 list-reset d-flex">
+          <li v-for="(o, i) in drink.keywords" v-bind:key="i">
+            <b-badge
+              variant="secondary"
+              :style="badgeStyle"
+              :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+              >{{ o }}</b-badge
+            >
+          </li>
+        </ul>
       </div>
       <RecipeToolbar
         v-if="!isMobile"
@@ -24,14 +22,14 @@
         :isPrint="isPrint"
         v-on:show-image="onShowImage"
       />
-    </div>
+    </header>
 
     <p>{{ drink.description }}</p>
 
-    <p class="text-muted">
+    <address class="text-muted">
       {{ $t('Contributed by') }}:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
-    </p>
+    </address>
 
     <RecipeToolbar
       v-if="isMobile"
@@ -42,24 +40,18 @@
       v-on:show-image="onShowImage"
     />
 
-    <b-container>
-      <b-row class="justify-content-between">
+    <b-container tag="article">
+      <b-row class="justify-content-between" tag="section">
         <div class="recipe-ingredients">
-          <h4>{{ $t('Ingredients') }}</h4>
+          <h2 class="h4">{{ $t('Ingredients') }}</h2>
           <ul>
-            <li
-              v-for="(o, i) in drink.ingredients"
-              v-bind:key="i"
-            >
+            <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
               {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
             </li>
           </ul>
         </div>
 
-        <div
-          class="recipe-image"
-          v-if="showImage"
-        >
+        <div class="recipe-image" v-if="showImage">
           <b-img
             right
             class="mb-4"
@@ -71,21 +63,15 @@
         </div>
       </b-row>
 
-      <b-row>
+      <b-row tag="section">
         <div class="recipe-directions-list">
-          <h4>{{ $t('Directions') }}</h4>
+          <h3 class="h4">{{ $t('Directions') }}</h3>
           <ol class="mb-4">
-            <li
-              v-for="(o, i) in drink.directions"
-              v-bind:key="i"
-            >{{ o }}</li>
+            <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
           </ol>
         </div>
 
-        <div
-          class="mt-4"
-          v-if="drink.source"
-        >
+        <div class="mt-4" v-if="drink.source">
           <span>
             {{ $t('View full recipe at') }}:
             <a :href="drink.source">{{ drink.source }}</a>
@@ -94,7 +80,7 @@
       </b-row>
     </b-container>
 
-    <div class="similar-drinks mt-4 mb-4">
+    <section class="similar-drinks mt-4 mb-4">
       <h4>{{ $t('Similar drinks') }}</h4>
       <b-card-group deck>
         <RecipeTile
@@ -103,8 +89,8 @@
           v-bind:id="similarRecipe.id"
         />
       </b-card-group>
-    </div>
-  </div>
+    </section>
+  </article>
 </template>
 
 <script>
@@ -240,10 +226,7 @@ export default {
   },
   methods: {
     async getSimilarRecipes(name) {
-      return (await recipes.getSimilarRecipe(name)).slice(
-        0,
-        NUMBER_OF_SIMILAR_RECIPES,
-      );
+      return (await recipes.getSimilarRecipe(name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
     },
     getRecipe(name) {
       const drink = recipes.getRecipe(name);
@@ -276,6 +259,12 @@ export default {
   width: 100%;
   float: left;
   margin-top: 1em;
+}
+
+.list-reset, .list-reset li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 @media (max-width: 768px) {
@@ -325,6 +314,13 @@ export default {
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
   },
+  "gl": {
+    "Contributed by": "Achegado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucións",
+    "View full recipe at": "Mira a receita completa en",
+    "Similar drinks": "Bebidas similares"
+  },
   "de": {
     "Contributed by": "Beitrag von",
     "Ingredients": "Zutaten",
@@ -338,6 +334,13 @@ export default {
     "Directions": "Bereidingswijze",
     "View full recipe at": "Bekijk het volledige recept op",
     "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "no": {
+    "Contributed by": "Bidrag fra",
+    "Ingredients": "Ingredienser",
+    "Directions": "Fremgangsmåte",
+    "View full recipe at": "Se hele oppskriften på",
+    "Similar drinks": "Lignende drinker"
   },
   "ru": {
     "Contributed by": "Автор",

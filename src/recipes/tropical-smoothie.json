@@ -1,0 +1,75 @@
+{
+"name": "Tropical Smoothie",
+"description": "The fruit combinations in this smoothie are delicious!",
+"github": "bookish",
+"ingredients": [{
+"quantity": "0.75",
+"measure": "cup",
+"ingredient": "guava nectar"
+},
+{
+"quantity": "0.75",
+"measure": "cup",
+"ingredient": "passionfruit juice"
+},
+{
+"quantity": "1/8",
+"measure": "tsp",
+"ingredient": "lime juice"
+},
+{
+"quantity": "1/8",
+"measure": "tsp",
+"ingredient": "vanilla"
+},
+{
+"quantity": "2",
+"measure": "tbsp",
+"ingredient": "honey"
+},
+{
+"quantity": "1",
+"measure": "cup",
+"ingredient": "fresh or frozen sliced strawberries"
+},
+{
+"quantity": "1",
+"measure": "sliced",
+"ingredient": "fresh banana"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "plain yogurt"
+},
+{
+"quantity": "1",
+"measure": "cup",
+"ingredient": "ice cubes"
+}
+],
+"directions": [
+"Whiz all ingredients together in a blender for 30 seconds.",
+"Pour into a glass and enjoy!"
+],
+"image": "tropical-smoothie.jpg",
+"keywords": [
+  "tropical", 
+  "banana", 
+  "smoothie", 
+  "vitamin", 
+  "juice", 
+  "non-alcoholic", 
+  "fruit", 
+  "cold", 
+  "guava", 
+  "passion fruit",  
+  "frozen", 
+  "strawberry", 
+  "frozen", 
+  "ice", 
+  "yogurt", 
+  "lime", 
+  "sorbet"
+]
+}

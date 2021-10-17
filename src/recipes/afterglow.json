@@ -1,0 +1,33 @@
+{
+	"name": "Afterglow",
+	"description": "A famous alcohol-free cocktail.",
+	"github": "leopaul29",
+	"ingredients": [{
+			"quantity": "8",
+			"measure": "oz",
+			"ingredient": "Orange juice"
+		},
+		{
+			"quantity": "8",
+			"measure": "oz",
+			"ingredient": "Pineapple juice"
+		},
+		{
+			"quantity": "2",
+			"measure": "oz",
+			"ingredient": "Grenadine"
+		}
+	],
+	"directions": [
+		"Add all ingredients into a shaker", "Add ice into the shaker.",
+		"Shake vigorously.",
+		"Garnish with a slice of orange."
+	],
+	"image": "afterglow.jpg",
+	"keywords": [
+		"lemon",
+		"pineapple",
+		"grenadine",
+		"vegan"
+	]
+}

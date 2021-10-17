@@ -30,11 +30,17 @@ export default {
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
+  "gl": {
+    "Find Your Drink": "Atopa a túa bebida"
+  },
   "de": {
     "Find Your Drink": "Finden Sie Ihr Getränk"
   },
   "nl": {
     "Find Your Drink": "Vind jouw drankje"
+  },
+  "no": {
+    "Find Your Drink": "Finn din drink"
   },
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"

@@ -31,7 +31,7 @@
         {
             "quantity": "1/4",
             "measure": "cup",
-            "ingredient": "suger"
+            "ingredient": "sugar"
         }
     ],
     "directions": [
@@ -47,7 +47,7 @@
     "keywords": [
         "iced tea",
         "orange",
-        "orange-tea",
-        "orange-earl-grey-iced-tea"
+        "tea",
+        "earl grey"
     ]
 }

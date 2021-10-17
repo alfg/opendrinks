@@ -1,0 +1,48 @@
+{
+    "name": "Glühwein",
+    "description": "Glühwein is a warm and spice holiday drink traditionally found in German Christmas markets.",
+    "github": "JenningsF",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "red wine"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "stick",
+            "ingredient": "cinnamon stick"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "cloves"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "orange peel"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients in a saucepan and heat until the wine reaches a simmer. Avoid boiling off the alcohol.",
+        "Reduce the heat and let the wine simmer for 5-30 minutes.",
+        "Remove from  heat and strain the mixture.",
+        "Pour into glass mugs, serve, and enjoy!"
+    ],
+    "image": "gluhwein.jpg",
+    "keywords": [
+        "alcoholic",
+        "red wine",
+        "warm",
+        "winter",
+        "christmas",
+        "german",
+        "austrian"
+    ]
+}
