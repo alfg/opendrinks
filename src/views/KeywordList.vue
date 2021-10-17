@@ -62,6 +62,9 @@ export default {
   },
   "fr": {
     "Enter your keyword": "Entrez votre mot-clé"
+  },
+  "nl": {
+    "Enter your keyword": "Voer uw trefwoord in"
   }
 }
 </i18n>
