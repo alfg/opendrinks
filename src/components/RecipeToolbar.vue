@@ -19,82 +19,53 @@
       v-b-tooltip.hover.nonInteractive
       :title="!isFavorited ? $t('Set Favorite') : $t('Unset Favorite')"
     ></FavoriteStar>
-
-    <ShareNetwork
-      network="facebook"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-    >
-      <BIconFacebook
-        font-scale="2"
-        v-b-tooltip.hover.nonInteractive
-        :title="$t('Share on Facebook')"
-      ></BIconFacebook>
-    </ShareNetwork>
-    <ShareNetwork
-      network="twitter"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-    >
-      <BIconTwitter
-        font-scale="2"
-        v-b-tooltip.hover.nonInteractive
-        :title="$t('Share on Twitter')"
-      ></BIconTwitter>
-    </ShareNetwork>
-
-    <BIconFiles
-      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
-      font-scale="2"
-      @click="copyUrl"
+    <div
       v-b-tooltip.hover.nonInteractive
-      :title="$t('Copy URL')"
+      :title="$t('Share on Facebook')"
+      class="clickable-icon-hover"
     >
-    </BIconFiles>
-
-    <div class="mx-1 theme-link-color cursor-pointer clickable-icon-hover" v-if="!isMobile">
-      <BIconPrinter
-        :fontScale="2"
-        v-if="isPrint"
-        @click="print()"
-        v-b-tooltip.hover.nonInteractive
-        :title="$t('Print')"
-      ></BIconPrinter>
+      <ShareNetwork
+        network="facebook"
+        :url="url"
+        :title="drink.name"
+        :description="drink.description"
+        :hashtags="drink.keywords.join()"
+        class="px-1"
+      >
+        <BIconFacebook font-scale="2"></BIconFacebook>
+      </ShareNetwork>
+    </div>
+    <div
+      v-b-tooltip.hover.nonInteractive
+      :title="$t('Share on Twitter')"
+      class="clickable-icon-hover"
+    >
+      <ShareNetwork
+        network="twitter"
+        :url="url"
+        :title="drink.name"
+        :description="drink.description"
+        :hashtags="drink.keywords.join()"
+        class="px-1"
+      >
+        <BIconTwitter font-scale="2"></BIconTwitter>
+      </ShareNetwork>
+    </div>
+    <div v-b-tooltip.hover.nonInteractive :title="$t('Copy URL')" class="clickable-icon-hover">
+      <BIconFiles class="mx-1 theme-link-color cursor-pointer" font-scale="2" @click="copyUrl">
+      </BIconFiles>
+    </div>
+    <div
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      v-if="!isMobile"
+      v-b-tooltip.hover.nonInteractive
+      :title="$t('Print')"
+    >
+      <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
       <a v-else :href="`/recipe/${name}/print`" target="_blank">
-        <BIconPrinter
-          :fontScale="2"
-          v-b-tooltip.hover.nonInteractive
-          :title="$t('Print')"
-        ></BIconPrinter>
+        <BIconPrinter :fontScale="2"></BIconPrinter>
       </a>
     </div>
-    <ShareNetwork
-      network="facebook"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-    >
-      <BIconFacebook font-scale="2"></BIconFacebook>
-    </ShareNetwork>
-    <ShareNetwork
-      network="twitter"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-    >
-      <BIconTwitter font-scale="2"></BIconTwitter>
-    </ShareNetwork>
-
     <b-toast v-model="copyToast" :title="$t('URL Copied')" :auto-hide-delay="500">
       {{ $t('The URL is copied in your clipboard') }}
     </b-toast>
