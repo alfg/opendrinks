@@ -59,6 +59,9 @@ export default {
   },
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
+  },
+  "fr": {
+    "Enter your keyword": "Entrez votre mot-clé"
   }
 }
 </i18n>
