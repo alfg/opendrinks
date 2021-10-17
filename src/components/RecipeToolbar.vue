@@ -16,7 +16,8 @@
       class="mr-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
-      v-b-tooltip.hover.nonInteractive="!isFavorited ? $t('Set Favorite') : $t('Unset Favorite')"
+      v-b-tooltip.hover.nonInteractive
+      :title="!isFavorited ? $t('Set Favorite') : $t('Unset Favorite')"
     ></FavoriteStar>
 
     <ShareNetwork
@@ -29,7 +30,8 @@
     >
       <BIconFacebook
         font-scale="2"
-        v-b-tooltip.hover.nonInteractive="$t('Share on Facebook')"
+        v-b-tooltip.hover.nonInteractive
+        :title="$t('Share on Facebook')"
       ></BIconFacebook>
     </ShareNetwork>
     <ShareNetwork
@@ -42,7 +44,8 @@
     >
       <BIconTwitter
         font-scale="2"
-        v-b-tooltip.hover.nonInteractive="$t('Share on Twitter')"
+        v-b-tooltip.hover.nonInteractive
+        :title="$t('Share on Twitter')"
       ></BIconTwitter>
     </ShareNetwork>
 
@@ -50,7 +53,8 @@
       class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
-      v-b-tooltip.hover.nonInteractive="$t('Copy URL')"
+      v-b-tooltip.hover.nonInteractive
+      :title="$t('Copy URL')"
     >
     </BIconFiles>
 
@@ -59,10 +63,15 @@
         :fontScale="2"
         v-if="isPrint"
         @click="print()"
-        v-b-tooltip.hover.nonInteractive="$t('Print')"
+        v-b-tooltip.hover.nonInteractive
+        :title="$t('Print')"
       ></BIconPrinter>
       <a v-else :href="`/recipe/${name}/print`" target="_blank">
-        <BIconPrinter :fontScale="2" v-b-tooltip.hover.nonInteractive="$t('Print')"></BIconPrinter>
+        <BIconPrinter
+          :fontScale="2"
+          v-b-tooltip.hover.nonInteractive
+          :title="$t('Print')"
+        ></BIconPrinter>
       </a>
     </div>
     <ShareNetwork
