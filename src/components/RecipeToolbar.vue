@@ -55,16 +55,13 @@
       <BIconFiles class="mx-1 theme-link-color cursor-pointer" font-scale="2" @click="copyUrl">
       </BIconFiles>
     </div>
-    <div
-      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
-      v-if="!isMobile"
-      v-b-tooltip.hover.nonInteractive
-      :title="$t('Print')"
-    >
-      <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
-      <a v-else :href="`/recipe/${name}/print`" target="_blank">
-        <BIconPrinter :fontScale="2"></BIconPrinter>
-      </a>
+    <div v-b-tooltip.hover.nonInteractive :title="!isMobile ? $t('Print') : ''">
+      <div class="mx-1 theme-link-color cursor-pointer clickable-icon-hover" v-if="!isMobile">
+        <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
+        <a v-else :href="`/recipe/${name}/print`" target="_blank">
+          <BIconPrinter :fontScale="2"></BIconPrinter>
+        </a>
+      </div>
     </div>
     <b-toast v-model="copyToast" :title="$t('URL Copied')" :auto-hide-delay="500">
       {{ $t('The URL is copied in your clipboard') }}
