@@ -123,6 +123,20 @@ export default {
     "Are you sure you want to remove all favorites": "আপনি কি নিশ্চিত যে আপনি সমস্ত পছন্দ অপসারণ করতে চান",
     "Delete": "মুছুন",
     "Cancel": "বাতিল করুন"
+  },
+  "ru": {
+    "You don't have any favorite drinks": "У тебя нет любимых напитков",
+    "Remove All Favorites": "Удалить все избранное",
+    "Are you sure you want to remove all favorites": "Вы уверены, что хотите удалить все избранное",
+    "Delete": "Удалить",
+    "Cancel": "Отмена"
+  },
+  "uk": {
+    "You don't have any favorite drinks": "У вас немає улюблених напоїв",
+    "Remove All Favorites": "Видалити всі вибране",
+    "Are you sure you want to remove all favorites": "Ви впевнені, що хочете видалити всі вибрані",
+    "Delete": "Видалити",
+    "Cancel": "Скасувати"
   }
 }
 </i18n>
