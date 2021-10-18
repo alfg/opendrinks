@@ -123,6 +123,13 @@ export default {
     "Are you sure you want to remove all favorites": "আপনি কি নিশ্চিত যে আপনি সমস্ত পছন্দ অপসারণ করতে চান",
     "Delete": "মুছুন",
     "Cancel": "বাতিল করুন"
+  },
+  "pt": {
+    "You don't have any favorite drinks": "Você não possui nenhum drink favorito",
+    "Remove All Favorites": "Remover todos os favoritos",
+    "Are you sure you want to remove all favorites": "Você tem certeza que quer remover todos os favoritos",
+    "Delete": "Deletar",
+    "Cancel": "Cancelar"
   }
 }
 </i18n>

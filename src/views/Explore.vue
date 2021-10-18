@@ -175,6 +175,11 @@ export default {
     "Filters": "Фільтри",
     "Reset Filters": "Скинути фільтри",
     "Add Keyword": "Додати ключове слово"
+  },
+  "pt": {
+    "Filters": "Filtros",
+    "Reset Filters": "Restaurar Filtros",
+    "Add Keyword": "Adicionar palavra-chave"
   }
 }
 </i18n>

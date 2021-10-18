@@ -270,6 +270,14 @@ export default {
     "Keywords": "কীওয়ার্ড সমূহ",
     "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
     "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
+  },
+  "pt": {
+    "Filter by": "Filtrar por",
+    "Name": "Nome",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palavra-chave",
+    "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
+    "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
   }
 }
 </i18n>

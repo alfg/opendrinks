@@ -68,6 +68,9 @@ export default {
   },
   "ja": {
     "Enter your keyword": "キーワードを入力してください"
+  },
+    "pt": {
+    "Enter your keyword": "Insira sua palavra-chave"
   }
 }
 </i18n>

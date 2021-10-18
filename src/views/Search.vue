@@ -44,6 +44,9 @@ export default {
   },
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"
+  },
+  "pt": {
+    "Find Your Drink": "Encontre sua bebida"
   }
 }
 </i18n>
