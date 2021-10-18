@@ -59,6 +59,15 @@ export default {
   },
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
+  },
+  "fr": {
+    "Enter your keyword": "Entrez votre mot-clé"
+  },
+  "nl": {
+    "Enter your keyword": "Voer uw trefwoord in"
+  },
+  "ja": {
+    "Enter your keyword": "キーワードを入力してください"
   }
 }
 </i18n>

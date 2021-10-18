@@ -165,6 +165,16 @@ export default {
     "Filters": "ফিল্টার",
     "Reset Filters": "ফিল্টার রিসেট করুন",
     "Add Keyword": "কীওয়ার্ড যোগ করুন"
+  },
+  "ru": {
+    "Filters": "Фильтры",
+    "Reset Filters": "Сбросить фильтры",
+    "Add Keyword": "Добавить ключевое слово"
+  },
+  "uk": {
+    "Filters": "Фільтри",
+    "Reset Filters": "Скинути фільтри",
+    "Add Keyword": "Додати ключове слово"
   }
 }
 </i18n>
