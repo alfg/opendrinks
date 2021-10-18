@@ -44,6 +44,9 @@ export default {
   },
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"
+  },
+  "np": {
+    "Find Your Drink": "तपाइँको पेय खोज्नुहोस्"
   }
 }
 </i18n>

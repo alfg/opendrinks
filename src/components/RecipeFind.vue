@@ -270,6 +270,14 @@ export default {
     "Keywords": "কীওয়ার্ড সমূহ",
     "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
     "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
+  },
+  "np": {
+    "Filter by": "छाने",
+    "Name": "नाम",
+    "Ingredients": "सामग्री",
+    "Keywords": "मुख्य-शब्द",
+    "You can search for multiple ingredients by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै सामग्रीको लागी खोज्न सक्नुहुन्छ",
+    "You can search for multiple keywords by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै मुख्य-शब्दको लागी खोज्न सक्नुहुन्छ"
   }
 }
 </i18n>

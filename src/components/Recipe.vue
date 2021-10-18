@@ -362,6 +362,13 @@ export default {
     "Directions": "প্রস্তুত প্রণালি",
     "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
     "Similar drinks": "অনুরূপ পানীয়গুলো"
+  },
+  "np": {
+    "Contributed by": "योगदानी",
+    "Ingredients": "सामग्री",
+    "Directions": "तयारी",
+    "View full recipe at": "पुरा नुस्खा यहाँ हेर्नुहोस्",
+    "Similar drinks": "उस्तै पेय"
   }
 }
 </i18n>

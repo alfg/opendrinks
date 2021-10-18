@@ -86,6 +86,9 @@ export default {
   },
   "bn":{
     "Load More": "আরো দেখুন"
+  },
+  "np": {
+    "Load More": "अझ विधि हेर्नुहोस्"
   }
 }
 </i18n>

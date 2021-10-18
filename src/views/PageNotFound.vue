@@ -59,6 +59,10 @@ export default {
   "bn": {
     "The page you are looking for was not found.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি",
     "Back to Home": "হোমপেজে ফিরে যান"
+  },
+  "np": {
+    "The page you are looking for was not found.": "तपाईंले खोजिरहनुभएको पृष्ठ भेटिएन।",
+    "Back to Home": "घर फिर्ता"
   }
 }
 </i18n>
