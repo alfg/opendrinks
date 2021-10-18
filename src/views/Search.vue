@@ -47,6 +47,12 @@ export default {
   },
   "pt": {
     "Find Your Drink": "Encontre sua bebida"
+  },
+  "ru": {
+    "Find Your Drink": "Найдите свой напиток"
+  },
+  "uk": {
+    "Find Your Drink": "Знайдіть свій напій"
   }
 }
 </i18n>

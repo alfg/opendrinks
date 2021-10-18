@@ -63,6 +63,14 @@ export default {
   "pt": {
     "The page you are looking for was not found.": "A página procurada não foi encontrada.",
     "Back to Home": "Voltar para página inicial"
+  },
+  "ru": {
+    "The page you are looking for was not found.": "Страница, которую вы ищете, не найдена",
+    "Back to Home": "Вернуться домой"
+  },
+  "uk": {
+    "The page you are looking for was not found.": "Сторінку, яку ви шукаєте, не знайдено",
+    "Back to Home": "Повернутися додому"
   }
 }
 </i18n>
