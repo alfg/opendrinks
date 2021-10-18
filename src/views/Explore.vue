@@ -181,6 +181,11 @@ export default {
     "Reset Filters": "Скинути фільтри",
     "Add Keyword": "Додати ключове слово"
   },
+  "np": {
+    "Filters": "फिल्टर",
+    "Reset Filters": "फिल्टर रिसेट गर्नुहोस्",
+    "Add Keyword": "मुख्य-शब्द जोड्नुहोस्"
+  },
   "pt": {
     "Filters": "Filtros",
     "Reset Filters": "Restaurar Filtros",

@@ -64,6 +64,10 @@ export default {
     "The page you are looking for was not found.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি",
     "Back to Home": "হোমপেজে ফিরে যান"
   },
+  "np": {
+    "The page you are looking for was not found.": "तपाईंले खोजिरहनुभएको पृष्ठ भेटिएन।",
+    "Back to Home": "घर फिर्ता"
+  },
   "pt": {
     "The page you are looking for was not found.": "A página procurada não foi encontrada.",
     "Back to Home": "Voltar para página inicial"

@@ -48,6 +48,9 @@ export default {
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"
   },
+  "np": {
+    "Find Your Drink": "तपाइँको पेय खोज्नुहोस्"
+  },
   "pt": {
     "Find Your Drink": "Encontre sua bebida"
   },

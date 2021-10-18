@@ -248,6 +248,14 @@ export default {
     "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
     "Hide Image": "ছবি লুকান"
   },
+  "np": {
+    "Print": "छाप्नुहोस्",
+    "Share": "साझा गर्नुहोस्",
+    "Share on Facebook": "फेसबुकमा साझा गर्नुहोस्",
+    "Share on Twitter": "ट्विटर मा साझा गर्नुहोस्",
+    "Copy URL": "यूआरएल प्रतिलिपि गर्नुहोस्",
+    "Hide Image": "चित्र लुकाउनुहोस्"
+  },
   "pt": {
     "Print": "Imprimir",
     "Share": "Compartilhar",

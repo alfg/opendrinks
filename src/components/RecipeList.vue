@@ -188,6 +188,9 @@ export default {
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"
   },
+  "np": {
+    "View Recipe": "नुस्खा हेर्नुहोस्"
+  },
   "pt": {
     "View Recipe": "Ver receita"
   }

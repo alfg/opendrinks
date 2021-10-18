@@ -69,7 +69,10 @@ export default {
   "ja": {
     "Enter your keyword": "キーワードを入力してください"
   },
-    "pt": {
+  "np": {
+    "Enter your keyword": "तपाइँको मुख्य शब्द दर्ज गर्नुहोस्"
+  },
+  "pt": {
     "Enter your keyword": "Insira sua palavra-chave"
   }
 }
