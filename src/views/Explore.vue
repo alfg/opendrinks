@@ -141,6 +141,11 @@ export default {
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
   },
+  "ar": {
+    "Filters": "المرشحات",
+    "Reset Filters": "إعادة ضبط المرشحات",
+    "Add Keyword": "إضافة الكلمات المفاتيح"
+  },
   "gl": {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar filtros",
@@ -180,6 +185,11 @@ export default {
     "Filters": "फिल्टर",
     "Reset Filters": "फिल्टर रिसेट गर्नुहोस्",
     "Add Keyword": "मुख्य-शब्द जोड्नुहोस्"
+  },
+  "pt": {
+    "Filters": "Filtros",
+    "Reset Filters": "Restaurar Filtros",
+    "Add Keyword": "Adicionar palavra-chave"
   }
 }
 </i18n>

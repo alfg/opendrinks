@@ -89,6 +89,13 @@ export default {
     "Delete": "हटाइये",
     "Cancel": "रद्द करें"
   },
+  "ar": {
+    "You don't have any favorite drinks": "ليس لديك أي مشروبات مفضلة",
+    "Remove All Favorites": "إزالة كافة المفضّلات",
+    "Are you sure you want to remove all favorites": "هل أنت متأكد أنك تريد إزالة كافة المفضّلات",
+    "Delete": "حذف",
+    "Cancel": "إلغاء"
+  },
   "gl": {
     "You don't have any favorite drinks": "Non tes bebidas favoritas",
     "Remove All Favorites": "Eliminar todos os favoritos",
@@ -130,6 +137,27 @@ export default {
     "Are you sure you want to remove all favorites": "के तपाइँ पक्का हुनुहुन्छ कि तपाइँ सबै मनपर्ने हटाउन चाहानुहुन्छ?",
     "Delete": "हटाउनुहोस्",
     "Cancel": "रद्द गर्नुहोस्"
+  },
+  "pt": {
+    "You don't have any favorite drinks": "Você não possui nenhum drink favorito",
+    "Remove All Favorites": "Remover todos os favoritos",
+    "Are you sure you want to remove all favorites": "Você tem certeza que quer remover todos os favoritos",
+    "Delete": "Deletar",
+    "Cancel": "Cancelar"
+  },
+  "ru": {
+    "You don't have any favorite drinks": "У тебя нет любимых напитков",
+    "Remove All Favorites": "Удалить все избранное",
+    "Are you sure you want to remove all favorites": "Вы уверены, что хотите удалить все избранное",
+    "Delete": "Удалить",
+    "Cancel": "Отмена"
+  },
+  "uk": {
+    "You don't have any favorite drinks": "У вас немає улюблених напоїв",
+    "Remove All Favorites": "Видалити всі вибране",
+    "Are you sure you want to remove all favorites": "Ви впевнені, що хочете видалити всі вибрані",
+    "Delete": "Видалити",
+    "Cancel": "Скасувати"
   }
 }
 </i18n>

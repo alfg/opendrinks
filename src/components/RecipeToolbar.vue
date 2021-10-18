@@ -184,6 +184,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "ar": {
+    "Print": "إطبع",
+    "Share": "شارك",
+    "Share on Facebook": "شارك على الفيسبوك",
+    "Share on Twitter": "شارك على التويتر",
+    "Copy URL": "إنسخ الرابط",
+    "Hide Image": "إخفاء الصورة"
+  },
   "gl": {
     "Print": "Imprimir",
     "Share": "Compartir",
@@ -247,6 +255,14 @@ export default {
     "Share on Twitter": "ट्विटर मा साझा गर्नुहोस्",
     "Copy URL": "यूआरएल प्रतिलिपि गर्नुहोस्",
     "Hide Image": "चित्र लुकाउनुहोस्"
+  },
+  "pt": {
+    "Print": "Imprimir",
+    "Share": "Compartilhar",
+    "Share on Facebook": "Compartilhar no Facebook",
+    "Share on Twitter": "Compartilhar no Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Esconder imagem"
   }
 }
 </i18n>

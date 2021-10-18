@@ -71,6 +71,9 @@ export default {
   },
   "np": {
     "Enter your keyword": "तपाइँको मुख्य शब्द दर्ज गर्नुहोस्"
+  },
+  "pt": {
+    "Enter your keyword": "Insira sua palavra-chave"
   }
 }
 </i18n>
