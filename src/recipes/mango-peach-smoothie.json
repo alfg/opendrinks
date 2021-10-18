@@ -1,0 +1,70 @@
+{
+"name": "Mango Peach Smoothie",
+"description": "This is an unbelievably delicious smoothie!",
+"github": "bookish",
+"ingredients": [{
+"quantity": "1",
+"measure": "cup",
+"ingredient": "frozen mango"
+},
+{
+"quantity": "1",
+"measure": "cup",
+"ingredient": "frozen peaches"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "passionfruit nectar"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "guava nectar"
+},
+{
+"quantity": "0.5",
+"measure": "cup",
+"ingredient": "fresh or frozen strawberries or raspberries"
+},
+{
+"quantity": "2",
+"measure": "cups",
+"ingredient": "unsweetened non-dairy milk such as almond or soy milk"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "vanilla yogurt"
+}
+],
+"directions": [
+"Combine all ingredients in a blender.",
+"Pour into a glass and enjoy!",
+"This recipe was adapted from this excellent version here:  https://www.bestofthislife.com/2014/01/mango-hurricane-smoothie.html"
+],
+"image": "mango-peach-smoothie.jpg",
+"keywords": [
+"tropical", 
+  "mango", 
+  "smoothie", 
+  "vitamin", 
+  "juice", 
+  "non-alcoholic", 
+  "fruit", 
+  "cold", 
+  "guava", 
+  "passion fruit", 
+  "frozen", 
+  "peach", 
+  "strawberry", 
+  "yogurt", 
+  "raspberry", 
+  "berry", 
+  "nectar", 
+  "almond milk", 
+  "soy milk", 
+  "unsweetened", 
+  "vanilla"
+]
+}

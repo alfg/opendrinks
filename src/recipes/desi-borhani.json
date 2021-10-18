@@ -1,0 +1,91 @@
+{
+    "name": "Burhani/Borhani",
+    "description": "Burhani/Borhani, is a traditional yogurt-like drink from Bangladesh. Burhani is a perfect summer drink. It is considered by some to be a type of lassi.",
+    "github": "Appledora",
+    "ingredients": [
+        {
+            "quantity": ".5",
+            "measure": "Kilogram",
+            "ingredient": "Plain Yoghurt"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "White pepper powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "Mustard Powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "tablespoon",
+            "ingredient": "Fresh mint leaves paste"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Red Chili Powder"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Roasted Cumin Powder"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "Roasted Coriander Powder"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Ginger Paste"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "Green Chili Paste"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Black Salt"
+        },
+        {
+            "quantity": "to taste",
+            "measure": "N/a",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Cup",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Whisk the yogurt well.", 
+        "In a blender add mint leaves, coriander leaves, chopped green chili and minced ginger. Puree until smooth.",
+        "Then add roasted coriander powder, cumin powder, mustard seeds powder, white pepper powder, sugar and black salt. Blend again by adding whisked yogurt and water. Whizz until frothy.",
+        "Keep it refrigerator and let it become cold.",
+        "Serve chilled."
+    ],
+    "image": "desi-borhani.jpg",
+    "source": "https://zuranazrecipe.com/borhani/",
+    "keywords": [
+        "classical",
+        "salt",
+        "coriander", 
+        "cumin", 
+        "yogurt",
+        "mint", 
+        "summer",
+        "spicy"
+    ]
+}

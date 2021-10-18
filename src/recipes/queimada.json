@@ -1,0 +1,47 @@
+{
+  "name": "Queimada",
+  "description": "Queimada is a punch made from Galician aguardiente -a spirit distilled from the rests of winemaking- and flavoured with special herbs or coffee, plus sugar, lemon peel, coffee beans and cinnamon. It is traditionally prepared in a hollow pumpkin.",
+  "github": "headstylecolorred",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "67 oz",
+          "ingredient": "White Aguardiente"
+      },
+      {
+          "quantity": "300",
+          "measure": "grams",
+          "ingredient": "Sugar"
+      },
+      {
+          "quantity": "2",
+          "measure": "peels",
+          "ingredient": "Lemon"
+      },
+      {
+          "quantity": "1",
+          "measure": "peel",
+          "ingredient": "Orange"
+      },
+      {
+          "quantity": "1",
+          "measure": "handful",
+          "ingredient": "Coffee grains"
+      }
+  ],
+  "directions": [
+      "We place the aguardiente and sugar in a clay pot of our own to burn, in the proportion of 150 grams for each liter of brandy.",
+      "We reserve 2 tablespoons of sugar to plant the fire, so we peel the lemons and the orange and throw them into the clay container",
+      "Now comes the most important part. In a ladle we put the 2 tablespoons of sugar with a little brandy and we start a flame on the spoon, when the flame starts we bring it to the container of the queimada so that it begins to burn.",
+      "We add a handfull of coffee beans, the ones that fit in one hand. In this way, the drink will have a toasted color, also thanks to the caramel that is going to be formed with the sugar.",
+      "Wait for the fire to burn out and cheers!"
+  ],
+  "image": "queimada.jpg",
+  "keywords": [
+      "Aguardiente",
+      "lemon",
+      "orange",
+      "coffee",
+      "alcoholic"
+  ]
+}

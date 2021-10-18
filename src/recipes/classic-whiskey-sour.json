@@ -1,0 +1,50 @@
+{
+    "name": "Classic Whiskey Sour",
+    "description": "A delicious Classic Whiskey Sour recipe from thekitchn.com",
+    "github": "deiganM",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "bourbon whiskey"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "freshly squeezed lemon juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "small to medium",
+            "ingredient": "egg white"
+        },
+        {
+            "quantity": "1",
+            "measure": "shaker worth of",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "maraschino cherry"
+        }
+    ],
+    "directions": [
+        "Build the cocktail. Place the bourbon, lemon juice, simple syrup, and egg white in a cocktail shaker. Do not add ice yet.",
+        "Dry shake the cocktail. Seal the shaker and shake vigorously for 10 seconds. (This is referred to as a 'dry shake.' It's good for incorporating the egg white before adding ice to the shaker.)",
+        "Shake again with ice. Add ice, seal again, and shake for 7 to 10 seconds more to chill.",
+        "Strain the cocktail. Fit a Hawthorne strainer over the top of the shaker and pour the cocktail through a fine-mesh strainer into a coupe glass. This is referred to as a 'double strain' and this method is used to catch any ice shards or pulp from the fresh-squeezed lemon juice.",
+        "Garnish and serve. Garnish with a speared maraschino cherry."
+    ],
+    "image": "classic-whiskey-sour.jpg",
+    "keywords": [
+        "whiskey",
+        "whiskey-sour",
+        "alcoholic"
+    ]
+}

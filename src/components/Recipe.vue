@@ -1,18 +1,18 @@
 <template>
-  <div id="recipe">
-    <div class="d-flex justify-content-between align-items-start">
+  <article id="recipe">
+    <header class="d-flex justify-content-between align-items-start">
       <div>
         <h1>{{ drink.name }}</h1>
-        <div v-if="drink.keywords" class="mb-2">
-          <b-badge
-            v-for="(o, i) in drink.keywords"
-            v-bind:key="i"
-            variant="secondary"
-            :style="badgeStyle"
-            :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-            >{{ o }}</b-badge
-          >
-        </div>
+        <ul v-if="drink.keywords" class="mb-2 list-reset d-flex">
+          <li v-for="(o, i) in drink.keywords" v-bind:key="i">
+            <b-badge
+              variant="secondary"
+              :style="badgeStyle"
+              :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+              >{{ o }}</b-badge
+            >
+          </li>
+        </ul>
       </div>
       <RecipeToolbar
         v-if="!isMobile"
@@ -22,14 +22,14 @@
         :isPrint="isPrint"
         v-on:show-image="onShowImage"
       />
-    </div>
+    </header>
 
     <p>{{ drink.description }}</p>
 
-    <p class="text-muted">
+    <address class="text-muted">
       {{ $t('Contributed by') }}:
       <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
-    </p>
+    </address>
 
     <RecipeToolbar
       v-if="isMobile"
@@ -40,10 +40,10 @@
       v-on:show-image="onShowImage"
     />
 
-    <b-container>
-      <b-row class="justify-content-between">
+    <b-container tag="article">
+      <b-row class="justify-content-between" tag="section">
         <div class="recipe-ingredients">
-          <h4>{{ $t('Ingredients') }}</h4>
+          <h2 class="h4">{{ $t('Ingredients') }}</h2>
           <ul>
             <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
               {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
@@ -63,9 +63,9 @@
         </div>
       </b-row>
 
-      <b-row>
+      <b-row tag="section">
         <div class="recipe-directions-list">
-          <h4>{{ $t('Directions') }}</h4>
+          <h3 class="h4">{{ $t('Directions') }}</h3>
           <ol class="mb-4">
             <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
           </ol>
@@ -80,7 +80,7 @@
       </b-row>
     </b-container>
 
-    <div class="similar-drinks mt-4 mb-4">
+    <section class="similar-drinks mt-4 mb-4">
       <h4>{{ $t('Similar drinks') }}</h4>
       <b-card-group deck>
         <RecipeTile
@@ -89,8 +89,8 @@
           v-bind:id="similarRecipe.id"
         />
       </b-card-group>
-    </div>
-  </div>
+    </section>
+  </article>
 </template>
 
 <script>
@@ -261,6 +261,12 @@ export default {
   margin-top: 1em;
 }
 
+.list-reset, .list-reset li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .recipe-hero-container {
     display: grid;
@@ -294,19 +300,82 @@ export default {
     "View full recipe at": "Voir la recette complète:",
     "Similar drinks": "Cocktails similaires"
   },
-    "hi": {
+  "es": {
+    "Contributed by": "Aportado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucciones",
+    "View full recipe at": "Mira la receta completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "hi": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
     "Directions": "तैयारी",
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
   },
-    "ar": {
+  "ar": {
     "Contributed by": "تمّت المساهمة بواسطة",
     "Ingredients": "المكوّنات",
     "Directions": "كيفيّة التّحضير",
     "View full recipe at": "عرض الوصفة كاملة على",
     "Similar drinks": "مشروبات مماثلة"
+  },
+  "gl": {
+    "Contributed by": "Achegado por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Instrucións",
+    "View full recipe at": "Mira a receita completa en",
+    "Similar drinks": "Bebidas similares"
+  },
+  "de": {
+    "Contributed by": "Beitrag von",
+    "Ingredients": "Zutaten",
+    "Directions": "Rezeptschritte",
+    "View full recipe at": "Das vollständige Rezept finden Sie auf",
+    "Similar drinks": "Ähnliche Getränke"
+  },
+  "nl": {
+    "Contributed by": "Bijdrage door",
+    "Ingredients": "Ingrediënten",
+    "Directions": "Bereidingswijze",
+    "View full recipe at": "Bekijk het volledige recept op",
+    "Similar drinks": "Vergelijkbare drankjes"
+  },
+  "no": {
+    "Contributed by": "Bidrag fra",
+    "Ingredients": "Ingredienser",
+    "Directions": "Fremgangsmåte",
+    "View full recipe at": "Se hele oppskriften på",
+    "Similar drinks": "Lignende drinker"
+  },
+  "ru": {
+    "Contributed by": "Автор",
+    "Ingredients": "Ингредиенты",
+    "Directions": "Способы приготовления",
+    "View full recipe at": "Посмотреть полный рецепт на",
+    "Similar drinks": "Подобные напитки"
+  },
+  "uk": {
+    "Contributed by": "Автор",
+    "Ingredients": "Інгредієнти",
+    "Directions": "Способи приготування",
+    "View full recipe at": "Подивитися повний рецепт на",
+    "Similar drinks": "Подібні напої"
+  },
+  "bn": {
+    "Contributed by": "অবদান করেছেন",
+    "Ingredients": "উপকরণ সমূহ",
+    "Directions": "প্রস্তুত প্রণালি",
+    "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
+    "Similar drinks": "অনুরূপ পানীয়গুলো"
+  },
+  "pt": {
+    "Contributed by": "Contribuição por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Modo de preparo",
+    "View full recipe at": "Visualizar receita completa em",
+    "Similar drinks": "Bebidas semelhantes"
   }
 }
 </i18n>

@@ -4,8 +4,8 @@
     "github": "joamarderije",
     "ingredients": [
         {
-            "quantity": "1",
-            "measure": "350ml",
+            "quantity": "350",
+            "measure": "ml",
             "ingredient": "Ginebra Gin Round"
         },
         {
@@ -21,7 +21,7 @@
         {
             "quantity": "1",
             "measure": "pack",
-            "ingredient": "Cube Ice"
+            "ingredient": "Ice Cube"
         }
     ],
     "directions": [
@@ -32,12 +32,12 @@
     ],
     "image": "shembot.jpg",
     "keywords": [
-        "Melon",
-        "Gin",
-        "Coffee",
-        "Filipino",
-        "Proud Mix",
-        "Barkada Mix",
-        "Low budget Liquir Mix"
+        "melon",
+        "gin",
+        "coffee",
+        "filipino",
+        "classic",
+        "ice",
+        "low budget"
     ]
 }

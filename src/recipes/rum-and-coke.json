@@ -5,8 +5,8 @@
     "ingredients": [
         {
             "quantity": "1",
-            "measure": "",
-            "ingredient": "lime wedge"
+            "measure": "wedge",
+            "ingredient": "lime"
         },
         {
             "quantity": "1",
@@ -26,7 +26,7 @@
     ],
     "image": "rum-and-coke.jpg",
     "keywords": [
-        "rum and coke",
+        "lime",
         "coke",
         "rum"
     ]

@@ -158,11 +158,38 @@ export default {
   "fr": {
     "View Recipe": "Voir la Recette"
   },
+  "es": {
+    "View Recipe": "Ver Receta"
+  },
   "hi": {
     "View Recipe": "विधि देखे"
   },
   "ar": {
     "View Recipe": "شاهد الوصفة"
+  },
+  "gl": {
+    "View Recipe": "Ver receita"
+  },
+  "de": {
+  "View Recipe": "Rezept ansehen"
+  },
+  "nl": {
+    "View Recipe": "Recept bekijken"
+  },
+  "no": {
+    "View Recipe": "Se oppskrift"
+  },
+  "ru": {
+    "View Recipe": "Просмотреть рецепт"
+  },
+  "uk": {
+    "View Recipe": "Переглянути рецепт"
+  },
+  "bn": {
+    "View Recipe": "রেসিপিটি দেখুন"
+  },
+  "pt": {
+    "View Recipe": "Ver receita"
   }
 }
 </i18n>

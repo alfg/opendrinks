@@ -1,0 +1,30 @@
+{
+    "name": "umeshu sparkling",
+    "description": "Using Choya Umeshu (also called as 'Honkaku Umeshu' means traditional real umeshu) with any soda you like. Brings unique refreshing feeling to everyone.",
+    "github": "Daxin-H",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Choya Umeshu"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "any kind of soda you like"
+        }
+    ],
+    "directions": [
+        "Mix the CHOYA and soda in a highball glass.",
+        "Serve over crushed ice and UME fruit.",
+        "Enjoy it"
+    ],
+    "image": "umeshu-sparkling.jpg",
+    "keywords": [
+        "chilled",
+        "refreshing",
+        "sparkling",
+        "liqueur",
+        "Soda"
+    ]
+}

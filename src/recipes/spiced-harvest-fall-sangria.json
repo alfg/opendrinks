@@ -60,8 +60,8 @@
         },
         {
             "quantity": "2",
-            "measure": "",
-            "ingredient": "Cinnamon sticks"
+            "measure": "sticks",
+            "ingredient": "Cinnamon"
         }
     ],
     "directions": [
@@ -74,9 +74,9 @@
         "alcoholic",
         "holiday",
         "fall",
-        "autumn",
+        "cinnamon",
         "sangria",
         "wine",
-        "Christmas"
+        "christmas"
     ]
 }

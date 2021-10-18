@@ -131,6 +131,11 @@ export default {
     "Reset Filters": "Enlever les filtres",
     "Add Keyword": "Ajouter un mot-clés"
   },
+  "es": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar Filtros",
+    "Add Keyword": "Agregar Palabra Clave"
+  },
   "hi": {
     "Filters": "छन्नी",
     "Reset Filters": "छन्नी रीसेट करें",
@@ -140,6 +145,46 @@ export default {
     "Filters": "المرشحات",
     "Reset Filters": "إعادة ضبط المرشحات",
     "Add Keyword": "إضافة الكلمات المفاتيح"
+  },
+  "gl": {
+    "Filters": "Filtros",
+    "Reset Filters": "Reiniciar filtros",
+    "Add Keyword": "Agregar palabra chave"
+  },
+  "de": {
+    "Filters": "Filter",
+    "Reset Filters": "Filter zurücksetzen",
+    "Add Keyword": "Stichwort hinzufügen"
+  },
+  "nl": {
+    "Filters": "Filters",
+    "Reset Filters": "Filters resetten",
+    "Add Keyword": "Trefwoord toevoegen"
+  },
+  "no": {
+    "Filters": "Filter",
+    "Reset Filters": "Nullstill filter",
+    "Add Keyword": "Legg til nøkkelord"
+  },
+  "bn": {
+    "Filters": "ফিল্টার",
+    "Reset Filters": "ফিল্টার রিসেট করুন",
+    "Add Keyword": "কীওয়ার্ড যোগ করুন"
+  },
+  "ru": {
+    "Filters": "Фильтры",
+    "Reset Filters": "Сбросить фильтры",
+    "Add Keyword": "Добавить ключевое слово"
+  },
+  "uk": {
+    "Filters": "Фільтри",
+    "Reset Filters": "Скинути фільтри",
+    "Add Keyword": "Додати ключове слово"
+  },
+  "pt": {
+    "Filters": "Filtros",
+    "Reset Filters": "Restaurar Filtros",
+    "Add Keyword": "Adicionar palavra-chave"
   }
 }
 </i18n>

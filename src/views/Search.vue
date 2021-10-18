@@ -24,11 +24,38 @@ export default {
   "fr": {
     "Find Your Drink": "Rechercher votre cocktail"
   },
+  "es": {
+    "Find Your Drink": "Encuentra Tu Bebida"
+  },
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
   "ar": {
     "Find Your Drink": "ابحث عن مشروبك"
+  },
+  "gl": {
+    "Find Your Drink": "Atopa a túa bebida"
+  },
+  "de": {
+    "Find Your Drink": "Finden Sie Ihr Getränk"
+  },
+  "nl": {
+    "Find Your Drink": "Vind jouw drankje"
+  },
+  "no": {
+    "Find Your Drink": "Finn din drink"
+  },
+  "bn": {
+    "Find Your Drink": "আপনার পানীয় খুঁজুন"
+  },
+  "pt": {
+    "Find Your Drink": "Encontre sua bebida"
+  },
+  "ru": {
+    "Find Your Drink": "Найдите свой напиток"
+  },
+  "uk": {
+    "Find Your Drink": "Знайдіть свій напій"
   }
 }
 </i18n>
