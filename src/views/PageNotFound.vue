@@ -59,6 +59,14 @@ export default {
   "bn": {
     "The page you are looking for was not found.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি",
     "Back to Home": "হোমপেজে ফিরে যান"
+  },
+  "ru": {
+    "The page you are looking for was not found.": "Страница, которую вы ищете, не найдена",
+    "Back to Home": "Вернуться домой"
+  },
+  "uk": {
+    "The page you are looking for was not found.": "Сторінку, яку ви шукаєте, не знайдено",
+    "Back to Home": "Повернутися додому"
   }
 }
 </i18n>
