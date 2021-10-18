@@ -12,7 +12,7 @@
             "quantity": "3",
             "measure": "ounces",
             "ingredient": "cranberry juice"
-        },
+        }
     ],
     "directions": [
         "Pour the cranberry juice into a glass filled with ice. The taller the glass, the nicer will be the effect of the two liquids mixing together.",
@@ -23,6 +23,6 @@
     "keywords": [
         "cocktail",
         "halloween",
-        "vodka",
+        "vodka"
     ]
 }
