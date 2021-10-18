@@ -1,0 +1,51 @@
+{
+    "name": "Astronaut",
+    "description": "Summer drink based on the Danish ice lolly of the same name that dates back to 1958.",
+    "github": "dangerstone",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Crushed ice"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "lemon soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "grenadine"
+        },
+        {
+            "quantity": "(Optional)",
+            "measure": "",
+            "ingredient": "yellow wine gum as garnish"
+        }        
+    ],
+    "directions": [
+        "Fill glass with ice.",
+        "Pour in gin, soda, and lemon juice.",
+        "Carefully pour in the grenadine."
+    ],
+    "image": "astronaut.jpg",
+    "source": "https://madensverden.dk/astronaut-drink/",
+    "keywords": [
+        "gin",
+        "grenadine",
+        "lemon soda",
+        "alcoholic",
+        "summer"
+    ]
+}
