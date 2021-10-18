@@ -30,6 +30,9 @@ export default {
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
+  "ar": {
+    "Find Your Drink": "ابحث عن مشروبك"
+  },
   "gl": {
     "Find Your Drink": "Atopa a túa bebida"
   },

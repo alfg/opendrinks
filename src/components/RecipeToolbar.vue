@@ -184,6 +184,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "ar": {
+    "Print": "إطبع",
+    "Share": "شارك",
+    "Share on Facebook": "شارك على الفيسبوك",
+    "Share on Twitter": "شارك على التويتر",
+    "Copy URL": "إنسخ الرابط",
+    "Hide Image": "إخفاء الصورة"
+  },
   "gl": {
     "Print": "Imprimir",
     "Share": "Compartir",
