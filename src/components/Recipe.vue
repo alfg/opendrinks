@@ -300,6 +300,13 @@ export default {
     "Directions": "तैयारी",
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
+  },
+    "ar": {
+    "Contributed by": "تمّت المساهمة بواسطة",
+    "Ingredients": "المكوّنات",
+    "Directions": "كيفيّة التّحضير",
+    "View full recipe at": "عرض الوصفة كاملة على",
+    "Similar drinks": "مشروبات مماثلة"
   }
 }
 </i18n>

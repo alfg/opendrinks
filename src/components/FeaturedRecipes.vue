@@ -62,6 +62,9 @@ export default {
   },
   "hi": {
     "Load More": "और विधि देखिये"
+  },
+  "ar": {
+    "Load More": "حمّل المزيد"
   }
 }
 </i18n>

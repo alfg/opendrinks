@@ -131,6 +131,13 @@ export default {
     "Explore": "अन्वेषण करिये",
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
+  },
+  "ar": {
+    "Featured": "مميّز",
+    "Random": "عشوائي",
+    "Explore": "اكتشف",
+    "Keywords": "الكلمات المفاتيح",
+    "Search": "ابحث"
   }
 }
 </i18n>

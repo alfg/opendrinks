@@ -35,6 +35,10 @@ export default {
   "hi": {
   "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
   "Back to Home": "घर वापसी"
+  },
+  "ar": {
+  "The page you are looking for was not found.": "الصفحة التي تبحث عنها غير موجودة",
+  "Back to Home": "العودة إلى الصّفحة الرّئيسيّة"
   }
 }
 </i18n>

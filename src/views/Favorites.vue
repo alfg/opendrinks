@@ -81,6 +81,13 @@ export default {
     "Are you sure you want to remove all favorites": "क्या आप वाकई सभी पसंदीदा हटाना चाहते हैं",
     "Delete": "हटाइये",
     "Cancel": "रद्द करें"
+  },
+  "ar": {
+    "You don't have any favorite drinks": "ليس لديك أي مشروبات مفضلة",
+    "Remove All Favorites": "إزالة كافة المفضّلات",
+    "Are you sure you want to remove all favorites": "هل أنت متأكد أنك تريد إزالة كافة المفضّلات",
+    "Delete": "حذف",
+    "Cancel": "إلغاء"
   }
 }
 </i18n>

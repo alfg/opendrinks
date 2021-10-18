@@ -135,6 +135,11 @@ export default {
     "Filters": "छन्नी",
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
+  },
+  "ar": {
+    "Filters": "المرشحات",
+    "Reset Filters": "إعادة ضبط المرشحات",
+    "Add Keyword": "إضافة الكلمات المفاتيح"
   }
 }
 </i18n>
