@@ -1,0 +1,47 @@
+{
+  "name": "Malibu Sunset",
+  "description": "An easy and fruity tropical beverage that tastes like an island vacation",
+  "github": "elizabethrsotomayor",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "handful",
+      "ingredient": "ice cubes"
+    },
+    {
+      "quantity": "3 to 4",
+      "measure": "ounces",
+      "ingredient": "pineapple-orange juice"
+    },
+    {
+      "quantity": "2",
+      "measure": "ounces",
+      "ingredient": "Malibu Coconut Rum"
+    },
+    {
+      "quantity": "1",
+      "measure": "drizzle",
+      "ingredient": "grenadine"
+    },
+    {
+      "quantity": "1 to 2",
+      "measure": "",
+      "ingredient": "maraschino cherries, for garnishing"
+    },
+    {
+      "quantity": "1 to 2",
+      "measure": "",
+      "ingredient": "pineapple and/or slices of orange, for garnishing"
+    }
+  ],
+  "directions": [
+    "Add ice to glass.",
+    "Add juice, Malibu, and stir.",
+    "Drizzle in grenadine.",
+    "Garnish with cherries, pineapple, and/or slices of orange.",
+    "Serve immediately."
+  ],
+  "image": "malibu-sunset.jpg",
+  "source": "https://www.averiecooks.com/malibu-sunset/",
+  "keywords": ["tropical", "fruity", "coconut", "rum"]
+}
