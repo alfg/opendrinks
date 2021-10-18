@@ -239,6 +239,14 @@ export default {
     "Share on Twitter": "টুইটারে শেয়ার করুন",
     "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
     "Hide Image": "ছবি লুকান"
+  },
+  "pt": {
+    "Print": "Imprimir",
+    "Share": "Compartilhar",
+    "Share on Facebook": "Compartilhar no Facebook",
+    "Share on Twitter": "Compartilhar no Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Esconder imagem"
   }
 }
 </i18n>

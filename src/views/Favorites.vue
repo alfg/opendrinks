@@ -124,6 +124,13 @@ export default {
     "Delete": "মুছুন",
     "Cancel": "বাতিল করুন"
   },
+  "pt": {
+    "You don't have any favorite drinks": "Você não possui nenhum drink favorito",
+    "Remove All Favorites": "Remover todos os favoritos",
+    "Are you sure you want to remove all favorites": "Você tem certeza que quer remover todos os favoritos",
+    "Delete": "Deletar",
+    "Cancel": "Cancelar"
+  },
   "ru": {
     "You don't have any favorite drinks": "У тебя нет любимых напитков",
     "Remove All Favorites": "Удалить все избранное",
