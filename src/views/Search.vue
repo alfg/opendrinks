@@ -44,6 +44,12 @@ export default {
   },
   "bn": {
     "Find Your Drink": "আপনার পানীয় খুঁজুন"
+  },
+  "ru": {
+    "Find Your Drink": "Найдите свой напиток"
+  },
+  "uk": {
+    "Find Your Drink": "Знайдіть свій напій"
   }
 }
 </i18n>
