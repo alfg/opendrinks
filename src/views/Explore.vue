@@ -165,6 +165,11 @@ export default {
     "Filters": "ফিল্টার",
     "Reset Filters": "ফিল্টার রিসেট করুন",
     "Add Keyword": "কীওয়ার্ড যোগ করুন"
+  },
+  "it": {
+    "Filters": "Filtri",
+    "Reset Filters": "Cancella filtri",
+    "Add Keyword": "Aggiungi parola chiave"
   }
 }
 </i18n>

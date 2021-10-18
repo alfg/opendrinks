@@ -362,6 +362,13 @@ export default {
     "Directions": "প্রস্তুত প্রণালি",
     "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
     "Similar drinks": "অনুরূপ পানীয়গুলো"
+  },
+  "it": {
+    "Contributed by": "Contribuito da",
+    "Ingredients": "Ingredienti",
+    "Directions": "Istruzioni",
+    "View full recipe at": "Vedi la ricetta completa su",
+    "Similar drinks": "Drink simili"
   }
 }
 </i18n>

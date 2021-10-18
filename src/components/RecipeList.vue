@@ -184,6 +184,9 @@ export default {
   },
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"
+  },
+  "it": {
+    "View Recipe": "Visualizza ricetta"
   }
 }
 </i18n>

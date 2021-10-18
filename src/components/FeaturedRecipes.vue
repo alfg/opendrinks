@@ -86,6 +86,9 @@ export default {
   },
   "bn":{
     "Load More": "আরো দেখুন"
-  }
+  },
+  "it": {
+    "Load More": "Carica altro"
+  },
 }
 </i18n>

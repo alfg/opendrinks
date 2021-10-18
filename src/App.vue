@@ -173,6 +173,14 @@ export default {
     "Explore": "ঘুরে দেখুন",
     "Keywords": "কীওয়ার্ড সমূহ",
     "Search": "খুঁজে দেখুন "
+  },
+  "it": {
+    "Featured": "In primo piano",
+    "Random": "Casuale",
+    "Explore": "Esplora",
+    "Keywords": "Parole chiave",
+    "Search": "Cerca"
   }
+
 }
 </i18n>
