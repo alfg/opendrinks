@@ -165,6 +165,13 @@ export default {
     "Are you sure you want to remove all favorites": "Ви впевнені, що хочете видалити всі вибрані",
     "Delete": "Видалити",
     "Cancel": "Скасувати"
-  }
+  },
+  "cn": {
+    "You don't have any favorite drinks": "您没有收藏的饮料",
+    "Remove All Favorites": "删除所有收藏里的饮料",
+    "Are you sure you want to remove all favorites": "您确定要删除所有收藏里的饮料么？",
+    "Delete": "删除",
+    "Cancel": "取消"
+  },
 }
 </i18n>

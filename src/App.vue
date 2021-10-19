@@ -194,7 +194,14 @@ export default {
     "Explore": "अन्वेषण गर्नुहोस्",
     "Keywords": "मुख्य-शब्द",
     "Search": "खोज"
-  }
+  },
+  "cn": {
+    "Featured": "精选",
+    "Random": "随机",
+    "Explore": "探索",
+    "Keywords": "关键词",
+    "Search": "搜索"
+  },
 
 }
 </i18n>

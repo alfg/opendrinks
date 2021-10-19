@@ -390,6 +390,13 @@ export default {
     "Directions": "Modo de preparo",
     "View full recipe at": "Visualizar receita completa em",
     "Similar drinks": "Bebidas semelhantes"
+  },
+  "cn": {
+    "Contributed by": "贡献者",
+    "Ingredients": "用料",
+    "Directions": "步骤",
+    "View full recipe at": "查看完整配方",
+    "Similar drinks": "类似的饮料"
   }
 }
 </i18n>

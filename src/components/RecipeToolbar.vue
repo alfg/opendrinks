@@ -271,6 +271,14 @@ export default {
     "Share on Twitter": "Compartilhar no Twitter",
     "Copy URL": "Copiar URL",
     "Hide Image": "Esconder imagem"
+  },
+  "cn": {
+    "Print": "打印",
+    "Share": "分享",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "复制链接",
+    "Hide Image": "隐藏图像"
   }
 }
 </i18n>

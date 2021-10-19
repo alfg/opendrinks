@@ -83,6 +83,10 @@ export default {
   "uk": {
     "The page you are looking for was not found.": "Сторінку, яку ви шукаєте, не знайдено",
     "Back to Home": "Повернутися додому"
-  }
+  },
+  "cn": {
+    "The page you are looking for was not found.": "未找到您要查找的页面。",
+    "Back to Home": "返回首页"
+  },
 }
 </i18n>
