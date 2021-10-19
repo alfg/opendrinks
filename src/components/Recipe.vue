@@ -261,8 +261,7 @@ export default {
   margin-top: 1em;
 }
 
-.list-reset,
-.list-reset li {
+.list-reset, .list-reset li {
   list-style: none;
   padding: 0;
   margin: 0;
