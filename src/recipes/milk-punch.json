@@ -1,0 +1,47 @@
+{
+	"name": "Milk Punch",
+	"description": "First recorded in 1688, this cold, milk-based beverage is a refreshing, modern take on the original.",
+	"github": "cary-williams",
+	"ingredients": [{
+			"quantity": "2",
+			"measure": "Oz",
+			"ingredient": "Bourbon"
+		},
+		{
+			"quantity": "3",
+			"measure": "Oz",
+			"ingredient": "Heavy cream"
+		},
+		{
+			"quantity": "1",
+			"measure": "Oz",
+			"ingredient": "Simple Syrup"
+		},
+		{
+			"quantity": "1",
+			"measure": "Splash",
+			"ingredient": "Vanilla Extract"
+		},
+		{
+			"quantity": "1",
+			"measure": "Sprinkle",
+			"ingredient": "Ground Nutmeg"
+		}
+	],
+	"directions": [
+		"In a cocktail shaker, add:",
+		"Bourbon,",
+		"Heavy Cream,",
+		"Simple Syrup,",
+		"Vanilla Extract",
+		"Shake until combined, then pour into a glass.",
+		"Sprinkle or grate a little nutmeg on top."
+	],
+	"image": "milk-punch.jpg",
+	"keywords": [
+		"homemade",
+		"milk punch",
+		"cream",
+		"bourbon"
+	]
+}
