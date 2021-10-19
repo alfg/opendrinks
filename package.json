@@ -1,0 +1,63 @@
+{
+  "name": "opendrinks",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build && npm run sitemap",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint",
+    "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
+    "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/webpack.functions.js",
+    "function-serve": "netlify-lambda serve .netlify/functions-src -c .netlify/webpack.functions.js",
+    "sitemap": "node scripts/sitemap_generator.js",
+    "test": "npm run validate && npm run test:unit",
+    "validate": "node scripts/validate_recipes.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.18.1",
+    "netlify-lambda": "^1.6.3",
+    "nvm": "0.0.4",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.14",
+    "vue-i18n": "^8.26.3",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.5.2",
+    "vue-social-sharing": "^3.0.8"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "^1.1.0",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-plugin-pwa": "^4.5.13",
+    "@vue/cli-plugin-unit-jest": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "@vue/eslint-config-prettier": "^5.1.0",
+    "@vue/test-utils": "1.0.0-beta.29",
+    "ajv": "^6.12.6",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^23.6.0",
+    "babel-plugin-require-context-hook": "^1.0.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-vue": "^5.2.3",
+    "prettier": "^1.19.1",
+    "sitemap": "^5.1.0",
+    "vue-cli-plugin-i18n": "~2.3.1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "bugs": {
+    "url": "https://github.com/alfg/opendrinks/issues"
+  },
+  "engines": {
+    "node": "14.18.0"
+  },
+  "homepage": "https://github.com/alfg/opendrinks",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alfg/opendrinks.git"
+  }
+}
