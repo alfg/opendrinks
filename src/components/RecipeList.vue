@@ -199,6 +199,6 @@ export default {
   },
   "cn": {
     "View Recipe": "查看配方"
-  },
+  }
 }
 </i18n>

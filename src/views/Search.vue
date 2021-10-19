@@ -65,6 +65,6 @@ export default {
   },
   "cn": {
     "Find Your Drink": "找想要的饮料"
-  },
+  }
 }
 </i18n>

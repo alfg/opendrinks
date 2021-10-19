@@ -172,6 +172,6 @@ export default {
     "Are you sure you want to remove all favorites": "您确定要删除所有收藏里的饮料么？",
     "Delete": "删除",
     "Cancel": "取消"
-  },
+  }
 }
 </i18n>

@@ -80,6 +80,6 @@ export default {
   },
   "cn": {
     "Enter your keyword": "输入关键字"
-  },
+  }
 }
 </i18n>

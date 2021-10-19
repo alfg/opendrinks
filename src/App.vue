@@ -201,7 +201,7 @@ export default {
     "Explore": "探索",
     "Keywords": "关键词",
     "Search": "搜索"
-  },
+  }
 
 }
 </i18n>
