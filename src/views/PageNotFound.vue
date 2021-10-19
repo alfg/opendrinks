@@ -29,16 +29,20 @@ export default {
     "Back to Home": "ホームに戻る"
   },
   "fr": {
-  "The page you are looking for was not found.": "Page non trouvée",
-  "Back to Home": "Retour à l'accueil"
+    "The page you are looking for was not found.": "Page non trouvée",
+    "Back to Home": "Retour à l'accueil"
   },
   "es": {
     "The page you are looking for was not found.": "No se encontró la página que estás buscando",
     "Back to Home": "Volver al Inicio"
   },
   "hi": {
-  "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
-  "Back to Home": "घर वापसी"
+    "The page you are looking for was not found.": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
+    "Back to Home": "घर वापसी"
+  },
+  "ar": {
+    "The page you are looking for was not found.": "الصفحة التي تبحث عنها غير موجودة",
+    "Back to Home": "العودة إلى الصّفحة الرّئيسيّة"
   },
   "gl": {
     "The page you are looking for was not found.": "Non se atopou a páxina que estás a buscar",
@@ -63,6 +67,22 @@ export default {
   "it": {
     "The page you are looking for was not found.": "La pagina che stai cercando non è disponibile.",
     "Back to Home": "Torna in Home"
+  },
+  "np": {
+    "The page you are looking for was not found.": "तपाईंले खोजिरहनुभएको पृष्ठ भेटिएन।",
+    "Back to Home": "घर फिर्ता"
+  },
+  "pt": {
+    "The page you are looking for was not found.": "A página procurada não foi encontrada.",
+    "Back to Home": "Voltar para página inicial"
+  },
+  "ru": {
+    "The page you are looking for was not found.": "Страница, которую вы ищете, не найдена",
+    "Back to Home": "Вернуться домой"
+  },
+  "uk": {
+    "The page you are looking for was not found.": "Сторінку, яку ви шукаєте, не знайдено",
+    "Back to Home": "Повернутися додому"
   }
 }
 </i18n>

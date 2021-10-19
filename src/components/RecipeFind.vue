@@ -215,6 +215,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
     "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
   },
+  "ar": {
+    "Filter by": "صنّف حسب",
+    "Name": "الإسم",
+    "Ingredients": "المكوّنات",
+    "Keywords": "الكلمات المفاتيح",
+    "You can search for multiple ingredients by separating them with a space": "يمكنك البحث عن مكونات متعددة عن طريق فصلها بمسافة",
+    "You can search for multiple keywords by separating them with a space": "يمكنك البحث عن عدة كلمات رئيسية عن طريق فصلها بمسافة"
+  },
   "gl": {
     "Filter by": "Filtrar por",
     "Name": "Nomee",
@@ -278,6 +286,22 @@ export default {
     "Keywords": "Parole chiave",
     "You can search for multiple ingredients by separating them with a space": "Puoi fare una ricerca utilizzando più ingredienti separandoli con uno spazio",
     "You can search for multiple keywords by separating them with a space": "Puoi fare una ricerca utilizzando più parole chiave separandole con uno spazio"
+  },
+  "np": {
+    "Filter by": "छाने",
+    "Name": "नाम",
+    "Ingredients": "सामग्री",
+    "Keywords": "मुख्य-शब्द",
+    "You can search for multiple ingredients by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै सामग्रीको लागी खोज्न सक्नुहुन्छ",
+    "You can search for multiple keywords by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै मुख्य-शब्दको लागी खोज्न सक्नुहुन्छ"
+  },
+  "pt": {
+    "Filter by": "Filtrar por",
+    "Name": "Nome",
+    "Ingredients": "Ingredientes",
+    "Keywords": "Palavra-chave",
+    "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
+    "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
   }
 }
 </i18n>

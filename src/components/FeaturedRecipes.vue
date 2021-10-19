@@ -66,6 +66,9 @@ export default {
   "hi": {
     "Load More": "और विधि देखिये"
   },
+  "ar": {
+    "Load More": "حمّل المزيد"
+  },
   "gl": {
     "Load More": "Cargar máis"
   },
@@ -90,5 +93,12 @@ export default {
   "it": {
     "Load More": "Carica altro"
   },
+  },
+  "np": {
+    "Load More": "अझ विधि हेर्नुहोस्"
+  },
+  "pt": {
+    "Load More": "Ver mais"
+  }
 }
 </i18n>

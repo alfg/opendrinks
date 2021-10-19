@@ -1,0 +1,39 @@
+{
+    "name": "Firetruck: Emergency Response",
+    "description": "The traditional danish firetruck drink, spiked with extra vodka. It is named Firetruck: Emergency Response because it is an extra fast way to get drunk",
+    "github": "soer7022",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "jägermeister"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "12",
+            "measure": "cl",
+            "ingredient": "red soda"
+        },
+        {
+            "quantity": "1/2",
+            "measure":"glass",
+            "ingredient": "ice"
+        }
+        
+    ],
+    "directions": [
+        "Put ice in glass, add Jäger and vodka, finally top up with red soda."
+    ],
+    "image": "firetruck-emergency-response.jpg",
+    "keywords": [
+        "alcoholic",
+        "jaeger",
+        "vodka",
+        "red soda",
+        "danish"
+    ]
+}

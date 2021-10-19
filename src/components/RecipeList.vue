@@ -164,6 +164,9 @@ export default {
   "hi": {
     "View Recipe": "विधि देखे"
   },
+  "ar": {
+    "View Recipe": "شاهد الوصفة"
+  },
   "gl": {
     "View Recipe": "Ver receita"
   },
@@ -187,6 +190,12 @@ export default {
   },
   "it": {
     "View Recipe": "Visualizza ricetta"
+  },
+  "np": {
+    "View Recipe": "नुस्खा हेर्नुहोस्"
+  },
+  "pt": {
+    "View Recipe": "Ver receita"
   }
 }
 </i18n>

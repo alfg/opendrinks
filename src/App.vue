@@ -139,6 +139,13 @@ export default {
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
   },
+  "ar": {
+    "Featured": "مميّز",
+    "Random": "عشوائي",
+    "Explore": "اكتشف",
+    "Keywords": "الكلمات المفاتيح",
+    "Search": "ابحث"
+  },
   "gl": {
     "Featured": "Destacadas",
     "Random": "Aleatorio",
@@ -180,6 +187,13 @@ export default {
     "Explore": "Esplora",
     "Keywords": "Parole chiave",
     "Search": "Cerca"
+  },
+  "np": {
+    "Featured": "विशेष रुपले प्रदर्शित",
+    "Random": "अनियमित",
+    "Explore": "अन्वेषण गर्नुहोस्",
+    "Keywords": "मुख्य-शब्द",
+    "Search": "खोज"
   }
 
 }

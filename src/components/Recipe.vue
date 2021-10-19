@@ -314,6 +314,13 @@ export default {
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
   },
+  "ar": {
+    "Contributed by": "تمّت المساهمة بواسطة",
+    "Ingredients": "المكوّنات",
+    "Directions": "كيفيّة التّحضير",
+    "View full recipe at": "عرض الوصفة كاملة على",
+    "Similar drinks": "مشروبات مماثلة"
+  },
   "gl": {
     "Contributed by": "Achegado por",
     "Ingredients": "Ingredientes",
@@ -369,6 +376,20 @@ export default {
     "Directions": "Istruzioni",
     "View full recipe at": "Vedi la ricetta completa su",
     "Similar drinks": "Drink simili"
+  },
+  "np": {
+    "Contributed by": "योगदानी",
+    "Ingredients": "सामग्री",
+    "Directions": "तयारी",
+    "View full recipe at": "पुरा नुस्खा यहाँ हेर्नुहोस्",
+    "Similar drinks": "उस्तै पेय"
+  },
+  "pt": {
+    "Contributed by": "Contribuição por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Modo de preparo",
+    "View full recipe at": "Visualizar receita completa em",
+    "Similar drinks": "Bebidas semelhantes"
   }
 }
 </i18n>

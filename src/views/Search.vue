@@ -30,6 +30,9 @@ export default {
   "hi": {
     "Find Your Drink": "अपना पेय खोजें"
   },
+  "ar": {
+    "Find Your Drink": "ابحث عن مشروبك"
+  },
   "gl": {
     "Find Your Drink": "Atopa a túa bebida"
   },
@@ -47,6 +50,18 @@ export default {
   },
   "it": {
     "Find Your Drink": "Trova il tuo drink"
+  },
+  "np": {
+    "Find Your Drink": "तपाइँको पेय खोज्नुहोस्"
+  },
+  "pt": {
+    "Find Your Drink": "Encontre sua bebida"
+  },
+  "ru": {
+    "Find Your Drink": "Найдите свой напиток"
+  },
+  "uk": {
+    "Find Your Drink": "Знайдіть свій напій"
   }
 }
 </i18n>
