@@ -9,8 +9,7 @@
         })"
         :key="index"
         :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
-        >{{ keyword }}</b-list-group-item
-      >
+        >{{ keyword }}</b-list-group-item>
     </b-list-group>
   </div>
 </template>
