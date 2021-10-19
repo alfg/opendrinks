@@ -181,6 +181,13 @@ export default {
     "Keywords": "কীওয়ার্ড সমূহ",
     "Search": "খুঁজে দেখুন "
   },
+  "it": {
+    "Featured": "In primo piano",
+    "Random": "Casuale",
+    "Explore": "Esplora",
+    "Keywords": "Parole chiave",
+    "Search": "Cerca"
+  },
   "np": {
     "Featured": "विशेष रुपले प्रदर्शित",
     "Random": "अनियमित",
@@ -188,5 +195,6 @@ export default {
     "Keywords": "मुख्य-शब्द",
     "Search": "खोज"
   }
+
 }
 </i18n>

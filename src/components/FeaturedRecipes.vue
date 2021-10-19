@@ -90,6 +90,9 @@ export default {
   "bn":{
     "Load More": "আরো দেখুন"
   },
+  "it": {
+    "Load More": "Carica altro"
+  },
   "np": {
     "Load More": "अझ विधि हेर्नुहोस्"
   },

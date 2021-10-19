@@ -279,6 +279,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
     "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
   },
+  "it": {
+    "Filter by": "Filtra per",
+    "Name": "Nome",
+    "Ingredients": "Ingredienti",
+    "Keywords": "Parole chiave",
+    "You can search for multiple ingredients by separating them with a space": "Puoi fare una ricerca utilizzando più ingredienti separandoli con uno spazio",
+    "You can search for multiple keywords by separating them with a space": "Puoi fare una ricerca utilizzando più parole chiave separandole con uno spazio"
+  },
   "np": {
     "Filter by": "छाने",
     "Name": "नाम",

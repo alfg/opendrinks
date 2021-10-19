@@ -131,6 +131,13 @@ export default {
     "Delete": "মুছুন",
     "Cancel": "বাতিল করুন"
   },
+  "it": {
+    "You don't have any favorite drinks": "Non hai nessun drink preferito",
+    "Remove All Favorites": "Rimuovi tutti i preferiti",
+    "Are you sure you want to remove all favorites": "Sei sicuro di voler rimuovere tutti i preferiti",
+    "Delete": "Elimina",
+    "Cancel": "Annulla"
+  },
   "np": {
     "You don't have any favorite drinks": "तपाइँसँग कुनै मनपर्ने पेय छैन",
     "Remove All Favorites": "सबै मनपर्ने हटाउनुहोस्",

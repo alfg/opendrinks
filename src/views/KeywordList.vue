@@ -60,6 +60,9 @@ export default {
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
   },
+  "it": {
+    "Enter your keyword": "Inserisci la tua parola chiave"
+  },
   "fr": {
     "Enter your keyword": "Entrez votre mot-clé"
   },
