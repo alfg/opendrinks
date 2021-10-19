@@ -63,7 +63,6 @@ export default {
   "it": {
     "Enter your keyword": "Inserisci la tua parola chiave"
   },
-  },
   "fr": {
     "Enter your keyword": "Entrez votre mot-clé"
   },
