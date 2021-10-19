@@ -62,6 +62,9 @@ export default {
   },
   "uk": {
     "Find Your Drink": "Знайдіть свій напій"
+  },
+  "zh": {
+    "Find Your Drink": "找想要的饮料"
   }
 }
 </i18n>

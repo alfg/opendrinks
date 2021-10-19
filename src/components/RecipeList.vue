@@ -196,6 +196,9 @@ export default {
   },
   "pt": {
     "View Recipe": "Ver receita"
+  },
+  "zh": {
+    "View Recipe": "查看配方"
   }
 }
 </i18n>

@@ -195,6 +195,11 @@ export default {
     "Filters": "Filtros",
     "Reset Filters": "Restaurar Filtros",
     "Add Keyword": "Adicionar palavra-chave"
+  },
+  "zh": {
+    "Filters": "筛选",
+    "Reset Filters": "重置筛选",
+    "Add Keyword": "添加关键字"
   }
 }
 </i18n>

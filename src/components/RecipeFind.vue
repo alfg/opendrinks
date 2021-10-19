@@ -302,6 +302,14 @@ export default {
     "Keywords": "Palavra-chave",
     "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
     "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
+  },
+  "zh": {
+    "Filter by": "筛选条件",
+    "Name": "名称",
+    "Ingredients": "用料",
+    "Keywords": "关键词",
+    "You can search for multiple ingredients by separating them with a space": "您可以用空格分隔多个用料在搜索里",
+    "You can search for multiple keywords by separating them with a space": "您可以用空格分隔多个关键字在搜索里"
   }
 }
 </i18n>

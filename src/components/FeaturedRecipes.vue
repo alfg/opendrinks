@@ -98,6 +98,9 @@ export default {
   },
   "pt": {
     "Load More": "Ver mais"
+  },
+  "zh": {
+    "Load More": "加载更多"
   }
 }
 </i18n>
