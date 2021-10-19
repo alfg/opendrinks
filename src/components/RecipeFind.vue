@@ -303,7 +303,7 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
     "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
   },
-  "cn": {
+  "zh": {
     "Filter by": "筛选条件",
     "Name": "名称",
     "Ingredients": "用料",

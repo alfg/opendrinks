@@ -99,7 +99,7 @@ export default {
   "pt": {
     "Load More": "Ver mais"
   },
-  "cn": {
+  "zh": {
     "Load More": "加载更多"
   }
 }

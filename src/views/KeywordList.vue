@@ -78,7 +78,7 @@ export default {
   "pt": {
     "Enter your keyword": "Insira sua palavra-chave"
   },
-  "cn": {
+  "zh": {
     "Enter your keyword": "输入关键字"
   }
 }

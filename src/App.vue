@@ -195,7 +195,7 @@ export default {
     "Keywords": "मुख्य-शब्द",
     "Search": "खोज"
   },
-  "cn": {
+  "zh": {
     "Featured": "精选",
     "Random": "随机",
     "Explore": "探索",

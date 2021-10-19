@@ -272,7 +272,7 @@ export default {
     "Copy URL": "Copiar URL",
     "Hide Image": "Esconder imagem"
   },
-  "cn": {
+  "zh": {
     "Print": "打印",
     "Share": "分享",
     "Share on Facebook": "Facebook",

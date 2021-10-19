@@ -166,7 +166,7 @@ export default {
     "Delete": "Видалити",
     "Cancel": "Скасувати"
   },
-  "cn": {
+  "zh": {
     "You don't have any favorite drinks": "您没有收藏的饮料",
     "Remove All Favorites": "删除所有收藏里的饮料",
     "Are you sure you want to remove all favorites": "您确定要删除所有收藏里的饮料么？",
