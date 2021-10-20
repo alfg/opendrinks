@@ -1,0 +1,45 @@
+{
+  "name": "Dolce Vita",
+  "description": "It is a unique and special drink with gancia, it is an ideal drink to surprise everyone thanks to its versatile flavor and incredible texture.",
+  "github": "Franqsanz",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "part of gancia"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "",
+      "ingredient": "parts of sparkling wine"
+    },
+    {
+      "quantity": "3",
+      "measure": "",
+      "ingredient": "aromatic bitter drops"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "slice of orange"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Ice"
+    }
+  ],
+  "directions": [
+    "Place the ice in a large glass.",
+    "Add gancia and sparkling gancia.",
+    "Add the drops of aromatic bitter.",
+    "Decorate with orange slice."
+  ],
+  "image": "dolce-vita.jpg",
+  "source": "https://www.losvinos.com.ar/tragos-y-cocteles/tragos-con-gancia/",
+  "keywords": [
+    "orange",
+    "alcoholic",
+    "gancia"
+  ]
+}
