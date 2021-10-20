@@ -1,0 +1,55 @@
+{
+    "name": "Cantarito Tequila",
+    "description": "A refreshing citrus flavoured drink from Mexico that's easy to make!",
+    "github": "LeMichael88",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "orange juice"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "4-6",
+            "measure": "oz",
+            "ingredient": "grapefruit soda"
+        },
+        {
+            "quantity": "1",
+            "measure": "lemon, lime, or orange wedge",
+            "ingredient": ""
+        }
+    ],
+    "directions": [
+        "Fill a tall glass with ice.",
+        "Pour in tequila and all fruit juices.",
+        "Top it off with grapefruit soda.",
+        "Garnish with a lemon, lime, or orange wedge",
+        "Serve and enjoy!"
+    ],
+    "image": "cantarito-tequila.jpg",
+    "source": "https://www.thespruceeats.com/cantarito-cocktail-recipe-760805",
+    "keywords": [
+        "mexico",
+        "lemon",
+        "lime",
+        "orange",
+        "grapefruit",
+        "tequila",
+        "citrus"
+    ]
+}
