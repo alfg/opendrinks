@@ -1,0 +1,56 @@
+{
+    "name": "Apple Cider Mimosa",
+    "description": "A sweet and bubbly fall brunch cocktail garnished with a cinnamon sugar rim and apple slice. Recipe makes two drinks.",
+    "github": "lecerick",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "apple cider"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "brut champagne"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "brandy"
+        },
+        {
+            "quantity": "2",
+            "measure": "slice",
+            "ingredient": "apple"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "tsp",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "2",
+            "measure": "tbsp",
+            "ingredient": "granulated sugar"
+        }
+    ],
+    "directions": [
+        "Rim the glasses: Mix together cinnamon and sugar in a small bowl. Wet the exterior edges of the glasses (ideally champagne flutes) with apple cider. Then tap the wet edges in the cinnamon and sugar mixture.",
+        "Pour 1 oz brandy and 2 oz apple cider into each glass.",
+        "Top each glass with 4 oz of chilled champagne.",
+        "Garnish with apple slices and serve."
+    ],
+    "image": "apple-cider-mimosa.jpg",
+    "source": "https://www.wellplated.com/apple-cider-champagne-cocktail-recipe/",
+    "keywords": [
+        "apple",
+        "cinnamon",
+        "sugar",
+        "cocktail",
+        "champagne",
+        "brandy",
+        "cider",
+        "brunch",
+        "fall"
+    ]
+}
