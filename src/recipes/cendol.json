@@ -37,7 +37,7 @@
             "quantity": "600",
             "measure": "ml",
             "ingredient": "coconut milk"
-        },      
+        }     
     ],
     "directions": [
         "Mix rice flour with sago flour and pour some water in the mixture. Boil the rest of the water, add green pandan leaves and a little salt.",
@@ -53,5 +53,8 @@
     "source": "https://www.amanprana.eu/en/recipe/es-cendol-es-dawet/",
     "keywords": [
         "cendol",
+        "Indonesia",
+        "Fresh",
+        "sweet",
     ]
 }
