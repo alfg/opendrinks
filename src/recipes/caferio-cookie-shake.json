@@ -1,0 +1,45 @@
+{
+    "name": "Caferio Cookie Shake",
+    "description": "A perfect dessert shake with richness of coffee and cookie-cream ice cream. ",
+    "github": "OREO1210",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "teaspoons",
+            "ingredient": "coffee powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "chilled milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "teaspoons",
+            "ingredient": "sugar, optional and to taste"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "cookie-cream ice cream"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "number",
+            "ingredient": "oreo cookies"
+        }
+    ],
+    "directions": [
+        "Add sugar, coffee and chilled milk in the mixer and mix them.",
+        "Pour the smoothie into glass.",
+        "Top the smoothie with cookie-cream ice cream.",
+        "garnish and serve with oreo cookies."
+    ],
+    "image": "caferio-cookie-shake.jpg",
+    "keywords": [
+        "coffee",
+        "ice cream",
+        "cookie",
+        "smoothie"
+    ]
+}
