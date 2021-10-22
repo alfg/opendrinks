@@ -172,6 +172,13 @@ export default {
     "Are you sure you want to remove all favorites": "您确定要删除所有收藏里的饮料么？",
     "Delete": "删除",
     "Cancel": "取消"
+  },
+  "th": {
+    "You don't have any favorite drinks": "คุณไม่มีเครื่องดื่มที่ชอบ",
+    "Remove All Favorites": "ลบของที่ชอบทั้งหมด",
+    "Are you sure you want to remove all favorites": "คุณแน่ใจว่าจะลบของที่ชอบทั้งหมด?",
+    "Delete": "ลบ",
+    "Cancel": "ยกเลิก"
   }
 }
 </i18n>

@@ -101,6 +101,9 @@ export default {
   },
   "zh": {
     "Load More": "加载更多"
+  },
+  "th": {
+    "Load More": "โหลดเพิ่มเติม"
   }
 }
 </i18n>

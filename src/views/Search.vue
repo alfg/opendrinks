@@ -65,6 +65,9 @@ export default {
   },
   "zh": {
     "Find Your Drink": "找想要的饮料"
+  },
+  "th": {
+    "Find Your Drink": "หาเครื่องดื่มของคุณ"
   }
 }
 </i18n>

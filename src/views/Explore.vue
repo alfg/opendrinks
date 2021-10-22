@@ -200,6 +200,11 @@ export default {
     "Filters": "筛选",
     "Reset Filters": "重置筛选",
     "Add Keyword": "添加关键字"
+  },
+  "zh": {
+    "Filters": "คัดกรอง",
+    "Reset Filters": "ลบตัวคัดกรอง",
+    "Add Keyword": "ใส่คีย์เวิร์ด"
   }
 }
 </i18n>

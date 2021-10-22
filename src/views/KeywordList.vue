@@ -81,6 +81,9 @@ export default {
   },
   "zh": {
     "Enter your keyword": "输入关键字"
+  },
+  "th": {
+    "Enter your keyword": "ใส่คำค้นหา"
   }
 }
 </i18n>
