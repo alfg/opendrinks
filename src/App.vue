@@ -139,6 +139,13 @@ export default {
     "Keywords": "सूचक-शब्द",
     "Search": "खोजिये"
   },
+  "ar": {
+    "Featured": "مميّز",
+    "Random": "عشوائي",
+    "Explore": "اكتشف",
+    "Keywords": "الكلمات المفاتيح",
+    "Search": "ابحث"
+  },
   "gl": {
     "Featured": "Destacadas",
     "Random": "Aleatorio",
@@ -173,6 +180,28 @@ export default {
     "Explore": "ঘুরে দেখুন",
     "Keywords": "কীওয়ার্ড সমূহ",
     "Search": "খুঁজে দেখুন "
+  },
+  "it": {
+    "Featured": "In primo piano",
+    "Random": "Casuale",
+    "Explore": "Esplora",
+    "Keywords": "Parole chiave",
+    "Search": "Cerca"
+  },
+  "np": {
+    "Featured": "विशेष रुपले प्रदर्शित",
+    "Random": "अनियमित",
+    "Explore": "अन्वेषण गर्नुहोस्",
+    "Keywords": "मुख्य-शब्द",
+    "Search": "खोज"
+  },
+  "zh": {
+    "Featured": "精选",
+    "Random": "随机",
+    "Explore": "探索",
+    "Keywords": "关键词",
+    "Search": "搜索"
   }
+
 }
 </i18n>

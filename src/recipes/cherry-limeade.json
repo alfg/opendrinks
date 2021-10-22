@@ -1,0 +1,39 @@
+{
+    "name": "Cherry Limeade",
+    "description": "This refreshing drink is pure goodness with no high fructose corn syrup and no artificial colors or flavors.",
+    "github": "da-r-k",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "cups",
+            "ingredient": "Cherries pitted"
+        }
+    ],
+    "directions": [
+        "In a small saucepan combine sugar and 2 cups water. Heat to a boiling. Turn off and let cool to room temperature.",
+        "Meanwhile, blend pitted cherries in a blender until pureed smooth.",
+        "In a 2-qt pitcher combine syrup from step 1, lime juice, cherry puree, 3 cups of ice. Fill with water to the 2-quart line. Enjoy immediately or refrigerate until serving."
+    ],
+    "image": "lemonade.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "sweet",
+        "fresh",
+        "vegan"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Pumpkin Spice Latte",
+  "description": "Latte with pumpkin spice syrup.",
+  "github": "Klaudia2432",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "medium sized piece",
+      "ingredient": "Pumpkin"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "table spoon",
+      "ingredient": "grounded sweet cinammon"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "table spoon",
+      "ingredient": "grounded nutmeg"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "table spoon",
+      "ingredient": "grounded clove"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "glass",
+      "ingredient": "water"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "glass",
+      "ingredient": "sugar"
+    }
+  ],
+  "directions": [
+    "Preheat oven to 325 degrees",
+    "Bake pumpkin slices 30 minutes",
+    "Peel off skin from pumpkin",
+    "Blend the pumpkin using fork",
+    "In a pot stir the water with sugar until sugar will be mixed with water",
+    "Add the pumkin and spices",
+    "Stir for 5-7 mins.",
+    "Remove from heat and immediately strain through cheesecloth.",
+    "Once the tea is cooled, remove from the fridge.",
+    "Heat and froth milk",
+    "Brew the coffee in an espresso machine",
+    "Place Homemade Pumpkin Spice Syrup into a mug, followed by hot espresso. ",
+    "Stir all together.",
+    "Fill mug with heated frothed milk until ¾ full, then top with whipped cream.",
+    "Sprinkle with pumpkin pie spice!"
+  ],
+  "image": "pumpkin-spice-latte.jpeg",
+  "source": "https://fofarms.com/wp-content/uploads/2018/09/PumpkinSpiceLatte.jpg",
+  "keywords": [
+    "pumpkin",
+    "spice",
+    "latte",
+    "psl"
+  ]
+}

@@ -261,7 +261,8 @@ export default {
   margin-top: 1em;
 }
 
-.list-reset, .list-reset li {
+.list-reset,
+.list-reset li {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -314,6 +315,13 @@ export default {
     "View full recipe at": "पूरी विधि यहाँ देखें",
     "Similar drinks": "समान पेय"
   },
+  "ar": {
+    "Contributed by": "تمّت المساهمة بواسطة",
+    "Ingredients": "المكوّنات",
+    "Directions": "كيفيّة التّحضير",
+    "View full recipe at": "عرض الوصفة كاملة على",
+    "Similar drinks": "مشروبات مماثلة"
+  },
   "gl": {
     "Contributed by": "Achegado por",
     "Ingredients": "Ingredientes",
@@ -362,6 +370,34 @@ export default {
     "Directions": "প্রস্তুত প্রণালি",
     "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
     "Similar drinks": "অনুরূপ পানীয়গুলো"
+  },
+  "it": {
+    "Contributed by": "Contribuito da",
+    "Ingredients": "Ingredienti",
+    "Directions": "Istruzioni",
+    "View full recipe at": "Vedi la ricetta completa su",
+    "Similar drinks": "Drink simili"
+  },
+  "np": {
+    "Contributed by": "योगदानी",
+    "Ingredients": "सामग्री",
+    "Directions": "तयारी",
+    "View full recipe at": "पुरा नुस्खा यहाँ हेर्नुहोस्",
+    "Similar drinks": "उस्तै पेय"
+  },
+  "pt": {
+    "Contributed by": "Contribuição por",
+    "Ingredients": "Ingredientes",
+    "Directions": "Modo de preparo",
+    "View full recipe at": "Visualizar receita completa em",
+    "Similar drinks": "Bebidas semelhantes"
+  },
+  "zh": {
+    "Contributed by": "贡献者",
+    "Ingredients": "用料",
+    "Directions": "步骤",
+    "View full recipe at": "查看完整配方",
+    "Similar drinks": "类似的饮料"
   }
 }
 </i18n>

@@ -16,16 +16,8 @@
       class="mr-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
+      v-b-tooltip.hover.nonInteractive="!isFavorited ? $t('Set Favorite') : $t('Unset Favorite')"
     ></FavoriteStar>
-
-    <div class="mx-1 print-button" v-if="!isMobile">
-      <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-        {{ $t('Print') }}
-      </b-button>
-      <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        {{ $t('Print') }}
-      </b-button>
-    </div>
     <ShareNetwork
       network="facebook"
       :url="url"
@@ -33,6 +25,7 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('Share on Facebook')"
     >
       <BIconFacebook font-scale="2"></BIconFacebook>
     </ShareNetwork>
@@ -43,24 +36,35 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('Share on Twitter')"
     >
       <BIconTwitter font-scale="2"></BIconTwitter>
     </ShareNetwork>
-
     <BIconFiles
-      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('Copy URL')"
+      class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
     >
     </BIconFiles>
-
-    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
-      {{ $t('The link to this page is copied in your clipboard') }}
+    <div
+      v-b-tooltip.hover.nonInteractive="$t('Print')"
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      v-if="!isMobile"
+    >
+      <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
+      <a v-else :href="`/recipe/${name}/print`" target="_blank">
+        <BIconPrinter :fontScale="2"></BIconPrinter>
+      </a>
+    </div>
+    <b-toast v-model="copyToast" :title="$t('URL Copied')" :auto-hide-delay="500">
+      {{ $t('The URL is copied in your clipboard') }}
     </b-toast>
   </div>
 </template>
 
 <script>
+import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {
@@ -73,6 +77,10 @@ export default {
   },
   components: {
     FavoriteStar,
+    BIconTwitter,
+    BIconPrinter,
+    BIconFiles,
+    BIconFacebook,
   },
   data() {
     return {
@@ -176,6 +184,14 @@ export default {
     "Copy URL": "यूआरएल नकल करें",
     "Hide Image": "चित्र छुपाएं"
   },
+  "ar": {
+    "Print": "إطبع",
+    "Share": "شارك",
+    "Share on Facebook": "شارك على الفيسبوك",
+    "Share on Twitter": "شارك على التويتر",
+    "Copy URL": "إنسخ الرابط",
+    "Hide Image": "إخفاء الصورة"
+  },
   "gl": {
     "Print": "Imprimir",
     "Share": "Compartir",
@@ -231,6 +247,38 @@ export default {
     "Share on Twitter": "টুইটারে শেয়ার করুন",
     "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
     "Hide Image": "ছবি লুকান"
+  },
+  "it": {
+    "Print": "Stampa",
+    "Share": "Condividi",
+    "Share on Facebook": "Condividi su Facebook",
+    "Share on Twitter": "Condividi su Twitter",
+    "Copy URL": "Copia URL",
+    "Hide Image": "Nascondi immagine"
+  },
+  "np": {
+    "Print": "छाप्नुहोस्",
+    "Share": "साझा गर्नुहोस्",
+    "Share on Facebook": "फेसबुकमा साझा गर्नुहोस्",
+    "Share on Twitter": "ट्विटर मा साझा गर्नुहोस्",
+    "Copy URL": "यूआरएल प्रतिलिपि गर्नुहोस्",
+    "Hide Image": "चित्र लुकाउनुहोस्"
+  },
+  "pt": {
+    "Print": "Imprimir",
+    "Share": "Compartilhar",
+    "Share on Facebook": "Compartilhar no Facebook",
+    "Share on Twitter": "Compartilhar no Twitter",
+    "Copy URL": "Copiar URL",
+    "Hide Image": "Esconder imagem"
+  },
+  "zh": {
+    "Print": "打印",
+    "Share": "分享",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "复制链接",
+    "Hide Image": "隐藏图像"
   }
 }
 </i18n>

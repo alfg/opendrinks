@@ -59,6 +59,27 @@ export default {
   },
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
+  },
+  "it": {
+    "Enter your keyword": "Inserisci la tua parola chiave"
+  },
+  "fr": {
+    "Enter your keyword": "Entrez votre mot-clé"
+  },
+  "nl": {
+    "Enter your keyword": "Voer uw trefwoord in"
+  },
+  "ja": {
+    "Enter your keyword": "キーワードを入力してください"
+  },
+  "np": {
+    "Enter your keyword": "तपाइँको मुख्य शब्द दर्ज गर्नुहोस्"
+  },
+  "pt": {
+    "Enter your keyword": "Insira sua palavra-chave"
+  },
+  "zh": {
+    "Enter your keyword": "输入关键字"
   }
 }
 </i18n>

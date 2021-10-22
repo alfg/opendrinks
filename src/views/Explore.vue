@@ -141,6 +141,11 @@ export default {
     "Reset Filters": "छन्नी रीसेट करें",
     "Add Keyword": "सूचक-शब्द जोड़ें"
   },
+  "ar": {
+    "Filters": "المرشحات",
+    "Reset Filters": "إعادة ضبط المرشحات",
+    "Add Keyword": "إضافة الكلمات المفاتيح"
+  },
   "gl": {
     "Filters": "Filtros",
     "Reset Filters": "Reiniciar filtros",
@@ -165,6 +170,36 @@ export default {
     "Filters": "ফিল্টার",
     "Reset Filters": "ফিল্টার রিসেট করুন",
     "Add Keyword": "কীওয়ার্ড যোগ করুন"
+  },
+  "it": {
+    "Filters": "Filtri",
+    "Reset Filters": "Cancella filtri",
+    "Add Keyword": "Aggiungi parola chiave"
+  },
+  "ru": {
+    "Filters": "Фильтры",
+    "Reset Filters": "Сбросить фильтры",
+    "Add Keyword": "Добавить ключевое слово"
+  },
+  "uk": {
+    "Filters": "Фільтри",
+    "Reset Filters": "Скинути фільтри",
+    "Add Keyword": "Додати ключове слово"
+  },
+  "np": {
+    "Filters": "फिल्टर",
+    "Reset Filters": "फिल्टर रिसेट गर्नुहोस्",
+    "Add Keyword": "मुख्य-शब्द जोड्नुहोस्"
+  },
+  "pt": {
+    "Filters": "Filtros",
+    "Reset Filters": "Restaurar Filtros",
+    "Add Keyword": "Adicionar palavra-chave"
+  },
+  "zh": {
+    "Filters": "筛选",
+    "Reset Filters": "重置筛选",
+    "Add Keyword": "添加关键字"
   }
 }
 </i18n>
