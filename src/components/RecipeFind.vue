@@ -311,5 +311,13 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "您可以用空格分隔多个用料在搜索里",
     "You can search for multiple keywords by separating them with a space": "您可以用空格分隔多个关键字在搜索里"
   }
+  "vi": {
+    "Filter by": "Lọc theo",
+    "Name": "Tên",
+    "Ingredients": "Nguyên liệu",
+    "Keywords": "Từ khóa",
+    "You can search for multiple ingredients by separating them with a space": "Khi tìm kiếm với nhiều nguyên liệu thì các nguyên liệu phải cách nhau bởi một khoảng trắng",
+    "You can search for multiple keywords by separating them with a space": "Khi tìm kiếm với nhiều từ khóa thì các từ khóa phải cách nhau bởi một khoảng trắng"
+  }
 }
 </i18n>

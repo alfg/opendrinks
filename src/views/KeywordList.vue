@@ -82,5 +82,8 @@ export default {
   "zh": {
     "Enter your keyword": "输入关键字"
   }
+  "vi": {
+    "Enter your keyword": "Nhập từ khóa của bạn"
+  }
 }
 </i18n>

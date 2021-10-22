@@ -173,5 +173,12 @@ export default {
     "Delete": "删除",
     "Cancel": "取消"
   }
+  "vi": {
+    "You don't have any favorite drinks": "Bạn chưa có đồ uống yêu thích",
+    "Remove All Favorites": "Xóa tất cả các mục yêu thích",
+    "Are you sure you want to remove all favorites": "Bạn có chắc là muốn xóa tất cả các mục yêu thích?",
+    "Delete": "Xóa",
+    "Cancel": "Hủy bỏ"
+  }
 }
 </i18n>
