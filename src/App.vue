@@ -209,6 +209,5 @@ export default {
     "Keywords": "Từ khóa",
     "Search": "Tìm kiếm"
   }
-
 }
 </i18n>
