@@ -1,0 +1,37 @@
+{
+    "name": "7-sherb",
+    "description": "a party drink made of 7-up and sherbet popular in the south",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "liter",
+            "ingredient": "7-up"
+        },
+      
+        {
+            "quantity": "1",
+            "measure": "gallon",
+            "ingredient": "sherbet"
+        },
+       
+        {
+            "quantity": "1/4",
+            "measure": "quart",
+            "ingredient": " vodka"
+        }
+    ],
+    "directions": [
+        "in a bowl mix melted sherbet and 7-up.",
+        "stir well.",
+        "if intended for adults mix in vodka , and leave in fridge to chill",
+        
+    ],
+   
+    "keywords": [
+        "sherbet",
+        "7-up",
+        "party",
+        "non-vegan",
+       
+    ]
+}
