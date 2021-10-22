@@ -1,0 +1,40 @@
+{
+    "name": "pickelback",
+    "description": "a pickle juice vodka drink",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "gallon",
+            "ingredient": "pickle juice"
+        },
+      
+        {
+            "quantity": "1/2",
+            "measure": "gallon",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup ",
+            "ingredient": "dill"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": " onion"
+        }
+    ],
+    "directions": [
+        "mix your vodka , pickle juice, dill, and onion in a jar",
+        "leave to sit for 3 days, and then open up and enjoy."
+       
+    ],
+   
+    "keywords": [
+        "cucumber",
+        "juice",
+        "back",
+        "vegan",
+        "pickle"
+    ]
+}
