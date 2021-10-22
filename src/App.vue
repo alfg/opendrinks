@@ -201,6 +201,13 @@ export default {
     "Explore": "探索",
     "Keywords": "关键词",
     "Search": "搜索"
+  },
+    "vi": {
+    "Featured": "Tiêu biểu",
+    "Random": "Ngẫu nhiên",
+    "Explore": "Khám phá",
+    "Keywords": "Từ khóa",
+    "Search": "Tìm kiếm"
   }
 
 }
