@@ -1,0 +1,43 @@
+{
+    "name": "sandy cheeks",
+    "description": "an acorn vodka mixed drink, popular in the south",
+    "ingredients": [
+        {
+            "quantity": "33-40",
+            "measure": "cups",
+            "ingredient": "minced acorns"
+        },
+      
+        {
+            "quantity": "1",
+            "measure": "quart",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": " lemon powder"
+        }
+    ],
+    "directions": [
+        "boil the acorns, then crack and chop them.",
+        "Add the chopped acorns in a blender and blend.",
+        "Add lemon powder and sugar.",
+        "Stir very well. ",
+        "Pour in small bowls and chill in the refrigerator.",
+        "You can also add your choice of garnish."
+    ],
+   
+    "keywords": [
+        "fruit",
+        "juice",
+        "acorn",
+        "vegan",
+        "nut juice"
+    ]
+}
