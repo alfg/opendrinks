@@ -1,0 +1,36 @@
+{
+    "name": "lokodog",
+    "description": "an infused drink made with watermelon fourloko, and blue md2020",
+    "ingredients": [
+     
+      
+        {
+            "quantity": "1",
+            "measure": "quart",
+            "ingredient": "four loko"
+        },
+        {
+            "quantity": "1",
+            "measure": "quart",
+            "ingredient": "MD/20"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": " ginger"
+        }
+    ],
+    "directions": [
+        "mix four loko and md20 to in a mason jar, and leave in a freezer for a day.",
+        "once your drik gets a slushy like consistency add in your ginger, for a nice flaver.",
+        
+    ],
+   
+    "keywords": [
+        "fruit",
+        "juice",
+        "loko",
+        "vegan",
+        "dog"
+    ]
+}
