@@ -1,0 +1,52 @@
+{
+    "name": "Aam Pora Shorbot",
+    "description": "Bengali Aam Pora Shorbot is a Summer Drink recipe made with raw mangoes that are smoked on a stove top and made in to a pulp - Mixed with light spices, it makes for a great cooling drink that you can serve to your guests.",
+    "github": "suyesha07",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Sugar or Jaggery"
+        },
+        {
+            "quantity": "6",
+            "measure": "nuber",
+            "ingredient": "Unripe Green Mango"
+        },
+        {
+            "quantity": "3",
+            "measure": "tsp",
+            "ingredient": "Cummin Powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Fresh Mint"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Black Salt"
+        }
+    ],
+    "directions": [
+        "To begin making the Aam Pora Shorbot recipe, we will firstly prepare the pulp for Aam Pora Shorbot.",
+        "Wash the raw mangoes and wipe them. Roast the mangoes on a direct flame on low to medium heat until the outer skin is charred and black. This will indicate that the flesh/ pulp has to become soft and fully cooked. ",
+        "Cool them by covering them with a damp cloth or kitchen towel.",
+        "Peel and discard the charred skin of the mangoes. Separate the pulp discarding the stone.",
+        "Into a blender, add the extracted pulp, mint leaves, black salt and roasted cumin powder.",
+        "Grind the ingredients till smooth. ",
+        "This concentrated mango mixture can be stored in a glass jar or air tight bottles, in the refrigerator for a week. Your Aam Pora Shorbot  Pulp is ready. With this you can make it either savoury or sweet. ",
+        "Strain into the prepared glass.",
+        "Garnish with a parsley sprig, 2 speared green olives, and a lime wedge and a celery stalk (optional)."
+    ],
+    "image": "aam-panna.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "mocktail",
+        "non-alcoholic",
+        "vegan",
+        "mango"
+    ]
+}
