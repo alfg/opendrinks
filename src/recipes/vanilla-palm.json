@@ -1,0 +1,33 @@
+{
+  "name": "Vanilla Palm",
+  "description": "This is a light and refreshing drink for enjoying the party without rushing to finish.",
+  "github": "matgomes21",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "absolut vanilla"
+      },
+      {
+          "quantity": "3",
+          "measure": "cup",
+          "ingredient": "coconut water"
+      },
+      {
+          "quantity": "4 - 5",
+          "measure": "cup",
+          "ingredient": "ice"
+      }
+  ],
+  "directions": [
+      "Mix all the ingredients.",
+      "Enjoy this light and refreshing drink."
+  ],
+  "image": "vanilla-palm.jpg",
+  "keywords": [
+      "coconut",
+      "absolut",
+      "vodka",
+      "alcoholic"
+  ]
+}
