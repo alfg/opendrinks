@@ -19,12 +19,17 @@
         },
         {
             "quantity": "6",
+            "measure": "",
             "ingredient": "mint leaves"
         },
         {
+            "quantity": "",
+            "measure": "",
             "ingredient": "champagne"
         },
         {
+            "quantity": "",
+            "measure": "",
             "ingredient": "crushed ice"
         }
 
