@@ -87,6 +87,10 @@ export default {
   "zh": {
     "The page you are looking for was not found.": "未找到您要查找的页面。",
     "Back to Home": "返回首页"
+  },
+  "th": {
+    "The page you are looking for was not found.": "ไม่พบหน้าที่คุณต้องการดู",
+    "Back to Home": "กลับไปหน้าแรก"
   }
 }
 </i18n>

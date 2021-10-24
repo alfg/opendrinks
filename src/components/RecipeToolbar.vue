@@ -279,6 +279,14 @@ export default {
     "Share on Twitter": "Twitter",
     "Copy URL": "复制链接",
     "Hide Image": "隐藏图像"
+  },
+  "th": {
+    "Print": "พิมพ์",
+    "Share": "แชร์",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "คัดลอกลิ้งค์",
+    "Hide Image": "ซ่อนรูป"
   }
 }
 </i18n>

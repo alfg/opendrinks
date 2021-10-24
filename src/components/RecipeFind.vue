@@ -310,6 +310,14 @@ export default {
     "Keywords": "关键词",
     "You can search for multiple ingredients by separating them with a space": "您可以用空格分隔多个用料在搜索里",
     "You can search for multiple keywords by separating them with a space": "您可以用空格分隔多个关键字在搜索里"
+  },
+  "th": {
+    "Filter by": "คัดกรองโดย",
+    "Name": "ชื่อ",
+    "Ingredients": "ส่วนประกอบ",
+    "Keywords": "คำค้นหาสำคัญ",
+    "You can search for multiple ingredients by separating them with a space": "คุณสามารถค้นหาด้วยส่วนประอบหลายอย่างโดยใช้เว้นวรรคแยกคำ",
+    "You can search for multiple keywords by separating them with a space": "คุณสามารถค้นหาด้วยคีย์เวิร์ดหลายตัวโดยใช้เว้นวรรคแยกคำ"
   }
 }
 </i18n>
