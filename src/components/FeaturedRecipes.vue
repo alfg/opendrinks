@@ -90,11 +90,23 @@ export default {
   "bn":{
     "Load More": "আরো দেখুন"
   },
+  "it": {
+    "Load More": "Carica altro"
+  },
   "np": {
     "Load More": "अझ विधि हेर्नुहोस्"
   },
   "pt": {
     "Load More": "Ver mais"
+  },
+  "zh": {
+    "Load More": "加载更多"
+  },
+  "vi": {
+    "Load More": "Tải thêm"
+  },
+  "th": {
+    "Load More": "โหลดเพิ่มเติม"
   }
 }
 </i18n>

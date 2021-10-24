@@ -261,7 +261,8 @@ export default {
   margin-top: 1em;
 }
 
-.list-reset, .list-reset li {
+.list-reset,
+.list-reset li {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -370,6 +371,13 @@ export default {
     "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
     "Similar drinks": "অনুরূপ পানীয়গুলো"
   },
+  "it": {
+    "Contributed by": "Contribuito da",
+    "Ingredients": "Ingredienti",
+    "Directions": "Istruzioni",
+    "View full recipe at": "Vedi la ricetta completa su",
+    "Similar drinks": "Drink simili"
+  },
   "np": {
     "Contributed by": "योगदानी",
     "Ingredients": "सामग्री",
@@ -383,6 +391,27 @@ export default {
     "Directions": "Modo de preparo",
     "View full recipe at": "Visualizar receita completa em",
     "Similar drinks": "Bebidas semelhantes"
+  },
+  "zh": {
+    "Contributed by": "贡献者",
+    "Ingredients": "用料",
+    "Directions": "步骤",
+    "View full recipe at": "查看完整配方",
+    "Similar drinks": "类似的饮料"
+  },
+  "vi": {
+    "Contributed by": "Đóng góp bởi",
+    "Ingredients": "Nguyên liệu",
+    "Directions": "Cách làm",
+    "View full recipe at": "Xem toàn bộ công thức tại",
+    "Similar drinks": "Đồ uống tương tự"
+  },
+  "th": {
+    "Contributed by": "ร่วมสนับสนุนโดย",
+    "Ingredients": "ส่วนประกอบ",
+    "Directions": "ขั้นตอน",
+    "View full recipe at": "ดูสูตรทั้งหมด",
+    "Similar drinks": "เครื่องดื่มที่คล้ายกัน"
   }
 }
 </i18n>

@@ -279,6 +279,14 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
     "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
   },
+  "it": {
+    "Filter by": "Filtra per",
+    "Name": "Nome",
+    "Ingredients": "Ingredienti",
+    "Keywords": "Parole chiave",
+    "You can search for multiple ingredients by separating them with a space": "Puoi fare una ricerca utilizzando più ingredienti separandoli con uno spazio",
+    "You can search for multiple keywords by separating them with a space": "Puoi fare una ricerca utilizzando più parole chiave separandole con uno spazio"
+  },
   "np": {
     "Filter by": "छाने",
     "Name": "नाम",
@@ -294,6 +302,30 @@ export default {
     "Keywords": "Palavra-chave",
     "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
     "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
+  },
+  "zh": {
+    "Filter by": "筛选条件",
+    "Name": "名称",
+    "Ingredients": "用料",
+    "Keywords": "关键词",
+    "You can search for multiple ingredients by separating them with a space": "您可以用空格分隔多个用料在搜索里",
+    "You can search for multiple keywords by separating them with a space": "您可以用空格分隔多个关键字在搜索里"
+  },
+  "vi": {
+    "Filter by": "Lọc theo",
+    "Name": "Tên",
+    "Ingredients": "Nguyên liệu",
+    "Keywords": "Từ khóa",
+    "You can search for multiple ingredients by separating them with a space": "Khi tìm kiếm với nhiều nguyên liệu thì các nguyên liệu phải cách nhau bởi một khoảng trắng",
+    "You can search for multiple keywords by separating them with a space": "Khi tìm kiếm với nhiều từ khóa thì các từ khóa phải cách nhau bởi một khoảng trắng"
+  },
+  "th": {
+    "Filter by": "คัดกรองโดย",
+    "Name": "ชื่อ",
+    "Ingredients": "ส่วนประกอบ",
+    "Keywords": "คำค้นหาสำคัญ",
+    "You can search for multiple ingredients by separating them with a space": "คุณสามารถค้นหาด้วยส่วนประอบหลายอย่างโดยใช้เว้นวรรคแยกคำ",
+    "You can search for multiple keywords by separating them with a space": "คุณสามารถค้นหาด้วยคีย์เวิร์ดหลายตัวโดยใช้เว้นวรรคแยกคำ"
   }
 }
 </i18n>

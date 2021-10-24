@@ -248,6 +248,14 @@ export default {
     "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
     "Hide Image": "ছবি লুকান"
   },
+  "it": {
+    "Print": "Stampa",
+    "Share": "Condividi",
+    "Share on Facebook": "Condividi su Facebook",
+    "Share on Twitter": "Condividi su Twitter",
+    "Copy URL": "Copia URL",
+    "Hide Image": "Nascondi immagine"
+  },
   "np": {
     "Print": "छाप्नुहोस्",
     "Share": "साझा गर्नुहोस्",
@@ -263,6 +271,30 @@ export default {
     "Share on Twitter": "Compartilhar no Twitter",
     "Copy URL": "Copiar URL",
     "Hide Image": "Esconder imagem"
+  },
+  "zh": {
+    "Print": "打印",
+    "Share": "分享",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "复制链接",
+    "Hide Image": "隐藏图像"
+  },
+  "vi": {
+    "Print": "In",
+    "Share": "Chia sẻ",
+    "Share on Facebook": "Chia sẻ trên Facebook",
+    "Share on Twitter": "Chia sẻ trên Twitter",
+    "Copy URL": "Sao chép URL",
+    "Hide Image": "Ẩn hình ảnh"
+  },
+  "th": {
+    "Print": "พิมพ์",
+    "Share": "แชร์",
+    "Share on Facebook": "Facebook",
+    "Share on Twitter": "Twitter",
+    "Copy URL": "คัดลอกลิ้งค์",
+    "Hide Image": "ซ่อนรูป"
   }
 }
 </i18n>

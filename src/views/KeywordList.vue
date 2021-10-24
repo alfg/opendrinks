@@ -9,7 +9,8 @@
         })"
         :key="index"
         :to="{ name: 'keyword', params: { keyword: urlEncode(keyword) } }"
-      >{{ keyword }}</b-list-group-item>
+        >{{ keyword }}</b-list-group-item
+      >
     </b-list-group>
   </div>
 </template>
@@ -60,6 +61,9 @@ export default {
   "de": {
     "Enter your keyword": "Gib dein Stichwort ein"
   },
+  "it": {
+    "Enter your keyword": "Inserisci la tua parola chiave"
+  },
   "fr": {
     "Enter your keyword": "Entrez votre mot-clé"
   },
@@ -74,6 +78,15 @@ export default {
   },
   "pt": {
     "Enter your keyword": "Insira sua palavra-chave"
+  },
+  "zh": {
+    "Enter your keyword": "输入关键字"
+  },
+  "vi": {
+    "Enter your keyword": "Nhập từ khóa của bạn"
+  },
+  "th": {
+    "Enter your keyword": "ใส่คำค้นหา"
   }
 }
 </i18n>

@@ -171,6 +171,11 @@ export default {
     "Reset Filters": "ফিল্টার রিসেট করুন",
     "Add Keyword": "কীওয়ার্ড যোগ করুন"
   },
+  "it": {
+    "Filters": "Filtri",
+    "Reset Filters": "Cancella filtri",
+    "Add Keyword": "Aggiungi parola chiave"
+  },
   "ru": {
     "Filters": "Фильтры",
     "Reset Filters": "Сбросить фильтры",
@@ -190,6 +195,21 @@ export default {
     "Filters": "Filtros",
     "Reset Filters": "Restaurar Filtros",
     "Add Keyword": "Adicionar palavra-chave"
+  },
+  "zh": {
+    "Filters": "筛选",
+    "Reset Filters": "重置筛选",
+    "Add Keyword": "添加关键字"
+  },
+  "vi": {
+    "Filters": "Lọc",
+    "Reset Filters": "Đặt lại bộ lọc",
+    "Add Keyword": "Thêm từ khóa"
+  },
+  "zh": {
+    "Filters": "คัดกรอง",
+    "Reset Filters": "ลบตัวคัดกรอง",
+    "Add Keyword": "ใส่คีย์เวิร์ด"
   }
 }
 </i18n>

@@ -131,6 +131,13 @@ export default {
     "Delete": "মুছুন",
     "Cancel": "বাতিল করুন"
   },
+  "it": {
+    "You don't have any favorite drinks": "Non hai nessun drink preferito",
+    "Remove All Favorites": "Rimuovi tutti i preferiti",
+    "Are you sure you want to remove all favorites": "Sei sicuro di voler rimuovere tutti i preferiti",
+    "Delete": "Elimina",
+    "Cancel": "Annulla"
+  },
   "np": {
     "You don't have any favorite drinks": "तपाइँसँग कुनै मनपर्ने पेय छैन",
     "Remove All Favorites": "सबै मनपर्ने हटाउनुहोस्",
@@ -158,6 +165,27 @@ export default {
     "Are you sure you want to remove all favorites": "Ви впевнені, що хочете видалити всі вибрані",
     "Delete": "Видалити",
     "Cancel": "Скасувати"
+  },
+  "zh": {
+    "You don't have any favorite drinks": "您没有收藏的饮料",
+    "Remove All Favorites": "删除所有收藏里的饮料",
+    "Are you sure you want to remove all favorites": "您确定要删除所有收藏里的饮料么？",
+    "Delete": "删除",
+    "Cancel": "取消"
+  },
+  "vi": {
+    "You don't have any favorite drinks": "Bạn chưa có đồ uống yêu thích",
+    "Remove All Favorites": "Xóa tất cả các mục yêu thích",
+    "Are you sure you want to remove all favorites": "Bạn có chắc là muốn xóa tất cả các mục yêu thích?",
+    "Delete": "Xóa",
+    "Cancel": "Hủy bỏ"
+  },
+  "th": {
+    "You don't have any favorite drinks": "คุณไม่มีเครื่องดื่มที่ชอบ",
+    "Remove All Favorites": "ลบของที่ชอบทั้งหมด",
+    "Are you sure you want to remove all favorites": "คุณแน่ใจว่าจะลบของที่ชอบทั้งหมด?",
+    "Delete": "ลบ",
+    "Cancel": "ยกเลิก"
   }
 }
 </i18n>

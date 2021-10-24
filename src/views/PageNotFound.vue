@@ -64,6 +64,10 @@ export default {
     "The page you are looking for was not found.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি",
     "Back to Home": "হোমপেজে ফিরে যান"
   },
+  "it": {
+    "The page you are looking for was not found.": "La pagina che stai cercando non è disponibile.",
+    "Back to Home": "Torna in Home"
+  },
   "np": {
     "The page you are looking for was not found.": "तपाईंले खोजिरहनुभएको पृष्ठ भेटिएन।",
     "Back to Home": "घर फिर्ता"
@@ -79,6 +83,18 @@ export default {
   "uk": {
     "The page you are looking for was not found.": "Сторінку, яку ви шукаєте, не знайдено",
     "Back to Home": "Повернутися додому"
+  },
+  "zh": {
+    "The page you are looking for was not found.": "未找到您要查找的页面。",
+    "Back to Home": "返回首页"
+  },
+  "vi": {
+    "The page you are looking for was not found.": "Trang bạn đang tìm kiếm không tồn tại.",
+    "Back to Home": "Quay lại trang chủ"
+  },
+  "th": {
+    "The page you are looking for was not found.": "ไม่พบหน้าที่คุณต้องการดู",
+    "Back to Home": "กลับไปหน้าแรก"
   }
 }
 </i18n>
