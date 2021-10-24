@@ -200,6 +200,9 @@ export default {
   "zh": {
     "View Recipe": "查看配方"
   },
+  "vi": {
+    "View Recipe": "Xem công thức"
+  },
   "th": {
     "View Recipe": "ดูสูตร"
   }

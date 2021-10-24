@@ -280,6 +280,14 @@ export default {
     "Copy URL": "复制链接",
     "Hide Image": "隐藏图像"
   },
+  "vi": {
+    "Print": "In",
+    "Share": "Chia sẻ",
+    "Share on Facebook": "Chia sẻ trên Facebook",
+    "Share on Twitter": "Chia sẻ trên Twitter",
+    "Copy URL": "Sao chép URL",
+    "Hide Image": "Ẩn hình ảnh"
+  },
   "th": {
     "Print": "พิมพ์",
     "Share": "แชร์",
