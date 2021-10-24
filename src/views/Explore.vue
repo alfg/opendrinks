@@ -205,6 +205,11 @@ export default {
     "Filters": "Lọc",
     "Reset Filters": "Đặt lại bộ lọc",
     "Add Keyword": "Thêm từ khóa"
+  },
+  "zh": {
+    "Filters": "คัดกรอง",
+    "Reset Filters": "ลบตัวคัดกรอง",
+    "Add Keyword": "ใส่คีย์เวิร์ด"
   }
 }
 </i18n>

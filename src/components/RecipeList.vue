@@ -202,6 +202,9 @@ export default {
   },
   "vi": {
     "View Recipe": "Xem công thức"
+  },
+  "th": {
+    "View Recipe": "ดูสูตร"
   }
 }
 </i18n>

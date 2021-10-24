@@ -91,6 +91,10 @@ export default {
   "vi": {
     "The page you are looking for was not found.": "Trang bạn đang tìm kiếm không tồn tại.",
     "Back to Home": "Quay lại trang chủ"
+  },
+  "th": {
+    "The page you are looking for was not found.": "ไม่พบหน้าที่คุณต้องการดู",
+    "Back to Home": "กลับไปหน้าแรก"
   }
 }
 </i18n>

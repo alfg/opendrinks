@@ -84,6 +84,9 @@ export default {
   },
   "vi": {
     "Enter your keyword": "Nhập từ khóa của bạn"
+  },
+  "th": {
+    "Enter your keyword": "ใส่คำค้นหา"
   }
 }
 </i18n>

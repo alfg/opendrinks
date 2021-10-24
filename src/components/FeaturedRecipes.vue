@@ -104,6 +104,9 @@ export default {
   },
   "vi": {
     "Load More": "Tải thêm"
+  },
+  "th": {
+    "Load More": "โหลดเพิ่มเติม"
   }
 }
 </i18n>
