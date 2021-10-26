@@ -1,5 +1,5 @@
 {
-    "name": "Polar Bear",
+    "name": "Danish Polar Bear",
     "description": "Vibrant blue drink popular in 1990's Denmark.",
     "github": "dangerstone",
     "ingredients": [
@@ -36,6 +36,7 @@
         "curaçao",
         "vodka",
         "blue",
-        "lemon soda"
+        "lemon soda",
+        "polar bear"
     ]
 }
