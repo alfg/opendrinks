@@ -200,6 +200,16 @@ export default {
     "Filters": "筛选",
     "Reset Filters": "重置筛选",
     "Add Keyword": "添加关键字"
+  },
+  "vi": {
+    "Filters": "Lọc",
+    "Reset Filters": "Đặt lại bộ lọc",
+    "Add Keyword": "Thêm từ khóa"
+  },
+  "zh": {
+    "Filters": "คัดกรอง",
+    "Reset Filters": "ลบตัวคัดกรอง",
+    "Add Keyword": "ใส่คีย์เวิร์ด"
   }
 }
 </i18n>

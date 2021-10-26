@@ -1,0 +1,42 @@
+{
+    "name": "Danish Polar Bear",
+    "description": "Vibrant blue drink popular in 1990's Denmark.",
+    "github": "dangerstone",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "vodka (amount customisable)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "blue curaçao"
+        },
+        {
+            "quantity": "8",
+            "measure": "cl",
+            "ingredient": "lemon soda"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice cubes or crushed ice cubes"
+        }
+    ],
+    "directions": [
+        "Add ice.",
+        "Pour in vodka and soda.",
+        "Gently pour in the curaçao."
+    ],
+    "image": "polar-bear-danish.jpg",
+    "source": "https://shake-it.dk/drink/isbjoern-drink/",
+    "keywords": [
+        "blue curaçao",
+        "curaçao",
+        "vodka",
+        "blue",
+        "lemon soda",
+        "polar bear"
+    ]
+}

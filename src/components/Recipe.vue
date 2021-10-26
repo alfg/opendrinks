@@ -398,6 +398,20 @@ export default {
     "Directions": "步骤",
     "View full recipe at": "查看完整配方",
     "Similar drinks": "类似的饮料"
+  },
+  "vi": {
+    "Contributed by": "Đóng góp bởi",
+    "Ingredients": "Nguyên liệu",
+    "Directions": "Cách làm",
+    "View full recipe at": "Xem toàn bộ công thức tại",
+    "Similar drinks": "Đồ uống tương tự"
+  },
+  "th": {
+    "Contributed by": "ร่วมสนับสนุนโดย",
+    "Ingredients": "ส่วนประกอบ",
+    "Directions": "ขั้นตอน",
+    "View full recipe at": "ดูสูตรทั้งหมด",
+    "Similar drinks": "เครื่องดื่มที่คล้ายกัน"
   }
 }
 </i18n>
