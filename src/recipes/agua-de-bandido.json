@@ -1,0 +1,31 @@
+{
+    "name": "Agua de bandindo",
+    "description": "cheap drink and great for university parties.",
+    "github": "Mariana4Alves",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "500ml",
+            "ingredient": "Lemon flavored corote "
+        },
+        {
+            "quantity": "1",
+            "measure": "25g",
+            "ingredient": "strawberry juice powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "200ml",
+            "ingredient": "frozen strawberry juice"
+        }
+    ],
+    "directions": [
+        "Put the corote in a glass and mix the powdered juice and frozen juice",
+        "Be happy"
+    ],
+    "image": "agua-de-bandido.jpg",
+    "keywords": [
+        "corote",
+        "brazil"
+    ]
+}
