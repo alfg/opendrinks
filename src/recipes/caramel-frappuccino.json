@@ -1,0 +1,54 @@
+{
+    "name": "Caramel Frappuccino",
+    "description": "Caramel syrup meets coffee, milk and ice for a rendezvous in the blender, while whipped cream and buttery caramel sauce layer the love on top.",
+    "github": "daksh890",
+    "ingredients": [
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "10-12",
+            "measure": "cubes",
+            "ingredient": "Ice"
+        },
+        {
+            "quantity": "3",
+            "measure": "tbsp",
+            "ingredient": "Caramel Sauce"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "Coffee Powder(instant)"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "drop",
+            "ingredient": "Vanilla Extract"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Whipped Cream"
+        }
+
+    ],
+    "directions": [
+        "To make Caramel Frappuccino simply add ice cubes, milk, caramel sauce, coffee powder (instant) and vanilla extract in a blender.",
+        "Blend till ice breaks into very fine crystals.",
+        "Remove and pour into a glass.",
+        "On top pipe whipped cream and pour some caramel sauce over the whipped cream to garnish it.",
+        "Serve it immediately. Cheers!!",
+        "Tip: Use the blender at medium pace to get a perfect fluffed coffee."
+    ],
+    "image": "caramel-frappuccino.jpg",
+    "source": "https://www.chefkunalkapur.com/recipe/cold-coffee/",
+    "keywords": [
+        "cold-coffee",
+        "frappuccino",
+        "starbucks",
+        "creamy"
+    ]
+}
