@@ -1,10 +1,10 @@
 {
     "name": "Rumchata Bourbon",
-    "description": "Similar to a Mudslide, lighter than Eggnog - this drink is a great autumn alternative to either.",
+    "description": "Similar to a Mudslide, lighter than Eggnog - this drink is a great alternative to either on those chilly autumn evenings.",
     "github": "bethmartino",
     "ingredients": [
         {
-            "quantity": "2.5",
+            "quantity": "2",
             "measure": "oz",
             "ingredient": "Bourbon"
         },
@@ -32,6 +32,8 @@
         "creamy",
         "mudslide",
         "eggnog",
-        "white russian"
+        "white russian",
+        "autumn",
+        "fall"
     ]
 }
