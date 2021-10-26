@@ -208,6 +208,13 @@ export default {
     "Explore": "Khám phá",
     "Keywords": "Từ khóa",
     "Search": "Tìm kiếm"
+  },
+    "th": {
+    "Featured": "แนะนำ",
+    "Random": "สุ่ม",
+    "Explore": "ค้นหา",
+    "Keywords": "คำค้น",
+    "Search": "ค้นหา"
   }
 }
 </i18n>
