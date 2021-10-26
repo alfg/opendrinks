@@ -1,0 +1,52 @@
+{
+    "name": "Jamun Panna",
+    "description": "Jamun Panna is a refreshing cooler recipe that not only looks beautiful but tastes yummy and soothes the body. Jamun has so many amazing benefits for our body and skin. A perfect recipe to try this season which can be served as a welcome drink.",
+    "github": "connectnitish",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "tsp",
+            "ingredient": "powdered"
+        },
+        {
+            "quantity": "3",
+            "measure": "cups",
+            "ingredient": "black jamun"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "cumin powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Fresh Mint"
+        },
+        {
+            "quantity": "5",
+            "measure": "tsp",
+            "ingredient": "Black Salt"
+        },
+        {
+            "quantity": "as required",
+            "measure": "tsp",
+            "ingredient": "Salt"
+        }
+    ],
+    "directions": [
+        "Mix jamun, black salt, crushed black peppercorns, cumin powder, powdered sugar, salt, and mint leaves in a steel container.",
+        "Cover the container and shake it vigorously.",
+        "Add a little water and mix and strain. Deseed the jamuns and transfer into a mixer jar and grind with strained water and 3 cups water.",
+        "Pour the panna into tall glasses, garnish with mint leaves and serve."
+    ],
+    "image": "jamun-panna.jpg",
+    "keywords": [
+        "fruit",
+        "juice",
+        "mocktail",
+        "non-alcoholic",
+        "vegan",
+        "jamun"
+    ]
+}
