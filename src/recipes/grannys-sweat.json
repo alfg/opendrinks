@@ -1,0 +1,32 @@
+{
+"name": "Granny`s Sweat",
+    "description": "The nastiest thing you've ever seen",
+    "github": "reingxd",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "baileys"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "limon juice"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "jin"
+        }
+    ],
+    "directions": [
+        "Sip 10 drops of Baileys",
+        "Add 10 ml of limon juice, to Baileys look like a soured milk",
+        "Add 10 ml of Jin, but not to mingle with Baileys"
+    ],
+    "image": "<drink-name.jpg>",
+    "keywords": [
+        "sweat",
+        "granny"
+    ]
+}
