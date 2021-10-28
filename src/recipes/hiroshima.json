@@ -1,0 +1,40 @@
+{
+    "name": "Hiroshima",
+    "description": "Do you like shots? Then try this creamy, herbal and sweet, absinthe and sambuca-based cocktail, alcoholic and strong.",
+    "github": "wsehl",
+    "ingredients": [
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "Sambuca"
+        },
+        {
+            "quantity": "0.75",
+            "measure": "oz",
+            "ingredient": "Absinte"
+        },
+        {
+            "quantity": "0.35",
+            "measure": "oz",
+            "ingredient": "Irish cream liqueur"
+        },
+        {
+            "quantity": "0.15",
+            "measure": "oz",
+            "ingredient": "Grenadine syrup"
+        }
+    ],
+    "directions": [
+        "Pour 0.75 oz of sambuca into a shot glass",
+        "Use a bar spoon to layer on 0.35 oz of Irish cream liqueur and 0.75 oz of absinthe",
+        "Carefully pour in 5 drops of grenadine syrup using a drinking straw"
+    ],
+    "image": "hiroshima.jpg",
+    "source": "https://us.inshaker.com/cocktails/932-hiroshima",
+    "keywords": [
+        "hiroshima",
+        "irish cream liqueur",
+        "absinte",
+        "sambuca"
+    ]
+}

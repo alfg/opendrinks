@@ -1,0 +1,45 @@
+{
+  "name": "Apple Cider Mules",
+  "description": "Perfect way to toast to Fall!",
+  "github": "phpshko",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "measure": "oz",
+      "ingredient": "vodka"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "ginger beer"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "sparkling cider"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Sliced apple, for garnish"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Cinnamon sticks, for garnish"
+    }
+  ],
+  "directions": [
+    "Fill two copper mugs with ice.",
+    "Pour 2 oz vodka into each cup.",
+    "Fill 2/3 full with sparkling cider, then top with ginger beer.",
+    "Garnish with an apple slice and a cinnamon stick. Serve."
+  ],
+  "image": "apple-cider-mules.jpg",
+  "keywords": [
+    "vodka",
+    "beer",
+    "cider",
+    "cinnamon"
+  ]
+}
