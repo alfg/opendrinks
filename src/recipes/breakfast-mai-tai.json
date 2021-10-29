@@ -1,0 +1,52 @@
+{
+    "name": "Breakfast Mai Tai",
+    "description": "The Breakfast Mai Tai has gone through several iterations at Donna, where it was first created with an oat orgeat for a guest who had a nut allergy. The recipe has evolved over the course of several menus, but its crushability remains intact. As Fancy Chu, the drink's creator, says, 'I definitely would drink this for breakfast when vacationing somewhere tropical, or even on a day off, daydreaming of being in the tropics.'",
+    "github": "lsheltonSTO",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "overproof Jamaican rum (preferably Smith & Cross)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "banana liqueur (preferably Giffard Banane du Bresil)"
+        },{
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "orgeat"
+        },{
+            "quantity": "1/4",
+            "measure": "ounce",
+            "ingredient": "cinnamon syrup"
+        },{
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "lime juice"
+        },{
+            "quantity": "3/4",
+            "measure": "ounce",
+            "ingredient": "black rum (preferably Hamilton)"
+        }
+    ],
+    "directions": [
+        "Combine the overproof rum, banana liqueur, orgeat, cinnamon syrup, and lime juice in a cocktail shaker.",
+        "Add a few pellets of crushed or cracked ice and shake until they melt.",
+        "Pour into a large rocks glass, add the black rum, and top with more crushed ice.",
+        "Garnish with a mint sprig, a charred cinnamon stick, and edible flowers."
+    ],
+    "image": "breakfast-mai-tai.jpg",
+    "source": "https://www.amazon.com/Easy-Tiki-Modern-Revival-Recipes/dp/1984856758/ref=sr_1_1?crid=204CDMWHZGJAC&dchild=1&keywords=easy+tiki+cocktail+book&qid=1635526068&sprefix=easy+tiki%2Caps%2C210&sr=8-1",
+    "keywords": [
+        "tiki",
+        "mai tai",
+        "rum",
+        "banana liqueur",
+        "orgeat",
+        "cinnamon syrup",
+        "lime juice"
+    ]
+}
+
+
