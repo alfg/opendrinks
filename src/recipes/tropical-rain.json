@@ -1,0 +1,52 @@
+{
+    "name": "Tropical Rain",
+    "description": "A light, sweet refreshing Rum drink. Highlighting an almost lost art of using Fassionola syrup.  With a touch of mint to make it cool and crisp in while enjoying rain or shine!",
+    "github": "wkemp",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Havana Club Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Smith & Cross rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Mint syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Fassionola Syrup"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Grapefruit syrup"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "Mix the syrups and water to dilute.",
+        "Combine rum and other mixture in shaker with ice and shake 20 seconds.",
+        "Pour into glass filled with crushed ice.",
+        "The dilution helps cut the sweetness of the cocktail.  For sweeter use less water or shake for less time or both."
+    ],
+    "image": "tropical-rain.jpg",
+    "keywords": [
+        "fruit",
+        "grapefruit",
+        "mint",
+        "rum",
+        "strawberry",
+        "tiki"
+    ]
+}
