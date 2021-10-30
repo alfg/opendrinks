@@ -1,0 +1,61 @@
+{
+    "name": "Es Cendol",
+    "description": "Indonesian tropical drink with coconut milk",
+    "github": "nadyamilona",
+    "ingredients": [
+        {
+            "quantity": "100",
+            "measure": "gram",
+            "ingredient": "rice flour"
+        },
+        {
+            "quantity": "50",
+            "measure": "gram",
+            "ingredient": "sago flour"
+        },
+        {
+            "quantity": "450",
+            "measure": "ml",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "75",
+            "measure": "ml",
+            "ingredient": "water with pandan leaves"
+        },    
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "200",
+            "measure": "gr",
+            "ingredient": "Amanprana Gula Java Coconut blossom sugar"
+        }, 
+        {
+            "quantity": "600",
+            "measure": "ml",
+            "ingredient": "coconut milk"
+        }      
+      
+    ],
+    "directions": [
+        "Mix rice flour with sago flour and pour some water in the mixture. Boil the rest of the water, add green pandan leaves and a little salt.",
+        "Put the flour mixture into the boiled water.",
+        "Stir well and cook until it thickens (paste-like).",
+        "Drain with a strain that has round holes, so when you press the cendol mixture it will go out of the strain as spaghetti.",
+        "Put these cendol directly in a bowl with cold water and ice.",
+        "Cendol will become solid then.>",    
+        "Drain the cendol and set aside.",      
+        "Put some cendol into a tall glass, pour Gula java sugar syrup and coconut milk (separate layers) into the glass. You can add shaved ice or just some ice cubes."                
+    ],
+    "image": "cendol.jpg",
+    "source": "https://www.amanprana.eu/en/recipe/es-cendol-es-dawet/",
+    "keywords": [
+        "cendol",
+        "sweet",
+        "fresh",
+        "Asian"
+    ]
+}
