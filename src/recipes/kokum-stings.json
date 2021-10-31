@@ -1,0 +1,50 @@
+{
+  "name": "Kokum Stings",
+  "description": "Kokum Stings, a drink inspired from Pedro's jaunts to the sea, this concoction is a tribute to the beautiful jellyfish & love for Goa's favourite sour fruit.",
+  "github": "Viniboom",
+  "ingredients": [
+    {
+      "quantity": "45",
+      "measure": "ml",
+      "ingredient": "rum"
+    },
+    {
+      "quantity": "20",
+      "measure": "ml",
+      "ingredient": "kokum syrup"
+    },
+    {
+      "quantity": "20",
+      "measure": "ml",
+      "ingredient": "lime juice"
+    },
+    {
+      "quantity": "10",
+      "measure": "ml",
+      "ingredient": "sugar"
+    },
+    {
+      "quantity": "4",
+      "measure": "",
+      "ingredient": "curry leaves"
+    },
+    {
+      "quantity": "28",
+      "measure": "gm",
+      "ingredient": "one slice of ginger"
+    }
+  ],
+  "directions": [
+    "Muddle ginger and in a shaker, add lightly torn curry leaves and muddled ginger.",
+    "Then mix kokum syrup, lime juice, sugar, rum, add ice and shake altogether.",
+    "Pour into a small rock glass and garnish with curry leaf on ice."
+  ],
+  "image": "kokum-stings.jpg",
+  "source": "https://www.whiskaffair.com/kokum-sharbat",
+  "keywords": [
+    "cocktail",
+    "indian",
+    "fruit",
+    "Goa's favourite"
+  ]
+}
