@@ -1,0 +1,50 @@
+{
+  "name": "Moscato Mules",
+  "description": "A fun twist on the classic.",
+  "github": "phpshko",
+  "ingredients": [
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "moscato"
+    },
+    {
+      "quantity": "1/3",
+      "measure": "cup",
+      "ingredient": "ginger beer"
+    },
+    {
+      "quantity": "2",
+      "measure": "oz",
+      "ingredient": "vodka"
+    },
+    {
+      "quantity": "1",
+      "measure": "tablespoon",
+      "ingredient": "lime juice"
+    },
+    {
+      "quantity": "1",
+      "measure": "",
+      "ingredient": "slice lime, for garnish"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "ice"
+    }
+  ],
+  "directions": [
+    "Fill glass with ice.",
+    "Add moscato, ginger beer, vodka, and lime juice.",
+    "Stir to combine.",
+    "Garnish with lime and serve."
+  ],
+  "image": "moscato-mules.jpg",
+  "keywords": [
+    "moscato",
+    "ginger beer",
+    "vodka",
+    "lime"
+  ]
+}

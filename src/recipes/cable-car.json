@@ -1,0 +1,46 @@
+{
+    "name": "Cable Car",
+    "description": "Vanilla and Spice from rum interact with the orange liqueur interact with this and citrus",
+    "github": "shivanibhinge",
+    "ingredients": [
+        {
+            "quantity": "3/2",
+            "measure": "shot",
+            "ingredient": "Spiced Rum "
+        },
+        {
+            "quantity": "3/4",
+            "measure": "shot",
+            "ingredient": "orange Curacao liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "lemon juice(freshly squeezed)"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "shot",
+            "ingredient": "Sugar Syrup(2 sugar to 1 water rich syrup)"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "shot",
+            "ingredient": "Pasteurized egg white "
+        }
+        
+    ],
+    "directions": [
+        "Shake all the ingredients with ice.",
+        "Fine strain back into shaker.",
+        "Fine Starin (ie without ice).",
+        "Fine strain into chilled glass."
+    ],
+    "image": "cable-car.jpg",
+    "keywords": [
+        "cocktail",
+        "Spiced Rum",
+        "liqueur",
+        "lemon juice"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Dirty Snowmen",
+    "description": "For when you can't take the snow any longer.",
+    "github": "phpshko",
+    "ingredients": [
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "melted chocolate, for rim"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "chocolate shavings"
+        },
+        {
+            "quantity": "1",
+            "measure": "pint",
+            "ingredient": "vanilla ice cream"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "hot chocolate"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "Baileys"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Whipped cream, for serving"
+        }
+        
+    ],
+    "directions": [
+        "Pour melted chocolate and chocolate shavings into separate shallow dishes.",
+        "Dip rims of two mugs in melted chocolate then immediately dip in chocolate shavings.",
+        "Using a medium cookie scoop, add a few scoops of ice cream into each mug.",
+        "Pour hot chocolate and Baileys on top.",
+        "Top with whipped cream and sprinkle with any extra chocolate shavings."
+    ],
+    "image": "dirty-snowman.jpg",
+    "keywords": [
+        "chocolate",
+        "vanila",
+        "ice",
+        "baileys"
+    ]
+}

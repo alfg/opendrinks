@@ -1,0 +1,33 @@
+{
+    "name": "Cheerwine",
+    "description": "A quick and easy fizzy cocktail for any occasion",
+    "github": "tobeornottobeadev",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "can",
+            "ingredient": "Cheerwine"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "tsp",
+            "ingredient": "Lime Juice"
+        }
+    ],
+    "directions": [
+        "In a glass mix Vodka, Cheerwine, and Lime Juice.",
+        "Stir and serve!"
+    ],
+    "image": "cheerwine.jpg",
+    "keywords": [
+        "fizzy",
+        "alcoholic",
+        "vodka",
+        "cheerwine"
+    ]
+}

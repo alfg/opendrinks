@@ -1,0 +1,46 @@
+{
+    "name": "Mint Chocolate Milkshake",
+    "description": "Milkshake made using mint chocolate ice cream as the base",
+    "github": "CaitlinH88",
+    "ingredients": [
+        {
+            "quantity": "25",
+            "measure": "g",
+            "ingredient": "dark chocolate"
+        },
+        {
+            "quantity": "5",
+            "measure": "small scoops",
+            "ingredient": "mint chocolate ice cream"
+        },
+        {
+            "quantity": "175",
+            "measure": "ml",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "5",
+            "measure": "g",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "5",
+            "measure": "g",
+            "ingredient": "dark chocolate shavings"
+        }
+    ],
+    "directions": [
+        "Melt the dark chocolate in a heatproof bowl over a pan of simmering water.", 
+        "Dip the rim of a large sundae glass in the chocolate, then drizzle the rest around the inside of the rim, letting it trickle down inside the glass.",
+        "Chill in the fridge to set.",
+        "Blend the mint chocolate ice cream with the milk.",
+        "Pour into the glass and top with a few mint leaves and a sprinkling of dark chocolate shavings."
+    ],
+    "image": "mint-chocolate-milkshake.jpg",
+    "keywords": [
+        "non-alcoholic",
+        "milkshake",
+        "mint",
+        "chocolate"
+    ]
+}
