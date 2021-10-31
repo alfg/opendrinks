@@ -1,0 +1,31 @@
+{
+    "name": "Kottu",
+    "description": "Kottu is a Sri Lankan dish consisting of diced roti (either godhamba roti or roti similar to the type used to make roti canai) stir-fried with scrambled egg, onions, chillies, spices, and optional vegetables or meat, such as mutton or chicken.",
+    "github": "YasiruPanduka",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Roti"
+        },
+        {
+            "quantity": "1",
+            "measure": "double-shot",
+            "ingredient": "Miris Hodi"
+        }
+    ],
+    "directions": [
+        "Kothu roti is a popular street dish that is widely consumed throughout Sri Lanka ",
+        "very popular in Sri Lankan cuisine",
+        "referring to its method of preparation."
+    ],
+    "image": "kottu.png",
+    "keywords": [
+        "kottu",
+        "dinner",
+        "chicken",
+        "roti",
+        "hot",
+        "Sri Lankan"
+    ]
+}
