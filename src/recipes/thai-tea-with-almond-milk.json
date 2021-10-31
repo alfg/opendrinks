@@ -1,0 +1,48 @@
+{
+    "name": "Thai Tea with almond milk",
+    "description": "Thai tea is popular in Asia. To make it more healthy by using almond milk and low sugar",
+    "github": "miewliie",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Thai tea"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Boiling water"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sweetened condensed milk"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "cup",
+            "ingredient": "Almond milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Crushed ice"
+        }
+    ],
+    "directions": [
+        "1. Take your tea sock and add thai tea. Put tea sock on boil water cup. To steep the tea.",
+        "2. Leave the tea sock for a couple minutes to extract the tea flavour.",
+        "3. Pour the tea to a cup. Mix all the the rest of ingredients except ice.",
+        "4. Bring the cup with the ice. Pour the tea to this cup."
+    ],
+    "image": "thai-tea-with-almond-milk.jpg",
+    "keywords": [
+        "thai tea",
+        "almond milk"
+    ]
+}
