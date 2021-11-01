@@ -1,0 +1,41 @@
+{
+    "name": "Magic Eye Juice",
+    "description": "Treat Your Eyes Right. Vitamins and minerals are important to vision health and we create this tasty juice recipe that's good for the eyes, loaded with all the essential nutrients.",
+    "github": "sushmitaw",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "measure": "cup",
+            "ingredient": "Carrots"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Lemon juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "oranges"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "sweet potato"
+        }
+    ],
+    "directions": [
+        "Peel the oranges and sweet potato, cut into pieces.",
+        "Wash, scrub and chop the carrots and lemon.",
+        "Process all ingreedients through your juicer.",
+        "Optional - strain through a sieve (if you don't like pulp).",
+        "Drink immediately and enjoy!"
+    ],
+    "image": "magic-eye-juice.jpg",
+    "keywords": [
+        "eye sight",
+        "vegan",
+        "gluten free",
+        "fruits"
+    ]
+}
