@@ -1,0 +1,35 @@
+{
+    "name": "Beton",
+    "description": "Herbal Becherovka variation to Gin-Tonic classic.",
+    "github": "4ndrej",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Becherovka"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "Tonic"
+        },
+        {
+            "quantity": "1",
+            "measure": "wedge",
+            "ingredient": "Lemon"
+        }
+    ],
+    "directions": [
+        "Put ice into highball glass.",
+        "Add Becherovka and tonic water.",
+        "Garnish with a lemon wedge."
+    ],
+    "image": "beton.jpg",
+    "keywords": [
+        "becherovka",
+        "tonic",
+        "lemon",
+        "alcoholic",
+        "vegan"
+    ]
+}
