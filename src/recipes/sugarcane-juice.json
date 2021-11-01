@@ -1,0 +1,40 @@
+{
+    "name": "Sugarcane Juice",
+    "description": "Sugarcane Juice is another very common yet beloved drink of the people of the country. The juice extracted from the sugarcane is sweet which is topped with some black salt to make it the right combination of sweet and salty, making it yet another favourite Indian summer drink.",
+    "github": "sushmitaw",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "cubed sugarcane"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "grated ginger"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "water"
+        }
+    ],
+    "directions": [
+        "Peel off the hard sugarcane outer skin, then chop into small cubes.Transfer to a mixer along with ginger.I did this in batches as I used my small mixer jar.",
+        "Add little water and grind it.Now drain the sugarcane extract in a strainer.",
+        "Squeeze it with your hands or press using a spoon.Keep a bowl underneath to hold the juice.Repeat this again if you feel the extract is juicy then grind again and discard.Then proceed grinding with next batch.",
+        "Collect the juice, and then finally strain again so that the small pieces of sugarcane is also strained.Now squeeze half lemon,add salt to the sugarcane juice.Mix well and serve.",
+        "Serve chilled and immediately."
+    ],
+    "image": "sugarcane-juice.jpg",
+    "keywords": [
+        "sugarcane",
+        "summer drink",
+        "cane juice"
+    ]
+}
