@@ -1,0 +1,34 @@
+{
+    "name": "Lemon Cointreau Fizz",
+    "description": "This is a refreshing lemon drink with cointreau mix.",
+    "github": "matheusafonsouza",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "3",
+            "measure": "cup",
+            "ingredient": "Fizzy water"
+        },
+        {
+            "quantity": "1",
+            "measure": "unit",
+            "ingredient": "Lemon"
+        }
+    ],
+    "directions": [
+        "Mix all the ingredients.",
+        "Enjoy refreshing drink."
+    ],
+    "image": "lemon-cointreau-fizz.jpg",
+    "keywords": [
+        "cointreau",
+        "fizzy",
+        "water",
+        "lemon",
+        "fizz"
+    ]
+}
