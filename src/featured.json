@@ -63,19 +63,7 @@
       "drunken-peanut-butter-cups"
     ],
     "size": 12,
-    "enabled": true
-  },
-  {
-    "title": "Everything is Chocolate",
-    "description": "All drink made from chocolate",
-    "items": [
-        "chocolate-milk",
-        "chocolate-monkey",
-        "clavis-riga",
-        "dom-pedro",
-        "indonesian-avocado-milkshake"
-    ],
-    "size": 6
+    "enabled": false
   },
   {
     "title": "Under the Weather Drinks",
@@ -100,6 +88,18 @@
       "rye-tai",
       "sangria",
       "warm-lemon-honey-tea"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Everything is Chocolate",
+    "description": "All drink made from chocolate",
+    "items": [
+        "chocolate-milk",
+        "chocolate-monkey",
+        "clavis-riga",
+        "dom-pedro",
+        "indonesian-avocado-milkshake"
     ],
     "size": 6
   },
