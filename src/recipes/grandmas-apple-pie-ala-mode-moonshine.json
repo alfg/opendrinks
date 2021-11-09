@@ -1,0 +1,57 @@
+{
+    "name": "Grandma's Apple Pie 'Ala Mode' Moonshine",
+    "description": "",
+    "github": "ansidev",
+    "ingredients": [
+        {
+            "quantity": "½",
+            "measure": "gallon",
+            "ingredient": "apple cider"
+        },
+        {
+            "quantity": "½",
+            "measure": "gallon",
+            "ingredient": "apple juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "sticks",
+            "ingredient": "cinnamon"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "clove"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "3",
+            "measure": "cups",
+            "ingredient": "190 proof grain alcohol (such as Everclear®)"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "vanilla vodka"
+        }
+    ],
+    "directions": [
+        "Bring the apple cider, apple juice, cinnamon sticks, whole clove, white sugar, and brown sugar to a boil in a large pot; reduce heat to medium low and simmer for 20 minutes. Remove from heat and cool completely.",
+        "Stir the grain alcohol and vanilla vodka into the cooled mixture. Pour into bottles and refrigerate."
+    ],
+    "image": "grandmas-apple-pie-ala-mode-moonshine.jpg",
+    "source": "https://www.allrecipes.com/recipe/218330/grandmas-apple-pie-ala-mode-moonshine/",
+    "keywords": [
+        "apple",
+        "pie"
+    ]
+}
