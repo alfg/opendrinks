@@ -1,25 +1,5 @@
 [
   {
-    "title": "Popular Drinks",
-    "description": "Popular drinks never going out of style!",
-    "items": [
-      "old-fashioned", 
-      "margarita", 
-      "cosmopolitan",
-      "negroni",
-      "moscow-mule",
-      "mojito",
-      "manhattan",
-      "mimosa",
-      "gimlet",
-      "sidecar",
-      "french-75",
-      "dark-and-stormy",
-      "daiquiri"
-    ],
-    "size": 12
-  },
-  {
     "title": "Holiday Drinks",
     "description": "Cozy drinks to warm your heart and get you in holiday mood",
     "items": [
@@ -42,6 +22,26 @@
     ],
     "size": 12,
     "enabled": true
+  },
+  {
+    "title": "Popular Drinks",
+    "description": "Popular drinks never going out of style!",
+    "items": [
+      "old-fashioned", 
+      "margarita", 
+      "cosmopolitan",
+      "negroni",
+      "moscow-mule",
+      "mojito",
+      "manhattan",
+      "mimosa",
+      "gimlet",
+      "sidecar",
+      "french-75",
+      "dark-and-stormy",
+      "daiquiri"
+    ],
+    "size": 12
   },
   {
     "title": "Halloween Drinks",
