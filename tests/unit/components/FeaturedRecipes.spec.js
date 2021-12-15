@@ -30,7 +30,7 @@ describe('FeaturedRecipes', () => {
     ).toBe('Popular Drinks');
   });
 
-  test('render description', () => {
+  test.skip('render description', () => {
     expect(
       wrapper
         .findAll('p')
