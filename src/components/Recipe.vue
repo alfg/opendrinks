@@ -1,95 +1,107 @@
 <template>
   <article id="recipe">
-    <header class="d-flex justify-content-between align-items-start">
-      <div>
-        <h1>{{ drink.name }}</h1>
-        <ul v-if="drink.keywords" class="mb-2 list-reset d-flex">
-          <li v-for="(o, i) in drink.keywords" v-bind:key="i">
-            <b-badge
-              variant="secondary"
-              :style="badgeStyle"
-              :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
-              >{{ o }}</b-badge
-            >
-          </li>
-        </ul>
+    <b-container v-if="!drink.name" class="main d-flex align-items-center justify-content-center">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <span class="display-1 d-block">404</span>
+          <div class="mb-4 lead">{{ $t('The recipe you are looking for was not found.') }}</div>
+          <b-link to="/">{{ $t('Back to Home') }}</b-link>
+        </div>
       </div>
+    </b-container>
+
+    <div v-else>
+      <header class="d-flex justify-content-between align-items-start">
+        <div>
+          <h1>{{ drink.name }}</h1>
+          <ul v-if="drink.keywords" class="mb-2 list-reset d-flex">
+            <li v-for="(o, i) in drink.keywords" v-bind:key="i">
+              <b-badge
+                variant="secondary"
+                :style="badgeStyle"
+                :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
+                >{{ o }}</b-badge
+              >
+            </li>
+          </ul>
+        </div>
+        <RecipeToolbar
+          v-if="!isMobile"
+          :url="recipeAbsoluteURL"
+          :drink="drink"
+          :name="name"
+          :isPrint="isPrint"
+          v-on:show-image="onShowImage"
+        />
+      </header>
+
+      <p>{{ drink.description }}</p>
+
+      <address class="text-muted">
+        {{ $t('Contributed by') }}:
+        <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
+      </address>
+
       <RecipeToolbar
-        v-if="!isMobile"
+        v-if="isMobile"
         :url="recipeAbsoluteURL"
         :drink="drink"
         :name="name"
         :isPrint="isPrint"
         v-on:show-image="onShowImage"
       />
-    </header>
 
-    <p>{{ drink.description }}</p>
+      <b-container tag="article">
+        <b-row class="justify-content-between" tag="section">
+          <div class="recipe-ingredients">
+            <h2 class="h4">{{ $t('Ingredients') }}</h2>
+            <ul>
+              <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
+                {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+              </li>
+            </ul>
+          </div>
 
-    <address class="text-muted">
-      {{ $t('Contributed by') }}:
-      <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
-    </address>
+          <div class="recipe-image" v-if="showImage">
+            <b-img
+              right
+              class="mb-4"
+              :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
+              :alt="drink.name"
+              rounded
+              fluid-grow
+            />
+          </div>
+        </b-row>
 
-    <RecipeToolbar
-      v-if="isMobile"
-      :url="recipeAbsoluteURL"
-      :drink="drink"
-      :name="name"
-      :isPrint="isPrint"
-      v-on:show-image="onShowImage"
-    />
+        <b-row tag="section">
+          <div class="recipe-directions-list">
+            <h3 class="h4">{{ $t('Directions') }}</h3>
+            <ol class="mb-4">
+              <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
+            </ol>
+          </div>
 
-    <b-container tag="article">
-      <b-row class="justify-content-between" tag="section">
-        <div class="recipe-ingredients">
-          <h2 class="h4">{{ $t('Ingredients') }}</h2>
-          <ul>
-            <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
-              {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
-            </li>
-          </ul>
-        </div>
+          <div class="mt-4" v-if="drink.source">
+            <span>
+              {{ $t('View full recipe at') }}:
+              <a :href="drink.source">{{ drink.source }}</a>
+            </span>
+          </div>
+        </b-row>
+      </b-container>
 
-        <div class="recipe-image" v-if="showImage">
-          <b-img
-            right
-            class="mb-4"
-            :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
-            :alt="drink.name"
-            rounded
-            fluid-grow
+      <section class="similar-drinks mt-4 mb-4">
+        <h4>{{ $t('Similar drinks') }}</h4>
+        <b-card-group deck>
+          <RecipeTile
+            v-for="similarRecipe in similarRecipes"
+            v-bind:key="similarRecipe.id"
+            v-bind:id="similarRecipe.id"
           />
-        </div>
-      </b-row>
-
-      <b-row tag="section">
-        <div class="recipe-directions-list">
-          <h3 class="h4">{{ $t('Directions') }}</h3>
-          <ol class="mb-4">
-            <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
-          </ol>
-        </div>
-
-        <div class="mt-4" v-if="drink.source">
-          <span>
-            {{ $t('View full recipe at') }}:
-            <a :href="drink.source">{{ drink.source }}</a>
-          </span>
-        </div>
-      </b-row>
-    </b-container>
-
-    <section class="similar-drinks mt-4 mb-4">
-      <h4>{{ $t('Similar drinks') }}</h4>
-      <b-card-group deck>
-        <RecipeTile
-          v-for="similarRecipe in similarRecipes"
-          v-bind:key="similarRecipe.id"
-          v-bind:id="similarRecipe.id"
-        />
-      </b-card-group>
-    </section>
+        </b-card-group>
+      </section>
+    </div>
   </article>
 </template>
 
@@ -204,7 +216,6 @@ export default {
   },
   data() {
     return {
-      json: {},
       drink: {},
       similarRecipes: [],
       badgeStyle: {
@@ -229,7 +240,7 @@ export default {
       return (await recipes.getSimilarRecipe(name)).slice(0, NUMBER_OF_SIMILAR_RECIPES);
     },
     getRecipe(name) {
-      const drink = recipes.getRecipe(name);
+      const drink = recipes.getRecipe(name) || {};
       this.drink = drink;
     },
     getGithubUrl(name) {
