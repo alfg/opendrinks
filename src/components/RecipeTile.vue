@@ -81,4 +81,9 @@ export default {
 .card-text p {
   margin-bottom: 0.5rem;
 }
+
+.card-img-top {
+  height: 212px;
+  object-fit: cover;
+}
 </style>
