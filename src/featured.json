@@ -1,24 +1,5 @@
 [
   {
-    "title": "Celebration Drinks",
-    "description": "Drinks to celebrate the new year! 🍾🎉🥂",
-    "items": [
-      "cranberry-orange-whiskey",
-      "french-75",
-      "blood-orange-champagne-mule",
-      "mind-eraser",
-      "negroni",
-      "cranberry-bourbon",
-      "royal-mojito",
-      "white-bear",
-      "moscow-mule",
-      "espresso-martini",
-      "martini"
-     ],
-    "size": 9,
-    "enabled": true
-  },
-  {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
     "items": [
@@ -61,7 +42,26 @@
       "jack-frosties"
     ],
     "size": 18,
-    "enabled": true
+    "enabled": false
+  },
+  {
+    "title": "Celebration Drinks",
+    "description": "Drinks to celebrate the new year! 🍾🎉🥂",
+    "items": [
+      "cranberry-orange-whiskey",
+      "french-75",
+      "blood-orange-champagne-mule",
+      "mind-eraser",
+      "negroni",
+      "cranberry-bourbon",
+      "royal-mojito",
+      "white-bear",
+      "moscow-mule",
+      "espresso-martini",
+      "martini"
+     ],
+    "size": 9,
+    "enabled": false
   },
   {
     "title": "Halloween Drinks",
