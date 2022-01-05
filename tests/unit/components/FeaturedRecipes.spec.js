@@ -40,7 +40,7 @@ describe('FeaturedRecipes', () => {
   });
 
   test('expand featured list if Load More clicked', () => {
-    const EXPECTED_SIZE = wrapper.vm.featuredList[0].size + 6;
+    const EXPECTED_SIZE = wrapper.vm.featuredList[0].size + 3;
     wrapper.vm.loadMore(0);
 
     expect(wrapper.vm.featuredList[0].size).toBe(EXPECTED_SIZE);
