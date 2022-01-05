@@ -27,7 +27,7 @@
 import recipes from '../recipes';
 import RecipeTile from './RecipeTile.vue';
 
-const FEATURED_ITEM_SIZE = 6;
+const FEATURED_ITEM_SIZE = 3;
 
 export default {
   name: 'FeaturedRecipes',
