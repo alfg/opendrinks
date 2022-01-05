@@ -110,7 +110,7 @@ import RecipeTile from '@/components/RecipeTile.vue';
 import recipes from '../recipes';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
 
-const NUMBER_OF_SIMILAR_RECIPES = 6;
+const NUMBER_OF_SIMILAR_RECIPES = 3;
 
 export default {
   name: 'Recipe',
