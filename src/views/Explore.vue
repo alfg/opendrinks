@@ -3,12 +3,12 @@
     <div v-if="showFilter">
       <div class="row">
         <div class="col-12">
-          <h4>{{ $t('Filters') }}</h4>
+          <h4>{{ $t('explore.filters') }}</h4>
         </div>
       </div>
       <div class="row">
         <div class="col-6 d-flex flex-row align-items-center mb-2">
-          <span class="text-nowrap mr-2">{{ $t('Add Keyword') }}</span>
+          <span class="text-nowrap mr-2">{{ $t('explore.addKeyword') }}</span>
           <b-form-select
             v-model="selectedKeyword"
             @change="addNewKeywordToFilter($event)"
@@ -37,7 +37,7 @@
         class="mr-2"
         size="sm"
         v-if="showFilter"
-        v-t="'Reset Filters'"
+        v-t="'explore.resetFilters'"
       />
       <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
     </div>
@@ -118,98 +118,3 @@ export default {
   content: '×';
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "Filters": "フィルター",
-    "Reset Filters": "条件をクリア",
-    "Add Keyword": "キーワードを追加"
-  },
-  "fr": {
-    "Filters": "Filtres",
-    "Reset Filters": "Enlever les filtres",
-    "Add Keyword": "Ajouter un mot-clés"
-  },
-  "es": {
-    "Filters": "Filtros",
-    "Reset Filters": "Reiniciar Filtros",
-    "Add Keyword": "Agregar Palabra Clave"
-  },
-  "hi": {
-    "Filters": "छन्नी",
-    "Reset Filters": "छन्नी रीसेट करें",
-    "Add Keyword": "सूचक-शब्द जोड़ें"
-  },
-  "ar": {
-    "Filters": "المرشحات",
-    "Reset Filters": "إعادة ضبط المرشحات",
-    "Add Keyword": "إضافة الكلمات المفاتيح"
-  },
-  "gl": {
-    "Filters": "Filtros",
-    "Reset Filters": "Reiniciar filtros",
-    "Add Keyword": "Agregar palabra chave"
-  },
-  "de": {
-    "Filters": "Filter",
-    "Reset Filters": "Filter zurücksetzen",
-    "Add Keyword": "Stichwort hinzufügen"
-  },
-  "nl": {
-    "Filters": "Filters",
-    "Reset Filters": "Filters resetten",
-    "Add Keyword": "Trefwoord toevoegen"
-  },
-  "no": {
-    "Filters": "Filter",
-    "Reset Filters": "Nullstill filter",
-    "Add Keyword": "Legg til nøkkelord"
-  },
-  "bn": {
-    "Filters": "ফিল্টার",
-    "Reset Filters": "ফিল্টার রিসেট করুন",
-    "Add Keyword": "কীওয়ার্ড যোগ করুন"
-  },
-  "it": {
-    "Filters": "Filtri",
-    "Reset Filters": "Cancella filtri",
-    "Add Keyword": "Aggiungi parola chiave"
-  },
-  "ru": {
-    "Filters": "Фильтры",
-    "Reset Filters": "Сбросить фильтры",
-    "Add Keyword": "Добавить ключевое слово"
-  },
-  "uk": {
-    "Filters": "Фільтри",
-    "Reset Filters": "Скинути фільтри",
-    "Add Keyword": "Додати ключове слово"
-  },
-  "np": {
-    "Filters": "फिल्टर",
-    "Reset Filters": "फिल्टर रिसेट गर्नुहोस्",
-    "Add Keyword": "मुख्य-शब्द जोड्नुहोस्"
-  },
-  "pt": {
-    "Filters": "Filtros",
-    "Reset Filters": "Restaurar Filtros",
-    "Add Keyword": "Adicionar palavra-chave"
-  },
-  "zh": {
-    "Filters": "筛选",
-    "Reset Filters": "重置筛选",
-    "Add Keyword": "添加关键字"
-  },
-  "vi": {
-    "Filters": "Lọc",
-    "Reset Filters": "Đặt lại bộ lọc",
-    "Add Keyword": "Thêm từ khóa"
-  },
-  "zh": {
-    "Filters": "คัดกรอง",
-    "Reset Filters": "ลบตัวคัดกรอง",
-    "Add Keyword": "ใส่คีย์เวิร์ด"
-  }
-}
-</i18n>

@@ -38,7 +38,7 @@
       <p>{{ drink.description }}</p>
 
       <address class="text-muted">
-        {{ $t('Contributed by') }}:
+        {{ $t('recipe.contributedBy') }}:
         <a :href="getGithubUrl(drink.github)">{{ drink.github }}</a>
       </address>
 
@@ -54,7 +54,7 @@
       <b-container tag="article">
         <b-row class="justify-content-between" tag="section">
           <div class="recipe-ingredients">
-            <h2 class="h4">{{ $t('Ingredients') }}</h2>
+            <h2 class="h4">{{ $t('recipe.ingredients') }}</h2>
             <ul>
               <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
                 {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
@@ -76,7 +76,7 @@
 
         <b-row tag="section">
           <div class="recipe-directions-list">
-            <h3 class="h4">{{ $t('Directions') }}</h3>
+            <h3 class="h4">{{ $t('recipe.directions') }}</h3>
             <ol class="mb-4">
               <li v-for="(o, i) in drink.directions" v-bind:key="i">{{ o }}</li>
             </ol>
@@ -84,7 +84,7 @@
 
           <div class="mt-4" v-if="drink.source">
             <span>
-              {{ $t('View full recipe at') }}:
+              {{ $t('recipe.fullRecipe') }}:
               <a :href="drink.source">{{ drink.source }}</a>
             </span>
           </div>
@@ -92,7 +92,7 @@
       </b-container>
 
       <section class="similar-drinks mt-4 mb-4">
-        <h4>{{ $t('Similar drinks') }}</h4>
+        <h4>{{ $t('recipe.similarDrinks') }}</h4>
         <b-card-group deck>
           <RecipeTile
             v-for="similarRecipe in similarRecipes"
@@ -295,134 +295,3 @@ export default {
   }
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "Contributed by": "提供",
-    "Ingredients": "材料",
-    "Directions": "手順",
-    "View full recipe at": "完全なレシピを見る",
-    "Similar drinks": "似ているドリンク"
-  },
-    "fr": {
-    "Contributed by": "Partagé par",
-    "Ingredients": "Ingrédients",
-    "Directions": "Préparation",
-    "View full recipe at": "Voir la recette complète:",
-    "Similar drinks": "Cocktails similaires"
-  },
-  "es": {
-    "Contributed by": "Aportado por",
-    "Ingredients": "Ingredientes",
-    "Directions": "Instrucciones",
-    "View full recipe at": "Mira la receta completa en",
-    "Similar drinks": "Bebidas similares"
-  },
-  "hi": {
-    "Contributed by": "योगदानी",
-    "Ingredients": "सामग्री",
-    "Directions": "तैयारी",
-    "View full recipe at": "पूरी विधि यहाँ देखें",
-    "Similar drinks": "समान पेय"
-  },
-  "ar": {
-    "Contributed by": "تمّت المساهمة بواسطة",
-    "Ingredients": "المكوّنات",
-    "Directions": "كيفيّة التّحضير",
-    "View full recipe at": "عرض الوصفة كاملة على",
-    "Similar drinks": "مشروبات مماثلة"
-  },
-  "gl": {
-    "Contributed by": "Achegado por",
-    "Ingredients": "Ingredientes",
-    "Directions": "Instrucións",
-    "View full recipe at": "Mira a receita completa en",
-    "Similar drinks": "Bebidas similares"
-  },
-  "de": {
-    "Contributed by": "Beitrag von",
-    "Ingredients": "Zutaten",
-    "Directions": "Rezeptschritte",
-    "View full recipe at": "Das vollständige Rezept finden Sie auf",
-    "Similar drinks": "Ähnliche Getränke"
-  },
-  "nl": {
-    "Contributed by": "Bijdrage door",
-    "Ingredients": "Ingrediënten",
-    "Directions": "Bereidingswijze",
-    "View full recipe at": "Bekijk het volledige recept op",
-    "Similar drinks": "Vergelijkbare drankjes"
-  },
-  "no": {
-    "Contributed by": "Bidrag fra",
-    "Ingredients": "Ingredienser",
-    "Directions": "Fremgangsmåte",
-    "View full recipe at": "Se hele oppskriften på",
-    "Similar drinks": "Lignende drinker"
-  },
-  "ru": {
-    "Contributed by": "Автор",
-    "Ingredients": "Ингредиенты",
-    "Directions": "Способы приготовления",
-    "View full recipe at": "Посмотреть полный рецепт на",
-    "Similar drinks": "Подобные напитки"
-  },
-  "uk": {
-    "Contributed by": "Автор",
-    "Ingredients": "Інгредієнти",
-    "Directions": "Способи приготування",
-    "View full recipe at": "Подивитися повний рецепт на",
-    "Similar drinks": "Подібні напої"
-  },
-  "bn": {
-    "Contributed by": "অবদান করেছেন",
-    "Ingredients": "উপকরণ সমূহ",
-    "Directions": "প্রস্তুত প্রণালি",
-    "View full recipe at": "সম্পূর্ণ রেসিপি দেখুন",
-    "Similar drinks": "অনুরূপ পানীয়গুলো"
-  },
-  "it": {
-    "Contributed by": "Contribuito da",
-    "Ingredients": "Ingredienti",
-    "Directions": "Istruzioni",
-    "View full recipe at": "Vedi la ricetta completa su",
-    "Similar drinks": "Drink simili"
-  },
-  "np": {
-    "Contributed by": "योगदानी",
-    "Ingredients": "सामग्री",
-    "Directions": "तयारी",
-    "View full recipe at": "पुरा नुस्खा यहाँ हेर्नुहोस्",
-    "Similar drinks": "उस्तै पेय"
-  },
-  "pt": {
-    "Contributed by": "Contribuição por",
-    "Ingredients": "Ingredientes",
-    "Directions": "Modo de preparo",
-    "View full recipe at": "Visualizar receita completa em",
-    "Similar drinks": "Bebidas semelhantes"
-  },
-  "zh": {
-    "Contributed by": "贡献者",
-    "Ingredients": "用料",
-    "Directions": "步骤",
-    "View full recipe at": "查看完整配方",
-    "Similar drinks": "类似的饮料"
-  },
-  "vi": {
-    "Contributed by": "Đóng góp bởi",
-    "Ingredients": "Nguyên liệu",
-    "Directions": "Cách làm",
-    "View full recipe at": "Xem toàn bộ công thức tại",
-    "Similar drinks": "Đồ uống tương tự"
-  },
-  "th": {
-    "Contributed by": "ร่วมสนับสนุนโดย",
-    "Ingredients": "ส่วนประกอบ",
-    "Directions": "ขั้นตอน",
-    "View full recipe at": "ดูสูตรทั้งหมด",
-    "Similar drinks": "เครื่องดื่มที่คล้ายกัน"
-  }
-}
-</i18n>
