@@ -15,7 +15,7 @@
         variant="outline-primary"
         v-if="feature.items.length > featuredItemSize && feature.size < feature.items.length"
         v-on:click="loadMore(i)"
-        v-t="'Load More'"
+        v-t="$t('featuredRecipes.loadMore')"
       />
 
       <hr v-if="featuredList.length !== i + 1" />
@@ -51,62 +51,3 @@ export default {
   },
 };
 </script>
-
-<i18n>
-{
-  "ja": {
-    "Load More": "もっと見る"
-  },
-  "fr": {
-    "Load More": "Voir plus"
-  },
-  "es": {
-    "Load More": "Cargar Más"
-  },
-  "hi": {
-    "Load More": "और विधि देखिये"
-  },
-  "ar": {
-    "Load More": "حمّل المزيد"
-  },
-  "gl": {
-    "Load More": "Cargar máis"
-  },
-  "de": {
-    "Load More": "Mehr laden"
-  },
-  "nl": {
-    "Load More": "Laad meer"
-  },
-  "no": {
-    "Load More": "Last mer"
-  },
-  "ru": {
-    "Load More": "Загрузить еще"
-  },
-  "uk": {
-    "Load More": "Завантажити більше"
-  },
-  "bn":{
-    "Load More": "আরো দেখুন"
-  },
-  "it": {
-    "Load More": "Carica altro"
-  },
-  "np": {
-    "Load More": "अझ विधि हेर्नुहोस्"
-  },
-  "pt": {
-    "Load More": "Ver mais"
-  },
-  "zh": {
-    "Load More": "加载更多"
-  },
-  "vi": {
-    "Load More": "Tải thêm"
-  },
-  "th": {
-    "Load More": "โหลดเพิ่มเติม"
-  }
-}
-</i18n>

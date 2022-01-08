@@ -3,20 +3,20 @@
     <b-form-input @keydown.enter="onEnter" v-on:keydown="onKeydown" v-model.trim="search">
     </b-form-input>
 
-    <b-form-group class="mt-2" :label="`${$t('Filter by')}:`">
+    <b-form-group class="mt-2" :label="`${$t('recipeFind.filterBy')}:`">
       <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
-        <b-form-radio value="name">{{ $t('Name') }}</b-form-radio>
+        <b-form-radio value="name">{{ $t('recipeFind.name') }}</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          :title="$t('You can search for multiple ingredients by separating them with a space')"
+          :title="$t('recipeFind.searchForIngredients')"
           value="ingredients"
-          >{{ $t('Ingredients') }}</b-form-radio
+          >{{ $t('recipeFind.ingredients') }}</b-form-radio
         >
         <b-form-radio
           v-b-tooltip.hover
-          :title="$t('You can search for multiple keywords by separating them with a space')"
+          :title="$t('recipeFind.searchForKeywords')"
           value="keywords"
-          >{{ $t('Keywords') }}</b-form-radio
+          >{{ $t('recipeFind.keywords') }}</b-form-radio
         >
       </b-form-radio-group>
     </b-form-group>
@@ -180,152 +180,3 @@ export default {
   },
 };
 </script>
-
-<i18n>
-{
-  "ja": {
-    "Filter by": "検索条件",
-    "Name": "名前",
-    "Ingredients": "材料",
-    "Keywords": "キーワード",
-    "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
-    "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
-  },
-  "fr": {
-    "Filter by": "Filtrer par",
-    "Name": "Nom",
-    "Ingredients": "Ingrédients",
-    "Keywords": "Mots-clés",
-    "You can search for multiple ingredients by separating them with a space": "Vous pouvez chercher avec plusieurs ingrédients en les séparants avec un espace",
-    "You can search for multiple keywords by separating them with a space": "Vous pouvez chercher avec plusieurs mots-clés en les séparants avec un espace"
-  },
-  "es": {
-    "Filter by": "Filtrar por",
-    "Name": "Nombre",
-    "Ingredients": "Ingredientes",
-    "Keywords": "Palabras Clave",
-    "You can search for multiple ingredients by separating them with a space": "Puedes buscar múltiples ingredientes separandolos con espacios",
-    "You can search for multiple keywords by separating them with a space": "Puedes buscar múltiples palabras claves separandolas con espacios"
-  },
-  "hi": {
-    "Filter by": "छाने",
-    "Name": "नाम",
-    "Ingredients": "सामग्री",
-    "Keywords": "सूचक-शब्द",
-    "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
-    "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
-  },
-  "ar": {
-    "Filter by": "صنّف حسب",
-    "Name": "الإسم",
-    "Ingredients": "المكوّنات",
-    "Keywords": "الكلمات المفاتيح",
-    "You can search for multiple ingredients by separating them with a space": "يمكنك البحث عن مكونات متعددة عن طريق فصلها بمسافة",
-    "You can search for multiple keywords by separating them with a space": "يمكنك البحث عن عدة كلمات رئيسية عن طريق فصلها بمسافة"
-  },
-  "gl": {
-    "Filter by": "Filtrar por",
-    "Name": "Nomee",
-    "Ingredients": "Ingredientes",
-    "Keywords": "Palabras chave",
-    "You can search for multiple ingredients by separating them with a space": "Podes buscar múltiples ingredientes separándoos con espazos",
-    "You can search for multiple keywords by separating them with a space": "Podes buscar múltiples palabras craves separándoas con espazos"
-  },
-  "de": {
-    "Filter by": "Filtern nach",
-    "Name": "Name",
-    "Ingredients": "Zutaten",
-    "Keywords": "Schlüsselwörter",
-    "You can search for multiple ingredients by separating them with a space": "Sie können nach mehreren Zutaten suchen, indem Sie diese durch ein Leerzeichen trennen",
-    "You can search for multiple keywords by separating them with a space": "Sie können nach mehreren Stichwörtern suchen, indem Sie diese durch ein Leerzeichen trennen"
-  },
-  "nl": {
-    "Filter by": "Filter op",
-    "Name": "Naam",
-    "Ingredients": "Ingrediënten",
-    "Keywords": "Trefwoorden",
-    "You can search for multiple ingredients by separating them with a space": "Je kunt zoeken op meerdere ingrediënten door ze met een spatie te scheiden",
-    "You can search for multiple keywords by separating them with a space": "Je kunt zoeken op meerdere trefwoorden door ze met een spatie te scheiden"
-  },
-  "no": {
-    "Filter by": "Filtrer etter",
-    "Name": "Navn",
-    "Ingredients": "Ingredienser",
-    "Keywords": "Nøkkelord",
-    "You can search for multiple ingredients by separating them with a space": "Du kan søke etter flere ingredienser ved å skille dem med et mellomrom",
-    "You can search for multiple keywords by separating them with a space": "Du kan søke etter flere nøkkelord ved å skille dem med et mellomrom"
-  },
-  "ru": {
-    "Filter by": "Фильтровать по",
-    "Name": "Название",
-    "Ingredients": "Ингредиенты",
-    "Keywords": "Ключевые слова",
-    "You can search for multiple ingredients by separating them with a space": "Вы можете искать несколько ингредиентов, разделяя их пробелом",
-    "You can search for multiple keywords by separating them with a space": "Вы можете искать несколько ключевых слов, разделяя их пробелом"
-  },
-  "uk": {
-    "Filter by": "Фільтрувати за",
-    "Name": "Назва",
-    "Ingredients": "Інгредієнти",
-    "Keywords": "Ключові слова",
-    "You can search for multiple ingredients by separating them with a space": "Ви можете шукати кілька інгредієнтів, розділяючи їх пробілом",
-    "You can search for multiple keywords by separating them with a space": "Ви можете шукати кілька ключових слів, розділяючи їх пробілом"
-  },
-  "bn": {
-    "Filter by": "ফিল্টার করার নির্ণায়কসমুহ  ",
-    "Name": "নাম",
-    "Ingredients": "উপকরণ সামগ্রী",
-    "Keywords": "কীওয়ার্ড সমূহ",
-    "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
-    "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
-  },
-  "it": {
-    "Filter by": "Filtra per",
-    "Name": "Nome",
-    "Ingredients": "Ingredienti",
-    "Keywords": "Parole chiave",
-    "You can search for multiple ingredients by separating them with a space": "Puoi fare una ricerca utilizzando più ingredienti separandoli con uno spazio",
-    "You can search for multiple keywords by separating them with a space": "Puoi fare una ricerca utilizzando più parole chiave separandole con uno spazio"
-  },
-  "np": {
-    "Filter by": "छाने",
-    "Name": "नाम",
-    "Ingredients": "सामग्री",
-    "Keywords": "मुख्य-शब्द",
-    "You can search for multiple ingredients by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै सामग्रीको लागी खोज्न सक्नुहुन्छ",
-    "You can search for multiple keywords by separating them with a space": "तपाइँ उनीहरु को बीच रिक्त स्थान छोडेर धेरै मुख्य-शब्दको लागी खोज्न सक्नुहुन्छ"
-  },
-  "pt": {
-    "Filter by": "Filtrar por",
-    "Name": "Nome",
-    "Ingredients": "Ingredientes",
-    "Keywords": "Palavra-chave",
-    "You can search for multiple ingredients by separating them with a space": "Você pode buscar por múltiplos ingredientes separando-os com um espaço",
-    "You can search for multiple keywords by separating them with a space": "Você pode buscar por múltiplas palavras-chave separando-as com um espaço"
-  },
-  "zh": {
-    "Filter by": "筛选条件",
-    "Name": "名称",
-    "Ingredients": "用料",
-    "Keywords": "关键词",
-    "You can search for multiple ingredients by separating them with a space": "您可以用空格分隔多个用料在搜索里",
-    "You can search for multiple keywords by separating them with a space": "您可以用空格分隔多个关键字在搜索里"
-  },
-  "vi": {
-    "Filter by": "Lọc theo",
-    "Name": "Tên",
-    "Ingredients": "Nguyên liệu",
-    "Keywords": "Từ khóa",
-    "You can search for multiple ingredients by separating them with a space": "Khi tìm kiếm với nhiều nguyên liệu thì các nguyên liệu phải cách nhau bởi một khoảng trắng",
-    "You can search for multiple keywords by separating them with a space": "Khi tìm kiếm với nhiều từ khóa thì các từ khóa phải cách nhau bởi một khoảng trắng"
-  },
-  "th": {
-    "Filter by": "คัดกรองโดย",
-    "Name": "ชื่อ",
-    "Ingredients": "ส่วนประกอบ",
-    "Keywords": "คำค้นหาสำคัญ",
-    "You can search for multiple ingredients by separating them with a space": "คุณสามารถค้นหาด้วยส่วนประอบหลายอย่างโดยใช้เว้นวรรคแยกคำ",
-    "You can search for multiple keywords by separating them with a space": "คุณสามารถค้นหาด้วยคีย์เวิร์ดหลายตัวโดยใช้เว้นวรรคแยกคำ"
-  }
-}
-</i18n>
