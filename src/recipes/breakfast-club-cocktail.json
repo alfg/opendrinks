@@ -1,0 +1,40 @@
+{
+    "name": "Breakfast Club Cocktail",
+    "description": "An homage to the breakfast club movie, a drink that is slightly fancier than if you poured some bourbon into your leftover cereal milk.",
+    "github": "JacobLBaum",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Cereal Milk"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Demerara Syrup"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "oz",
+            "ingredient": "Bourbon"
+        },
+        {
+            "quantity": "10",
+            "measure": "pieces",
+            "ingredient": "Favorite colorful cereal"
+        }
+    ],
+    "directions": [
+        "Pour cereal milk, demerara syrup and bourbon shaker.",
+        "Shake over ice.",
+        "Strain into glass and garnish with cereal pieces (suggestion: Lucky Charms Marshmallows)"
+    ],
+    "image": "breakfast-club-cocktail.jpg",
+    "source": "https://www.youtube.com/watch?v=6hbaRLTrLsw",
+    "keywords": [
+        "cereal",
+        "bourbon",
+        "demerara",
+        "milk"
+    ]
+}
