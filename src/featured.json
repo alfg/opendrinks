@@ -20,6 +20,42 @@
     "size": 12
   },
   {
+    "title": "Hot Weather drinks",
+    "description": "Refreshing cocktails for those hot days of summer",
+    "items": [
+      "cuba-libre",
+      "mojito",
+      "blue-lady",
+      "daiquiri",
+      "mango-daiquiri",
+      "sunshine-cocktail",
+      "margarita",
+      "pineapple-lime-beer-margarita",
+      "pink-grapefruit-margarita",
+      "sangria",
+      "negroni",
+      "paloma",
+      "sidecar",
+      "pina-colada",
+      "gin-tonic",
+      "lemonade",
+      "watermelon-lemonade",
+      "bourbon-lemonade",
+      "mai-tai",
+      "caipirinha",
+      "caipiroska",
+      "tequila-sunrise",
+      "mint-julep",
+      "bellini",
+      "cosmopolitan",
+      "pisco-sour",
+      "zombie",
+      "gin-fizz"
+    ],
+    "size": 6,
+    "enabled": false
+  },
+  {
     "title": "Holiday Drinks",
     "description": "Cozy drinks to warm your heart and get you in holiday mood",
     "items": [
@@ -109,7 +145,8 @@
       "sangria",
       "warm-lemon-honey-tea"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
   {
     "title": "Everything is Chocolate",
@@ -122,42 +159,6 @@
         "indonesian-avocado-milkshake"
     ],
     "size": 6
-  },
-  {
-    "title": "Hot Weather drinks",
-    "description": "Refreshing cocktails for those hot days of summer",
-    "items": [
-      "cuba-libre",
-      "mojito",
-      "blue-lady",
-      "daiquiri",
-      "mango-daiquiri",
-      "sunshine-cocktail",
-      "margarita",
-      "pineapple-lime-beer-margarita",
-      "pink-grapefruit-margarita",
-      "sangria",
-      "negroni",
-      "paloma",
-      "sidecar",
-      "pina-colada",
-      "gin-tonic",
-      "lemonade",
-      "watermelon-lemonade",
-      "bourbon-lemonade",
-      "mai-tai",
-      "caipirinha",
-      "caipiroska",
-      "tequila-sunrise",
-      "mint-julep",
-      "bellini",
-      "cosmopolitan",
-      "pisco-sour",
-      "zombie",
-      "gin-fizz"
-    ],
-    "size": 6,
-    "enabled": false
   },
   {
     "title": "Strong Drinks",
