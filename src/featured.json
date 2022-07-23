@@ -53,7 +53,7 @@
       "gin-fizz"
     ],
     "size": 6,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Holiday Drinks",
