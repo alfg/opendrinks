@@ -1,0 +1,26 @@
+{
+  "name": "Urak",
+  "description": "",
+  "github": "ashwin-athappan",
+  "ingredients": [
+    { "quantity": "2 3", "measure": "teaspoon", "ingredient": "cashew feni" },
+    { "quantity": "1", "measure": "glass", "ingredient": "limca / lemon juice" },
+    { "quantity": "1 2", "measure": "", "ingredient": "green chili" },
+    { "quantity": "1 2", "measure": "pinch", "ingredient": "table salt" },
+    { "quantity": "1", "measure": "", "ingredient": "lemon" }
+  ],
+  "directions": [
+    "Take two-three tablespoons of cashew feni.",
+    "Fill up half your glass with limca / lemon juice.",
+    "Add a pinch of salt and some ice cubes.",
+    "serve over a green chili."
+  ],
+  "image": "urak.jpg",
+  "keywords": [
+    "urak",
+    "cashew feni",
+    "limca",
+    "lemon juice",
+    "green chili"
+  ]
+}
