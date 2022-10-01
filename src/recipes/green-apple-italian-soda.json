@@ -1,0 +1,36 @@
+{
+    "name": "Green Apple Italian Soda",
+    "description": "A green apple refreshing Italian Soda",
+    "github": "gilvanna",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Green Apple Syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Sparkling water or soda"
+        }
+    ],
+    "directions": [
+        "Fill a 16oz cup half way with ice",
+        "Add 2oz of green apple syrup to the glass",
+        "Add sparkling water or soda"
+    ],
+    "image": "green-apple-italian-soda.jpg",
+    "keywords": [
+        "italian soda",
+        "green apple",
+        "summer",
+        "tropical",
+        "refreshing",
+        "sparkling water"
+    ]
+}
