@@ -1,0 +1,48 @@
+{
+  "name": "Jus Mangga",
+  "description": "Indonesian Mango Juice",
+  "github": "dafaarmanto",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "mangoes",
+          "ingredient": "Mango"
+      },
+      {
+          "quantity": "2",
+          "measure": "tablespoon",
+          "ingredient": "Sugar"
+      },
+      {
+          "quantity": "1",
+          "measure": "tablespoon",
+          "ingredient": "Sweetened condensed milk"
+      },
+      {
+          "quantity": "As pleasure",
+          "measure": "As pleasure",
+          "ingredient": "Water"
+      },
+      {
+          "quantity": "As pleasure",
+          "measure": "As pleasure",
+          "ingredient": "Ice cubes"
+      }
+  ],
+  "directions": [
+      "Peel the mango, then cut the mango flesh.",
+      "If the mango has been cut into small pieces, puree in a blender with water.",
+      "Add sugar, sweetened condensed milk and a little ice to the blender. Puree until the mango flesh is really smooth.",
+      "When the mango is smooth, strain the mango and serve in a serving glass.",
+      "Add ice cubes to the glass and add milk on top.",
+      "Mango juice is ready to be served and enjoyed with your beloved family."
+  ],
+  "image": "jus-mangga.jpg",
+  "source": "https://www.fimela.com/food/read/3753093/resep-jus-mangga-yang-super-segar-dan-sehat",
+  "keywords": [
+      "juice",
+      "mango",
+      "jus",
+      "mangga"
+  ]
+}
