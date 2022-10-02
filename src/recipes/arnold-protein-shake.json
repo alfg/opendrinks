@@ -1,0 +1,56 @@
+{
+    "name": "Arnolds Protein Shake",
+    "description": "Arnold Schwarzenegger secret protein shake receipe packed with protien and schnapps.",
+    "github": "karan919",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "almond milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cherry juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "banana"
+        },
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "protein powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "egg"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Austrian schnapps"
+        }
+    ],
+    "directions": [
+        "Take a mixer.",
+        "Add 8oz of almond milk.",
+        "Add 2oz of cherry juice.",
+        "Add 1 diced banana.",
+        "Add 1 scoop of protein powder.",
+        "Add 1 whole egg.",
+        "Add 1-2oz of Austrian schnapps",
+        "Mix well in blender.",
+        "Serve and enjoy!"
+    ],
+    "image": "arnold-schwarzenegger.png",
+    "keywords": [
+        "arnold",
+        "protein",
+        "schnapps",
+        "austrian",
+        "shake"
+    ]
+}
