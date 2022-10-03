@@ -1,0 +1,37 @@
+{
+	"name": "The Cornell Special Cocktail",
+	"description": "Source: The Savoy Cocktail Book. Lithia water is a mineral water available from several springs around the United States.",
+	"github": "lpgleaves",
+	"ingredients": [{
+			"quantity": "1/4",
+			"measure": "part",
+			"ingredient": "gin"
+		},
+		{
+			"quantity": "1/4",
+			"measure": "part",
+			"ingredient": "Bénédictine"
+		},
+		{
+			"quantity": "1/4",
+			"measure": "Part",
+			"ingredient": "lemon juice"
+		},
+		{
+			"quantity": "1/4",
+			"measure": "Part",
+			"ingredient": "lithia water"
+		}
+	],
+	"directions": [
+		"Stir well and serve in cocktail glass.",
+		"Garnish with lemon spiral, wheel, etc."
+	],
+	"image": "cornell-special.png",
+	"keywords": [
+		"savoy",
+		"craddock",
+		"vintage",
+		"mineral"
+	]
+}
