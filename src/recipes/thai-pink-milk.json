@@ -1,0 +1,40 @@
+{
+    "name": "Thai Pink Milk (Nomyen)",
+    "description": "Pink Milk is a sweet drink similar to a strawberry milkshake, and made with the famous Hale’s Blue Boy Sala Syrup. Stirred and served in under a minute!",
+    "github": "VectorXz",
+    "ingredients": [
+        {
+            "quantity": "¼",
+            "measure": "cup",
+            "ingredient": "Hale’s Blue Boy sala flavored syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "cups",
+            "ingredient": "crushed ice"
+        },
+        {
+            "quantity": "¼",
+            "measure": "cups",
+            "ingredient": "evaporated milk"
+        }
+    ],
+    "directions": [
+        "Mix the milk and sala flavored syrup with a spoon in a mixing jug. Taste the milk mixture and adjust the sweetness to your liking by adding more milk or syrup.",
+        "Fill 3 cups with crushed ice and pour the pink milk mixture over the ice.",
+        "Drizzle some evaporated milk onto the top of each cup and enjoy!"
+    ],
+    "image": "thai-pink-milk.jpeg",
+    "source": "https://www.cookingwithnart.com/nom-yen-thai-pink-milk/",
+    "keywords": [
+        "Thai",
+        "Milk",
+        "simple",
+        "syrup"
+    ]
+}
