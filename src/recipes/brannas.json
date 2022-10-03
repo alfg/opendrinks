@@ -1,0 +1,30 @@
+{
+    "name": "Brannas",
+    "description": "A South African favourite",
+    "github": "vloermatt",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Brandy (preferably Olafberg})"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "Coca-Cola (exclusively) "
+        }
+    ],
+    "directions": [
+        "Pour brandy into your favourite glass",
+        "Add ice (if you're out you can add a few nuts & bolts to still get that ching-eling sound sensation)",
+        "Fill with Coca-Cola and enjoy - Gesondheid!"
+    ],
+    "image": "brannas.jpg>",
+    "keywords": [
+        "brandy",
+        "coke",
+        "alcoholic",
+        "lekker",
+        "vegan"
+    ]
+}
