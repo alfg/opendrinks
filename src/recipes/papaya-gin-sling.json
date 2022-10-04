@@ -1,0 +1,48 @@
+{
+    "name": "Papaya Gin Sling",
+    "description": "P",
+    "github": "<Your Github username>",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "juice",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Papaya Nectar"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Soda Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "stick",
+            "ingredient": "Pineapple"
+        }
+    ],
+    "directions": [
+        "Shake gin,bitters,lime juice and papaya juice in a cocktail shaker with ice.",
+        "Strain into a collins glass filled with ice cubes."
+        "Fill the rest of the way with soda water, stir and garnish with a pineapple stick or canned pineapple tidbits."
+    ],
+    "image": "papaya-gin-sling.jpg",
+    "source": "https://www.absolutdrinks.com/it/drinks/with/papaya-juice/",
+    "keywords": [
+        "gin",
+        "papaya"
+    ]
+}
