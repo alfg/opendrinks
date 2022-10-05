@@ -1,0 +1,32 @@
+{
+    "name": "Blue Ocean",
+    "description": "water based drink",
+    "github": "<patprodrigues",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "sea salt"
+        },
+        {
+            "quantity": "3",
+            "measure": "cubes",
+            "ingredient": "ice"
+        },
+    ],
+    "directions": [
+        "Add the water.",
+        "Add the sea salt to the water.",
+        "Incorporate the ice to the salt water."
+    ],
+    "image": "water.jpg",
+    "keywords": [
+        "glass of water",
+        "..."
+    ]
+}
