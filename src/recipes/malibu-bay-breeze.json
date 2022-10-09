@@ -1,0 +1,37 @@
+{
+    "name": "Malibu Bay Breeze",
+    "description":"A refreshing coconut rum drink with Malibu rum, cranberry and pineapple juice.", 
+    "github": "ingoreintuition",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "Part",
+            "ingredient": "Malibu Original Coconut Run"
+        },
+        {
+            "quantity": "1",
+            "measure": "Part",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "Part",
+            "ingredient": "Pineapple Juice"
+        }
+
+    ],
+    "directions": [
+        "Fill a highball glass with ice",
+        "Pour Malibu original, Pineapple Juice, and Cranberry Juice over ice",
+        "Garnish with lemon"
+    ],
+    "image": "malibu-bay-breeze.jpg",
+    "keywords": [
+        "rum", 
+        "coconut",
+        "pineapple",
+        "cranberry",
+        "fruity",
+        "refreshing"
+    ]
+}

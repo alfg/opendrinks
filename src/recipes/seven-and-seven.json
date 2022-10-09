@@ -1,0 +1,37 @@
+{
+    "name": "Seven and Seven",
+    "description":"A 7 and 7 is a highball cocktail containing Seagram's Seven Crown and 7 Up.", 
+    "github": "ingoreintuition",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "Ounces",
+            "ingredient": "Seagrams 7 Crown Whiskey"
+        },
+        {
+            "quantity": "6",
+            "measure": "Ounces",
+            "ingredient": "7 Up"
+        },
+        {
+            "quantity": "1",
+            "measure": "Wedge of",
+            "ingredient": "Lemon"
+        }
+
+    ],
+    "directions": [
+        "Pour Seagrams in a Collins Glass over ice",
+        "Add 7 Up",
+        "Stir Lightly",
+        "Garnish with Lemon"
+    ],
+    "image": "seven-and-seven.jpg",
+    "keywords": [
+        "whiskey",
+        "alcoholic",
+        "simple",
+        "classic",
+        "lemon"
+    ]
+}
