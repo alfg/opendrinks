@@ -1,0 +1,41 @@
+{
+    "name": "Apple Liqueur",
+    "description": "A sweet apple-flavoured liqueur perfect for the Christmas holidays",
+    "github": "matteomessmer",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "whole",
+            "ingredient": "Apples"
+        },
+        {
+            "quantity": "500",
+            "measure": "g",
+            "ingredient": "Ethyl Alcohol"
+        },
+        {
+            "quantity": "350",
+            "measure": "g",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "300",
+            "measure": "g",
+            "ingredient": "Sugar"
+        }
+    ],
+    "directions": [
+        "Prepare the syrup by melting the water and sugar over a low heat in a saucepan. Afterwards, let it cool down.",
+        "Prepare the apple cores with all their seeds and peel, the pulp should be as little as possible.",
+        "Combine the apple cores, the completely cooled syrup and the alcohol in an airtight jar.",
+		"Leave to rest for 30 days in a dry place away from light, shaking the jar twice a week.",
+		"Filter the liqueur with a cloth or gauze, bottle it and let it rest in a cool, dark place for at least a month before serving."
+    ],
+    "image": "apple-liqueur.jpg",
+    "source": "https://www.misya.info/wp-content/uploads/2020/04/liquore-mela-annurca.jpg",
+    "keywords": [
+        "apple",
+        "liqueur",
+		"sweet"
+    ]
+}

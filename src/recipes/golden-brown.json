@@ -1,0 +1,45 @@
+{
+  "name": "Golden Brown",
+  "description": "Gin, Coffee and Orange for dessert",
+  "github": "marcelosantos89",
+  "ingredients": [
+      {
+          "quantity": "40",
+          "measure": "ml",
+          "ingredient": "Gin"
+      },
+      {
+          "quantity": "50",
+          "measure": "ml",
+          "ingredient": "Coffee liqueur"
+      },
+      {
+          "quantity": "50",
+          "measure": "ml",
+          "ingredient": "Espresso Coffee"
+      },
+      {
+          "quantity": "10",
+          "measure": "ml",
+          "ingredient": "Orange Juice"
+      },
+      {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "slide of orange peel"
+      }
+  ],
+  "directions": [
+      "Freeze the cup before starting your cocktail.",
+      "Pour all the ingredients except for the orange peel into a shaker and shake well.",
+      "Do a double strain and a foam should appear on the top of the drink.",
+      "Place the orange peel above the foam. Enjoy!"
+  ],
+  "image": "golden-brown.jpg",
+  "keywords": [
+      "gin",
+      "coffee",
+      "espresso",
+      "orange"
+  ]
+}

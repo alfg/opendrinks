@@ -1,38 +1,27 @@
 <template>
   <div id="recipe-find">
-    <b-form-input
-      @keydown.enter="onEnter"
-      v-on:keydown="onKeydown"
-      v-model.trim="search"
-    >
+    <b-form-input @keydown.enter="onEnter" v-on:keydown="onKeydown" v-model.trim="search">
     </b-form-input>
 
-    <b-form-group
-      class="mt-2"
-      :label="`${$t('Filter by')}:`"
-    >
-      <b-form-radio-group
-        v-model="selectedSearch"
-        name="selectedSearch"
-      >
-        <b-form-radio value="name">{{ $t('Name') }}</b-form-radio>
+    <b-form-group class="mt-2" :label="`${$t('recipeFind.filterBy')}:`">
+      <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
+        <b-form-radio value="name">{{ $t('recipeFind.name') }}</b-form-radio>
         <b-form-radio
           v-b-tooltip.hover
-          :title="$t('You can search for multiple ingredients by separating them with a space')"
+          :title="$t('recipeFind.searchForIngredients')"
           value="ingredients"
-        >{{ $t('Ingredients') }}</b-form-radio>
+          >{{ $t('recipeFind.ingredients') }}</b-form-radio
+        >
         <b-form-radio
           v-b-tooltip.hover
-          :title="$t('You can search for multiple keywords by separating them with a space')"
+          :title="$t('recipeFind.searchForKeywords')"
           value="keywords"
-        >{{ $t('Keywords') }}</b-form-radio>
+          >{{ $t('recipeFind.keywords') }}</b-form-radio
+        >
       </b-form-radio-group>
     </b-form-group>
 
-    <b-list-group
-      class="mt-4"
-      v-if="search.length > 0"
-    >
+    <b-list-group class="mt-4" v-if="search.length > 0">
       <b-list-group-item
         v-for="o in filterResults"
         v-bind:key="o.name"
@@ -40,7 +29,8 @@
         v-on:mouseleave="onMouseLeave"
         v-on:mousemove="onMouseOverOrMove"
         :to="'/recipe/' + o.filename"
-      >{{ o.name }}</b-list-group-item>
+        >{{ o.name }}</b-list-group-item
+      >
     </b-list-group>
   </div>
 </template>
@@ -103,9 +93,7 @@ export default {
           searchParts.every(
             s =>
               recipe.keywords &&
-              recipe.keywords.some(k =>
-                k.toLowerCase().includes(s.toLowerCase()),
-              ),
+              recipe.keywords.some(k => k.toLowerCase().includes(s.toLowerCase())),
           ),
         );
       }
@@ -113,10 +101,7 @@ export default {
       // Sort the results.
       filtered = filtered.sort((recipeA, recipeB) => {
         // Name-matches to the top if the user wanted to find a drink based on the name
-        const hasName =
-          recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1
-            ? 1
-            : -1;
+        const hasName = recipeB.name.toLowerCase().indexOf(this.search.toLowerCase()) > -1 ? 1 : -1;
 
         // Doesn't seem to be used. Disabling for now.
         // const alphabetical = recipeB.name.toLowerCase() > recipeB.name.toLowerCase() ? -1 : 1;
@@ -151,19 +136,12 @@ export default {
     },
     onEnter() {
       const listElements = this.$children.filter(component => {
-        return (
-          component.$el && component.$el.classList.contains('list-group-item')
-        );
+        return component.$el && component.$el.classList.contains('list-group-item');
       });
-      const currentHighlightedComponentIndex = listElements.findIndex(
-        component => {
-          return component.$el && component.$el.classList.contains('highlight');
-        },
-      );
-      const index =
-        currentHighlightedComponentIndex > 0
-          ? currentHighlightedComponentIndex
-          : 0;
+      const currentHighlightedComponentIndex = listElements.findIndex(component => {
+        return component.$el && component.$el.classList.contains('highlight');
+      });
+      const index = currentHighlightedComponentIndex > 0 ? currentHighlightedComponentIndex : 0;
 
       this.$router.push({
         name: 'recipe',
@@ -172,9 +150,7 @@ export default {
     },
     onKeydown(event) {
       const listElements = this.$children.filter(component => {
-        return (
-          component.$el && component.$el.classList.contains('list-group-item')
-        );
+        return component.$el && component.$el.classList.contains('list-group-item');
       });
       if (listElements.length === 0) {
         return;
@@ -204,80 +180,3 @@ export default {
   },
 };
 </script>
-
-<i18n>
-{
-  "ja": {
-    "Filter by": "検索条件",
-    "Name": "名前",
-    "Ingredients": "材料",
-    "Keywords": "キーワード",
-    "You can search for multiple ingredients by separating them with a space": "スペースで区切ることで複数の材料で検索できます",
-    "You can search for multiple keywords by separating them with a space": "スペースで区切ることで複数のキーワードで検索できます"
-  },
-  "fr": {
-    "Filter by": "Filtrer par",
-    "Name": "Nom",
-    "Ingredients": "Ingrédients",
-    "Keywords": "Mots-clés",
-    "You can search for multiple ingredients by separating them with a space": "Vous pouvez chercher avec plusieurs ingrédients en les séparants avec un espace",
-    "You can search for multiple keywords by separating them with a space": "Vous pouvez chercher avec plusieurs mots-clés en les séparants avec un espace"
-  },
-  "es": {
-    "Filter by": "Filtrar por",
-    "Name": "Nombre",
-    "Ingredients": "Ingredientes",
-    "Keywords": "Palabras Clave",
-    "You can search for multiple ingredients by separating them with a space": "Puedes buscar múltiples ingredientes separandolos con espacios",
-    "You can search for multiple keywords by separating them with a space": "Puedes buscar múltiples palabras claves separandolas con espacios"
-  },
-  "hi": {
-    "Filter by": "छाने",
-    "Name": "नाम",
-    "Ingredients": "सामग्री",
-    "Keywords": "सूचक-शब्द",
-    "You can search for multiple ingredients by separating them with a space": "आप कई सामग्रियों को खोज सकते हैं उनके बीच खाली स्थान छोड़कर",
-    "You can search for multiple keywords by separating them with a space": "आप कई सूचक-शब्द को खोज सकते हैं उनके बीच खाली स्थान छोड़कर"
-  },
-  "de": {
-    "Filter by": "Filtern nach",
-    "Name": "Name",
-    "Ingredients": "Zutaten",
-    "Keywords": "Schlüsselwörter",
-    "You can search for multiple ingredients by separating them with a space": "Sie können nach mehreren Zutaten suchen, indem Sie diese durch ein Leerzeichen trennen",
-    "You can search for multiple keywords by separating them with a space": "Sie können nach mehreren Stichwörtern suchen, indem Sie diese durch ein Leerzeichen trennen"
-  },
-  "nl": {
-    "Filter by": "Filter op",
-    "Name": "Naam",
-    "Ingredients": "Ingrediënten",
-    "Keywords": "Trefwoorden",
-    "You can search for multiple ingredients by separating them with a space": "Je kunt zoeken op meerdere ingrediënten door ze met een spatie te scheiden",
-    "You can search for multiple keywords by separating them with a space": "Je kunt zoeken op meerdere trefwoorden door ze met een spatie te scheiden"
-  },
-  "ru": {
-    "Filter by": "Фильтровать по",
-    "Name": "Название",
-    "Ingredients": "Ингредиенты",
-    "Keywords": "Ключевые слова",
-    "You can search for multiple ingredients by separating them with a space": "Вы можете искать несколько ингредиентов, разделяя их пробелом",
-    "You can search for multiple keywords by separating them with a space": "Вы можете искать несколько ключевых слов, разделяя их пробелом"
-  },
-  "uk": {
-    "Filter by": "Фільтрувати за",
-    "Name": "Назва",
-    "Ingredients": "Інгредієнти",
-    "Keywords": "Ключові слова",
-    "You can search for multiple ingredients by separating them with a space": "Ви можете шукати кілька інгредієнтів, розділяючи їх пробілом",
-    "You can search for multiple keywords by separating them with a space": "Ви можете шукати кілька ключових слів, розділяючи їх пробілом"
-  },
-  "bn": {
-    "Filter by": "ফিল্টার করার নির্ণায়কসমুহ  ",
-    "Name": "নাম",
-    "Ingredients": "উপকরণ সামগ্রী",
-    "Keywords": "কীওয়ার্ড সমূহ",
-    "You can search for multiple ingredients by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক উপাদান অনুসন্ধান করতে পারেন",
-    "You can search for multiple keywords by separating them with a space": "আপনি একটি স্পেস দিয়ে আলাদা করে একাধিক কীওয়ার্ড অনুসন্ধান করতে পারেন"
-  }
-}
-</i18n>

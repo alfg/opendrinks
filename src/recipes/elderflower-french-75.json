@@ -1,0 +1,41 @@
+{
+    "name": "Elderflower French 75",
+    "description": "A deliciously floral twist on the classic French 75",
+    "github": "k-monnik",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "elderflower liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lemon juice, freshly squeezed"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "champagne or prosecco"
+        }
+    ],
+    "directions": [
+        "Add ice, gin, elderflower liqueur and lemon juice to mixing glass and shake until combined and chilled.",
+        "Strain mix into base of champagne flute or martini glass and top with champagne.",
+        "Garnish with a lemon twist."
+    ],
+    "image": "elderflower-french-75.jpg",
+    "source": "https://tipsybartender.com/recipe/elderflower-french-75",
+    "keywords": [
+        "elderflower",
+        "St-Germain",
+        "gin",
+        "champagne",
+        "prosecco"
+    ]
+}

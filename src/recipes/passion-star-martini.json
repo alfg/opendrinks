@@ -1,0 +1,57 @@
+{
+    "name": "Passion Star Martini",
+    "description": "The Passion Star martini is a passion-fruit-flavoured cocktail made with vanilla-flavoured vodka, Passoã, passion fruit juice, and lime juice. It is traditionally accompanied by a chilled shot glass of prosecco.",
+    "github": "gayatribkar",
+    "ingredients": [
+        {
+            "quantity": "3/2",
+            "measure": "ounces",
+            "ingredient": "vanilla flavored vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "passion fruit liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "passion fruit puree"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "lime juice, freshly squeezed"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "vanilla simple syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "chilled sparkling wine"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "passion fruit"
+        }
+    ],
+    "directions": [
+        "Add all ingredients except sparkling wine into a shaker with ice and shake vigorously until well-chilled.",
+        "Strain into a chilled coupe glass.",
+        "Garnish with a passion fruit half.",
+        "Serve with a sparkling wine sidecar (on the side).",
+        "Enjoy!"
+    ],
+    "image": "passion_star_martini.jpg",
+    "keywords": [
+        "Passion star",
+        "Sparking wine",
+        "Rock star",
+        "Vanilla syrup",
+        "vodka"
+    ]
+}

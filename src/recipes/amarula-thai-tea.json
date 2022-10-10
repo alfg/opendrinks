@@ -1,0 +1,37 @@
+{
+    "name": "Amarula Thai Tea",
+    "description": "If there is one must-add to your holiday bar setup this year it’s Amarula. This cream liqueur, made from the Marula fruit, is rich and creamy and delicious in all sorts of holiday inspired cocktails. ",
+    "github": "guido97",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Thai tea"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Amarula Cream Liqueur"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "cup",
+            "ingredient": "fat-free milk, frothed"
+        }
+    ],
+    "directions": [
+        "Bring 4 cups water to a simmer a medium saucepan then turn down the heat and add the Thai tea. Steep for up to 20 minutes over low heat. Strain to remove all of the tea leaves.",
+        "Pour the warm tea into 4 heatproof 12-ounce mugs. Add 2 ounces of Amarula to each cup.",
+        "Top with frothed milk and garnish with star anise or a cinnamon stick."
+    ],
+    "image": "amarula-thai-tea.jpg",
+    "source": "https://www.thekitchn.com/recipe-amarula-thai-tea-recipes-from-the-kitchn-197342?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly",
+    "keywords": [
+        "Amarula",
+        "Milk",
+        "Liquor",
+        "Holiday",
+        "Hot"
+    ]
+}
+

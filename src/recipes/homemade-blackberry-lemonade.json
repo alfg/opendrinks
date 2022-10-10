@@ -1,0 +1,48 @@
+{
+    "name": "Homemade Blackberry Lemonade",
+    "description": "This homemade lemonade is easy to make and gets a flavor boost from blackberries. The end result is light and refreshing which is perfect for those hot summer days.",
+    "github": "ansidev",
+    "ingredients": [
+        {
+            "quantity": "¾",
+            "measure": "cup",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "4 ½",
+            "measure": "cups",
+            "ingredient": "water, divided"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "blackberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "freshly squeezed lemon juice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Heat 3/4 cup sugar and 1/2 cup water in a small saucepan over medium heat. Cook and stir until sugar has dissolved, about 2 minutes. Let cool.",
+        "Place blackberries and remaining 2 tablespoons of sugar in a blender. Blend until smooth.",
+        "Combine simple syrup, blended blackberries, remaining 4 cups of water, and lemon juice. Place a fine-mesh sieve over a pitcher and pour lemonade into the pitcher. Discard solids. Serve over ice."
+    ],
+    "image": "homemade-blackberry-lemonade.jpg",
+    "source": "https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/",
+    "keywords": [
+        "blackberry",
+        "lemonade"
+    ]
+}

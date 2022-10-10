@@ -3,22 +3,19 @@
     <div v-if="showFilter">
       <div class="row">
         <div class="col-12">
-          <h4>{{ $t('Filters') }}</h4>
+          <h4>{{ $t('explore.filters') }}</h4>
         </div>
       </div>
       <div class="row">
         <div class="col-6 d-flex flex-row align-items-center mb-2">
-          <span class="text-nowrap mr-2">{{ $t('Add Keyword') }}</span>
+          <span class="text-nowrap mr-2">{{ $t('explore.addKeyword') }}</span>
           <b-form-select
             v-model="selectedKeyword"
             @change="addNewKeywordToFilter($event)"
             :options="keywordFilter"
           ></b-form-select>
         </div>
-        <div
-          v-if="filteredKeywords"
-          class="col-6 d-flex flex-row align-items-center mb-2"
-        >
+        <div v-if="filteredKeywords" class="col-6 d-flex flex-row align-items-center mb-2">
           <p class="mb-0">
             <b-badge
               v-for="(o, i) in filteredKeywords"
@@ -40,19 +37,11 @@
         class="mr-2"
         size="sm"
         v-if="showFilter"
-        v-t="'Reset Filters'"
+        v-t="'explore.resetFilters'"
       />
-      <b-button
-        variant="outline-secondary"
-        :pressed.sync="showFilter"
-        size="sm"
-        v-t="'Filters'"
-      />
+      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
     </div>
-    <RecipeList
-      title="Open Drinks - Explore"
-      v-bind:items="filterResults"
-    />
+    <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>
 </template>
 
@@ -87,9 +76,7 @@ export default {
       return this.drinks.filter(
         drink =>
           drink.keywords &&
-          this.filteredKeywords.every(keyword =>
-            drink.keywords.includes(keyword),
-          ),
+          this.filteredKeywords.every(keyword => drink.keywords.includes(keyword)),
       );
     },
   },
@@ -131,43 +118,3 @@ export default {
   content: '×';
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "Filters": "フィルター",
-    "Reset Filters": "条件をクリア",
-    "Add Keyword": "キーワードを追加"
-  },
-  "fr": {
-    "Filters": "Filtres",
-    "Reset Filters": "Enlever les filtres",
-    "Add Keyword": "Ajouter un mot-clés"
-  },
-  "es": {
-    "Filters": "Filtros",
-    "Reset Filters": "Reiniciar Filtros",
-    "Add Keyword": "Agregar Palabra Clave"
-  },
-  "hi": {
-    "Filters": "छन्नी",
-    "Reset Filters": "छन्नी रीसेट करें",
-    "Add Keyword": "सूचक-शब्द जोड़ें"
-  },
-  "de": {
-    "Filters": "Filter",
-    "Reset Filters": "Filter zurücksetzen",
-    "Add Keyword": "Stichwort hinzufügen"
-  },
-  "nl": {
-    "Filters": "Filters",
-    "Reset Filters": "Filters resetten",
-    "Add Keyword": "Trefwoord toevoegen"
-  },
-  "bn": {
-    "Filters": "ফিল্টার",
-    "Reset Filters": "ফিল্টার রিসেট করুন",
-    "Add Keyword": "কীওয়ার্ড যোগ করুন"
-  }
-}
-</i18n>

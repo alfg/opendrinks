@@ -1,0 +1,39 @@
+{
+    "name": "Argentinian Mate",
+    "description": "Mate is an extremely popular beverage in Argentina. Made from a bitter herb, called yerba mate, the drink has an extensive history and a wealth of rituals and customs surrounding its consumption. Most foreigners find mate bitter, perhaps even unsavory, but Argentines adore it.",
+    "github": "guido97",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Yerba Mate"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Hot Water"
+        }
+    ],
+    "directions": [
+        "You start by filling the container until it’s just over half full with the yerba.",
+        "Then place your hand on the top of the half-filled container and turn it upside down and give it a bit of a shake bringing the more powdery leaves to the top. This helps you to not suck up the powdery leaves later on!",
+        "Then turn the container on its side and give it a few more shakes meaning the yerba is on a pile on one side.",
+        "Now time for the bombilla! Add a bit of cool water to help preserve some of the mate.",
+        "Then put the bombilla in the empty space in the container trying hard not to disturb the leaves. Bring the bombilla to the wall of the container as far away as you can from the mixture and add cold water until it reaches the top of the powdery pile (with the top of the pile still dry) and wait for the water to be absorbed.",
+        "Pour hot water into the empty space just as you did with the cold water. The water should be about 80 degrees.",
+        "Drink from the bombilla until you drink the entire mate. Don’t just keep sipping. Also, try not to jiggle the straw as you will end up clogging the bombilla.",
+        "The person that makes the mate drinks first and then they refill it and pass it to the next person keeping the same bombilla.",
+        "Keep refilling the container until it loses its taste. It should last for about 10 refills.",
+        "To signal that you don’t want anymore give it back to the ‘el cebador’ (the server) and give them “thanks”. Remember to give “thanks” only after your last mate. Once you have given a “thanks”, you will not be served anymore mate."
+    ],
+    "image": "argentinian-mate.jpg",
+    "source": "https://vamospanish.com/discover/yerba-mate-ultimate-guide/",
+    "keywords": [
+        "Mate",
+        "Hot",
+        "Argentina",
+        "Popular",
+        "Friendly"
+    ]
+}
+

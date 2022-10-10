@@ -1,0 +1,50 @@
+{
+    "name": "Mango Nojito Mocktail",
+    "description": "Non-alcoholic, mojito inspired drink with mango, lime and apple juice",
+    "github": "AnneKir",
+    "ingredients": [
+        {
+            "quantity": "2.5",
+            "measure": "cl",
+            "ingredient": "Mango syrup"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Apple Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Fresh lime juice"
+        },
+        {
+            "quantity": "8",
+            "measure": "cl",
+            "ingredient": "Sparkling water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint leaves"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Pour mango syrup, lime juice, and apple juice into a highball glass",
+        "Add mint leaves and ice as desired",
+        "Stir and fill with sparkling water",
+        "Decorate with a slice of mango and mint leaves"
+    ],
+    "image": "mango-nojito-mocktail.jpg",
+    "source": "https://shake-it.dk/drink/mango-nojito-mocktail/",
+    "keywords": [
+        "mango",
+        "sparkling water",
+        "non alcoholic"
+    ]
+}

@@ -15,8 +15,8 @@
         },
         {
             "quantity": "5",
-            "measure": "Units",
-            "ingredient": "Cinnamon stick"
+            "measure": "stick",
+            "ingredient": "Cinnamon"
         },
         {
             "quantity": "",
@@ -54,6 +54,8 @@
         "wine",
         "hot",
         "cold",
-        "day"
+        "red wine",
+        "apple",
+        "cinnamon"
     ]
 }

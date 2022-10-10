@@ -1,0 +1,45 @@
+{
+    "name": "Pick a Daisy",
+    "description": "Atlanta cocktail in the Daisy category served at The Chastain ",
+    "github": "tobeornottobeadev",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Mezcal"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Pierre Ferrand dry Curacao"
+        },
+        {
+            "quantity": ".75",
+            "measure": "oz",
+            "ingredient": "Lime juice"
+        },
+        {
+            "quantity": ".5",
+            "measure": "oz",
+            "ingredient": "Simple syrup"
+        },
+        {
+            "quantity": ".75",
+            "measure": "oz",
+            "ingredient": "Aquafaba"
+        }
+    ],
+    "directions": [
+        "Place the Pick a Daisy cocktail ingredients in a shaker.",
+        "Add ice (optional).",
+        "Shave vigorously.",
+        "Pour into a coupe and enjoy."
+    ],
+    "image": "pick-a-daisy.jpg",
+    "keywords": [
+        "mezcal",
+        "atlanta",
+        "daisy",
+        "aquafaba"
+    ]
+}

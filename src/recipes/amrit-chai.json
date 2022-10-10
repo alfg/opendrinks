@@ -1,0 +1,45 @@
+{
+    "name": "Amritulya Chai",
+    "description": "A khulad chai made from milk and assam tea and elichi",
+    "github": "nishantminerva",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Assam Tea leave"
+        },
+        {
+            "quantity": "3",
+            "measure": "teaspoon",
+            "ingredient": "Normal Sugar"
+        },
+        {
+            "quantity": "2+1/5",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "2+1/5",
+            "measure": "cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "Whole",
+            "ingredient": "Elaichi"
+        }
+    ],
+    "directions": [
+        "Take a utensil and put the Water and Milk inside it.",
+        "Boil it for 5 minutes",
+        "Now add the Assam tea",
+        "Now wait for 3 minutes",
+        "Now as the color of the milk changes to brown add the elaichi"
+    ],
+    "image": "amritulya-chai.jpg",
+    "keywords": [
+        "Khulad Tea",
+        "Khulad Chai",
+        "Amritulya Chai"
+    ]
+}

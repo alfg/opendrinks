@@ -1,0 +1,72 @@
+{
+    "name": "Ajoblanco",
+    "description": "Ajoblanco is a delicious cold almond and garlic soup typical of southern Spain. Some say it’s the precursor to better known Spanish cold soups like gazpacho and salmorejo.",
+    "github": "maximetinu",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "blanched Marcona almonds"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "white bread"
+        },
+        {
+            "quantity": "1",
+            "measure": "clove",
+            "ingredient": "garlic"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "teaspoons",
+            "ingredient": "sherry vinegar"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "apple"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "extra vurgub ikuve iuk"
+        },
+        {
+            "quantity": "some",
+            "measure": "pieces",
+            "ingredient": "green grapes"
+        }
+    ],
+    "directions": [
+        "Place the stale bread into the blender and cover with the cold water and vinegar.",
+        "Add the strained almonds, diced apple, and garlic.",
+        "Pulse in the blender until smooth.",
+        "Taste and adjust for salt and vinegar.",
+        "Add ice if serving immediately (to make sure it's fully chilled).",
+        "While blending, slowly add the olive oil.",
+        "Taste and adjust seasoning.",
+        "Chill in the fridge if you have time. If not, add some ice cubes.",
+        "To serve, top with sliced green grapes."
+
+    ],
+    "image": "ajoblanco.jpg",
+    "keywords": [
+        "fresh",
+        "healthy",
+        "vegan",
+        "spanish",
+        "andalusian"
+    ]
+}

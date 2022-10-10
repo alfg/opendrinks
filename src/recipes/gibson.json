@@ -1,0 +1,36 @@
+{
+    "name": "Gibson",
+    "description": "A cousin of the ubiquitous martini.",
+    "github": "4ndrej",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Dry Vermouth"
+        },
+        {
+            "quantity": "1",
+            "measure": "peace",
+            "ingredient": "Pickled onion"
+        }
+    ],
+    "directions": [
+        "Pour gin and vermouth into a shaker.",
+        "Stir well with ice.",
+        "Strain into a chilled martini glass.",
+        "Garnish with pickled onion and serve."
+    ],
+    "image": "gibson.jpg",
+    "keywords": [
+        "gin",
+        "vermouth",
+        "onion",
+        "alcoholic",
+        "vegan"
+    ]
+}

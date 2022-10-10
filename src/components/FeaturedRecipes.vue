@@ -1,9 +1,6 @@
 <template>
   <div class="featured-recipes">
-    <div
-      v-for="(feature, i) in featuredList"
-      v-bind:key="i"
-    >
+    <div v-for="(feature, i) in featuredList" v-bind:key="i">
       <h2>{{ feature.title }}</h2>
       <p>{{ feature.description }}</p>
       <b-card-group deck>
@@ -18,7 +15,7 @@
         variant="outline-primary"
         v-if="feature.items.length > featuredItemSize && feature.size < feature.items.length"
         v-on:click="loadMore(i)"
-        v-t="'Load More'"
+        v-t="$t('featuredRecipes.loadMore')"
       />
 
       <hr v-if="featuredList.length !== i + 1" />
@@ -54,35 +51,3 @@ export default {
   },
 };
 </script>
-
-<i18n>
-{
-  "ja": {
-    "Load More": "もっと見る"
-  },
-  "fr": {
-    "Load More": "Voir plus"
-  },
-  "es": {
-    "Load More": "Cargar Más"
-  },
-  "hi": {
-    "Load More": "और विधि देखिये"
-  },
-  "de": {
-    "Load More": "Mehr laden"
-  },
-  "nl": {
-    "Load More": "Laad meer"
-  },
-  "ru": {
-    "Load More": "Загрузить еще"
-  },
-  "uk": {
-    "Load More": "Завантажити більше"
-  },
-  "bn":{
-    "Load More": "আরো দেখুন"
-  }
-}
-</i18n>

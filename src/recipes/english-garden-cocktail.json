@@ -1,0 +1,46 @@
+{
+    "name": "English Garden Cocktail",
+    "description": "A fresh sweet drink perfect for summer with gin and elderflower.",
+    "github": "AnneKir",
+    "ingredients": [
+        {
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "gin"},
+        {
+            "quantity": "3",
+            "measure": "cl",
+            "ingredient": "elderflower juice"},
+        {
+            "quantity": "8",
+            "measure": "cl",
+            "ingredient": "apple juice"},
+{
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lime, juice from"},
+{
+            "quantity": "0,5",
+            "measure": "",
+            "ingredient": "cucumber, sliced along"},
+{
+            "quantity": "",
+            "measure": "",
+            "ingredient": "chrushed ice"},
+{
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint leaves"}
+
+    ],
+    "directions": [
+        "Add gin, lime juice, elderflower juice, and apple juice to a shaker with crushed ice and shake it",
+        "Add to a glass with a slice of cucumber and mint leaves"],
+    "image": "english-garden-cocktail.jpg",
+    "source": "https://www.valdemarsro.dk/english-garden-cocktail/",
+    "keywords": [
+        "gin",
+        "elderflower",
+	    "summer",
+        "lime"]
+}

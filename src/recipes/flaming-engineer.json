@@ -1,0 +1,43 @@
+{
+    "name": "Flaming Engineer",
+    "description": "A very fun and popular drink from an engineering university in Toronto, Canada. Great for parties and after a tough exam.",
+    "github": "woudie",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "measure": "oz",
+            "ingredient": "molson canadian beer"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "amaretto liqueur"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "canadian club whisky"
+        },
+        {
+            "quantity": "6",
+            "measure": "oz",
+            "ingredient": "orange juice"
+        }
+    ],
+    "directions": [
+        "Pour the molson canadian into a nice big mug (~20 oz mug should do)",
+        "Add the amaretto and the whisky",
+        "Float the orange juice on the top",
+        "Serve and drink"
+    ],
+    "image": "flaming-engineer.jpg",
+    "source": "https://www.cocktailbuilder.com/recipe/flaming-engineer",
+    "keywords":[
+        "alcoholic",
+        "whisky",
+        "beer",
+        "liqueur",
+        "orange-juice",
+        "cocktail"
+    ]
+}

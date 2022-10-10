@@ -11,7 +11,7 @@
         {
             "quantity": "2",
             "measure": "oz",
-            "ingredient": "Kahlua"
+            "ingredient": "Kahlúa"
         },
         {
             "quantity": "2",
@@ -37,6 +37,10 @@
     "image": "orgasm.jpg",
     "keywords": [
         "cocktail",
-        "orgasm"
+        "amaretto",
+        "cream",
+        "vodka",
+        "kahlúa",
+        "baileys"
     ]
 }

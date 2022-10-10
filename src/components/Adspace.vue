@@ -14,5 +14,6 @@
 <style scoped>
 .adspace {
   max-height: 100px;
+  margin-bottom: 15px;
 }
 </style>

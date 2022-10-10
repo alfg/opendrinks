@@ -16,7 +16,7 @@
     {
       "quantity": "1",
       "measure": "oz",
-      "ingredient": "Blue Curacao"
+      "ingredient": "Blue Curaçao"
     },
     {
       "quantity": "1",
@@ -41,13 +41,14 @@
   "image": "hocus-pocus.jpg",
   "source": "https://tipsybartender.com/recipe/hocus-pocus/",
   "keywords": [
-    "curacao",
+    "curaçao",
     "melon",
-    "liqeur",
+    "liqueur",
     "vodka",
     "halloween",
     "holiday",
     "fruity",
-    "sweet"
+    "sweet",
+    "blue curaçao"
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "name": "Fireball Hot Toddies",
+  "description": "This can cure your cold and your winter blues.",
+  "github": "phpshko",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "cup",
+      "ingredient": "boiling water"
+    },
+    {
+      "quantity": "1/4",
+      "measure": "cup",
+      "ingredient": "warm carame"
+    },
+    {
+      "quantity": "2",
+      "measure": "teaspoons",
+      "ingredient": "honey"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "unit",
+      "ingredient": "lemon juice"
+    },
+    {
+      "quantity": "1/4",
+      "measure": "cup",
+      "ingredient": "Fireball"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "cinnamon sticks"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "star anise"
+    }
+  ],
+  "directions": [
+    "Bring water to a boil and dip glasses in caramel.",
+    "Add honey to each glass and squeeze lemon juice.",
+    "Pour over Fireball and boiling water and stir until honey is dissolved.",
+    "Top with cinnamon stick and star anise."
+  ],
+  "image": "fireball-hot-toddies.jpg",
+  "keywords": [
+    "lemon",
+    "honey",
+    "cinnamon"
+  ]
+}

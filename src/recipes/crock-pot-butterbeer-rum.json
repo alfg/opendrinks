@@ -1,0 +1,76 @@
+{
+  "name": "Crock-Pot Butterbeer Rum",
+  "description": "Impress all of your friends and make your own butterbeer rum.",
+  "github": "phpshko",
+  "ingredients": [
+    {
+      "quantity": "6",
+      "measure": "cup",
+      "ingredient": "water"
+    },
+    {
+      "quantity": "12",
+      "measure": "oz",
+      "ingredient": "cans cream soda"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "brown sugar"
+    },
+    {
+      "quantity": "1",
+      "measure": "stick",
+      "ingredient": "unsalted butter"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "c",
+      "ingredient": "butterscotch syrup, divided"
+    },
+    {
+      "quantity": "3",
+      "measure": "",
+      "ingredient": "cinnamon sticks"
+    },
+    {
+      "quantity": "1",
+      "measure": "teaspoon",
+      "ingredient": "vanilla"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "teaspoon",
+      "ingredient": "salt"
+    },
+    {
+      "quantity": "2",
+      "measure": "cup",
+      "ingredient": "spiced rum"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Whipped cream, for serving"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "gold sanding sugar, for serving"
+    }
+  ],
+  "directions": [
+    "In Crock-Pot, combine water, cream soda, sugar, butter, 1/4 cup butterscotch, cinnamon sticks, vanilla and salt.",
+    "Cover and cook on low for 3 to 3 1/2 hours, until warm and butter is melted. Remove lid and stir in rum.",
+    "Pour remaining butterscotch syrup onto a shallow plate.",
+    "Dip rims of mugs in syrup before filling with butter beer.",
+    "Top with whipped cream, sprinkle with sanding sugar, and serve."
+  ],
+  "image": "crock-pot-butterbeer-rum.jpg",
+  "keywords": [
+    "rum",
+    "cinnamon",
+    "cream soda",
+    "vanilla"
+  ]
+}

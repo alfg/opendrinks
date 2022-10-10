@@ -20,89 +20,6 @@
     "size": 12
   },
   {
-    "title": "Holiday Drinks",
-    "description": "Cozy drinks to warm your heart and get you in holiday mood",
-    "items": [
-      "christmas-tonic",
-      "white-christmas-mojito",
-      "white-christmas-margaritas",
-      "coquito",
-      "gingerbread-latte",
-      "mulled-wine",
-      "spiced-harvest-fall-sangria",
-      "grinch-drinks",
-      "glogg",
-      "north-pole",
-      "red-stag-dirty-shirley",
-      "swedish-libre",
-      "hot-toddy",
-      "irish-winter",
-      "mulled-apple-crumble-cider",
-      "tumeric-latte"
-    ],
-    "size": 12,
-    "enabled": false
-  },
-  {
-    "title": "Halloween Drinks",
-    "description": "👻 Spooky Drinks for October! 👻",
-    "items": [
-      "bloody-eyeball-shot",
-      "dark-and-stormy",
-      "hocus-pocus",
-      "pumpkintini",
-      "screamsicle",
-      "zombie",
-      "witches-heart",
-      "bloody-kirby",
-      "seven-devils",
-      "corpse-reviver-no2",
-      "cuban-zombie",
-      "vampiro",
-      "drunken-peanut-butter-cups"
-    ],
-    "size": 12,
-    "enabled": true
-  },
-  {
-    "title": "Everything is Chocolate",
-    "description": "All drink made from chocolate",
-    "items": [
-        "chocolate-milk",
-        "chocolate-monkey",
-        "clavis-riga",
-        "dom-pedro",
-        "indonesian-avocado-milkshake"
-    ],
-    "size": 6
-  },
-  {
-    "title": "Under the Weather Drinks",
-    "description": "Drinks to help you warm up when you're sick, or just to help boost your immune system! 🤧🤧",
-    "items": [
-      "bandrek",
-      "beer-pletok",
-      "bloody-mary",
-      "corn-juice",
-      "gazpacho",
-      "ginger-milk-tea",
-      "golden-glow-water",
-      "honey-carrot",
-      "hot-toddy",
-      "indonesian-avocado-milkshake",
-      "jamun-shots",
-      "kenyan-dawa",
-      "london-fog",
-      "medicine-ball-tea",
-      "mulled-apple-crumble-cider",
-      "rusty-nail",
-      "rye-tai",
-      "sangria",
-      "warm-lemon-honey-tea"
-    ],
-    "size": 6
-  },
-  {
     "title": "Hot Weather drinks",
     "description": "Refreshing cocktails for those hot days of summer",
     "items": [
@@ -136,7 +53,112 @@
       "gin-fizz"
     ],
     "size": 6,
+    "enabled": true
+  },
+  {
+    "title": "Holiday Drinks",
+    "description": "Cozy drinks to warm your heart and get you in holiday mood",
+    "items": [
+      "christmas-tonic",
+      "white-christmas-mojito",
+      "white-christmas-margarita",
+      "coquito",
+      "gingerbread-latte",
+      "mulled-wine",
+      "spiced-harvest-fall-sangria",
+      "grinch-drinks",
+      "glogg",
+      "north-pole",
+      "red-stag-dirty-shirley",
+      "swedish-libre",
+      "hot-toddy",
+      "irish-winter",
+      "mulled-apple-crumble-cider",
+      "turmeric-latte",
+      "jack-frosties"
+    ],
+    "size": 18,
     "enabled": false
+  },
+  {
+    "title": "Celebration Drinks",
+    "description": "Drinks to celebrate the new year! 🍾🎉🥂",
+    "items": [
+      "cranberry-orange-whiskey",
+      "french-75",
+      "blood-orange-champagne-mule",
+      "mind-eraser",
+      "negroni",
+      "cranberry-bourbon",
+      "royal-mojito",
+      "white-bear",
+      "moscow-mule",
+      "espresso-martini",
+      "martini"
+     ],
+    "size": 9,
+    "enabled": false
+  },
+  {
+    "title": "Halloween Drinks",
+    "description": "👻 Spooky Drinks for October! 👻",
+    "items": [
+      "black-widow",
+      "bloody-eyeball-shot",
+      "dark-and-stormy",
+      "hocus-pocus",
+      "pumpkintini",
+      "screamsicle",
+      "zombie",
+      "witches-heart",
+      "bloody-kirby",
+      "seven-devils",
+      "corpse-reviver-no2",
+      "cuban-zombie",
+      "vampiro",
+      "drunken-peanut-butter-cups"
+    ],
+    "size": 12,
+    "enabled": false
+  },
+  {
+    "title": "Under the Weather Drinks",
+    "description": "Drinks to help you warm up when you're sick, or just to help boost your immune system! 🤧🤧",
+    "items": [
+      "bandrek",
+      "beer-pletok",
+      "bloody-mary",
+      "corn-juice",
+      "gazpacho",
+      "ginger-milk-tea",
+      "golden-glow-water",
+      "honey-carrot",
+      "hot-toddy",
+      "indonesian-avocado-milkshake",
+      "jamun-shots",
+      "kenyan-dawa",
+      "london-fog",
+      "medicine-ball-tea",
+      "mulled-apple-crumble-cider",
+      "rusty-nail",
+      "rye-tai",
+      "sangria",
+      "warm-lemon-honey-tea"
+    ],
+    "size": 6,
+    "enabled": false
+  },
+  {
+    "title": "Everything is Chocolate",
+    "description": "All drink made from chocolate",
+    "items": [
+        "chocolate-milk",
+        "chocolate-monkey",
+        "clavis-riga",
+        "dom-pedro",
+        "indonesian-avocado-milkshake"
+    ],
+    "size": 6
   },
   {
     "title": "Strong Drinks",

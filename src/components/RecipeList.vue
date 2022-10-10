@@ -1,14 +1,7 @@
 <template>
-  <div
-    id="recipe-list"
-    class=""
-  >
+  <div id="recipe-list" class="">
     <b-card-group deck>
-      <div
-        v-for="(o, i) in paginatedItems"
-        v-bind:key="i"
-        class="card-wrapper mb-2"
-      >
+      <div v-for="(o, i) in paginatedItems" v-bind:key="i" class="card-wrapper mb-2">
         <b-card
           :title="o.name"
           :img-src="o.image ? require(`@/assets/recipes/${o.image}`) : null"
@@ -19,11 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button
-            :to="'/recipe/' + o.filename"
-            variant="primary"
-            v-t="'View Recipe'"
-          />
+          <b-button :to="'/recipe/' + o.filename" variant="primary" v-t="'View Recipe'" />
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"
@@ -34,10 +23,7 @@
     </b-card-group>
 
     <b-row class="mt-4">
-      <b-col
-        cols="12"
-        md="10"
-      >
+      <b-col cols="12" md="10">
         <b-pagination-nav
           @change="onPageChanged"
           :link-gen="linkGen"
@@ -45,15 +31,8 @@
           use-router
         ></b-pagination-nav>
       </b-col>
-      <b-col
-        cols="12"
-        md="2"
-      >
-        <b-form-select
-          v-model="perPage"
-          :options="options"
-          v-on:change="getSelectedItem"
-        >
+      <b-col cols="12" md="2">
+        <b-form-select v-model="perPage" :options="options" v-on:change="getSelectedItem">
         </b-form-select>
       </b-col>
     </b-row>
@@ -105,9 +84,7 @@ export default {
   },
   computed: {
     pages() {
-      return this.items.length === 0
-        ? 1
-        : Math.ceil(this.items.length / this.perPage);
+      return this.items.length === 0 ? 1 : Math.ceil(this.items.length / this.perPage);
     },
     paginatedItems() {
       let pageNumber;
@@ -117,10 +94,7 @@ export default {
       } else {
         pageNumber = 0;
       }
-      return this.items.slice(
-        pageNumber * this.perPage,
-        (pageNumber + 1) * this.perPage,
-      );
+      return this.items.slice(pageNumber * this.perPage, (pageNumber + 1) * this.perPage);
     },
   },
   methods: {
@@ -190,11 +164,20 @@ export default {
   "hi": {
     "View Recipe": "विधि देखे"
   },
+  "ar": {
+    "View Recipe": "شاهد الوصفة"
+  },
+  "gl": {
+    "View Recipe": "Ver receita"
+  },
   "de": {
   "View Recipe": "Rezept ansehen"
   },
   "nl": {
     "View Recipe": "Recept bekijken"
+  },
+  "no": {
+    "View Recipe": "Se oppskrift"
   },
   "ru": {
     "View Recipe": "Просмотреть рецепт"
@@ -204,6 +187,24 @@ export default {
   },
   "bn": {
     "View Recipe": "রেসিপিটি দেখুন"
+  },
+  "it": {
+    "View Recipe": "Visualizza ricetta"
+  },
+  "np": {
+    "View Recipe": "नुस्खा हेर्नुहोस्"
+  },
+  "pt": {
+    "View Recipe": "Ver receita"
+  },
+  "zh": {
+    "View Recipe": "查看配方"
+  },
+  "vi": {
+    "View Recipe": "Xem công thức"
+  },
+  "th": {
+    "View Recipe": "ดูสูตร"
   }
 }
 </i18n>

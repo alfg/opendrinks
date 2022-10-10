@@ -1,0 +1,58 @@
+{
+    "name": "Royal Mojito",
+    "description": "A classy variation on the mojito recipe.",
+    "github": "fatima-rami",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "champagne"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "crushed ice"
+        }
+
+    ],
+    "directions": [
+        "Plunder the ice.",
+        "Crush the mint with a little sugar and rum.",
+        "Squeeze the juice from the lime.",
+        "In a tumbler-type glass:",
+        "Fill it with crushed ice.",
+        "Add the lime juice and the mint leaves.",
+        "Add the rum.",
+        "Complete with champagne."
+    ],
+    "image": "royal-mojito.jpg",
+    "source": "https://www.femmezine.fr/cuisine/cocktails/mojito-royal.html",
+    "keywords": [
+        "rum",
+        "champagne",
+        "mint",
+        "lime",
+        "alcoholic"
+    ]
+  }
+  
