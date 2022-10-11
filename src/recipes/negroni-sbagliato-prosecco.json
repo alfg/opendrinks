@@ -5,17 +5,17 @@
     "ingredients": [
         {
             "quantity": "4",
-            "measure": "ounces",
+            "measure": "oz",
             "ingredient": "dry prosecco"
         },
         {
             "quantity": "1",
-            "measure": "ounce",
+            "measure": "oz",
             "ingredient": "sweet vermouth"
         },
         {
             "quantity": "1/2",
-            "measure": "ounce",
+            "measure": "oz",
             "ingredient": "campari"
         },
         {
