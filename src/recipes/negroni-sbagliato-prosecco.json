@@ -1,0 +1,43 @@
+{
+    "name": "Negroni Sbagliato with Prosecco",
+    "description": "Sbagliato means mistake and refers to the origins of the drink, where the maker swapped out the gin of the original Negroni for prosecco! It is also the drink of choice of actor Emma D'Arcy, who plays Rhaenyra Targaryen in House of the Dragon.",
+    "github": "dangerstone",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "ounces",
+            "ingredient": "dry prosecco"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "sweet vermouth"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "ounce",
+            "ingredient": "Campari"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "fresh orange wheel"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Add ice and the orange slice to the glass",
+        "Pour in campari",
+        "Pour in vermouth",
+        "Pour in prosecco, mix, and enjoy!"
+    ],
+    "image": "<negroni-sbagliato-prosecco.jpg>",
+    "source": "https://www.highsnobiety.com/p/how-to-make-negroni-sbagliato-bar-basso/",
+    "keywords": [
+        "prosecco", "vermouth", "campari"
+    ]
+}
