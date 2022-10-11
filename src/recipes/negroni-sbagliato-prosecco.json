@@ -1,6 +1,6 @@
 {
     "name": "Negroni Sbagliato with Prosecco",
-    "description": "Sbagliato means mistake and refers to the origins of the drink, where the maker swapped out the gin of the original Negroni for prosecco! It is also the drink of choice of actor Emma D'Arcy, who plays Rhaenyra Targaryen in House of the Dragon.",
+    "description": "'Sbagliato' means mistake and refers to the origins of the drink, where the maker swapped out the gin of the original Negroni for prosecco! It is also the drink of choice of actor Emma D'Arcy, who plays Rhaenyra Targaryen in House of the Dragon.",
     "github": "dangerstone",
     "ingredients": [
         {
@@ -16,7 +16,7 @@
         {
             "quantity": "1/2",
             "measure": "ounce",
-            "ingredient": "Campari"
+            "ingredient": "campari"
         },
         {
             "quantity": "1",
