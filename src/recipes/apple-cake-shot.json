@@ -1,0 +1,41 @@
+{
+    "name": "Apple Cake Shot",
+    "description": "A sweet shot that tastes like the Danish apple cake. This ",
+    "github": "dangerstone",
+    "ingredients": [
+        {
+            "quantity": "2/3",
+            "measure": "",
+            "ingredient": "apple juice"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "",
+            "ingredient": "Licor 43 or Galliano"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Whipped cream"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Add ice, apple juice and Licor 43 or Galliano to a shaker and shake for 10 seconds.",
+        "Pour into shot glass(es).",
+        "Top with whipped cream."
+    ],
+    "image": "apple-cake-shot.jpg",
+    "source": "https://shake-it.dk/drink/aeblekage-shots/",
+    "keywords": [
+        "Licor 43",
+        "Apple",
+        "Apple juice",
+        "Sweet",
+        "Danish"
+    ]
+}
