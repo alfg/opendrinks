@@ -1,0 +1,52 @@
+{
+    "name": "Gin Hass",
+    "description": "Fruity and hydrating cocktail - perfect for a warm summer day.",
+    "github": "ywwta",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "mango syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "lemon soda"
+        },
+        {   
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "stem",
+            "ingredient": "fresh mint (can be omitted)"
+        }
+    ],
+    "directions": [
+        "Cut the lime in half and cut a few, thin slices of one of the halves.",
+        "Put gin, mango syrup and the juice of half a lime in a glass. Mix well.",
+        "Add ice cubes and top with lemon soda.",
+        "Garnish with lime slices and the mint stem."
+    ],
+    "image": "<drink-name.jpg>",
+    "source": "https://www.valdemarsro.dk/gin-hass/",
+    "keywords": [
+        "gin",
+        "mango",
+        "lemon soda",
+        "lime",
+        "mint"
+    ]
+}
