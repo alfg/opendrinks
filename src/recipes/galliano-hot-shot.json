@@ -1,0 +1,35 @@
+{
+    "name": "Galliano Hot Shot",
+    "description": "A delicious Italian shot: A mixture of hot coffee, spicy Galliano and luxurious whipped cream",
+    "github": "ywwta",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Galliano"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "dollop",
+            "ingredient": "Whipped cream"
+        }
+    ],
+    "directions": [
+        "Pour the Galliano in a glass of suitable size (e.g. a 5 cl shot glass).",
+        "Holding a teaspoon to the surface of the galliano, slowly poor the coffee onto to back of the teaspoon, so the coffee creates a layer on top of the galliano. Make sure to move the spoon upwards with the face of the liquid.",
+        "Top with whipped cream and enjoy!"
+    ],
+    "image": "galliano-hot-shot.json",
+    "source": "https://makemeacocktail.com/cocktail/7631/galliano-hot-shot/",
+    "keywords": [
+        "galliano",
+        "coffee", 
+        "whipped cream",
+        "shot"
+    ]
+}
