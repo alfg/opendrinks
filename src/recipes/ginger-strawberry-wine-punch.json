@@ -1,0 +1,51 @@
+{
+"name": "Ginger Strawberry Wine Punch",
+"description": "Ginger adds a little kick to this!",
+"github": "bookish",
+"ingredients": [{
+"quantity": "1",
+"measure": "ball",
+"ingredient": "stem ginger"
+},
+{
+"quantity": "1",
+"measure": "tbsp",
+"ingredient": "stem ginger syrup"
+},
+{
+"quantity": "6",
+"measure": "large",
+"ingredient": "washed strawberries"
+},
+{
+"quantity": "4",
+"measure": "tbsp",
+"ingredient": "lime juice"
+},
+{
+"quantity": "0.5",
+"measure": "bottle",
+"ingredient": "red wine"
+},
+{
+"quantity": "2",
+"measure": "tbsp",
+"ingredient": "bourbon or whisky"
+},
+{
+"quantity": "2",
+"measure": "cups",
+"ingredient": "crushed ice"
+}
+],
+"directions": [
+"Combine all ingredients in a blender.",
+"Whiz ginger, ginger syrup, strawberries lime juice in a blender for at least 30 seconds or until smooth.",
+"Add the wine and bourbon to the blender and mix for about fifteen seconds.",
+"This recipe was adapted from this delightful version here:  https://fromthelarder.co.uk/strawberry-stem-ginger-sangria/#recipe"
+],
+"image": "ginger-strawberry-wine-punch.jpg",
+"keywords": [
+"sangria", "ginger", "spice", "strawberry", "strawberries", "juice", "alcoholic", "lime", "cold", "ice", "wine", "red wine", "whisky", "bourbon"
+]
+}
