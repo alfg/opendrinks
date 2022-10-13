@@ -1,0 +1,53 @@
+{
+    "name": "Protein Shake",
+    "description": "The perfect protein shake after gym. Rich in protein and healthy to drink.",
+    "github": "ksjadeja",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "scoop",
+            "ingredient": "Whey Protein Powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "banana slices"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "walnuts"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "peanut butter"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "rolled oats"
+        }
+    ],
+    "directions": [
+        "Add whey protein, banana slices, walnuts and rolled oats to a bullet blender and pour milk of your choice(whole/almond).",
+        "Blend the mixture for 2 mins.",
+        "Serve in a large glass and garnish with banana slices."
+    ],
+    "image": "protein-shake.jpg",
+    
+    "keywords": [
+        "protein shake",
+        "banana",
+        "walnuts",
+        "peanut butter",
+        "oats",
+        "healthy",
+        "after gym"
+    ]
+}
