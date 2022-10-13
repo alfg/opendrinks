@@ -1,0 +1,42 @@
+{
+"name": "Dandelion Pineapple Smoothie",
+"description": "Super Combination of Bitter Dandelion, Spicy Ginger, Sour Lemon, Sweet Apple and Pineapple",
+"github": "bookish",
+"ingredients": [{
+"quantity": "1",
+"measure": "large bunch",
+"ingredient": "fresh dandelion leaves"
+},
+{
+"quantity": "1",
+"measure": "inch",
+"ingredient": "fresh peeled ginger"
+},
+{
+"quantity": "1",
+"measure": "tbsp",
+"ingredient": "lemon juice"
+},
+{
+"quantity": "1",
+"measure": "large",
+"ingredient": "peeled and cored pineapple"
+},
+{
+"quantity": "1",
+"measure": "whole",
+"ingredient": "cored organic granny smith apple"
+}
+],
+"directions": [
+"Wash the dandelion, and take off most leaves to use, leaving the tough stems for a salad.",
+"Chop the ginger, apple and pineapple.",
+"Puree all ingredients in a blender or food processor, adding water as needed.",
+"If it is too thick, then serve.",
+"This recipe was adapted from this yummy version here:  https://nurturemygut.com/dandelion-green-juice.html/"
+],
+"image": "dandelion-pineapple-smoothie.jpg",
+"keywords": [
+"dandelion", "apple", "ginger", "lemon", "pineapple", "juice", "non-alcoholic", "cleanse", "cold"
+]
+}
