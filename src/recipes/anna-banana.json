@@ -1,0 +1,40 @@
+{
+    "name": "Anna Banana",
+    "description": "The silly What Cocktail Are You?",
+    "github": "headStyleColorRed",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "prts",
+            "ingredient": "Banana"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Honey"
+        }
+    ],
+    "directions": [
+        "Peel and slice the banana; add to blender. ",
+        "Add vodka, lime juice and honey (or substitute almond syrup).",
+        "Add cracked ice, and blend on medium speed for 15 seconds. ",
+        "Pour into a chilled white wine glass, garnish with a slice of lime, and serve."
+    ],
+    "image": "anabanana.jpg",
+    "keywords": [
+        "banana",
+        "vodka",
+        "lime juice",
+        "cocktail"
+    ]
+}
