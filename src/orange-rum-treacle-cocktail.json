@@ -1,0 +1,56 @@
+{
+"name": "Orange Rum Treacle Cocktail",
+"description": "Sweet Orange Rum flavour",
+"github": "bookish",
+"ingredients": [{
+"quantity": "1",
+"measure": "teaspoon",
+"ingredient": "sugar"
+},
+{
+"quantity": "1",
+"measure": "teaspoon",
+"ingredient": "water"
+},
+{
+"quantity": "0.5",
+"measure": "teaspoon",
+"ingredient": "treacle"
+},
+{
+"quantity": "5",
+"measure": "dashes",
+"ingredient": "orange bitters"
+},
+{
+"quantity": "0.5",
+"measure": "cup",
+"ingredient": "apple juice"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "rum"
+},
+{
+"quantity": "0.25",
+"measure": "cup",
+"ingredient": "ice"
+},
+{
+"quantity": "1",
+"measure": "slice",
+"ingredient": "washed orange peel"
+}
+],
+"directions": [
+"Mix the sugar, water, treacle, and bitters into a serving glass.",
+"Add half of the ice, then pour over the rum and juice.",
+"Stir gently, then add the remaining ice and peel!",
+"This recipe was adapted from this splendid version here:  https://www.jamieoliver.com/recipes/rum-recipes/treacle-cocktail/"
+],
+"image": "orange-rum-treacle-cocktail.jpg",
+"keywords": [
+"orange", "apple", "rum", "treacle", "ice", "juice", "alcoholic", "sugar", "cold"
+]
+}
