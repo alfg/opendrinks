@@ -1,0 +1,38 @@
+{
+    "name": "Coco No Coco",
+    "description": "Embodying the true Easy Tiki spirit, this four-ingredient recipe was first cobbled together to pass muster when a commonly called-for tiki ingredient was not readily on hand.  'This is a fun one we use quite often when we run out of coconut cream,' says Ezra Star, general manager of Boston's pioneering menu-less cocktail bar, Drink, which hosts a monthly tiki night.  Standard heavy cream pairs with orgeat, pineapple juice, and aged Demerara rum for a full-bodied yet wholly refreshing mixture - from the book Easy Tiki",
+    "github": "lsheltonSTO",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "ounces",
+            "ingredient": "aged Demerara rum (preferably El Dorado 12 year)"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "ounce",
+            "ingredient": "heavy cream"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "ounce",
+            "ingredient": "pineapple juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "ounce",
+            "ingredient": "orgeat"
+        }
+    ],
+    "directions": [
+        "Combine all the ingredients in a cocktail shaker.",
+        "Add ice and shake briefly to integrate, about 5 seconds.",
+        "Strain into a tiki mug or an extra-tall Collins glass filled with crushed ice.",
+        "Garnish with freshly grated nutmeg, grated cinnamon, and a tonka bean, if desired."
+    ],
+    "image": "coco-no-coco.jpg",
+    "keywords": [
+        "tiki",
+        "rum"
+    ]
+}
