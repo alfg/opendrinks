@@ -1,0 +1,57 @@
+{
+    "name": "Kokusai Island Iced Tea",
+    "description": "The classic Long Island Iced Tea with a Japanese twist",
+    "github": "PiratePie",
+    "ingredients": [
+      {
+        "quantity": "15",
+        "measure": "ml",
+        "ingredient": "gin"
+      },
+      {
+        "quantity": "15",
+        "measure": "ml",
+        "ingredient": "tequila"
+      },
+      {
+        "quantity": "15",
+        "measure": "ml",
+        "ingredient": "vodka"
+      },
+      {
+        "quantity": "15",
+        "measure": "ml",
+        "ingredient": "white rum"
+      },
+      {
+        "quantity": "15",
+        "measure": "ml",
+        "ingredient": "cold sake "
+      },
+      {
+        "quantity": "1/2",
+        "measure": "",
+        "ingredient": "lemon"
+      },
+      {
+        "quantity": "80",
+        "measure": "ml",
+        "ingredient": "cola"
+      }
+    ],
+    "directions": [
+        "Use a Mexican Elbow to squize the juice from the lemon in the shaker.",
+        "Add all other ingredients except the cola in a shaker.",
+        "Fill a highball glass and the other half of the shaker with ice.",
+        "Add cola to the highball glass",
+        "Shake the shaker for 10 seconds",
+        "Carefully fine strain pour the shaker on top of the cola, this will create a nice contrast between the black cola and white alcohol.",
+        "Garnish with slice of lemon and branch of mint and add bamboo straw."
+    ],
+    "image": "kokusai-island-iced-tea.jpg",
+    "keywords": [
+      "cocktail",
+      "japanese"
+    ]
+  }
+  
