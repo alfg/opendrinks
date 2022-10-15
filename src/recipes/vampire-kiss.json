@@ -1,0 +1,42 @@
+{
+    "name": "Vampire's Kiss",
+    "description": "Get into a Halloween mood with this vampire-inspired cocktail, with champagne, vodka and raspberry liqueur. Garnish with red sugar for the wow factor",
+    "github": "manu03x",
+    "ingredients": [
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "raspberry liqueur"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup>",
+            "ingredient": "iceS"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "frozen raspberries"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "red sugar"
+        }
+    ],
+    "directions": [
+        "Chill a martini or cocktail glass. Pour the raspberry liqueur and vodka into a cocktail shaker and add a handful of ice and the raspberries.",
+        "Shake until the outside of the shaker feels very cold. If using the coloured sugar, dip the rim of your chilled glass into cold water, then into the sugar."
+    ],
+    "image": "vampire-kiss.jpg",
+    "keywords": [
+        "strawberry",
+        "cocktail",
+        "halloween"
+    ]
+}
