@@ -1,0 +1,36 @@
+{
+    "name": "Pedo de Gorila",
+    "description": "Esta es una bebida bastante fuerte, la idea principal es servir un vaso de cerveza clara a la mitad, luego en un shot de teuquila calentado a la mayor temperatura posible y despues se echa en el vaso de cerveza y cuando el shot hace contacto con la cerveza hay que beberlo ràpidamente ya que el liquido generara una reacción bastante brusca.",
+    "github": "rolandoivan23",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "Lt",
+            "ingredient": "Cerveza clara"
+        },
+        {
+            "quantity": "1",
+            "measure": "Shot",
+            "ingredient": "de vidrio resistenete a altas temperaturas"
+        },
+        {
+            "quantity": "50-70",
+            "measure": " mls",
+            "ingredient": "de tequila reposado"
+        }
+    ],
+    "directions": [
+        "Servir un vaso a la mitad de cerveza clara",
+        "Llenar un shot de tequila",
+        "Calentar el shot de tequila a la mayor temperatura posible",
+        "Echar el shot de tequila al vaso de cerveza",
+        "Tomar rápidamente todo el liquido subiendo a presión",
+        "Rezar a Dios que no te de una congestion alcohólica"
+    ],
+    "image": "pedo-de-gorila.jpg",
+    "keywords": [
+        "alcoholic", 
+        "beer",
+        "tequila"
+    ]
+}
