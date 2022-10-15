@@ -1,0 +1,38 @@
+{
+  "name": "Mark Twain",
+  "description": "The Mark Twain scotch cocktail apparently dates back well into the 1800’s making it a classic cocktail for sure.",
+  "github": "brumcaroline",
+  "ingredients": [
+      {
+          "quantity": "50",
+          "measure": "ml",
+          "ingredient": "whisky"
+      },
+      {
+          "quantity": "15",
+          "measure": "ml",
+          "ingredient": "sugar syrup"
+      },
+      {
+          "quantity": "2",
+          "measure": "dashes",
+          "ingredient": "angostura bitter"
+      },
+      {
+          "quantity": "25",
+          "measure": "ml",
+          "ingredient": "lemon juice"
+      }
+  ],
+  "directions": [
+      "Add all ingredients to a cocktail shaker with ice and shake well.",
+      "Strain into a chilled cocktail glass.",
+      "Garnish with a lemon wedge and serve."
+  ],
+  "image": "mark-twain.jpg",
+  "keywords": [
+      "alcoholic",
+      "whisky",
+      "simple"
+  ]
+}
