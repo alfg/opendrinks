@@ -1,0 +1,49 @@
+{
+    "name": "Tejuino Margarita",
+    "description": "Tejuino Margarita is an mexican drink made by the second generation of Cerrillos Hernandez Family. It is a combination of two traditional drinks: Tequila and Tejuino.",
+    "github": "SczSca",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "White Tequila"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Tejuino"
+        },
+        {
+            "quantity": "2",
+            "measure": "lemons",
+            "ingredient": "juice of lemon"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "grasshopper salt"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "tatemado corn"
+        }
+    ],
+    "directions": [
+        "Put all ingredients except the salt and corn in a mixing glass with ice cubes",
+        "Shake it for 15 seconds and drain it in another glass",
+        "Rim the glass with grasshopper salt",
+        "Add the tatemado corn to the drink",
+        "Enjoy a drink made of two traditional drinks!"
+    ],
+    "image": "tejuino-mezcal.jpg",
+    "keywords": [
+        "tequila",
+        "mexican",
+        "tejuino",
+        "alcoholic",
+        "non-vegan",
+        "traditional",
+        "margarita"
+    ]
+}
