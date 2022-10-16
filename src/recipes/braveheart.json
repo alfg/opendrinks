@@ -1,0 +1,64 @@
+{
+    "name": "Braveheart",
+    "description": "A cocktail meant to delight your taste buds",
+    "github": "Donearm",
+
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Scotch Whiskey"
+        },
+        {
+            "quantity": "22",
+            "measure": "ml",
+            "ingredient": "Lime Juice"
+        },
+        {
+            "quantity": "22",
+            "measure": "ml",
+            "ingredient": "Brown Sugar Simple Syrup"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Liquid Nitrogen"
+        },
+        {
+            "quantity": "2",
+            "measure": "drops",
+            "ingredient": "Saline"
+        },
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Mint"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Blackberries"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Mint Sprig"
+		}
+    ],
+    "directions": [
+		"Drop mint into a shaking glass and pour over liquid nitrogen. Muddle.",
+		"Add Scotch, lime juice, simple syrup and saline.",
+		"Add ice and shake well.",
+		"Strain mix into a glass over ice.",
+		"Garnish with a mint sprig"
+    ],
+    "image": "Braveheart.jpg",
+        "keywords": [
+		"whiskey",
+        "brown sugar",
+		"mint",
+		"alcoholic",
+		"lime",
+		"blackberries"
+        ]
+}
