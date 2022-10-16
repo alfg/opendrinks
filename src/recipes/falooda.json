@@ -1,0 +1,53 @@
+{
+    "name": "Falooda",
+    "description": "A popular Indian dessert drink made with milk, vermicelli and rose syrup",
+    "github": "manisha-nair28",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sweet basil seeds"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "rose syrup"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "vermicelli noodles"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "cold milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "scoop",
+            "ingredient": "any ice cream"
+        },
+      {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "chopped nuts"
+        }
+
+    ],
+    "directions": [
+        "Soak the sweet basil seeds for 20-30 minutes. After that, strain the seeds to remove extra water. ",
+        "Break/chop the vermicelli noodles and cook them till they are soft.",
+        "Add 1.5 to 2 tablespoons of rose syrup in a serving glass as per the sweetness required. ",
+        "Add 2 tablespoons of the soaked sweet basil seeds. Then add 2 to 3 tablespoons of cooked vermicelli noodles.",
+        "Pour 1 cup of chilled milk and stir gently.",
+        "Finally, add a scoop of your preferred ice cream and garnish with chopped nuts."
+    ],
+    "image": "<falooda.jpg>",
+    "keywords": [
+        "non-alcoholic",
+        "Indian",
+        "layers",
+        "dessert"
+    ]
+}
