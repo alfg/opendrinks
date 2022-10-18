@@ -1,0 +1,58 @@
+{
+    "name": "Taste The Rainbow",
+    "description": "Taste the rainbow with this colorful fruity layered vodka cocktail recipe.",
+    "github": "dcorriveau",
+    "ingredients": [
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Peach Schnapps"
+        },
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Pineapple Juice"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Blue Curaçao"
+        },
+        {
+            "quantity": "1",
+            "measure": "Slice",
+            "ingredient": "Orange"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Cherry"
+        }
+    ],
+    "directions": [
+        "Pour some Grenadine into the base of a glass and slowly spoon in some ice cubes. Set aside.",
+        "In a shaking glass with ice, combine peach schnapps and pineapple juice. Shake well.",
+        "Slowly pour over grenadine, filling almost to the top.",
+        "In a separate shaking glass with ice, combine vodka and blue curaçao. Shake well and carefully layer on top.",
+        "Garnish with an orange slice and a cherry."
+    ],
+    "image": "taste-the-rainbow.jpg",
+    "keywords": [
+        "tropical",
+        "pinapple",
+        "curacao",
+        "vodka",
+        "schnapps",
+        "alcoholic"
+    ]
+}

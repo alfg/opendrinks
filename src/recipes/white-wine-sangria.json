@@ -1,0 +1,69 @@
+{
+    "name": "White Wine Sangria",
+    "description": "Sangria is a refreshing summer drink and it's dating back to the Middle Ages.",
+    "github": "twistershark",
+    "ingredients": [
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "mango: cubed"
+        },
+        {
+          "quantity": "1",
+          "measure": "",
+          "ingredient": "peach: sliced"
+        },
+        {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "strawberries: sliced"
+         },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar: granulated"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "Grand Marnier"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "apple: sliced"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "orange: sliced"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime: sliced"
+        },
+        {
+            "quantity": "1",
+            "measure": "750-ml",
+            "ingredient": "bottle dry white wine, chilled"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "seltzer"
+        }
+    ],
+    "directions": [
+        "In a medium bowl, combine strawberries, mango, peach, sugar, and Grand Marnier. Refrigerate for 1 hour.",
+        "To a large pitcher, add refrigerated fruit and apple, orange, and lime slices. Pour in white wine and seltzer, and stir to combine. Serve well chilled."
+    ],
+    "image": "white-wine-sangria.jpg",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a27103875/white-wine-sangria-recipe/",
+    "keywords": [
+        "whine",
+        "wine",
+        "sangria",
+        "alcoholic"
+    ]
+}

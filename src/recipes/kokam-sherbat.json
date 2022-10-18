@@ -1,0 +1,63 @@
+{
+    "name": "kokam sherbat",
+    "description": "Basically, a healthy and refreshing cool drink or beverage prepared mainly from the kokum fruit or garcinia indica.",
+    "github": "pari-27",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "kokam"
+        },
+        {
+            "quantity": "2.5",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "tsp",
+            "ingredient": "cumin powder"
+        },
+        {
+            "quantity": "1.25",
+            "measure": "tsp",
+            "ingredient": "black pepper"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "salt"
+        }
+    ],
+    "directions": [
+        "Firstly, in a large bowl soak 1½ cup kokum in 2 cups of hot water for 3 hours.",
+        "Transfer to a blender and blend to coarse paste.",
+        "Take the kokum paste to kadai.",
+        "Add 2 cup sugar and ½ cup water.",
+        "Mix well-dissolving sugar completely.",
+        "Further, add boil for 10-15 minutes stirring occasionally.",
+        "Boil until the mixture thickens and forms syrup consistency.",
+        "Turn off the flame and add ½ tsp cumin powder, ¼ tsp crushed pepper and pinch of salt.",
+        "Mix well and pass the mixture through a sieve.",
+        "Make sure to squeeze of the pulp completely.",
+        "Now kokum syrup is ready. refrigerate it and use as required. kokum syrup stays good for 2-3 months when refrigerated.",
+        "To make kokum juice from kokum concentration, take few ice cubes in a glass.",
+        "Pour 2 tbsp of prepared kokum syrup / kokum concentration.",
+        "Pour 2 cups of cold water and mix well.",
+        "Finally, serve kokum juice / kokum sharbat chilled garnished with mint leaves."
+    ],
+    "image": "kokam-sherbat.jpg",
+    "source": "https://hebbarskitchen.com/kokum-juice-recipe-kokam-sharbat",
+    "keywords": [
+        "sherbat",
+        "kokam",
+        "refreshing",
+        "summer",
+        "healthy"
+    ]
+}

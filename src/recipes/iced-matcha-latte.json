@@ -1,0 +1,48 @@
+{
+    "name": "Iced Matcha Latte",
+    "description": "This Iced Matcha Latte is a creamy and refreshing beverage, perfect for a morning or afternoon pick me up",
+    "github": "amgcheng",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Matcha Powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Syrup or Sugar or Honey"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Hot Water"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Heavy Cream or Coffee Creamer"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Ice"
+        }
+    ],
+    "directions": [
+        "Place Matcha Powder in small bowl",
+        "Add Hot Water and whisk until smooth with no lumps remaining",
+        "Place Ice in your glass",
+        "Pour Matcha and Water mixture into glass",
+        "Add Syrup to taste",
+        "Whisk Heavy Cream until frothy and desired thickness",
+        "Place whisked Heavy Cream on top",
+        "Enjoy with whisked Heavy Cream mixed into drink or sitting on top"
+    ],
+    "image": "iced-matcha-latte.jpg",
+    "keywords": [
+        "matcha",
+        "latte",
+        "non-alcoholic"
+    ]
+}

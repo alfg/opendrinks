@@ -13,11 +13,11 @@
       </div>
 
       <b-nav tabs align="center">
-        <b-nav-item to="/">{{ $t('Featured') }}</b-nav-item>
-        <b-nav-item to="/random" v-if="!isMobile">{{ $t('Random') }}</b-nav-item>
-        <b-nav-item to="/explore">{{ $t('Explore') }}</b-nav-item>
-        <b-nav-item to="/keyword" v-if="!isMobile">{{ $t('Keywords') }}</b-nav-item>
-        <b-nav-item to="/search">{{ $t('Search') }}</b-nav-item>
+        <b-nav-item to="/">{{ $t('app.featured') }}</b-nav-item>
+        <b-nav-item to="/random" v-if="!isMobile">{{ $t('app.random') }}</b-nav-item>
+        <b-nav-item to="/explore">{{ $t('app.explore') }}</b-nav-item>
+        <b-nav-item to="/keyword" v-if="!isMobile">{{ $t('app.keywords') }}</b-nav-item>
+        <b-nav-item to="/search">{{ $t('app.search') }}</b-nav-item>
         <b-nav-item to="/favorites" alt="Favorites">⭐</b-nav-item>
       </b-nav>
     </div>
@@ -108,71 +108,3 @@ export default {
   }
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "Featured": "特集",
-    "Random": "ランダム",
-    "Explore": "探索",
-    "Keywords": "キーワード",
-    "Search": "検索"
-  },
-  "fr": {
-    "Featured": "En vedette",
-    "Random": "Aléatoire",
-    "Explore": "Parcourir",
-    "Keywords": "Mots-Clés",
-    "Search": "Recherche"
-  },
-  "es": {
-    "Featured": "Destacadas",
-    "Random": "Aleatorio",
-    "Explore": "Explora",
-    "Keywords": "Palabras Claves",
-    "Search": "Búsqueda"
-  },
-  "hi": {
-    "Featured": "विशेष रुप से प्रदर्शित",
-    "Random": "अनियमित",
-    "Explore": "अन्वेषण करिये",
-    "Keywords": "सूचक-शब्द",
-    "Search": "खोजिये"
-  },
-  "gl": {
-    "Featured": "Destacadas",
-    "Random": "Aleatorio",
-    "Explore": "Explora",
-    "Keywords":"Palabras Craves",
-    "Search": "Procura"
-  },
-  "de": {
-    "Featured": "Empfohlen",
-    "Random": "Zufallsrezepte",
-    "Explore": "Alle Rezepte",
-    "Keywords": "Schlüsselwörter",
-    "Search": "Suche"
-  },
-  "nl": {
-    "Featured": "Aanbevolen",
-    "Random": "Willekeurig",
-    "Explore": "Alle recepten",
-    "Keywords": "Trefwoorden",
-    "Search": "Zoeken"
-  },
-  "no": {
-    "Featured": "Fremhevet",
-    "Random": "Tilfeldig",
-    "Explore": "Alle oppskrifter",
-    "Keywords": "Nøkkelord",
-    "Search": "Søk"
-  },
-  "bn": {
-    "Featured": "বিশেষ ভাবে প্রকাশিত",
-    "Random": "এলোমেলো",
-    "Explore": "ঘুরে দেখুন",
-    "Keywords": "কীওয়ার্ড সমূহ",
-    "Search": "খুঁজে দেখুন "
-  }
-}
-</i18n>

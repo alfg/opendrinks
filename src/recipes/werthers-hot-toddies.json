@@ -1,0 +1,63 @@
+{
+  "name": "Werther's Hot Toddies",
+  "description": "A hot toddy is the perfect drink for cold winter nights. Add a Werther's candy to your next cup for an extra caramel flavor. It's the perfect addition and makes the drink even better to cuddle up with. ",
+  "github": "phpshko",
+  "ingredients": [
+    {
+      "quantity": "10",
+      "measure": "",
+      "ingredient": "Werther's Originals Candies, crushed"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "caramel"
+    },
+    {
+      "quantity": "2",
+      "measure": "cup",
+      "ingredient": "water"
+    },
+    {
+      "quantity": "10",
+      "measure": "",
+      "ingredient": "Werther's Originals Candies, whole"
+    },
+    {
+      "quantity": "2",
+      "measure": "",
+      "ingredient": "cinnamon sticks, plus more for garnish"
+    },
+    {
+      "quantity": "1/3",
+      "measure": "cup",
+      "ingredient": "lemon juice"
+    },
+    {
+      "quantity": "6",
+      "measure": "oz",
+      "ingredient": "whiskey or bourbon"
+    },
+    {
+      "quantity": "",
+      "measure": "",
+      "ingredient": "Lemon slices, for garnish"
+    }
+  ],
+  "directions": [
+    "Place crushed Werther's on a shallow plate, and caramel on a separate shallow plate.",
+    "Dip rims first in caramel, and then in crushed Werther's.",
+    "In a small saucepan over medium heat, combine water, whole Werther's, and cinnamon sticks.",
+    "Stir constantly until candies are fully melted.",
+    "Turn off heat and stir in lemon juice and whiskey. ",
+    "Ladle into mugs and serve."
+  ],
+  "image": "werthers-hot-toddies.jpg",
+  "keywords": [
+    "caramel",
+    "lemon",
+    "candy",
+    "whiskey",
+    "cinnamon"
+  ]
+}

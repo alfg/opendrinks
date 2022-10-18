@@ -1,0 +1,28 @@
+{
+    "name": "Virgin Mary",
+    "description": "",
+    "github": "ashwin-athappan",
+    "ingredients": [
+      { "quantity": "100", "measure": "ml", "ingredient": "tomato juice" },
+      { "quantity": "20", "measure": "ml", "ingredient": "lemon juice" },
+      { "quantity": "", "measure": "", "ingredient": "worcestershire sauce" },
+      { "quantity": "1", "measure": "teaspoon", "ingredient": "celery salt" },
+      { "quantity": "", "measure": "", "ingredient": "black pepper" },
+      { "quantity": "", "measure": "", "ingredient": "hot sauce" },
+      { "quantity": "1", "measure": "stalk", "ingredient": "celery" },
+      { "quantity": "1", "measure": "", "ingredient": "pickle spear" }
+    ],
+    "directions": [
+      "Gather the ingredients.",
+      "Pour the tomato juice and lemon juice into a glass filled with ice cubes.",
+      "Mix well.",
+      "Add the Worcestershire sauce, salt, pepper, and hot sauce to taste.",
+      "Garnish with the celery stalk or pickle spear if using.",
+      "Serve and enjoy!"
+    ],
+    "image": "virgin-mary.jpg",
+    "keywords": [
+      "virgin mary",
+      "tomato"
+    ]
+  }

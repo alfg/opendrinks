@@ -1,0 +1,45 @@
+{
+    "name": "Sour Apple Martini",
+    "description": "Before the Cosmo took over the Soure Apple Martini was a huge cocktail stateside where it often consisted of simple vodka, sour apple liqueur and lime cordial  ",
+    "github": "zsiecr",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Maraschino cherries with stems"
+        },
+        {
+            "quantity": "1/3",
+            "measure": "cup",
+            "ingredient": "Apple Schnapps"
+        },
+        {
+            "quantity": "2",
+            "measure": "table spoon",
+            "ingredient": "vodka/gin"
+        },
+	{
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        },
+	{
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Diet lemon-lime carbonated beverage, chilled"
+        }
+    ],
+    "directions": [
+        "Place a cherry into each of two 4-ounce martini glasses; set aside.",
+        "In a cocktail shaker, combine schnapps and vodka. Add ice cubes to fill shaker half full; shake until very cold.",
+        "Strain vodka mixture into the prepared martini glasses. Fill glasses with lemon-lime carbonated beverage."
+	],
+    "image": "sour-apple-martini.jpg",
+    "keywords": [
+        "sour-apple-martini",
+        "martini",
+        "lime",
+        "vodka",
+        "gin"
+        ]
+}

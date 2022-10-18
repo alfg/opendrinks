@@ -22,6 +22,7 @@ describe('Random view', () => {
           replace: fn,
         },
       },
+      sync: false,
       stubs: ['router-link'],
     });
   });

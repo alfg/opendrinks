@@ -1,0 +1,39 @@
+{
+    "name": "Mr. Peanut Shake",
+    "description": "It's an alcoholic peanut shake made with condensed milk, peanuts and vodka.",
+    "github": "juliabrazolim",
+    "ingredients": [
+        {
+            "quantity": "13,9",
+            "measure": "oz",
+            "ingredient": "condensed milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "medium cup",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "as much as you want",
+            "measure": "",
+            "ingredient": "some peanut candy, can be cream, paçoquita or crushed peanuts"
+        },
+        {
+            "quantity": "6",
+            "measure": "",
+            "ingredient": "ice cubes"
+        }
+    ],
+    "directions": [
+        "Put all the condensed milk, peanuts (your preference), ice cubes and vodka in a blender.",
+        "Shake everything until it has a more liquid creamy consistency.",
+        "Drink it. When in doubt, add more peanuts or vodka. If too strong, add more ice and beat again.",
+        "Decorete the glass with shelled peanuts."
+    ],
+    "image": "mr-peanut-shake.jpg",
+    "keywords": [
+        "peanuts",
+        "condensed milk",
+        "vodka"
+    ]
+}

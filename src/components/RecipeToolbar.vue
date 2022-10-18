@@ -8,7 +8,7 @@
         :unchecked-value="true"
         @change="onShowImage"
       >
-        {{ $t('Hide Image') }}
+        {{ $t('recipeToolbar.hideImage') }}
       </b-form-checkbox>
     </div>
 
@@ -16,16 +16,10 @@
       class="mr-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
+      v-b-tooltip.hover.nonInteractive="
+        !isFavorited ? $t('recipeToolbar.setFavorite') : $t('recipeToolbar.unsetFavorite')
+      "
     ></FavoriteStar>
-
-    <div class="mx-1 print-button" v-if="!isMobile">
-      <b-button v-if="isPrint" variant="outline-primary" @click="print()">
-        {{ $t('Print') }}
-      </b-button>
-      <b-button v-else variant="outline-primary" :to="`/recipe/${name}/print`" target="_blank">
-        {{ $t('Print') }}
-      </b-button>
-    </div>
     <ShareNetwork
       network="facebook"
       :url="url"
@@ -33,6 +27,7 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnFacebook')"
     >
       <BIconFacebook font-scale="2"></BIconFacebook>
     </ShareNetwork>
@@ -43,24 +38,35 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnTwitter')"
     >
       <BIconTwitter font-scale="2"></BIconTwitter>
     </ShareNetwork>
-
     <BIconFiles
-      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.copyURL')"
+      class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
     >
     </BIconFiles>
-
-    <b-toast v-model="copyToast" :title="$t('Link Copied')" :auto-hide-delay="500">
-      {{ $t('The link to this page is copied in your clipboard') }}
+    <div
+      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.print')"
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
+      v-if="!isMobile"
+    >
+      <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
+      <a v-else :href="`/recipe/${name}/print`" target="_blank">
+        <BIconPrinter :fontScale="2"></BIconPrinter>
+      </a>
+    </div>
+    <b-toast v-model="copyToast" :title="$t('recipeToolbar.urlCopied')" :auto-hide-delay="500">
+      {{ $t('recipeToolbar.urlCopiiedInClipboard') }}
     </b-toast>
   </div>
 </template>
 
 <script>
+import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {
@@ -73,6 +79,10 @@ export default {
   },
   components: {
     FavoriteStar,
+    BIconTwitter,
+    BIconPrinter,
+    BIconFiles,
+    BIconFacebook,
   },
   data() {
     return {
@@ -141,96 +151,3 @@ export default {
   transform: scale(1.2);
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "Print": "印刷",
-    "Share": "共有",
-    "Share on Facebook": "Facebook",
-    "Share on Twitter": "Twitter",
-    "Copy URL": "URLをコピー",
-    "Hide Image": "画像を非表示"
-  },
-  "fr": {
-    "Print": "Imprimer",
-    "Share": "Partager",
-    "Share on Facebook": "Partager sur Facebook",
-    "Share on Twitter": "Partager sur Twitter",
-    "Copy URL": "copier l'url",
-    "Hide Image": "cacher l'image"
-  },
-  "es": {
-    "Print": "Imprimir",
-    "Share": "Compartir",
-    "Share on Facebook": "Compartir en Facebook",
-    "Share on Twitter": "Compartir en Twitter",
-    "Copy URL": "Copiar URL",
-    "Hide Image": "Ocultar imagen"
-  },
-  "hi": {
-    "Print": "प्रिंट करे",
-    "Share": "बाटें",
-    "Share on Facebook": "फेसबुक पर बाटे",
-    "Share on Twitter": "ट्विटर पर बाटे",
-    "Copy URL": "यूआरएल नकल करें",
-    "Hide Image": "चित्र छुपाएं"
-  },
-  "gl": {
-    "Print": "Imprimir",
-    "Share": "Compartir",
-    "Share on Facebook": "Compartir en Facebook",
-    "Share on Twitter": "Compartir en Twitter",
-    "Copy URL": "Copiar URL",
-    "Hide Image": "Ocultar imaxe"
-  },
-  "de": {
-    "Print": "Drucken",
-    "Share": "Teilen",
-    "Share on Facebook": "Auf Facebook teilen",
-    "Share on Twitter": "Auf Twitter teilen",
-    "Copy URL": "URL kopieren",
-    "Hide Image": "Bild ausblenden"
-  },
-  "nl": {
-    "Print": "Printen",
-    "Share": "Delen",
-    "Share on Facebook": "Deel op Facebook",
-    "Share on Twitter": "Deel op Twitter",
-    "Copy URL": "URL kopiëren",
-    "Hide Image": "Afbeelding verbergen"
-  },
-  "no": {
-    "Print": "Skriv ut",
-    "Share": "Del",
-    "Share on Facebook": "Del på Facebook",
-    "Share on Twitter": "Del på Twitter",
-    "Copy URL": "Kopier URL",
-    "Hide Image": "Skjul bilde"
-  },
-  "ru": {
-    "Print": "Распечатать",
-    "Share": "Поделиться",
-    "Share on Facebook": "Поделиться через Facebook",
-    "Share on Twitter": "Поделиться через Twitter",
-    "Copy URL": "скопировать URL",
-    "Hide Image": "Скрыть изображение"
-  },
-  "uk": {
-    "Print": "Роздрукувати",
-    "Share": "Поділитися",
-    "Share on Facebook": "Поділитися через Facebook",
-    "Share on Twitter": "Поділитися через Twitter",
-    "Copy URL": "скопіювати URL",
-    "Hide Image": "Приховати зображення"
-  },
-  "bn": {
-    "Print": "প্রিন্ট",
-    "Share": "শেয়ার",
-    "Share on Facebook": "ফেসবুকে শেয়ার করুন",
-    "Share on Twitter": "টুইটারে শেয়ার করুন",
-    "Copy URL": "ইউআরএল অনুলিপি করে নিন  ",
-    "Hide Image": "ছবি লুকান"
-  }
-}
-</i18n>
