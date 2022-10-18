@@ -4,6 +4,7 @@ import VueI18n from 'vue-i18n';
 import ar from './lang/ar';
 import bn from './lang/bn';
 import de from './lang/de';
+import da from './lang/da';
 import en from './lang/en';
 import es from './lang/es';
 import fr from './lang/fr';
@@ -29,6 +30,7 @@ export default new VueI18n({
     ar,
     bn,
     de,
+    da,
     en,
     es,
     fr,
