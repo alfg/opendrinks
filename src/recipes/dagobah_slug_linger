@@ -1,0 +1,48 @@
+
+{
+    "name": "Dagobah Slug Slinger",
+    "description": "It's uh... it's green.",
+    "github": "bibliofilo",
+    "ingredients": [
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Ginger Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "grapefruit bitters"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "orange-tangerine juice"
+        },
+        {
+            "quantity": "22",
+            "measure": "ml",
+            "ingredient": "Blue Curaçao"
+        },
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "Reposado Tequila"
+        }
+    ],
+    "directions": [
+        "Shake & Strain",
+        "Garnish with Rosemary"
+    ],
+    "image": "dagobah_slug_linger.jpg",
+    "source": "https://youtu.be/VKboM2sts9U",
+    "keywords": [
+        "Ginger",
+        "Grapefruit",
+        "Orange juice",
+        "Tangerine juice",
+        "Blue Curaçao",
+        "Tequila",
+        "Margarita"
+    ]
+}
