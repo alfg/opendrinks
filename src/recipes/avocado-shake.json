@@ -1,0 +1,36 @@
+{
+    "name": "Avocado Shake",
+    "description": "Best rich, creamy, and simply delicious milkshake",
+    "github": "akghosh111",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Avocado Flesh"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Almond Milk"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Raw sugar"
+        }
+    ],
+    "directions": [
+        "First, set out a high speed blender. Slice and scoop the avocado flesh (from 1 medium to large avocado) into the blender base. Add 1 cup almond milk.",
+        "Add 3 to 4 tablespoons maple syrup or raw sugar (depending on desired sweetness), 1 teaspoon dried moringa or ½ teaspoon ground moringa (optional) and ½ teaspoon vanilla extract .",
+        "Blend on medium speed for a minute or two, until completely blended. If you prefer a flowing thin consistency, add more almond milk."
+    ],
+    "image": "avocado-milkshake.jpg",
+    
+    "keywords": [
+        "almond",
+        "avocado",
+        "milkshake",
+        "drink"
+        
+    ]
+}
