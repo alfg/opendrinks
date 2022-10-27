@@ -1,0 +1,48 @@
+{
+    "name": "Papaya Gin Sling",
+    "description": "Papaya Gin Sling is the perfect balance of gin and papaya. If you like the two, you will enjoy this for sure! You can also try a simpler alternative: shake Papaya Syrup, Gin and Lime Juice with Ice, then pour and enjoy.",
+    "github": "matteomessmer",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1",
+            "measure": "dash",
+            "ingredient": "Bitters"
+        },
+        {
+            "quantity": "1",
+            "measure": "juice",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Papaya Nectar"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Soda Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "stick",
+            "ingredient": "Pineapple"
+        }
+    ],
+    "directions": [
+        "Shake gin,bitters,lime juice and papaya juice in a cocktail shaker with ice.",
+        "Strain into a collins glass filled with ice cubes.",
+        "Fill the rest of the way with soda water, stir and garnish with a pineapple stick or canned pineapple tidbits."
+    ],
+    "image": "papaya-gin-sling.jpg",
+    "source": "https://www.absolutdrinks.com/it/drinks/with/papaya-juice/",
+    "keywords": [
+        "gin",
+        "papaya"
+    ]
+}
