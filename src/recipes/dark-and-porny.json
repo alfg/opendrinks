@@ -1,0 +1,40 @@
+{
+    "name": "Dark and Porny",
+    "description": "A combination between a Dark & Stormy and a Pornstar Martini",
+    "github": "[@Hazelnoot](https://github.com/hazelnoot)",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "chinese Five-Spiced Dark Rum"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "of a fruit per serving",
+            "ingredient": "Passion fruit pulp"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Lime Juice"
+        },
+         {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Ginger Beer"
+        },
+    ],
+    "directions": [
+        "First, pull out your mule cup or copper mugs. Then, fill each one with ice.",
+        "Pour the rum, passion fruit, and lime juice over the ice.",
+        "Top off the mug with ginger beer. Stir to combine."
+        "Garnish your cup with a sprig of mint or half of a small passion fruit."
+        "Enjoy!"
+    ],
+    "image": "<dark-and-porny.jpg>",
+    "keywords": [
+        "alcoholic",
+        "halloween",
+        "cocktail"
+    ]
+}
