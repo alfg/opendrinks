@@ -39,14 +39,14 @@
             "ingredient": "pure vanilla extract"
         },
         {
-          "quantity": 1,
-          "measure": "pinch",
-          "ingredient": "salt"
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "salt"
         },
         {
-          "quantity": 4,
-          "measure": "drops",
-          "ingredient": "red food coloring"
+            "quantity": "4",
+            "measure": "drops",
+            "ingredient": "red food coloring"
         }
     ],
     "directions": [
