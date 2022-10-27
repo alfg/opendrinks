@@ -11,7 +11,7 @@
         {
             "quantity": "10",
             "measure": "g",
-            "ingredient": "Ground Gin"
+            "ingredient": "Ground Ginger"
         },
         {
             "quantity": "30",
@@ -29,7 +29,7 @@
             "ingredient": "Banana, ripe"
         },
         {
-            "quantity": "100",
+            "quantity": "50",
             "measure": "g",
             "ingredient": "Blueberries"
         },
@@ -48,8 +48,12 @@
     ],
     "image": "savage-banana-soup.jpg",
     "keywords": [
-        "gin",
+        "banana",
+        "kale",
+        "ginger",
         "fruit",
+        "vegan",
+        "plant-based",
         "milk"
     ]
 }
