@@ -1,0 +1,34 @@
+{
+    "name": "Crazy Lactobacilli",
+    "description": "In this drink, we'll make the live lactobacilli crazy!",
+    "github": "marjorinec",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "bottle",
+            "ingredient": "Yakult"
+        },
+        {
+            "quantity": "80",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "Condensed Milk"
+        }
+    ],
+    "directions": [
+        "Combine all ingredients in a mixing glass with ice.",
+        "Stir well and strain into a Whisky or long drink glass.",
+        "Garnish with cinnamon."
+    ],
+    "image": "crazy-lactobacilli.jpg",
+    "keywords": [
+        "alcoholic",
+        "vodka",
+        "yalkult",
+        "sweet"
+    ]
+  }
