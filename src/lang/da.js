@@ -26,7 +26,8 @@ export default {
     name: 'Navn',
     ingredients: 'Ingredienter',
     keywords: 'Nøgleord',
-    searchForIngredients: 'Du kan søge efter flere ingredienser ved at adskille dem med et mellemrum',
+    searchForIngredients:
+      'Du kan søge efter flere ingredienser ved at adskille dem med et mellemrum',
     searchForKeywords: 'Du kan søge efter flere nøgleord ved at adskille dem med et mellemrum',
   },
   recipeList: {
@@ -42,14 +43,14 @@ export default {
     setFavorite: 'Marker som favorit',
     unsetFavorite: 'Fjern som favorit',
     urlCopied: 'URL kopiret!',
-    urlCopiiedInClipboard: 'URL\'en er kopiret til udklipsholderen',
+    urlCopiiedInClipboard: "URL' en er kopiret til udklipsholderen",
   },
   keywordList: {
     enterYourKeyword: 'Indtast dit nøgleord',
   },
   favorites: {
     removeAllFavorites: 'Fjer alle favoritter',
-    noFavoriteDrinks: "Du har ingen favorit drikke",
+    noFavoriteDrinks: 'Du har ingen favorit drikke',
     removeFavoritesPrompt: 'Er du sikker på at du vil fjerne alle favoritter',
     delete: 'Slet',
     cancel: 'Annuller',
