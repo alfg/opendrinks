@@ -1,5 +1,27 @@
 [
   {
+    "title": "Halloween Drinks",
+    "description": "👻 Spooky Drinks for October! 👻",
+    "items": [
+      "black-widow",
+      "bloody-eyeball-shot",
+      "dark-and-stormy",
+      "hocus-pocus",
+      "pumpkintini",
+      "screamsicle",
+      "zombie",
+      "witches-heart",
+      "bloody-kirby",
+      "seven-devils",
+      "corpse-reviver-no2",
+      "cuban-zombie",
+      "vampiro",
+      "drunken-peanut-butter-cups"
+    ],
+    "size": 12,
+    "enabled": true
+  },
+  {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
     "items": [
@@ -53,7 +75,7 @@
       "gin-fizz"
     ],
     "size": 6,
-    "enabled": true
+    "enabled": false
   },
   {
     "title": "Holiday Drinks",
@@ -100,28 +122,6 @@
     "enabled": false
   },
   {
-    "title": "Halloween Drinks",
-    "description": "👻 Spooky Drinks for October! 👻",
-    "items": [
-      "black-widow",
-      "bloody-eyeball-shot",
-      "dark-and-stormy",
-      "hocus-pocus",
-      "pumpkintini",
-      "screamsicle",
-      "zombie",
-      "witches-heart",
-      "bloody-kirby",
-      "seven-devils",
-      "corpse-reviver-no2",
-      "cuban-zombie",
-      "vampiro",
-      "drunken-peanut-butter-cups"
-    ],
-    "size": 12,
-    "enabled": false
-  },
-  {
     "title": "Under the Weather Drinks",
     "description": "Drinks to help you warm up when you're sick, or just to help boost your immune system! 🤧🤧",
     "items": [
@@ -146,7 +146,7 @@
       "warm-lemon-honey-tea"
     ],
     "size": 6,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Everything is Chocolate",

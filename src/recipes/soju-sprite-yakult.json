@@ -1,0 +1,41 @@
+{
+    "name": "Yakult Soju",
+    "description": "A smooth, light drink made from Soju, Yakult and Sprite",
+    "github": "Linh0704",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "bottle",
+            "ingredient": "Yakult"
+        },
+        {
+            "quantity": "80",
+            "measure": "ml",
+            "ingredient": "Soju (Original)"
+        },
+        {
+            "quantity": "330",
+            "measure": "ml",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "5-10",
+            "measure": "cube",
+            "ingredient": "Ice"
+        }
+
+    ],
+    "directions": [
+        "To a large glass, fill your cup to the top with ice.",
+        "Open up 2 small containers of Yakult and add them to your glass of ice.",
+        "Next, add in 80ml of Soju",
+        "Top up the drink with Sprite to the top"
+    ],
+    "image": "soju-sprite-yakult.png",
+    "source": "https://www.lynnmumbingmejia.com/sprite-yakult-soju-drink-recipe/",
+    "keywords": [
+        "soju",
+        "healthy",
+        "mild"
+    ]
+}
