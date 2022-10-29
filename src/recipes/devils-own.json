@@ -1,0 +1,38 @@
+{
+  "name": "Devil's Own",
+  "description": "You might imagine that a cocktail called the Devil’s Own would be dark and somewhat depressing but in fact, it’s light and extremely refreshing. Created by Colin Symons in the UK in the 1930’s the drinks has Cointreau, Gin, Dry Vermouth & Aromatic Bitters.",
+  "github": "lazav94",
+  "ingredients": [
+      {
+          "quantity": "1",
+          "measure": "dash",
+          "ingredient": "Angostura Bitters"
+      },
+      {
+          "quantity": "30",
+          "measure": "ml",
+          "ingredient": "Dry Vermouth"
+      },
+      {
+          "quantity": "30",
+          "measure": "ml",
+          "ingredient": "Cointreau"
+      },
+      {
+        "quantity": "30",
+        "measure": "ml",
+        "ingredient": "Gin"
+    }
+  ],
+  "directions": [
+      "Combine all ingredients in a mixing glass with ice.",
+      "Stir well and strain into a Coupe glass.",
+      "Garnish with a lemon twist"
+  ],
+  "image": "devils-own.jpg",
+  "keywords": [
+      "alcoholic",
+      "gin",
+      "vermouth"
+  ]
+}
