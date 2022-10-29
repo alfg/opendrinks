@@ -1,7 +1,7 @@
 {
     "name": "Blue Ocean",
     "description": "water based drink",
-    "github": "<patprodrigues",
+    "github": "patprodrigues",
     "ingredients": [
         {
             "quantity": "1",
@@ -26,7 +26,6 @@
     ],
     "image": "water.jpg",
     "keywords": [
-        "glass of water",
-        "..."
+        "glass of water"
     ]
 }
