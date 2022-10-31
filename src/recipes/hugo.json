@@ -1,0 +1,60 @@
+{
+    "name": "Hugo",
+    "description": "Hugo is a refreshing, floral and herbal cocktail. It is perfect for warm summer time.",
+    "github": "IzaMazur",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "small handfull",
+            "ingredient": "mint leaves"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "elderflower cordial"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "soda water"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "prosecco"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime wedge"
+        }
+    ],
+    "directions": [
+        "Gently scrunch the mint in your hands to lightly bruise it, then put in the bottom of a large wine glass. ",
+        "Pour over the elderflower cordial and gin and leave to infuse for 1-2 mins.",
+        "Fill the glass with ice, then pour over the soda water and prosecco.",
+        "Stir gently to combine.",
+        "Garnish with the lime wedge and mint sprig before serving."
+    ],
+    "source":"https://www.bbcgoodfood.com/recipes/hugo-cocktail",
+    "keywords": [
+        "prosecco",
+        "gin",
+        "lime",
+        "mint",
+        "elderflower",
+        "alcoholic",
+    ]
+}
+Footer
+© 2022 GitHub, Inc.
