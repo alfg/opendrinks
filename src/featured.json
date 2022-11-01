@@ -19,7 +19,7 @@
       "drunken-peanut-butter-cups"
     ],
     "size": 12,
-    "enabled": true
+    "enabled": false
   },
   {
     "title": "Popular Drinks",
@@ -100,7 +100,7 @@
       "jack-frosties"
     ],
     "size": 18,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Celebration Drinks",
