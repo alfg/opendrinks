@@ -1,0 +1,52 @@
+{
+    "name": "Pain Killer",
+    "description": "A twist on the Piña Colada, the Painkiller is a rich and fruity cocktail that stays true to its name: It will cure what ails you.",
+    "github": "vennela2132",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "ounce",
+            "ingredient": "Pusser's Rum"
+        },
+        {
+            "quantity": "4",
+            "measure": "ounce",
+            "ingredient": "Pineapple juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "orange juice,freshly squeezed"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "cream of coconut"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "nutmeg, freshly grated"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "pinesapple wedge"
+        }
+    ],
+    "directions": [
+        "Add the rum, pineapple juice, orange juice and cream of coconut to a shaker with ice and shake vigorously but briefly to combine.",
+        "Strain into a hurricane glass or snifter over crushed ice.",
+        "Garnish with freshly grated nutmeg and a pineapple wedge.",
+        "Serve with a straw."
+    ],
+    "image": "painkiller.jpg",
+    "keywords": [
+        "cocktail",
+        "juice",
+        "painkiller",
+        "alcoholic",
+        "rum",
+        "pineapple"
+    ]
+}
