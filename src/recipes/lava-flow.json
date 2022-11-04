@@ -1,0 +1,57 @@
+{
+    "name": "Lava Flow",
+    "description": "The Lava Flow walks the line between cocktail and milkshake. This sweet and fruity drink is linked to Hawaii and often found at Hawaiian bars and resorts, though it’s not certain when the drink originated. No matter: If you want a delicious cocktail that conjures sandy beaches, sunny skies and floral shirts, you’ve found it.",
+    "github": "lazav94",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Light rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Coconut rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Strawberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Pineapple juice"
+        },
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Coconut cream"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Banana"
+        },
+        {
+          "quantity": "1",
+          "measure": "cup",
+          "ingredient": "Crushed ice"
+        }
+    ],
+    "directions": [
+        "Add the two rums and strawberries into a blender and blend until smooth.",
+        "Pour the blended mixture into a pitcher or mixing glass and rinse the blender.",
+        "Add the pineapple juice, coconut cream and banana into the blender with crushed ice and blend until smooth.",
+        "Pour both blends into a tall glass from opposite sides, and watch the strawberry mixture rise to the top like lava.",
+        "Garnish with a pineapple wedge."
+    ],
+    "image": "lava-flow.jpg",
+    "keywords": [
+        "alcoholic",
+        "rum",
+        "pineapple",
+        "strawberries",
+        "banana"
+    ]
+}

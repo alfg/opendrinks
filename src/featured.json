@@ -1,5 +1,27 @@
 [
   {
+    "title": "Halloween Drinks",
+    "description": "👻 Spooky Drinks for October! 👻",
+    "items": [
+      "black-widow",
+      "bloody-eyeball-shot",
+      "dark-and-stormy",
+      "hocus-pocus",
+      "pumpkintini",
+      "screamsicle",
+      "zombie",
+      "witches-heart",
+      "bloody-kirby",
+      "seven-devils",
+      "corpse-reviver-no2",
+      "cuban-zombie",
+      "vampiro",
+      "drunken-peanut-butter-cups"
+    ],
+    "size": 12,
+    "enabled": false
+  },
+  {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
     "items": [
@@ -78,7 +100,7 @@
       "jack-frosties"
     ],
     "size": 18,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Celebration Drinks",
@@ -98,28 +120,6 @@
      ],
     "size": 9,
     "enabled": false
-  },
-  {
-    "title": "Halloween Drinks",
-    "description": "👻 Spooky Drinks for October! 👻",
-    "items": [
-      "black-widow",
-      "bloody-eyeball-shot",
-      "dark-and-stormy",
-      "hocus-pocus",
-      "pumpkintini",
-      "screamsicle",
-      "zombie",
-      "witches-heart",
-      "bloody-kirby",
-      "seven-devils",
-      "corpse-reviver-no2",
-      "cuban-zombie",
-      "vampiro",
-      "drunken-peanut-butter-cups"
-    ],
-    "size": 12,
-    "enabled": true
   },
   {
     "title": "Under the Weather Drinks",
