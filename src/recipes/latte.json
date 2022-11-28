@@ -1,0 +1,34 @@
+{
+    "name": "Latte",
+    "description": "An Italian coffee beverage made with espresso and steamed milk. Also called Caffè latte.",
+    "github": "Unickorn",
+    "ingredients": [
+        {
+            "quantity": "9",
+            "measure": "gram",
+            "ingredient": "finely ground coffee -- preferably an espresso blend"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "cold milk"
+        }
+    ],
+    "directions": [
+        "Warm the espresso machine.",
+        "Put the finely ground coffee in the portafilter, tamp it down with a tamper and secure it in the brew head of the machine.",
+        "Brew around 35-40ml, until the espresso starts to get watery, losing the crema.",
+        "Pour the cold milk in a preferably cold milk pitcher.",
+        "Submerge the steam wand a couple centimeters below the surface of the milk and turn it all the way on, introducing air into the milk while swirling it in the pitcher to get a thin, so-called microfoam.",
+        "After introducing some foam (the milk level should rise around an additional 1/3 with foam) submerge the steam wand deeper to stop the hissing sound and introducing air. Continue heating and swirling the milk until the bottom of the pitcher is too hot to touch.",
+        "Turn the steam wand off and gently hit the bottom of the pitcher to pop any big bubbles in the foam.",
+        "Pour the frothed milk over the espresso, tilting the cup slightly. You want to start pouring high and fast first, and then get lower and slower in a steady stream for a latte."
+    ],
+    "image": "latte.jpg",
+    "keywords": [
+        "coffee",
+        "hot",
+        "milk",
+        "non-alcoholic"
+    ]
+}
