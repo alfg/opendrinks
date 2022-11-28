@@ -1,0 +1,63 @@
+{
+    "name": "Red Velvet Hot Chocolate",
+    "description": "Red Velvet Cake in hot chocolate form",
+    "github": "savioxavier",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "cream cheese"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "cream"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "white chocolate chips"
+        },
+        {
+            "quantity": "2",
+            "measure": "tablespoon",
+            "ingredient": "unsweetened cocoa powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "pure vanilla extract"
+        },
+        {
+            "quantity": "1",
+            "measure": "pinch",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "4",
+            "measure": "drops",
+            "ingredient": "red food coloring"
+        }
+    ],
+    "directions": [
+        "Gather the ingredients.",
+        "If you are using the cream cheese, combine it with a cup of milk in a blender and blend until smooth. (If you have a stick blender, you can just combine them in a medium saucepan and blend until no lumps of cream cheese remain.)",
+        "Add the remaining hot chocolate ingredients, except for the food coloring, and combine everything in a medium saucepan over medium heat. Warm up the drink, whisking occasionally, until the white chocolate melts, the cocoa powder blends into the liquid, and the drink is creamy and smooth.",
+        "Add a few drops of red food coloring and whisk them in. Continue to add coloring until you get a deep, rich red that you like."
+    ],
+    "image": "red-velvet-hot-chocolate.jpg",
+    "source": "https://www.thespruceeats.com/red-velvet-hot-chocolate-4126229",
+    "keywords": [
+        "chocolate"
+    ]
+}
