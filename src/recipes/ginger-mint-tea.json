@@ -1,0 +1,34 @@
+{
+    "name": "Ginger Mint Tea",
+    "description": "A soothing hot drink for cold; but also for relaxation and digestion",
+    "github": "jacksonisaac",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "fresh ginger"
+        },
+        {
+            "quantity": "5",
+            "measure": "sprigs",
+            "ingredient": "Mint"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "boiled water"
+        }
+    ],
+    "directions": [
+        "Finely slice the ginger into thin rounds/strips",
+        "Strip the stems of the fresh mint",
+        "In a saucepan or a water boiler, bring 1 cup of water to boil",
+        "Pour the water into a cup, steep in the finely sliced ginger and sprigs of mint for 3-5 minutes"
+    ],
+    "image": "ginger-mint-tea.jpg",
+    "keywords": [
+        "tea",
+        "vegan",
+        "healthy"
+    ]
+}
