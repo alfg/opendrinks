@@ -22,6 +22,31 @@
     "enabled": false
   },
   {
+    "title": "Holiday Drinks",
+    "description": "Cozy drinks to warm your heart and get you in holiday mood",
+    "items": [
+      "christmas-tonic",
+      "white-christmas-mojito",
+      "white-christmas-margarita",
+      "coquito",
+      "gingerbread-latte",
+      "mulled-wine",
+      "spiced-harvest-fall-sangria",
+      "grinch-drinks",
+      "glogg",
+      "north-pole",
+      "red-stag-dirty-shirley",
+      "swedish-libre",
+      "hot-toddy",
+      "irish-winter",
+      "mulled-apple-crumble-cider",
+      "turmeric-latte",
+      "jack-frosties"
+    ],
+    "size": 18,
+    "enabled": true
+  },
+  {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
     "items": [
@@ -76,31 +101,6 @@
     ],
     "size": 6,
     "enabled": false
-  },
-  {
-    "title": "Holiday Drinks",
-    "description": "Cozy drinks to warm your heart and get you in holiday mood",
-    "items": [
-      "christmas-tonic",
-      "white-christmas-mojito",
-      "white-christmas-margarita",
-      "coquito",
-      "gingerbread-latte",
-      "mulled-wine",
-      "spiced-harvest-fall-sangria",
-      "grinch-drinks",
-      "glogg",
-      "north-pole",
-      "red-stag-dirty-shirley",
-      "swedish-libre",
-      "hot-toddy",
-      "irish-winter",
-      "mulled-apple-crumble-cider",
-      "turmeric-latte",
-      "jack-frosties"
-    ],
-    "size": 18,
-    "enabled": true
   },
   {
     "title": "Celebration Drinks",
