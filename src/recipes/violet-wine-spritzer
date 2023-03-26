@@ -1,0 +1,53 @@
+{
+	"name": "Violet Wine Spritzer>",
+	"description": "A simple and elegant drink for every occasion.",
+	"github": "sandravrdoljak",
+	"ingredients": [{
+			"quantity": "130",
+			"measure": "ml",
+			"ingredient": "Dry White Wine or Frizzante"
+		},
+		{
+			"quantity": "100",
+			"measure": "ml",
+			"ingredient": "Sparkling Water"
+		},
+		{
+			"quantity": "30",
+			"measure": "ml",
+			"ingredient": "Violet Sirup"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Ice Cubes"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Slices of Lemon"
+		},
+		{
+			"quantity": "",
+			"measure": "",
+			"ingredient": "Candied Violet"
+		}
+	],
+	"directions": [
+		"Fill your wine glass with ice cubes.",
+		"Add the Violet Sirup, then add Dry White Wine or Frizzante and then add sparkling water.",
+		"Optionally, you can add slices of lemon and candied violets.",
+		"Enjoy it."
+	],
+	"image": "violetspritzer.jpg",
+	"source": "https://emilylaurae.com/violet-st-germain-spritz/",
+	"keywords": [
+		"purpel",
+		"wine",
+		"frizzante",
+		"white wine",
+		"sirup",
+		"violet sirup",
+		"violet"
+	]
+}
