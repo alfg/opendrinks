@@ -1,0 +1,63 @@
+{
+    "name": "<MOSCOW MULE>",
+    "description": "<Ingredientes da espuma caseira e fácil>",
+    "github": "<devdonne>",
+    "homemade foam ingredients": [
+        {
+            "quantity": "<200>",
+            "measure": "<ml>",
+            "ingredient": "<creme de leite fresco>"
+        },
+        {
+            "quantity": "<1>",
+            "measure": "<cup>",
+            "ingredient": "<açucar>"
+        },
+        {
+            "quantity": "<500>",
+            "measure": "<ml>",
+            "ingredient": "<suco de limão taiti>"
+        },
+        {
+            "quantity": "<1>",
+            "measure": "<cup>",
+            "ingredient": "<colher de sopa de gengibre ralado (na hora)>"
+        }
+    ], 
+    "drink ingredients":[
+        {
+            "quantity": "<20>",
+            "measure": "<ml>",
+            "ingredient": "<suco de limão>"
+        },
+        {
+            "quantity": "20",
+            "measure": "ml>",
+            "ingredient": "<xarope de açúcar>"
+        },
+        {
+            "quantity": "<2>",
+            "measure": "<dash>",
+            "ingredient": "<Angostura bitter>"
+        },
+        {
+            "quantity": "<50>",
+            "measure": "<ml>",
+            "ingredient": "<vodka>"
+        },
+        {
+            "quantity": "<1>",
+            "measure": "<>",
+            "ingredient": "<gelo a gosto>"
+        }
+    ],
+    "directions": [
+        "<Reúna os ingredientes para o drink>",
+        "<Primeiro, vamos começar pela espuma de gengibre>",
+        "<Em uma tigela gelada, coloque o creme de leite, o açúcar, o suco de limão, o gengibre e bata até quase chegar no ponto de chantilly (o ponto certo é quando você levantar o batedor e a espuma cair lentamente). Reserve>",
+        "<Em uma caneca de cobre, coloque o suco de limão, o xarope, a Angostura, a vodka, o gelo e misture bem com uma colher bailarina;>",
+        "<Adicione a espuma por cima do drink>",
+        "<Agora é só servir! Saúde>"
+    ],
+    "image": "<moscowmule.jpg>"
+}
