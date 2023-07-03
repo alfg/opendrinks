@@ -66,26 +66,6 @@
     "enabled": false
   },
   {
-    "title": "Popular Drinks",
-    "description": "Popular drinks never going out of style!",
-    "items": [
-      "old-fashioned", 
-      "margarita", 
-      "cosmopolitan",
-      "negroni",
-      "moscow-mule",
-      "mojito",
-      "manhattan",
-      "mimosa",
-      "gimlet",
-      "sidecar",
-      "french-75",
-      "dark-and-stormy",
-      "daiquiri"
-    ],
-    "size": 12
-  },
-  {
     "title": "Hot Weather drinks",
     "description": "Refreshing cocktails for those hot days of summer",
     "items": [
@@ -119,7 +99,27 @@
       "gin-fizz"
     ],
     "size": 6,
-    "enabled": false
+    "enabled": true
+  },
+  {
+    "title": "Popular Drinks",
+    "description": "Popular drinks never going out of style!",
+    "items": [
+      "old-fashioned", 
+      "margarita", 
+      "cosmopolitan",
+      "negroni",
+      "moscow-mule",
+      "mojito",
+      "manhattan",
+      "mimosa",
+      "gimlet",
+      "sidecar",
+      "french-75",
+      "dark-and-stormy",
+      "daiquiri"
+    ],
+    "size": 12
   },
   {
     "title": "Under the Weather Drinks",
@@ -146,7 +146,7 @@
       "warm-lemon-honey-tea"
     ],
     "size": 6,
-    "enabled": true
+    "enabled": false
   },
   {
     "title": "Everything is Chocolate",
