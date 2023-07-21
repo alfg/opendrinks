@@ -1,19 +1,19 @@
 <template>
   <div class="featured container">
     <FeaturedRecipes />
-    <FabButton />
+    <!-- <FabButton /> -->
   </div>
 </template>
 
 <script>
 import FeaturedRecipes from '@/components/FeaturedRecipes.vue';
-import FabButton from '@/components/FabButton.vue';
+// import FabButton from '@/components/FabButton.vue';
 
 export default {
   name: 'home',
   components: {
     FeaturedRecipes,
-    FabButton,
+    // FabButton,
   },
 };
 </script>
