@@ -1,0 +1,33 @@
+{
+  "name": "Three wise men",
+  "description": "This is a simple mixture that samples the three wise men of whiskey, Jim Bean, Jack Daniels and Johney Walker",
+  "github": "aracnoid149",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Jim Bean Bourbon"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Jack Daniels Whiskey"
+    },
+    {
+      "quantity": "1",
+      "measure": "oz",
+      "ingredient": "Johney Walker Red Label"
+    }
+  ],
+  "directions": [
+    "Pour the Jim, Jack, and John into a standard whiskey glass",
+    "Stir the wise men together",
+    "Enjoy"
+  ],
+  "image": "three-wise-men.jpg",
+  "keywords": [
+    "whiskey",
+    "bourbon",
+    "scotch"
+  ]
+}
