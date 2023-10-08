@@ -1,0 +1,45 @@
+{
+    "name": "Targoviste Twist",
+    "description": "A spicy and tangy drink that pays tribute to the history and culture of Targoviste, Romania",
+    "github": "eduardconstantin",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "dashes",
+            "ingredient": "Tabasco sauce"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "soda water"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail shaker with ice.",
+        "Add the rum, lime juice, simple syrup, and Tabasco sauce and shake well.",
+        "Strain into a highball glass filled with ice.",
+        "Top with soda water and garnish with a lime wedge."
+    ],
+    "image": "targoviste-twist.jpg",
+    "keywords": [
+        "cocktail",
+        "rum",
+        "lime juice",
+        "Tabasco sauce"
+    ]
+}
