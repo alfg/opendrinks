@@ -1,0 +1,44 @@
+{
+    "name": "Rose Milk",
+    "description": "A refreshing, rose-flavored Indian cool drink, perfect for quenching your thirst.",
+    "github": "Claribell",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cup",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "rose syrup"
+        },
+        {
+            "quantity": "6",
+            "measure": "teaspoon",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "some ice cubes"
+        }
+    ],
+    "directions": [
+        "Pour cold milk and rose syrup into a pitcher or jug.",
+        "Stir the rose syrup thoroughly with a spoon until it completely blends with the milk.",
+        "If you prefer it sweeter, you can add sugar, but it's entirely optional.",
+        "Keep stirring until the sugar dissolves completely.",
+        "In a serving glass, place a couple of ice cubes and then gently pour the rose-infused milk into the glass",
+        "Finally, top it off with a touch of dried rose petals or some dry fruits, and savor this revitalizing rose milk."
+    ],
+    "image": "rose-milk.jpg",
+    "keywords": [
+        "milk",
+        "sweet",
+        "cold",
+        "rose syrup",
+        "summer",
+        "non-alcoholic"
+    ]
+}
