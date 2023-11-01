@@ -16,7 +16,7 @@
         {
             "quantity": "1",
             "measure": "oz",
-            "ingredient": "fresh-squeezed orange juice "
+            "ingredient": "fresh-squeezed orange juice"
         },
         {
             "quantity": "1 to 2",
@@ -27,7 +27,6 @@
     "directions": [
         "Add all the ingredients (except garnish) to a cocktail shaker half filled with ice. Shake vigorously until the contents are well chilled (about 20 seconds).",
         "Strain into a cocktail glass, preferably one that has been chilled. Garnish, if you wish, and serve."
-
     ],
     "image": "swan-song-cocktail.jpg",
     "source": "http://www.kitchenriffs.com/2022/09/the-swan-song-cocktail.html",
