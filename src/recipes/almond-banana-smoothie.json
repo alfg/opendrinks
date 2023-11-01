@@ -1,0 +1,48 @@
+{
+   "name": "Almond Banana Smoothie",
+   "description": "Almonds balances your cholesterol levels. Almonds have a very low glycemic index and good for diabetics. Banana is high in potassium. Potassium helps normalize the heartbeat and regulates the body's water balance. Bananas have low sodium content and high potassium content, and contribute for making it an ideal fruit for hypertensives. Milk will provide the calcium and if you are on weight loss then use low fat milk. Dates are the perfect healthy natural sweetener in Indian food.",
+   "github": "lomash-relia",
+   "ingredients": [
+      {
+         "quantity": "1/8",
+         "measure": "cup",
+         "ingredient": "soaked deskinned almonds"
+      },
+      {
+         "quantity": "1/2",
+         "measure": "cup",
+         "ingredient": "chopped bananas"
+      },
+      {
+         "quantity": "3/4",
+         "measure": "cup",
+         "ingredient": "chilled cow's milk"
+      },
+      {
+         "quantity": "1/4",
+         "measure": "tsp",
+         "ingredient": "vanilla essence"
+      },
+      {
+         "quantity": "1",
+         "measure": "piece",
+         "ingredient": "deseeded dates"
+      }
+   ],
+   "directions": [
+      "To make almond banana smoothie combine all the ingredients in a mixer and blend till smooth and frothy.",
+      "Pour equal quantities of the almond banana smoothie into 4 individual glasses.",
+      "Serve the almond banana smoothie immediately."
+   ],
+   "image": "almond-banana-smoothie.jpg",
+   "source": "https://www.tarladalal.com/almond-banana-smoothie-39025r?serves=2",
+   "keywords": [
+      "healthy",
+      "banana",
+      "dates",
+      "vanilla",
+      "milk",
+      "nutrition",
+      "energy"
+   ]
+}
