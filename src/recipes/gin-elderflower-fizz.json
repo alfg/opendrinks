@@ -1,0 +1,52 @@
+{
+    "name": "Gin Elderflower Fizz",
+    "description": "A delightful combination of floral flavors from the elderflower liqueur, the citrusy tang of lime, and the slight bitterness of the gin.",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "oz",
+            "ingredient": "Gin"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Elderflower liqueur"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "",
+            "ingredient": "lime"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "Simple syrup"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Club soda or sparkling water"
+        }
+    ],
+    "directions": [
+        "Fill a cocktail glass with ice to chill while you prepare the cocktail.",
+        "In a cocktail shaker, add the gin, elderflower liqueur, lime juice, and simple syrup.",
+        "Add ice to the shaker.",
+        "Shake vigorously for about 15 seconds to thoroughly mix all the ingredients and chill them.",
+        "Strain the mixture into the chilled cocktail glass.",
+        "Top the glass with club soda to achieve the desired fizziness.",
+        "Garnish the cocktail with a twist of lime zest.",
+        "Serve immediately and enjoy this refreshing Gin Elderflower Fizz!"
+    ],
+    "image": "gin-elderflower-fizz.jpg",
+    "keywords": [
+        "cocktail",
+        "gin",
+        "elderflower",
+        "lemon",
+        "syrup",
+        "alcoholic",
+        "fresh"
+    ]
+}
