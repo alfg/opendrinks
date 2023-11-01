@@ -1,0 +1,59 @@
+{
+    "name": "Midnight in Paris",
+    "description": "A perfect balance between the richness of cognac, the sweetness of blackcurrant liquor and the refreshing acidity of lemon",
+    "github": "jcolfej",
+    "ingredients": [
+        {
+            "quantity": "1 1/2",
+            "measure": "fl oz",
+            "ingredient": "cognac"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fl oz",
+            "ingredient": "blackcurrant liquor"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "fl oz",
+            "ingredient": "fresh lemon juice"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "fl oz",
+            "ingredient": "sugar syrup"
+        },
+        {
+            "quantity": "4",
+            "measure": "",
+            "ingredient": "fresh raspberries"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "crushed ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "slice of lemon"
+        }
+    ],
+    "directions": [
+        "In a cocktail glass, add the fresh raspberries and sugar syrup.",
+        "Gently crush the raspberries with a pestle to release their flavours.",
+        "Add the cognac, blackcurrant liquor and fresh lemon juice to the glass.",
+        "Fill the glass with crushed ice.",
+        "Stir gently with a mixing spoon to combine the ingredients and chill the cocktail.",
+        "Garnish the cocktail with a slice of lemon."
+    ],
+    "image": "midnight-in-paris.jpg",
+    "keywords": [
+        "cognac",
+        "blackcurrant",
+        "liquor",
+        "raspberries",
+        "lemon",
+        "alcoholic"
+    ]
+}
