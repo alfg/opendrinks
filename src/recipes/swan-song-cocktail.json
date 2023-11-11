@@ -1,0 +1,37 @@
+{
+    "name": "The Swan Song Cocktail",
+    "description": "Applejack and orange juice celebrate autumn flavors. Brandy and grenadine add extra punch and tingle. The result? A drink that says hello to fall. Even when it’s saying goodbye. ",
+    "github": "Jaimin25",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "brandy or cognac"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "applejack"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "fresh-squeezed orange juice"
+        },
+        {
+            "quantity": "1 to 2",
+            "measure": "dash",
+            "ingredient": "grenadine "
+        }
+    ],
+    "directions": [
+        "Add all the ingredients (except garnish) to a cocktail shaker half filled with ice. Shake vigorously until the contents are well chilled (about 20 seconds).",
+        "Strain into a cocktail glass, preferably one that has been chilled. Garnish, if you wish, and serve."
+    ],
+    "image": "swan-song-cocktail.jpg",
+    "source": "http://www.kitchenriffs.com/2022/09/the-swan-song-cocktail.html",
+    "keywords": [
+        "cocktail",
+        "swan song"
+    ]
+}
