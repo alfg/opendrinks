@@ -1,0 +1,52 @@
+{
+    "name": "Malai Cha",
+    "description": "Malai cha is a rich and creamy tea made by brewing black tea leaves with milk, sugar, and condensed milk or cream. The addition of condensed milk gives the tea a luxurious and velvety texture, creating a sweet and indulgent beverage popular in Subcontinent.",
+    "github": "TarifSadman",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Tea leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "Milk"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "teaspoon",
+            "ingredient": "Condensed milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Sugar"
+        }
+    ],
+    "directions": [
+        "In a saucepan, bring water to a boil.",
+        "Add tea leaves or tea bag to the boiling water.",
+        "Pour in the milk and let the mixture simmer for 2-3 minutes, allowing the tea to brew.",
+        "Add sugar to taste and stir well.",
+        "Add condensed milk or cream and continue to simmer for another 2 minutes, ensuring the mixture is well-blended.",
+        "Strain the tea into a cup to remove the tea leaves or tea bag.",
+        "Optionally, garnish with a pinch of cardamom or saffron for added flavor.",
+        "Enjoy your delicious cup of malai chai! Adjust the sweetness and creaminess according to your preference."
+    ],
+    "image": "malai-cha.jpg",
+    "keywords": [
+        "Malai",
+        "Tea",
+        "Chai",
+        "Indian",
+        "Beverage",
+        "Drink",
+        "Milk"
+    ]
+}
