@@ -22,6 +22,11 @@
             "quantity": "1.5",
             "measure": "tablespoons",
             "ingredient": "honey"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "ice"
         }
     ],
     "directions": [
