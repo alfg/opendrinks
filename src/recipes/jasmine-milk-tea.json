@@ -1,0 +1,44 @@
+{
+    "name": "Jasmine Milk Tea",
+    "description": "",
+    "github": "kc6827",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "loose leaf jasmine tea leaves"
+        },
+        {
+            "quantity": "4",
+            "measure": "tablespoons",
+            "ingredient": "half-and-half"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "boiling water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "tablespoons",
+            "ingredient": "honey"
+        }
+    ],
+    "directions": [
+        "Put the tea leaves into a tea infuser (or anything else that works)",
+        "Bring water to a boil",
+        "Steep the tea leaves for 8-10 minutes",
+        "Remove the tea leaves (and infuser if used)",
+        "Add the half-and-half",
+        "Add the honey",
+        "Pour the tea over the ice",
+        "Enjoy"
+    ],
+    "image": "jasmine-milk-tea.jpg",
+    "keywords": [
+        "tea",
+        "non-alcoholic",
+        "milk",
+        "honey"
+    ]
+}
