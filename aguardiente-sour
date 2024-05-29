@@ -1,0 +1,52 @@
+{
+    "name": "Aguardiente Sour: A Toast to Colombia",
+    "description": "For Colombians and non-Colombians who want to sample just a little aguardiente without the morning-after guayabo or hangover that can come from drinking it straight all night long, consider making this aguardiente sour cocktail. The strong anise flavor is diluted and sweetened with lemon juice, simple syrup and half a frothy egg white. ",
+    "github": "Lauraavqz",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "aguardiente"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "ingredient": "egg (lightly beaten)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "lemon, for garnish"
+        },
+        {
+            "quantity": "1",
+            "measure": "stick",
+            "ingredient": "sugar cane, for garnish"
+        }
+    ],
+    "directions": [
+        "Add all ingredients, except the ice, to a cocktail shaker. Shake it for 30 seconds.",
+        "Add the ice and shake for another 30 seconds",
+        "Strain into a glass",
+        "Garnish with a slice of lemon and sugar cane stick"
+    ],
+    "image": "befunky_2024-4-2_23-43-9.jpg",
+    "source": "https://familiakitchen.com/aguardiente-sour-a-toast-to-colombia/",
+    "keywords": [
+        "aguardiente",
+        "colombia",
+        "sour",
+        "lime",
+        "sugarcane",
+        "cocktail"
+    ]
+}
