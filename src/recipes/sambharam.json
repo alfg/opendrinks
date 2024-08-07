@@ -1,0 +1,54 @@
+{
+    "name": "Sambharam",
+    "description": "Sambharam is a traditional spiced buttermilk drink from Kerala, India. It's a refreshing and cooling beverage, especially popular during the hot and humid months. Sambharam is flavored with ginger, green chilies, curry leaves, and salt, making it a perfect drink to beat the heat.",
+    "github": "Marvellousz",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Buttermilk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "Grated Ginger"
+        },
+        {
+            "quantity": "2",
+            "measure": "",
+            "ingredient": "Green Chilies, finely chopped"
+        },
+        {
+            "quantity": "5",
+            "measure": "",
+            "ingredient": "Curry Leaves"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "tsp",
+            "ingredient": "Salt"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "Water"
+        }
+    ],
+    "directions": [
+        "In a large bowl, add buttermilk and water, and whisk well until combined.",
+        "Add grated ginger, finely chopped green chilies, curry leaves, and salt to the buttermilk mixture.",
+        "Mix everything well and let it sit for about 10-15 minutes to allow the flavors to meld.",
+        "Strain the mixture into a serving jug or glasses.",
+        "Serve chilled, garnished with a sprig of curry leaf if desired."
+    ],
+    "image": "sambharam.jpg",
+    "keywords": [
+        "buttermilk",
+        "spiced",
+        "traditional",
+        "Kerala",
+        "refreshing",
+        "non-alcoholic",
+        "vegan"
+    ]
+}
