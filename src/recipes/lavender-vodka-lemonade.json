@@ -1,0 +1,44 @@
+{
+  "name": "Lavender Vodka Lemonade>",
+  "description": "Lavender Vodka Lemonade is a refreshing cocktail that infuses vodka with a pinch of lavender, along with tangy lemon juice and sweet simple syrup. This recipe provides a sophisticated twist on classic lemonade with a subtle, floral aroma.",
+  "github": "stmcpeters",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "oz",
+          "ingredient": "vodka"
+      },
+      {
+          "quantity": "1.75",
+          "measure": "tablespoons",
+          "ingredient": "food-grade dried lavender"
+      },
+      {
+          "quantity": "1.5",
+          "measure": "oz",
+          "ingredient": "freshly squeezed lemon juice"
+      },
+      {
+          "quantity": "1.5",
+          "measure": "oz",
+          "ingredient": "simple syrup"
+      }
+  ],
+  "directions": [
+      "Pour vodka into a shaking tin.",
+      "Place the lavender in mesh tea infuser and drop it into the vodka.",
+      "After 5 minutes, pull the strainer from the vodka, drain it, and discard the lavender. (Straining the vodka using a fine-mesh sieve, also works in place of a tea infuser.>",
+      "Add the remaining ingredients and ice.",
+      "Close the shaker and shake vigorously for 15 seconds.",
+      "Pour the entire contents of the shaker into an old fashioned glass.",
+      "Garnish with an origami flower (optional)."
+  ],
+  "image": "lavender-vodka-lemonade.jpg",
+  "source": "https://images.food52.com/39YXiMrFnP712iSUQmq5S2PmF9M=/1930x1286/filters:format(webp)/9c3ff6e6-2016-4752-b7b1-e73cc2dcb651--2022-0308_lavender-vodka-lemonade-final_3x2_james-ransom.jpg",
+  "keywords": [
+      "vodka",
+      "lemonade",
+      "cocktail",
+      "lavender"
+  ]
+}
