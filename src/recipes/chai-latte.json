@@ -1,1 +1,54 @@
-{}
+{
+    "name": "Chai Latte",
+    "description": "This homemade chai latte is the perfect mug of freshly brewed black tea, warming spices, a hint of sweetness, and extra frothy milk.",
+    "github": "jsnorek",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "measure": "cup",
+            "ingredient": "milk (dairy or dairy-free)"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "black tea bag"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "teaspoon",
+            "ingredient": "ground cinnamon"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "ground ginger"
+        },
+        {
+            "quantity": "1/8",
+            "measure": "teaspoon",
+            "ingredient": "ground cloves"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "vanilla extract"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "maple syrup or honey"
+        }
+    ],
+    "directions": [
+        "Heat the milk in a small saucepan over medium heat. Once it begins to simmer, turn off the heat and add the tea bags (I snip any labels off the tea bags so they can fully immerse). Let the tea steep for 4 to 5 minutes, then remove the tea bags with a slotted spoon.",
+        "Turn the heat back up to medium heat, and add the cinnamon, ginger, cloves, cardamom, vanilla, and maple syrup. Whisk everything together, until the chai tea is hot.",
+        "Pour the tea into mugs and if you'd like, top with extra milk foam and a sprinkle of cinnamon."
+    ],
+    "image": "chai-latte.jpg",
+    "source": "https://downshiftology.com/recipes/easy-chai-latte/",
+    "keywords": [
+        "chai latte",
+        "tea",
+        "latte"
+    ]
+}
