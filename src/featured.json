@@ -19,7 +19,7 @@
       "drunken-peanut-butter-cups"
     ],
     "size": 12,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Holiday Drinks",
@@ -99,7 +99,7 @@
       "gin-fizz"
     ],
     "size": 12,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Popular Drinks",
@@ -146,7 +146,7 @@
       "warm-lemon-honey-tea"
     ],
     "size": 6,
-    "enabled": true
+    "enabled": false
   },
   {
     "title": "Everything is Chocolate",
