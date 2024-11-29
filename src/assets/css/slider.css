@@ -20,9 +20,9 @@
 	border-radius: calc(var(--switch-h) / 2);
 	background-size: auto 8em;
 	background-position: bottom;
-	background-color: rgb(236, 236, 236);
+	background-color: #6482ff;
 	transition: var(--switch-transition-duration);
-	border: .125em solid hsl(207, 30%, 95%);
+	border: .125em solid hsl(216, 5%, 79%);
 	overflow: hidden;
 
 	cursor: pointer;
