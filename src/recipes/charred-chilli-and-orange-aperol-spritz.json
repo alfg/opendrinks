@@ -1,0 +1,45 @@
+{
+    "name": "Charred chilli and orange aperol spritz",
+    "description": "The aperol spritz gets a shake up with this recipe. Show off your creative side with charred chilli and orange, while prosecco and soda water give the cocktail fizz. ",
+    "github": "Spore02",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "large orange, thinly sliced "
+        },
+        {
+            "quantity": "6",
+            "measure": "piece",
+            "ingredient": "long fresh red chillies"
+        },
+        {
+            "quantity": "360",
+            "measure": "mililiter",
+            "ingredient": "Aperol"
+        },
+        {
+            "quantity": "540",
+            "measure": "mililiter",
+            "ingredient": "prosecco"
+        },
+        {
+            "quantity": "180",
+            "measure": "mililiter",
+            "ingredient": "soda water"
+        },
+    ],
+    "directions": [
+        "Preheat a chargrill over high heat. Grill the orange slices and chillies for 6-8 minutes or until charred.",
+        "Divide the Aperol, prosecco and soda water among glasses. Serve with the orange and chilli. "
+    ],
+    "image": "charred-chilli-and-orange-aperol-spritz.jpg>",
+    "source": "https://www.taste.com.au/recipes/charred-chilli-orange-aperol-spritz/67yHQhYi?r=recipes/ct3q5mzk",
+    "keywords": [
+        "chilli",
+        "aperol spritz",
+        "soda water",
+        "prosecco", 
+        "spicy"
+    ]
+}
