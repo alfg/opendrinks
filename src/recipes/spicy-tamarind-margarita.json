@@ -1,0 +1,61 @@
+{
+    "name": "Spicy Tamarind Margarita",
+    "description": "A tangy and spicy margarita with tamarind paste and chili for a bold twist.",
+    "github": "RaphaelWirthBFH",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "tamarind paste"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "lime juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "teaspoon",
+            "ingredient": "chili powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "lime (for garnish)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "salt (for rim)"
+        }
+    ],
+    "directions": [
+        "Run a lime slice along the rim of a glass and dip it into salt to coat the rim.",
+        "In a shaker, combine tequila, tamarind paste, lime juice, simple syrup, chili powder, and ice.",
+        "Shake well for 15-20 seconds until the mixture is chilled.",
+        "Strain into the prepared glass filled with ice.",
+        "Garnish with a lime slice and serve immediately."
+    ],
+    "image": "spicy-tamarind-margarita.jpg",
+    "keywords": [
+        "tamarind",
+        "margarita",
+        "spicy",
+        "cocktail"
+    ]
+}
