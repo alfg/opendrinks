@@ -1,0 +1,46 @@
+{
+    "name": "Spicy Fifty",
+    "description": "A sophisticated cocktail balancing sweet and spicy flavors with vanilla vodka, elderflower cordial, and a hint of chili.",
+    "github": "<Your Github username>",
+    "ingredients": [
+        {
+            "quantity": "1.75",
+            "measure": "oz",
+            "ingredient": "Vanilla Vodka"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Elderflower Cordial"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "oz",
+            "ingredient": "Fresh Lime Juice"
+        },
+        {
+            "quantity": "0.33",
+            "measure": "oz",
+            "ingredient": "Honey Syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "slices",
+            "ingredient": "Red Chili Pepper"
+        }
+    ],
+    "directions": [
+        "Add all ingredients into a shaker filled with ice.",
+        "Shake vigorously until well chilled.",
+        "Double strain into a chilled cocktail glass and garnish with a slice of red chili pepper."
+    ],
+    "image": "spicy-fifty.jpg",
+    "source": "https://en.wikipedia.org/wiki/Spicy_Fifty",
+    "keywords": [
+        "cocktail",
+        "spicy",
+        "vanilla vodka",
+        "elderflower",
+        "chili"
+    ]
+}
