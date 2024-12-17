@@ -1,0 +1,38 @@
+{
+    "name": "Papaya with Cassis",
+    "description": "Papaya with Cassis (blackcurrant) is a very simple yet elegant drink / dessert, made with papaya cream and Cassis liqueur. It is an amazing drink to serve at a party or a get-together.",
+    "github": "caioabrahao",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Ripe Papaya"
+        },
+        {
+            "quantity": "3",
+            "measure": "balls",
+            "ingredient": "Vanilla Ice Cream"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoons",
+            "ingredient": "Crème de Cassis (blackcurrant liqueur)"
+        }
+    ],
+    "directions": [
+        "Cut the papaya in half and remove the seeds and skin.",
+        "Put the papaya and ice cream in a blender and blend until smooth.",
+        "Pour the mixture into a glass and add the Crème de Cassis on top.",
+        "Enjoy!"
+    ],
+    "image": "<papaya-with-cassis.jpg>",
+    "source": "https://www.tudogostoso.com.br/receita/11795-creme-de-papaya-com-cassis.html",
+    "keywords": [
+        "Crème de Cassis",
+        "Papaya",
+        "Vanilla Ice Cream",
+        "Papaya with Cassis",
+        "blackcurrant",
+        "liqueur"
+    ]
+}
