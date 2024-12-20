@@ -1,0 +1,55 @@
+{
+    "name": "Golden Breeze Mojito",
+    "description": "A refreshing mango mojito with a tropical twist, perfect for any occasion.",
+    "github": "your-github-username",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "ripe",
+            "ingredient": "mango (peeled, pitted, and diced)"
+        },
+        {
+            "quantity": "10-12",
+            "measure": "leaves",
+            "ingredient": "fresh mint"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "tablespoons",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "whole",
+            "ingredient": "lime (cut into wedges)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "soda water or sparkling water"
+        },
+        {
+            "quantity": "As needed",
+            "measure": "cubes",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "oz",
+            "ingredient": "white rum (optional)"
+        }
+    ],
+    "directions": [
+        "Muddle the mint leaves, lime wedges, and sugar in a sturdy glass to release the aroma and lime juice.",
+        "Blend the diced mango in a blender until smooth, adding a little water if needed to make a pourable puree.",
+        "Add 2-3 tablespoons of mango puree to the glass, fill it with ice cubes, and pour soda water over the mixture.",
+        "Gently stir, garnish with a lime slice and a sprig of mint, and serve!"
+    ],
+    "image": "golden-breeze-mojito.jpg",
+    "keywords": [
+        "mango mojito",
+        "tropical drink",
+        "non-alcoholic",
+        "refreshing"
+    ]
+}
