@@ -1,0 +1,58 @@
+{
+    "name": "Ethiopian Delight",
+    "description": "A bold and refreshing cocktail featuring Ethiopian coffee, rum, vodka, and Coke, finished with a touch of mint and ice cubes.",
+    "github": "your-github-username",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "Ethiopian coffee (strong, cooled)"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "light rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Coke"
+        },
+        {
+            "quantity": "as needed",
+            "measure": "",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1",
+            "measure": "sprig",
+            "ingredient": "fresh mint leaves"
+        }
+    ],
+    "directions": [
+        "Mix the Ethiopian coffee with sugar and stir until dissolved. Let it cool completely.",
+        "Fill a highball or Collins glass with ice cubes.",
+        "Add the rum, vodka, and sweetened Ethiopian coffee to the glass.",
+        "Top with Coke and stir gently to combine.",
+        "Garnish with a sprig of fresh mint and serve immediately."
+    ],
+    "image": "ethiopian-delight.jpg",
+    "keywords": [
+        "Ethiopian coffee",
+        "rum",
+        "vodka",
+        "coke",
+        "cocktail",
+        "mint"
+    ]
+}
