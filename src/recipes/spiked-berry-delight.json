@@ -1,0 +1,34 @@
+{
+    "name": "Spiked Berry Delight",
+    "description": "A refreshing berry cocktail with a splash of vodka",
+    "github": "lennyhurni",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "mixed berries"
+        },
+        {
+            "quantity": "1",
+            "measure": "ounce",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "sparkling water"
+        }
+    ],
+    "directions": [
+        "Blend the berries until smooth",
+        "Stir in vodka",
+        "Top with sparkling water and serve"
+    ],
+    "image": "spiked-berry-delight.jpg",
+    "source": "<source url if available, otherwise remove this line>",
+    "keywords": [
+        "cocktail",
+        "berry",
+        "vodka"
+    ]
+}
