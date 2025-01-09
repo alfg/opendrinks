@@ -1,0 +1,58 @@
+{
+    "name": "Dragon's Breath Mojito",
+    "description": "A fiery twist on the classic mojito, combining spicy chili, refreshing mint, and cooling lime to create a unique summer drink.",
+    "github": "cyrilgarillo",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "white rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "oz",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "oz",
+            "ingredient": "simple syrup"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "",
+            "ingredient": "fresh mint leaves"
+        },
+        {
+            "quantity": "1",
+            "measure": "small",
+            "ingredient": "red chili (sliced thinly, seeds removed for less spice)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "club soda (to top)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice (as needed)"
+        }
+    ],
+    "directions": [
+        "Muddle the mint leaves and chili slices in the bottom of a glass with the lime juice and simple syrup.",
+        "Add ice cubes and pour in the white rum.",
+        "Top with club soda and stir gently to combine.",
+        "Garnish with a sprig of mint and a thin slice of chili.",
+        "Serve immediately and enjoy!"
+    ],
+    "image": "dragons-breath-mojito.jpg",
+    "source": "https://www.delish.com",
+    "keywords": [
+        "spicy",
+        "mint",
+        "lime",
+        "rum",
+        "summer"
+    ]
+}
