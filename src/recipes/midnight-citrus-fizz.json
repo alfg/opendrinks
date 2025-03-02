@@ -1,0 +1,63 @@
+{
+    "name": "Midnight Citrus Fizz",
+    "description": "A zesty, deep-blue mocktail with a sparkling citrus kick.",
+    "github": "shamaamahh",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "fresh blueberry juice (or muddled blueberries)"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "cup",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "0.25",
+            "measure": "cup",
+            "ingredient": "fresh orange juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "tbsp",
+            "ingredient": "honey or agave syrup"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "tsp",
+            "ingredient": "grated ginger"
+        },
+        {
+            "quantity": "0.5",
+            "measure": "cup",
+            "ingredient": "sparkling water or tonic water"
+        },
+        {
+            "quantity": "3-4",
+            "measure": "pieces",
+            "ingredient": "ice cubes"
+        },
+        {
+            "quantity": "1-2",
+            "measure": "drops",
+            "ingredient": "butterfly pea flower extract (optional)"
+        }
+    ],
+    "directions": [
+        "In a shaker, combine the blueberry juice, lime juice, orange juice, honey (or agave), and grated ginger. Shake well.",
+        "Fill a glass with ice cubes and pour the mixture over the ice.",
+        "Slowly top with sparkling water and gently stir.",
+        "If using butterfly pea flower extract, add a drop or two—watch as the color transforms!",
+        "Garnish with a lime wedge, a few whole blueberries, and a sprig of mint.",
+        "Enjoy your Midnight Citrus Fizz—refreshing, slightly tart, and beautifully vibrant!"
+    ],
+    "image": "midnight-citrus-fizz.jpg",
+    "keywords": [
+        "mocktail",
+        "citrus",
+        "blueberry",
+        "refreshing",
+        "sparkling"
+    ]
+}
