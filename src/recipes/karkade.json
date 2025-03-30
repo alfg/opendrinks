@@ -1,0 +1,37 @@
+{
+    "name": "Karkade (Sudanese Hibiscus Tea)",
+    "description": "A traditional Sudanese hibiscus drink served chilled, perfect for hot days and special occasions.",
+    "github": "ajokt123",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "liter",
+            "ingredient": "room temperature water"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "dried hibiscus flowers"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "sugar"
+        }
+    ],
+    "directions": [
+        "Rinse hibiscus petals in cold water to clean",
+        "Boil 1 cup of water, then add hibiscus petals",
+        "Let simmer for 10-15min until the water is a deep red",
+        "Strain the petals out and stir in sugar while the tea is still warm",
+        "Let it cool, then refrigerate and serve over ice"
+    ],
+    "image": "karkade.jpg",
+    "keywords": [
+        "sudanese",
+        "hibiscus",
+        "karkade",
+        "refreshing"
+        
+    ]
+}
