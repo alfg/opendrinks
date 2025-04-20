@@ -86,4 +86,10 @@ export default {
   height: 212px;
   object-fit: cover;
 }
+
+.mb-4:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
 </style>
