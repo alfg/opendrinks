@@ -1,0 +1,51 @@
+{
+    "name": "Sorrel - Trinidad Style",
+    "description": "Traditional Caribbean drink made from hibiscus. This recipe is for the Trinidadian version.",
+    "github": "JaredDaniel341",
+    "ingredients": [
+        {
+            "quantity": "8",
+            "measure": "oz",
+            "ingredient": "Dried Sorrel"
+        },
+        {
+            "quantity": "2",
+            "measure": "3 inch",
+            "ingredient": "Cinnamon Sticks"
+        },
+        {
+            "quantity": "1",
+            "measure": "3 by 1 inch",
+            "ingredient": "Orange Peel (fresh or dried)"
+        },
+        {
+            "quantity": "12",
+            "measure": "whole",
+            "ingredient": "Cloves"
+        },
+        {
+            "quantity": "10-12",
+            "measure": "cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1 1/2",
+            "measure": "cups",
+            "ingredient": "Sugar"
+        }
+    ],
+    "directions": [
+        "Boil 10 cups of water then add the sorrel, sugar, cinnamon stick, whole cloves and orange peel.",
+        "Stir mixture continuously while it bols for 1 minute.",
+        "Cool and cover with foil or plastic wrap.",
+        "Set aside at room temperature to steep for 2 hours or overnight.",
+        "Taste test and add water if too potent or more sugar if too tart. Strain the liquid through a fine sieve into a jar and refrigerate."
+    ],
+    "image": "<sorrel.jpg>",
+    "source": "https://www.food.com/recipe/sorrel-drink-trinidad-197234",
+    "keywords": [
+        "trinidad",
+        "caribbean",
+        "hibiscus"
+    ]
+}
