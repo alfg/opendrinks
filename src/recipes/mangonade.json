@@ -1,0 +1,49 @@
+{
+  "name": "Mangonade",
+  "description": "A refreshing mango-based summer drink with a fizzy lemon twist.",
+  "github": "<your-github-username>",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "measure": "medium",
+      "ingredient": "Ripe Mango"
+    },
+    {
+      "quantity": "1/2 cup",
+      "measure": "120 ml",
+      "ingredient": "Lemon soda"
+    },
+    {
+      "quantity": "1/4 cup",
+      "measure": "60 ml",
+      "ingredient": "Chilled Water"
+    },
+    {
+      "quantity": "Optional",
+      "measure": "few cubes",
+      "ingredient": "Ice"
+    },
+    {
+      "quantity": "Optional",
+      "measure": "to taste",
+      "ingredient": "Sugar or honey"
+    }
+  ],
+  "directions": [
+    "Peel the mango and cut it into pieces.",
+    "Blend the mango until it becomes a smooth slush.",
+    "Add chilled water and blend again.",
+    "Stir in lemon soda gently to preserve the fizz.",
+    "Add sugar or honey if extra sweetness is needed.",
+    "Serve with ice cubes and garnish with a mint leaf (optional)."
+  ],
+  "image": "Mangonade.png",
+  "keywords": [
+    "mango drink",
+    "summer drink",
+    "refreshing",
+    "mangonade",
+    "lemon soda",
+    "mocktail"
+  ]
+}
