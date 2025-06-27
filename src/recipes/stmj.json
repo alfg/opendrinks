@@ -1,0 +1,49 @@
+{
+    "name": "Susu Telur Madu Jahe/STMJ (Milk Egg Honey Ginger)",
+    "description": "STMJ is an Indonesian drink, made with combination of Milk, Honey, Raw egg yolk, and Ginger",
+    "github": "Agastya486",
+    "ingredients": [
+        {
+            "quantity": "500",
+            "measure": "ml",
+            "ingredient": "Fresh milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "table of spoon",
+            "ingredient": "Sweetened condensed milk"
+        },
+        {
+            "quantity": "6",
+            "measure": "table of spoon",
+            "ingredient": "Honey"
+        },
+        {
+            "quantity": "6",
+            "measure": "cm",
+            "ingredient": "Ginger, peeled and crushed"
+        },
+        {
+            "quantity": "2",
+            "measure": "pcs",
+            "ingredient": "Free-range chicken eggs"
+        }
+    ],
+    "directions": [
+        "Peel and crush the ginger, then roast it until fragrant.",
+        "Pour the fresh milk and sweetened condensed milk into a saucepan. Stir until well combined.",
+        "Heat the milk mixture, then cut the roasted ginger in half and add it to the milk. Stir continuously to prevent it from boiling.",
+        "Separate the egg yolks from the whites, and use only the yolks.",
+        "Place the egg yolks into a glass and mix them with the honey.",
+        "Strain the hot milk mixture into the glass with the egg yolks and honey while stirring quickly to combine everything evenly.",
+        "Enjoy!"
+    ],
+    "image": "stmj.jpg",
+    "keywords": [
+        "stmj",
+        "milk",
+        "egg",
+        "honey",
+        "ginger"
+    ]
+}
