@@ -99,7 +99,7 @@
       "gin-fizz"
     ],
     "size": 12,
-    "enabled": false
+    "enabled": true
   },
   {
     "title": "Popular Drinks",
