@@ -1,0 +1,50 @@
+{
+    "name": "Hugo",
+    "description": "A refreshing summer cocktail with elderflower syrup, mint, and Prosecco.",
+    "github": "Fab1anlocher",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "Prosecco"
+        },
+        {
+            "quantity": "2-3",
+            "measure": "cl",
+            "ingredient": "Elderflower syrup"
+        },
+        {
+            "quantity": "5",
+            "measure": "cl",
+            "ingredient": "Soda water"
+        },
+        {
+            "quantity": "2",
+            "measure": "leaves",
+            "ingredient": "Mint"
+        },
+        {
+            "quantity": "1",
+            "measure": "piece",
+            "ingredient": "Lime"
+        },
+        {
+            "quantity": "as needed",
+            "measure": "",
+            "ingredient": "Ice cubes"
+        }
+    ],
+    "directions": [
+        "Lightly press the mint leaves and add them to a glass.",
+        "Pour in the elderflower syrup, Prosecco, and soda water.",
+        "Garnish with a lime slice and add ice cubes.",
+        "Gently stir and enjoy your refreshing Hugo cocktail."
+    ],
+    "image": "hugo.jpg",
+    "keywords": [
+        "summer cocktail",
+        "Prosecco",
+        "mint",
+        "refreshing"
+    ]
+}
