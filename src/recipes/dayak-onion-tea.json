@@ -1,0 +1,36 @@
+{
+  "name": "Dayak Onion Tea",
+  "description": "A traditional herbal tea made from Dayak onions, known for its medicinal properties and unique flavor.",
+  "github": "Diegratia",
+  "ingredients": [
+      {
+          "quantity": "2",
+          "measure": "pieces",
+          "ingredient": "Dayak onions"
+      },
+      {
+          "quantity": "2",
+          "measure": "cups",
+          "ingredient": "water"
+      },
+      {
+          "quantity": "1",
+          "measure": "teaspoon",
+          "ingredient": "honey"
+      }
+  ],
+  "directions": [
+      "Peel and slice the Dayak onions into thin pieces.",
+      "Boil 2 cups of water in a pot and add the sliced Dayak onions.",
+      "Simmer for 10-15 minutes until the water turns reddish.",
+      "Strain the tea into a cup and let it cool slightly.",
+      "Add honey to taste, and serve warm."
+  ],
+  "image": "dayak-onion-tea.jpg",
+  "keywords": [
+      "herbal tea",
+      "Dayak onion",
+      "traditional drink",
+      "healthy tea"
+  ]
+}
