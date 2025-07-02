@@ -107,8 +107,8 @@
 
 <script>
 import RecipeTile from '@/components/RecipeTile.vue';
-import recipes from '../recipes';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
+import recipes from '../recipes';
 
 const NUMBER_OF_SIMILAR_RECIPES = 3;
 
