@@ -1,0 +1,55 @@
+{
+    "name": "Penicillin",
+    "description": "A modern classic whisky cocktail created by Sam Ross, combining Scotch whisky with honey, lemon, and ginger for a perfect balance of sweet, sour, and spicy flavors.",
+    "github": "assistant",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "blended Scotch whisky"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "oz",
+            "ingredient": "Islay single malt Scotch whisky"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "fresh lemon juice"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "honey syrup"
+        },
+        {
+            "quantity": "3/4",
+            "measure": "oz",
+            "ingredient": "ginger liqueur"
+        },
+        {
+            "quantity": "3",
+            "measure": "slices",
+            "ingredient": "fresh ginger"
+        }
+    ],
+    "directions": [
+        "Add the fresh ginger slices to a shaker and muddle gently to release the oils.",
+        "Add the blended Scotch whisky, lemon juice, honey syrup, and ginger liqueur to the shaker.",
+        "Fill the shaker with ice and shake vigorously for 10-15 seconds.",
+        "Double strain the mixture into a rocks glass filled with ice.",
+        "Float the Islay single malt Scotch on top by pouring it slowly over the back of a bar spoon.",
+        "Garnish with a slice of fresh ginger and serve immediately."
+    ],
+    "image": "penicillin.jpg",
+    "keywords": [
+        "whisky",
+        "scotch",
+        "ginger",
+        "honey",
+        "alcoholic",
+        "modern classic",
+        "cocktail"
+    ]
+}
