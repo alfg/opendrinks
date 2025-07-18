@@ -1,0 +1,63 @@
+{
+    "name": "ABC Juice",
+    "description": "ABC juice is a vibrant and nutritious blend of Apple, Beetroot, and Carrot, packed with antioxidants and essential nutrients. It's a refreshing detox drink that can be made using a juicer or a blender, and optionally enhanced with lemon, ginger, or chaat masala.",
+    "github": "kruthish18",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "pcs",
+            "ingredient": "Apples"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Beetroot"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "",
+            "ingredient": "Carrots"
+        },
+        {
+            "quantity": "1",
+            "measure": "inch",
+            "ingredient": "Ginger (optional)"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "pcs",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "1/2-3/4",
+            "measure": "cup",
+            "ingredient": "Water (if using blender)"
+        },
+        {
+            "quantity": "to taste",
+            "measure": "",
+            "ingredient": "Salt and Sugar (optional)"
+        }
+    ],
+    "directions": [
+        "Wash all the ingredients thoroughly.",
+        "Core the apples and chop all the fruits and vegetables into chunks.",
+        "If using a juicer: juice apples, beetroot, carrots, and ginger in that order.",
+        "If using a blender: blend everything with water until smooth and strain using a mesh or muslin cloth.",
+        "Squeeze in lemon juice if desired.",
+        "Add a pinch of salt, sugar, or chaat masala as per taste (optional).",
+        "Serve immediately with or without ice, or store in the fridge for up to 24–48 hours."
+    ],
+    "image": "abc-juice.jpg",
+    "keywords": [
+        "abc",
+        "apple",
+        "beetroot",
+        "carrot",
+        "juice",
+        "detox",
+        "healthy",
+        "vegan",
+        "mocktail"
+    ]
+}
