@@ -27,7 +27,7 @@
             "quantity": "2",
             "measure": "cl",
             "ingredient": "lemon juice"
-        },
+        }
     ],
     "directions": [
         "Pour the blackcurrant syrup and the lemon juice in a glass",
@@ -41,6 +41,6 @@
         "beer",
         "blackcurrant",
         "calvados",
-        "french",
+        "french"
     ]
 }
