@@ -1,0 +1,46 @@
+{
+    "name": "Embuscade",
+    "description": "A French beer-based cocktail from Normandy. Refreshing and slightly sweet.",
+    "github": "WilliamAboucaya",
+    "ingredients": [
+        {
+            "quantity": "10",
+            "measure": "cl",
+            "ingredient": "cold lager"
+        },
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "white wine, preferably dry"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Calvados apple brandy"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "blackcurrant syrup"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "lemon juice"
+        },
+    ],
+    "directions": [
+        "Pour the blackcurrant syrup and the lemon juice in a glass",
+        "Stir well with a spoon",
+        "Add the white wine and the Calvados brandy",
+        "Stir again",
+        "Add the cold beer slowly"
+    ],
+    "image": "embuscade.jpg",
+    "keywords": [
+        "beer",
+        "blackcurrant",
+        "calvados",
+        "french",
+    ]
+}
