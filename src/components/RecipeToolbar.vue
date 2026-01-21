@@ -16,7 +16,7 @@
       class="mr-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
-      v-b-tooltip.hover.nonInteractive="
+      v-b-tooltip="
         !isFavorited ? $t('recipeToolbar.setFavorite') : $t('recipeToolbar.unsetFavorite')
       "
     ></FavoriteStar>
@@ -27,7 +27,7 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnFacebook')"
+      v-b-tooltip="$t('recipeToolbar.shareOnFacebook')"
     >
       <BIconFacebook font-scale="2"></BIconFacebook>
     </ShareNetwork>
@@ -38,19 +38,19 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnTwitter')"
+      v-b-tooltip="$t('recipeToolbar.shareOnTwitter')"
     >
       <BIconTwitter font-scale="2"></BIconTwitter>
     </ShareNetwork>
     <BIconFiles
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.copyURL')"
+      v-b-tooltip="$t('recipeToolbar.copyURL')"
       class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
     >
     </BIconFiles>
     <div
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.print')"
+      v-b-tooltip="$t('recipeToolbar.print')"
       class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       v-if="!isMobile"
     >
@@ -66,7 +66,7 @@
 </template>
 
 <script>
-import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
+import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue-next';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {

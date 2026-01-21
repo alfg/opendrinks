@@ -6,10 +6,11 @@
     no-body
   >
     <b-link :to="'/recipe/' + drink.filename">
-      <b-card-img-lazy
+      <b-card-img
         :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
         :alt="drink.name"
         top
+        loading="lazy"
       />
     </b-link>
 
