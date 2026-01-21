@@ -14,9 +14,6 @@ import i18n from './i18n';
 const app = createApp(App);
 const head = createHead();
 
-app.config.globalProperties.$isMobile = () =>
-  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-
 app.config.compilerOptions.isCustomElement = tag => tag === 'amp-ad';
 
 app.mixin({
