@@ -44,7 +44,7 @@
     </ShareNetwork>
     <BIconFiles
       v-b-tooltip="$t('recipeToolbar.copyURL')"
-      class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       font-scale="2"
       @click="copyUrl"
     >
