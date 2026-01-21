@@ -1,5 +1,5 @@
-import { createLocalVue, shallowMount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { shallowMount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 
 import router from '@/router';
 import i18n from '@/i18n';
@@ -7,20 +7,17 @@ import recipes from '@/recipes';
 import RecipeList from '@/components/RecipeList.vue';
 
 const drinks = recipes.getRecipes();
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
 
 describe('RecipeList', () => {
   const wrapper = shallowMount(RecipeList, {
-    propsData: { title: 'Open Drinks - Test', items: drinks },
-    localVue,
-    router,
-    i18n,
+    props: { title: 'Open Drinks - Test', items: drinks },
+    global: {
+      plugins: [router, i18n, createBootstrap()],
+    },
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.vm).toBeTruthy();
   });
 
   test('sets the correct title', () => {

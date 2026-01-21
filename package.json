@@ -13,6 +13,7 @@
     "validate": "node scripts/validate_recipes.js"
   },
   "dependencies": {
+    "@vueuse/head": "^2.0.0",
     "bootstrap": "^5.3.3",
     "bootstrap-vue-next": "^0.26.0",
     "core-js": "^3.39.0",
@@ -20,11 +21,11 @@
     "register-service-worker": "^1.7.2",
     "vue": "^3.5.27",
     "vue-i18n": "^10.0.6",
-    "@vueuse/head": "^2.0.0",
     "vue-router": "^4.5.0",
     "vue-social-sharing": "^4.0.0-alpha.4"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.25.9",
     "@intlify/unplugin-vue-i18n": "^5.2.0",
     "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^5.0.8",
@@ -34,9 +35,9 @@
     "@vue/eslint-config-airbnb": "^8.0.0",
     "@vue/eslint-config-prettier": "^10.1.0",
     "@vue/test-utils": "^2.4.6",
+    "@vue/vue3-jest": "^27.0.0",
     "ajv": "^8.17.1",
-    "@babel/eslint-parser": "^7.25.9",
-    "babel-jest": "^29.7.0",
+    "babel-jest": "^27.5.1",
     "babel-plugin-require-context-hook": "^1.0.0",
     "eslint": "^8.57.1",
     "eslint-plugin-prettier": "^5.2.1",

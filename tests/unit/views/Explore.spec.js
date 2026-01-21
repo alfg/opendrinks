@@ -1,21 +1,18 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { mount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import Explore from '@/views/Explore.vue';
-
-const localVue = createLocalVue();
-localVue.use(BootstrapVue);
 
 describe('Explore', () => {
   let wrapper;
 
   beforeEach(() => {
     wrapper = mount(Explore, {
-      localVue,
-      router,
-      i18n,
+      global: {
+        plugins: [router, i18n, createBootstrap()],
+      },
     });
   });
 

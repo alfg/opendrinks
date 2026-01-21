@@ -1,24 +1,20 @@
-import { createLocalVue, shallowMount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { shallowMount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import FeaturedRecipes from '@/components/FeaturedRecipes.vue';
 
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
-
 describe('FeaturedRecipes', () => {
   const wrapper = shallowMount(FeaturedRecipes, {
-    localVue,
-    router,
-    i18n,
-    stubs: ['b-button'],
+    global: {
+      plugins: [router, i18n, createBootstrap()],
+      stubs: ['b-button'],
+    },
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.vm).toBeTruthy();
   });
 
   test.skip('render title correctly', () => {

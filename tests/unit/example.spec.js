@@ -1,11 +1,10 @@
-import Vue from 'vue';
+import { mount } from '@vue/test-utils';
 import Example from './Example.vue';
 
 // helper function that mounts and returns the rendered text
 function getRenderedText(Component, propsData) {
-  const Constructor = Vue.extend(Component);
-  const vm = new Constructor({ propsData }).$mount();
-  return vm.$el.textContent;
+  const wrapper = mount(Component, { props: propsData });
+  return wrapper.text();
 }
 
 // What is being tested

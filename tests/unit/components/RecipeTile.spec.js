@@ -1,14 +1,10 @@
-import { createLocalVue, shallowMount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { shallowMount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 import recipes from '@/recipes';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import RecipeTile from '@/components/RecipeTile.vue';
-
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
 
 describe('RecipeTile', () => {
   const baseRecipe = {
@@ -32,14 +28,14 @@ describe('RecipeTile', () => {
   };
 
   const wrapper = shallowMount(RecipeTile, {
-    propsData: { id: 'americano' },
-    localVue,
-    router,
-    i18n,
+    props: { id: 'americano' },
+    global: {
+      plugins: [router, i18n, createBootstrap()],
+    },
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.vm).toBeTruthy();
   });
 
   test('should pass the correct props', () => {
@@ -78,9 +74,10 @@ describe('RecipeTile', () => {
   test('should load correct recipe on create', () => {
     recipes.getRecipe = jest.fn().mockReturnValueOnce(baseRecipe);
     shallowMount(RecipeTile, {
-      propsData: { id: 'Appletini' },
-      localVue,
-      router,
+      props: { id: 'Appletini' },
+      global: {
+        plugins: [router, createBootstrap()],
+      },
     });
     expect(recipes.getRecipe).toHaveBeenCalledWith('Appletini');
   });

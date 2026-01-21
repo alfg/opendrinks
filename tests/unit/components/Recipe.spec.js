@@ -1,5 +1,5 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { mount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 import VueSocialSharing from 'vue-social-sharing';
 
 import router from '@/router';
@@ -8,22 +8,17 @@ import Recipe from '@/components/Recipe.vue';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
 import FavoriteStar from '@/components/FavoriteStar.vue';
 
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
-localVue.use(VueSocialSharing);
-
 describe('Recipe', () => {
   const wrapper = mount(Recipe, {
-    propsData: { name: 'mango-juice.json' },
-    localVue,
-    router,
-    i18n,
-    stubs: ['router-link'],
+    props: { name: 'mango-juice.json' },
+    global: {
+      plugins: [router, i18n, createBootstrap(), VueSocialSharing],
+      stubs: ['router-link'],
+    },
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.vm).toBeTruthy();
   });
 
   test('renders the correct props', () => {

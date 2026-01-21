@@ -1,5 +1,5 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { mount } from '@vue/test-utils';
+import { createBootstrap } from 'bootstrap-vue-next';
 import VueSocialSharing from 'vue-social-sharing';
 import Random from '@/views/Random.vue';
 import i18n from '@/i18n';
@@ -9,21 +9,18 @@ describe('Random view', () => {
   let wrapper;
 
   beforeEach(() => {
-    const localVue = createLocalVue();
-    localVue.use(BootstrapVue);
-    localVue.use(VueSocialSharing);
     fn = jest.fn();
 
     wrapper = mount(Random, {
-      localVue,
-      i18n,
-      mocks: {
-        $router: {
-          replace: fn,
+      global: {
+        plugins: [i18n, createBootstrap(), VueSocialSharing],
+        mocks: {
+          $router: {
+            replace: fn,
+          },
         },
+        stubs: ['router-link'],
       },
-      sync: false,
-      stubs: ['router-link'],
     });
   });
 
