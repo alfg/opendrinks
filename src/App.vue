@@ -39,6 +39,7 @@
 </template>
 
 <script>
+import { useHead } from '@vueuse/head';
 import GitHubCorner from '@/components/GitHubCorner.vue';
 import ThemeHandler from '@/components/ThemeHandler.vue';
 import Adspace from '@/components/Adspace.vue';
@@ -50,8 +51,8 @@ export default {
     ThemeHandler,
     Adspace,
   },
-  metaInfo() {
-    return {
+  setup() {
+    useHead({
       title: 'Open Drinks',
       htmlAttrs: {
         lang: 'en',
@@ -60,10 +61,9 @@ export default {
         {
           name: 'description',
           content: 'Open Source Drink Recipes',
-          vmid: 'description',
         },
       ],
-    };
+    });
   },
 };
 </script>

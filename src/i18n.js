@@ -1,5 +1,4 @@
-import Vue from 'vue';
-import VueI18n from 'vue-i18n';
+import { createI18n } from 'vue-i18n';
 
 import ar from './lang/ar';
 import bn from './lang/bn';
@@ -21,9 +20,8 @@ import uk from './lang/uk';
 import vi from './lang/vi';
 import zh from './lang/zh';
 
-Vue.use(VueI18n);
-
-export default new VueI18n({
+export default createI18n({
+  legacy: false,
   locale: (window.navigator.language && window.navigator.language.split('-')[0]) || 'en',
   messages: {
     ar,
@@ -47,6 +45,6 @@ export default new VueI18n({
     zh,
   },
   fallbackLocale: 'en',
-  silentTranslationWarn: true,
-  silentFallbackWarn: true,
+  missingWarn: false,
+  fallbackWarn: false,
 });

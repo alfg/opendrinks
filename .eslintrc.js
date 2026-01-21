@@ -6,7 +6,7 @@ module.exports = {
   },
 
   extends: [
-    'plugin:vue/essential',
+    'plugin:vue/vue3-essential',
     '@vue/airbnb',
     '@vue/eslint-config-airbnb',
     '@vue/eslint-config-prettier',
@@ -18,12 +18,12 @@ module.exports = {
   },
 
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
   },
 
   overrides: [
     {
-      files: ['**/__tests__/*.{j,t}s?(x)'],
+      files: ['**/__tests__/*.{j,t}s?(x)', '**/*.spec.{j,t}s?(x)'],
       env: {
         jest: true,
       },
