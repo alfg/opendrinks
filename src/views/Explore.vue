@@ -39,12 +39,12 @@
         v-if="showFilter"
         v-t="'explore.resetFilters'"
       />
-      <b-button 
-        variant="outline-secondary" 
-        :pressed="showFilter" 
-        @click="showFilter = !showFilter" 
-        size="sm" 
-        v-t="'Filters'" 
+      <b-button
+        variant="outline-secondary"
+        :pressed="showFilter"
+        @click="showFilter = !showFilter"
+        size="sm"
+        v-t="'Filters'"
       />
     </div>
     <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />

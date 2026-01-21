@@ -12,7 +12,7 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :to="'/recipe/' + o.filename" variant="primary" v-t="'View Recipe'" />
+          <b-button :to="`/recipe/${o.filename}`" variant="primary" v-t="'View Recipe'" />
           <FavoriteStar
             class="mt-2 float-right"
             @favorite="favorited(o.name)"
@@ -71,7 +71,7 @@ export default {
       const { page } = (this.$route && this.$route.query) || 0;
       if (newItems && newItems.length !== oldItems.length) {
         if (newItems.length < page * this.perPage) {
-          const query = Object.assign({}, this.$route.query);
+          const query = { ...this.$route.query };
           query.page = 1;
 
           /* NOTE: Alternatively you could use:
@@ -149,62 +149,3 @@ export default {
   object-fit: cover;
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "View Recipe": "レシピを見る"
-  },
-  "fr": {
-    "View Recipe": "Voir la Recette"
-  },
-  "es": {
-    "View Recipe": "Ver Receta"
-  },
-  "hi": {
-    "View Recipe": "विधि देखे"
-  },
-  "ar": {
-    "View Recipe": "شاهد الوصفة"
-  },
-  "gl": {
-    "View Recipe": "Ver receita"
-  },
-  "de": {
-  "View Recipe": "Rezept ansehen"
-  },
-  "nl": {
-    "View Recipe": "Recept bekijken"
-  },
-  "no": {
-    "View Recipe": "Se oppskrift"
-  },
-  "ru": {
-    "View Recipe": "Просмотреть рецепт"
-  },
-  "uk": {
-    "View Recipe": "Переглянути рецепт"
-  },
-  "bn": {
-    "View Recipe": "রেসিপিটি দেখুন"
-  },
-  "it": {
-    "View Recipe": "Visualizza ricetta"
-  },
-  "np": {
-    "View Recipe": "नुस्खा हेर्नुहोस्"
-  },
-  "pt": {
-    "View Recipe": "Ver receita"
-  },
-  "zh": {
-    "View Recipe": "查看配方"
-  },
-  "vi": {
-    "View Recipe": "Xem công thức"
-  },
-  "th": {
-    "View Recipe": "ดูสูตร"
-  }
-}
-</i18n>

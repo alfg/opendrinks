@@ -9,17 +9,15 @@ import VueSocialSharing from 'vue-social-sharing';
 import App from './App.vue';
 import router from './router';
 import './registerServiceWorker';
-import 'core-js';
 import i18n from './i18n';
 
 const app = createApp(App);
 const head = createHead();
 
-app.config.globalProperties.$isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-  navigator.userAgent,
-);
+app.config.globalProperties.$isMobile = () =>
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-app.config.compilerOptions.isCustomElement = (tag) => tag === 'amp-ad';
+app.config.compilerOptions.isCustomElement = tag => tag === 'amp-ad';
 
 app.mixin({
   computed: {

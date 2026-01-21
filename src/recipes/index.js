@@ -52,9 +52,11 @@ async function getSimilarRecipe(id) {
   const { keywords, ingredients, name } = getRecipe(id);
   const similarities = [];
   await forEachParallel(recipes, recipe => {
-    const { keywords: currKeywords, ingredients: currIngredients, name: currName } = getRecipe(
-      recipe,
-    );
+    const {
+      keywords: currKeywords,
+      ingredients: currIngredients,
+      name: currName,
+    } = getRecipe(recipe);
 
     if (name === currName) {
       return;

@@ -57,7 +57,7 @@
             <h2 class="h4">{{ $t('recipe.ingredients') }}</h2>
             <ul>
               <li v-for="(o, i) in drink.ingredients" v-bind:key="i">
-                {{ o.quantity + ' ' + o.measure + ' ' + o.ingredient }}
+                {{ `${o.quantity} ${o.measure} ${o.ingredient}` }}
               </li>
             </ul>
           </div>

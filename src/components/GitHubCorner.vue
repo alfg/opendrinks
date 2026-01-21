@@ -10,7 +10,7 @@
       height="80"
       class="theme-bg-color"
       viewBox="0 0 250 250"
-      style="fill:#E5F578; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
+      style="fill: #e5f578; color: #fff; position: absolute; top: 0; border: 0; right: 0"
       aria-hidden="true"
     >
       <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z" />
@@ -19,7 +19,7 @@
         78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,
         87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
         fill="currentColor"
-        style="transform-origin: 130px 106px;"
+        style="transform-origin: 130px 106px"
         class="octo-arm"
       />
       <path

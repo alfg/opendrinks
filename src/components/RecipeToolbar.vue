@@ -55,7 +55,7 @@
       v-if="!isMobile"
     >
       <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
-      <a v-else :href="`/recipe/${name}/print`" target="_blank">
+      <a v-else :href="`/recipe/${name}/print`" target="_blank" rel="noopener noreferrer">
         <BIconPrinter :fontScale="2"></BIconPrinter>
       </a>
     </div>

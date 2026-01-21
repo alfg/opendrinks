@@ -26,22 +26,14 @@ describe('Explore', () => {
     wrapper.find('.btn-outline-secondary').trigger('click');
     wrapper.vm.addNewKeywordToFilter('alcoholic');
     wrapper.vm.addNewKeywordToFilter('gin');
-    expect(
-      wrapper
-        .findAll('.filter-item')
-        .at(1)
-        .text(),
-    ).toBe('gin');
+    expect(wrapper.findAll('.filter-item').at(1).text()).toBe('gin');
   });
 
   test('removes a filter when clicked', () => {
     wrapper.find('.btn-outline-secondary').trigger('click');
     wrapper.vm.addNewKeywordToFilter('alcoholic');
     wrapper.vm.addNewKeywordToFilter('gin');
-    wrapper
-      .findAll('.filter-item')
-      .at(1)
-      .trigger('click');
+    wrapper.findAll('.filter-item').at(1).trigger('click');
     expect(wrapper.findAll('.filter-item').length).toBe(1);
   });
 });

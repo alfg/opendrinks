@@ -6,16 +6,12 @@
     <b-form-group class="mt-2" :label="`${$t('recipeFind.filterBy')}:`">
       <b-form-radio-group v-model="selectedSearch" name="selectedSearch">
         <b-form-radio value="name">{{ $t('recipeFind.name') }}</b-form-radio>
-        <b-form-radio
-          v-b-tooltip="$t('recipeFind.searchForIngredients')"
-          value="ingredients"
-          >{{ $t('recipeFind.ingredients') }}</b-form-radio
-        >
-        <b-form-radio
-          v-b-tooltip="$t('recipeFind.searchForKeywords')"
-          value="keywords"
-          >{{ $t('recipeFind.keywords') }}</b-form-radio
-        >
+        <b-form-radio v-b-tooltip="$t('recipeFind.searchForIngredients')" value="ingredients">{{
+          $t('recipeFind.ingredients')
+        }}</b-form-radio>
+        <b-form-radio v-b-tooltip="$t('recipeFind.searchForKeywords')" value="keywords">{{
+          $t('recipeFind.keywords')
+        }}</b-form-radio>
       </b-form-radio-group>
     </b-form-group>
 
@@ -26,7 +22,7 @@
         v-on:mouseover="onMouseOverOrMove"
         v-on:mouseleave="onMouseLeave"
         v-on:mousemove="onMouseOverOrMove"
-        :to="'/recipe/' + o.filename"
+        :to="`/recipe/${o.filename}`"
         >{{ o.name }}</b-list-group-item
       >
     </b-list-group>

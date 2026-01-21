@@ -33,7 +33,7 @@
     "@vue/cli-plugin-unit-jest": "^5.0.8",
     "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-airbnb": "^8.0.0",
-    "@vue/eslint-config-prettier": "^10.1.0",
+    "@vue/eslint-config-prettier": "^9.0.0",
     "@vue/test-utils": "^2.4.6",
     "@vue/vue3-jest": "^27.0.0",
     "ajv": "^8.17.1",
