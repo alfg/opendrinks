@@ -1,0 +1,54 @@
+{
+    "name": "Limoncello Spritz",
+    "description": "A sunny spritz made with limoncello, prosecco, and a splash of soda water.",
+    "github": "alfg",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "limoncello"
+        },
+        {
+            "quantity": "90",
+            "measure": "ml",
+            "ingredient": "prosecco (chilled)"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "soda water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lemon slice (garnish)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "mint sprig (optional garnish)"
+        }
+    ],
+    "directions": [
+        "Fill a wine glass with ice.",
+        "Add limoncello and prosecco.",
+        "Top with soda water and stir gently.",
+        "Garnish with a lemon slice (and mint if you like)."
+    ],
+    "image": "limoncello-spritz.jpg",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "spritz",
+        "limoncello",
+        "prosecco",
+        "soda water",
+        "lemon",
+        "summer"
+    ]
+}

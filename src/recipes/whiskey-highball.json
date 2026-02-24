@@ -1,0 +1,43 @@
+{
+    "name": "Whiskey Highball",
+    "description": "A simple, refreshing highball: whiskey topped with fizzy soda water, served ice-cold.",
+    "github": "alfg",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "whiskey"
+        },
+        {
+            "quantity": "180",
+            "measure": "ml",
+            "ingredient": "chilled soda water"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice (large cubes preferred)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "lemon peel or wedge (optional garnish)"
+        }
+    ],
+    "directions": [
+        "Chill a highball glass and fill it with ice.",
+        "Add whiskey and stir briefly to chill.",
+        "Top with chilled soda water.",
+        "Stir once or twice very gently to keep carbonation. Garnish with lemon if desired."
+    ],
+    "image": "whiskey-highball.jpg",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "whiskey",
+        "highball",
+        "soda water",
+        "simple",
+        "carbonated"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Ranch Water",
+    "description": "A crisp, bubbly tequila highball with fresh lime and sparkling mineral water (often Topo Chico).",
+    "github": "alfg",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "blanco tequila"
+        },
+        {
+            "quantity": "22.5",
+            "measure": "ml",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "Topo Chico (or sparkling mineral water)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime wedge (garnish)"
+        }
+    ],
+    "directions": [
+        "Fill a highball glass with ice.",
+        "Add tequila and lime juice.",
+        "Top with chilled Topo Chico (or sparkling water).",
+        "Stir gently and garnish with a lime wedge."
+    ],
+    "image": "ranch-water.jpg",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "tequila",
+        "sparkling water",
+        "topo chico",
+        "highball",
+        "lime",
+        "summer"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Batanga",
+    "description": "A tequila-and-cola highball with lime and a salted rim—easy, refreshing, and very photogenic.",
+    "github": "alfg",
+    "ingredients": [
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "salt (for rimming the glass)"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "blanco tequila"
+        },
+        {
+            "quantity": "120",
+            "measure": "ml",
+            "ingredient": "cola"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "lime wedge (garnish)"
+        }
+    ],
+    "directions": [
+        "Rim a highball glass with salt and fill with ice.",
+        "Add lime juice and tequila.",
+        "Top with cola and stir gently.",
+        "Garnish with a lime wedge."
+    ],
+    "image": "batanga.jpg",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "tequila",
+        "cola",
+        "lime",
+        "mexican",
+        "highball",
+        "simple"
+    ]
+}

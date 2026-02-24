@@ -1,0 +1,64 @@
+{
+    "name": "Pornstar Martini",
+    "description": "A modern passion-fruit cocktail made with vanilla vodka and Passoã, traditionally served with a small shot of prosecco on the side.",
+    "github": "alfg",
+    "ingredients": [
+        {
+            "quantity": "60",
+            "measure": "ml",
+            "ingredient": "vanilla vodka"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "Passoã (passion fruit liqueur)"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "passion fruit purée (or passion fruit juice)"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "fresh lime juice"
+        },
+        {
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "vanilla syrup (or simple syrup)"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "ice"
+        },
+        {
+            "quantity": "30",
+            "measure": "ml",
+            "ingredient": "prosecco (served on the side)"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "passion fruit (garnish, optional)"
+        }
+    ],
+    "directions": [
+        "Chill a coupe or martini glass.",
+        "Add vanilla vodka, Passoã, passion fruit purée, lime juice, and vanilla syrup to a shaker with ice.",
+        "Shake hard until well chilled.",
+        "Double strain into the chilled glass.",
+        "Serve with a small shot of prosecco on the side and garnish with half a passion fruit (optional)."
+    ],
+    "image": "pornstar-martini.jpg",
+    "keywords": [
+        "alcoholic",
+        "cocktail",
+        "vodka",
+        "passion fruit",
+        "prosecco",
+        "modern classic",
+        "vanilla"
+    ]
+}
