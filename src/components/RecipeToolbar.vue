@@ -92,6 +92,9 @@ export default {
     this.getFavorites();
   },
   computed: {
+    isMobile() {
+      return typeof window !== 'undefined' && window.innerWidth < 576;
+    },
     isFavorited() {
       return this.favorites.indexOf(this.drink.name) !== -1;
     },

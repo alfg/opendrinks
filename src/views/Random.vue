@@ -33,7 +33,7 @@ export default {
       });
     },
     onNext() {
-      this.$router.push({ name: 'random' });
+      this.getRandom();
     },
   },
 };

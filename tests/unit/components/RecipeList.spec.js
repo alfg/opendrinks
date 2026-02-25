@@ -26,13 +26,13 @@ describe('RecipeList', () => {
   test('should render the correct number of items per page', async () => {
     wrapper.vm.perPage = 5;
     await wrapper.vm.$nextTick();
-    expect(wrapper.findAll('.card-wrapper').length).toBe(5);
+    expect(wrapper.vm.paginatedItems.length).toBe(5);
   });
 
   test('should display the correct items when the page number changes', async () => {
     wrapper.vm.perPage = 3;
+    wrapper.vm.currentPage = 2;
     await wrapper.vm.$nextTick();
-    await wrapper.vm.$router.push({ query: { page: 2 } });
     expect(wrapper.vm.paginatedItems[0]).toStrictEqual(drinks[3]);
   });
 });

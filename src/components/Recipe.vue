@@ -123,6 +123,9 @@ export default {
     RecipeToolbar,
   },
   computed: {
+    isMobile() {
+      return typeof window !== 'undefined' && window.innerWidth < 576;
+    },
     recipeAbsoluteURL() {
       return `https://opendrinks.io${window.location.pathname}`;
     },

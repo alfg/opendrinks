@@ -50,6 +50,14 @@ export default {
     ThemeHandler,
     Adspace,
   },
+  computed: {
+    isMobile() {
+      return typeof window !== 'undefined' && window.innerWidth < 576;
+    },
+    isPrintPage() {
+      return this.$route && this.$route.path.includes('print');
+    },
+  },
   head() {
     return {
       title: 'Open Drinks',
