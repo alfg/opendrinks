@@ -2,7 +2,7 @@
   <div class="adspace container">
     <ins
       class="adsbygoogle"
-      style="display:block"
+      style="display: block"
       data-ad-client="ca-pub-2292705730484150"
       data-ad-slot="3103974598"
       data-ad-format="auto"

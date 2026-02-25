@@ -8,10 +8,10 @@
       </div>
       <div class="row">
         <div class="col-6 d-flex flex-row align-items-center mb-2">
-          <span class="text-nowrap mr-2">{{ $t('explore.addKeyword') }}</span>
+          <span class="text-nowrap me-2">{{ $t('explore.addKeyword') }}</span>
           <b-form-select
             v-model="selectedKeyword"
-            @change="addNewKeywordToFilter($event)"
+            @update:model-value="addNewKeywordToFilter"
             :options="keywordFilter"
           ></b-form-select>
         </div>
@@ -21,7 +21,7 @@
               v-for="(o, i) in filteredKeywords"
               v-bind:key="i"
               variant="secondary"
-              class="mr-2 filter-item"
+              class="me-2 filter-item"
               @click="removeKeywordFromFilter(i)"
             >
               {{ o }}
@@ -34,12 +34,14 @@
       <b-button
         variant="outline-warning"
         @click="resetFilters()"
-        class="mr-2"
+        class="me-2"
         size="sm"
         v-if="showFilter"
-        v-t="'explore.resetFilters'"
-      />
-      <b-button variant="outline-secondary" :pressed.sync="showFilter" size="sm" v-t="'Filters'" />
+        >{{ $t('explore.resetFilters') }}</b-button
+      >
+      <b-button variant="outline-secondary" v-model:pressed="showFilter" size="sm">{{
+        $t('Filters')
+      }}</b-button>
     </div>
     <RecipeList title="Open Drinks - Explore" v-bind:items="filterResults" />
   </div>

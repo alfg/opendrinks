@@ -1,14 +1,15 @@
 <template>
   <b-card
     class="mb-4"
-    style="min-width: calc( 33.333% - 30px )"
+    style="min-width: calc(33.333% - 30px)"
     :to="'/recipe/' + drink.filename"
     no-body
   >
     <b-link :to="'/recipe/' + drink.filename">
-      <b-card-img-lazy
+      <b-card-img
         :src="drink.image ? require(`@/assets/recipes/${drink.image}`) : null"
         :alt="drink.name"
+        loading="lazy"
         top
       />
     </b-link>
@@ -28,7 +29,7 @@
             v-for="(o, i) in drink.keywords"
             v-bind:key="i"
             variant="primary"
-            class="mr-1"
+            class="me-1"
             :to="{ name: 'keyword', params: { keyword: urlEncode(o) } }"
           >
             {{ o }}

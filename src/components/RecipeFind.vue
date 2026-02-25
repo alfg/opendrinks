@@ -122,11 +122,8 @@ export default {
       const hoveredElement = event.target;
       if (hoveredElement.classList.contains('highlight')) return;
 
-      const currentHighlightedComponent = this.$children.find(component => {
-        return component.$el && component.$el.classList.contains('highlight');
-      });
-      if (currentHighlightedComponent)
-        currentHighlightedComponent.$el.classList.remove('highlight');
+      const currentHighlighted = this.$el.querySelector('.list-group-item.highlight');
+      if (currentHighlighted) currentHighlighted.classList.remove('highlight');
       hoveredElement.classList.add('highlight');
     },
     onMouseLeave(event) {
@@ -135,13 +132,11 @@ export default {
       hoveredElement.classList.remove('highlight');
     },
     onEnter() {
-      const listElements = this.$children.filter(component => {
-        return component.$el && component.$el.classList.contains('list-group-item');
-      });
-      const currentHighlightedComponentIndex = listElements.findIndex(component => {
-        return component.$el && component.$el.classList.contains('highlight');
-      });
-      const index = currentHighlightedComponentIndex > 0 ? currentHighlightedComponentIndex : 0;
+      const listElements = Array.from(this.$el.querySelectorAll('.list-group-item'));
+      const currentHighlightedIndex = listElements.findIndex(el =>
+        el.classList.contains('highlight'),
+      );
+      const index = currentHighlightedIndex > 0 ? currentHighlightedIndex : 0;
 
       this.$router.push({
         name: 'recipe',
@@ -149,32 +144,23 @@ export default {
       });
     },
     onKeydown(event) {
-      const listElements = this.$children.filter(component => {
-        return component.$el && component.$el.classList.contains('list-group-item');
-      });
+      const listElements = Array.from(this.$el.querySelectorAll('.list-group-item'));
       if (listElements.length === 0) {
         return;
       }
-      const currentHighlightedComponent = listElements.find(component => {
-        return component.$el && component.$el.classList.contains('highlight');
-      });
-      const firstListElement = listElements[0].$el;
-      const lastListElement = listElements[listElements.length - 1].$el;
+      const currentHighlighted = listElements.find(el => el.classList.contains('highlight'));
+      const firstListElement = listElements[0];
+      const lastListElement = listElements[listElements.length - 1];
       let nextElement;
 
       if (event.keyCode === 40) {
         // key down
-        nextElement = currentHighlightedComponent
-          ? currentHighlightedComponent.$el.nextSibling
-          : firstListElement;
+        nextElement = currentHighlighted ? currentHighlighted.nextSibling : firstListElement;
       } else if (event.keyCode === 38) {
         // key up
-        nextElement = currentHighlightedComponent
-          ? currentHighlightedComponent.$el.previousSibling
-          : lastListElement;
+        nextElement = currentHighlighted ? currentHighlighted.previousSibling : lastListElement;
       }
-      if (currentHighlightedComponent)
-        currentHighlightedComponent.$el.classList.remove('highlight');
+      if (currentHighlighted) currentHighlighted.classList.remove('highlight');
       if (nextElement) nextElement.classList.add('highlight');
     },
   },

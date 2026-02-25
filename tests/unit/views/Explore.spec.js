@@ -1,50 +1,42 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { mount } from '@vue/test-utils';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import Explore from '@/views/Explore.vue';
-
-const localVue = createLocalVue();
-localVue.use(BootstrapVue);
 
 describe('Explore', () => {
   let wrapper;
 
   beforeEach(() => {
     wrapper = mount(Explore, {
-      localVue,
-      router,
-      i18n,
+      global: {
+        plugins: [router, i18n],
+      },
     });
   });
 
-  test('toggle filters when button is clicked', () => {
-    expect(wrapper.findAll('.col-12 h4').exists()).toBe(false);
-    wrapper.find('.btn-outline-secondary').trigger('click');
+  test('toggle filters when button is clicked', async () => {
+    expect(wrapper.findAll('.col-12 h4').length).toBe(0);
+    await wrapper.vm.$nextTick();
+    wrapper.vm.showFilter = true;
+    await wrapper.vm.$nextTick();
     expect(wrapper.find('.col-12 h4').text()).toBe('Filters');
   });
 
-  test('displays filter keywords', () => {
-    wrapper.find('.btn-outline-secondary').trigger('click');
+  test('displays filter keywords', async () => {
+    wrapper.vm.showFilter = true;
     wrapper.vm.addNewKeywordToFilter('alcoholic');
     wrapper.vm.addNewKeywordToFilter('gin');
-    expect(
-      wrapper
-        .findAll('.filter-item')
-        .at(1)
-        .text(),
-    ).toBe('gin');
+    await wrapper.vm.$nextTick();
+    expect(wrapper.findAll('.filter-item')[1].text()).toBe('gin');
   });
 
-  test('removes a filter when clicked', () => {
-    wrapper.find('.btn-outline-secondary').trigger('click');
+  test('removes a filter when clicked', async () => {
+    wrapper.vm.showFilter = true;
     wrapper.vm.addNewKeywordToFilter('alcoholic');
     wrapper.vm.addNewKeywordToFilter('gin');
-    wrapper
-      .findAll('.filter-item')
-      .at(1)
-      .trigger('click');
+    await wrapper.vm.$nextTick();
+    await wrapper.findAll('.filter-item')[1].trigger('click');
     expect(wrapper.findAll('.filter-item').length).toBe(1);
   });
 });

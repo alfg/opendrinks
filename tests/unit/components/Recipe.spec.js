@@ -1,29 +1,33 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
-import VueSocialSharing from 'vue-social-sharing';
+import { mount } from '@vue/test-utils';
+import { createRouter, createMemoryHistory } from 'vue-router';
 
-import router from '@/router';
 import i18n from '@/i18n';
 import Recipe from '@/components/Recipe.vue';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
 import FavoriteStar from '@/components/FavoriteStar.vue';
 
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
-localVue.use(VueSocialSharing);
+const testRouter = createRouter({
+  history: createMemoryHistory(),
+  routes: [{ path: '/:pathMatch(.*)*', component: { template: '<div/>' } }],
+});
 
 describe('Recipe', () => {
-  const wrapper = mount(Recipe, {
-    propsData: { name: 'mango-juice.json' },
-    localVue,
-    router,
-    i18n,
-    stubs: ['router-link'],
+  let wrapper;
+
+  beforeAll(async () => {
+    wrapper = mount(Recipe, {
+      props: { name: 'mango-juice.json' },
+      global: {
+        plugins: [testRouter, i18n],
+        stubs: ['router-link', 'share-network', 'ShareNetwork'],
+      },
+    });
+    await testRouter.isReady();
+    await wrapper.vm.$nextTick();
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.exists()).toBe(true);
   });
 
   test('renders the correct props', () => {
@@ -37,14 +41,15 @@ describe('Recipe', () => {
   });
 
   test('first keyword badge of recipe should correspond to first keyword array element in data', () => {
-    const btn = wrapper.find('.badge');
-    expect(btn.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
+    const li = wrapper.find('ul.list-reset li');
+    expect(li.text()).toBe(wrapper.vm.$data.drink.keywords[0]);
   });
 
-  it('shows that the drink has been favorited', () => {
-    const toolbar = wrapper.find(RecipeToolbar);
-    toolbar.setData({ favorites: ['Mango Juice'] });
-    const star = toolbar.find(FavoriteStar);
+  it('shows that the drink has been favorited', async () => {
+    const toolbar = wrapper.findComponent(RecipeToolbar);
+    toolbar.vm.favorites = ['Mango Juice'];
+    await toolbar.vm.$nextTick();
+    const star = toolbar.findComponent(FavoriteStar);
     const starProps = star.props();
     expect(starProps.isFavorited).toBe(true);
   });
@@ -61,7 +66,7 @@ describe('Recipe', () => {
 
   it('renders the first ingredient correctly', () => {
     const listArray = wrapper.findAll('.recipe-ingredients li');
-    const firstIngredientListItem = listArray.at(0);
+    const firstIngredientListItem = listArray[0];
     const firstIngredient = wrapper.vm.$data.drink.ingredients[0];
     const matchingString = `${firstIngredient.quantity} ${firstIngredient.measure} ${firstIngredient.ingredient}`;
     expect(firstIngredientListItem.text()).toBe(matchingString);
@@ -69,7 +74,7 @@ describe('Recipe', () => {
 
   it('renders the first direction correctly', () => {
     const listArray = wrapper.findAll('.recipe-directions-list li');
-    const firstDirection = listArray.at(0);
+    const firstDirection = listArray[0];
     const matchingString = wrapper.vm.$data.drink.directions[0];
     expect(firstDirection.text()).toBe(matchingString);
   });

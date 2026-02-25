@@ -1,8 +1,16 @@
 <template>
   <div id="recipe-list" class="">
-    <b-card-group deck>
-      <div v-for="(o, i) in paginatedItems" v-bind:key="i" class="card-wrapper mb-2">
+    <b-row>
+      <b-col
+        v-for="(o, i) in paginatedItems"
+        v-bind:key="i"
+        cols="12"
+        md="6"
+        lg="4"
+        class="mb-4 d-flex"
+      >
         <b-card
+          class="w-100"
           :title="o.name"
           :img-src="o.image ? require(`@/assets/recipes/${o.image}`) : null"
           :img-alt="o.name"
@@ -12,24 +20,26 @@
             {{ o.description }}
           </b-card-text>
 
-          <b-button :to="'/recipe/' + o.filename" variant="primary" v-t="'View Recipe'" />
+          <b-button :to="'/recipe/' + o.filename" variant="primary">{{
+            $t('recipeList.viewRecipe')
+          }}</b-button>
           <FavoriteStar
-            class="mt-2 float-right"
+            class="mt-2 float-end"
             @favorite="favorited(o.name)"
             :isFavorited="favorites.includes(o.name)"
           ></FavoriteStar>
         </b-card>
-      </div>
-    </b-card-group>
+      </b-col>
+    </b-row>
 
     <b-row class="mt-4">
       <b-col cols="12" md="10">
-        <b-pagination-nav
-          @change="onPageChanged"
-          :link-gen="linkGen"
-          :number-of-pages="pages"
-          use-router
-        ></b-pagination-nav>
+        <b-pagination
+          v-model="currentPage"
+          :total-rows="items.length"
+          :per-page="perPage"
+          @update:model-value="onPageChanged"
+        ></b-pagination>
       </b-col>
       <b-col cols="12" md="2">
         <b-form-select v-model="perPage" :options="options" v-on:change="getSelectedItem">
@@ -54,6 +64,7 @@ export default {
   data() {
     return {
       perPage: 12,
+      currentPage: 1,
       options: [
         { value: 12, text: '12' },
         { value: 24, text: '24' },
@@ -65,19 +76,14 @@ export default {
   mounted() {
     window.document.title = this.title;
     this.favorites = JSON.parse(window.localStorage.getItem('favorites')) || [];
+    const page = this.$route && this.$route.query && this.$route.query.page;
+    if (page) this.currentPage = parseInt(page, 10);
   },
   watch: {
-    async items(newItems, oldItems) {
-      const { page } = (this.$route && this.$route.query) || 0;
-      if (newItems && newItems.length !== oldItems.length) {
-        if (newItems.length < page * this.perPage) {
-          const query = Object.assign({}, this.$route.query);
-          query.page = 1;
-
-          /* NOTE: Alternatively you could use:
-           * query.page = Math.ceil(newItems.length / this.perPage);
-           */
-          await this.$router.push({ query });
+    items(newItems, oldItems) {
+      if (newItems && oldItems && newItems.length !== oldItems.length) {
+        if (this.currentPage > Math.ceil(newItems.length / this.perPage)) {
+          this.currentPage = 1;
         }
       }
     },
@@ -87,18 +93,16 @@ export default {
       return this.items.length === 0 ? 1 : Math.ceil(this.items.length / this.perPage);
     },
     paginatedItems() {
-      let pageNumber;
-      const { page } = (this.$route && this.$route.query) || 0;
-      if (page) {
-        pageNumber = page - 1;
-      } else {
-        pageNumber = 0;
-      }
+      const pageNumber = (this.currentPage || 1) - 1;
       return this.items.slice(pageNumber * this.perPage, (pageNumber + 1) * this.perPage);
     },
   },
   methods: {
-    onPageChanged() {
+    onPageChanged(page) {
+      if (this.$router) {
+        const query = { ...this.$route.query, page: page === 1 ? undefined : page };
+        this.$router.push({ query });
+      }
       window.scrollTo(0, 0);
     },
     linkGen(pageNum) {
@@ -122,19 +126,6 @@ export default {
 </script>
 
 <style scoped>
-.card-wrapper {
-  width: 315px;
-}
-
-@media (max-width: 768px) {
-  .card-wrapper {
-    width: 100%;
-  }
-}
-
-.card-deck .card {
-  margin-right: 0;
-}
 .card-text {
   display: block;
   display: -webkit-box;
@@ -149,62 +140,3 @@ export default {
   object-fit: cover;
 }
 </style>
-
-<i18n>
-{
-  "ja": {
-    "View Recipe": "レシピを見る"
-  },
-  "fr": {
-    "View Recipe": "Voir la Recette"
-  },
-  "es": {
-    "View Recipe": "Ver Receta"
-  },
-  "hi": {
-    "View Recipe": "विधि देखे"
-  },
-  "ar": {
-    "View Recipe": "شاهد الوصفة"
-  },
-  "gl": {
-    "View Recipe": "Ver receita"
-  },
-  "de": {
-  "View Recipe": "Rezept ansehen"
-  },
-  "nl": {
-    "View Recipe": "Recept bekijken"
-  },
-  "no": {
-    "View Recipe": "Se oppskrift"
-  },
-  "ru": {
-    "View Recipe": "Просмотреть рецепт"
-  },
-  "uk": {
-    "View Recipe": "Переглянути рецепт"
-  },
-  "bn": {
-    "View Recipe": "রেসিপিটি দেখুন"
-  },
-  "it": {
-    "View Recipe": "Visualizza ricetta"
-  },
-  "np": {
-    "View Recipe": "नुस्खा हेर्नुहोस्"
-  },
-  "pt": {
-    "View Recipe": "Ver receita"
-  },
-  "zh": {
-    "View Recipe": "查看配方"
-  },
-  "vi": {
-    "View Recipe": "Xem công thức"
-  },
-  "th": {
-    "View Recipe": "ดูสูตร"
-  }
-}
-</i18n>

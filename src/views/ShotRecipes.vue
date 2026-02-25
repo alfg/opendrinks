@@ -112,53 +112,26 @@
 <script>
 export default {
   name: 'ShotRecipes',
-  metaInfo() {
+  head() {
     const title = '50+ Best Shot Recipes (Easy Party & Bar Shots Guide)';
     const description =
       'Discover 50+ of the best shot recipes for parties and home bars. From sweet layered shots to strong classic shooters, find easy step-by-step recipes and ingredients.';
-
     return {
       title,
-      titleTemplate: '%s | Open Drinks',
-      htmlAttrs: {
-        lang: 'en',
-      },
+      titleTemplate: t => `${t} | Open Drinks`,
+      htmlAttrs: { lang: 'en' },
       meta: [
-        {
-          name: 'description',
-          content: description,
-          vmid: 'description',
-        },
-        {
-          property: 'og:title',
-          content: title,
-          vmid: 'og:title',
-        },
-        {
-          property: 'og:type',
-          content: 'website',
-          vmid: 'og:type',
-        },
-        {
-          property: 'og:site_name',
-          content: 'Open Drinks',
-          vmid: 'og:site_name',
-        },
-        {
-          property: 'og:url',
-          content: `https://opendrinks.io${window.location.pathname}`,
-          vmid: 'og:url',
-        },
-        {
-          property: 'og:description',
-          content: description,
-          vmid: 'og:description',
-        },
+        { name: 'description', content: description },
+        { property: 'og:title', content: title },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:site_name', content: 'Open Drinks' },
+        { property: 'og:url', content: `https://opendrinks.io${window.location.pathname}` },
+        { property: 'og:description', content: description },
       ],
       script: [
         {
           type: 'application/ld+json',
-          json: {
+          innerHTML: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
             mainEntity: [
@@ -167,8 +140,7 @@ export default {
                 name: 'What is the most popular shot drink?',
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text:
-                    'The Lemon Drop, Kamikaze, and Irish Car Bomb are among the most popular bar shots.',
+                  text: 'The Lemon Drop, Kamikaze, and Irish Car Bomb are among the most popular bar shots.',
                 },
               },
               {
@@ -176,8 +148,7 @@ export default {
                 name: 'What are easy 2-ingredient shots?',
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text:
-                    'Lemon Drop (vodka + lemon), Pickleback (whiskey + pickle juice), and Tequila Slammer are simple options.',
+                  text: 'Lemon Drop (vodka + lemon), Pickleback (whiskey + pickle juice), and Tequila Slammer are simple options.',
                 },
               },
               {
@@ -185,12 +156,11 @@ export default {
                 name: 'What is the strongest shot?',
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text:
-                    'Shots made with high-proof alcohol like 151 rum or multiple spirits (like the Four Horsemen) are among the strongest.',
+                  text: 'Shots made with high-proof alcohol like 151 rum or multiple spirits (like the Four Horsemen) are among the strongest.',
                 },
               },
             ],
-          },
+          }),
         },
       ],
     };

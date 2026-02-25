@@ -1,14 +1,9 @@
-import { createLocalVue, shallowMount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { shallowMount } from '@vue/test-utils';
 import recipes from '@/recipes';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import RecipeTile from '@/components/RecipeTile.vue';
-
-const localVue = createLocalVue();
-
-localVue.use(BootstrapVue);
 
 describe('RecipeTile', () => {
   const baseRecipe = {
@@ -32,14 +27,14 @@ describe('RecipeTile', () => {
   };
 
   const wrapper = shallowMount(RecipeTile, {
-    propsData: { id: 'americano' },
-    localVue,
-    router,
-    i18n,
+    props: { id: 'americano' },
+    global: {
+      plugins: [router, i18n],
+    },
   });
 
   test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.exists()).toBe(true);
   });
 
   test('should pass the correct props', () => {
@@ -52,25 +47,17 @@ describe('RecipeTile', () => {
     expect(title).toEqual('Americano');
   });
 
-  test('should not crop short description', () => {
-    wrapper.setData({
-      drink: {
-        ...baseRecipe,
-        description: 'short description',
-      },
-    });
+  test('should not crop short description', async () => {
+    wrapper.vm.drink = { ...baseRecipe, description: 'short description' };
+    await wrapper.vm.$nextTick();
     expect(wrapper.vm.croppedDescription).toEqual('short description');
     expect(wrapper.vm.croppedDescription).not.toContain('...');
   });
 
-  test('should crop long description', () => {
+  test('should crop long description', async () => {
     const longDescription = 'long description'.repeat(10);
-    wrapper.setData({
-      drink: {
-        ...baseRecipe,
-        description: longDescription,
-      },
-    });
+    wrapper.vm.drink = { ...baseRecipe, description: longDescription };
+    await wrapper.vm.$nextTick();
     expect(wrapper.vm.croppedDescription).not.toEqual(longDescription);
     expect(wrapper.vm.croppedDescription).toContain('...');
   });
@@ -78,9 +65,10 @@ describe('RecipeTile', () => {
   test('should load correct recipe on create', () => {
     recipes.getRecipe = jest.fn().mockReturnValueOnce(baseRecipe);
     shallowMount(RecipeTile, {
-      propsData: { id: 'Appletini' },
-      localVue,
-      router,
+      props: { id: 'Appletini' },
+      global: {
+        plugins: [router, i18n],
+      },
     });
     expect(recipes.getRecipe).toHaveBeenCalledWith('Appletini');
   });

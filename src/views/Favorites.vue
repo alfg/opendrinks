@@ -30,24 +30,12 @@ export default {
   },
   methods: {
     confirmModal() {
-      this.$bvModal
-        .msgBoxConfirm(this.$t('Are you sure you want to remove all favorites'), {
-          title: '',
-          size: 'md',
-          buttonSize: 'md',
-          okVariant: 'danger',
-          headerClass: 'p-2 border-bottom-0',
-          footerClass: 'p-2 border-top-0',
-          centered: true,
-          okTitle: this.$t('Delete'),
-          cancelTitle: this.$t('Cancel'),
-        })
-        .then(value => {
-          if (value) {
-            localStorage.removeItem('favorites');
-            this.drinks = [];
-          }
-        });
+      // eslint-disable-next-line no-alert
+      const confirmed = window.confirm(this.$t('Are you sure you want to remove all favorites'));
+      if (confirmed) {
+        localStorage.removeItem('favorites');
+        this.drinks = [];
+      }
     },
     favoriteClick(name) {
       const index = this.drinks.findIndex(drink => drink.name === name);

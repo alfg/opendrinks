@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="mb-4">
     <GitHubCorner class="theme-bg-color" v-if="!isMobile && !isPrintPage" />
-    <ThemeHandler class="mt-2 ml-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
+    <ThemeHandler class="mt-2 ms-2" v-if="!isMobile && !isPrintPage"></ThemeHandler>
     <div class="container mb-4 mt-4">
       <div class="mb-4 d-flex">
         <h1 class="logo">
@@ -50,19 +50,11 @@ export default {
     ThemeHandler,
     Adspace,
   },
-  metaInfo() {
+  head() {
     return {
       title: 'Open Drinks',
-      htmlAttrs: {
-        lang: 'en',
-      },
-      meta: [
-        {
-          name: 'description',
-          content: 'Open Source Drink Recipes',
-          vmid: 'description',
-        },
-      ],
+      htmlAttrs: { lang: 'en' },
+      meta: [{ name: 'description', content: 'Open Source Drink Recipes' }],
     };
   },
 };

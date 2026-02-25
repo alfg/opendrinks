@@ -1,11 +1,8 @@
-import Vue from 'vue';
-import Router from 'vue-router';
+import { createRouter, createWebHistory } from 'vue-router';
+import recipes from './recipes';
 
-Vue.use(Router);
-
-export default new Router({
-  mode: 'history',
-  base: process.env.BASE_URL,
+export default createRouter({
+  history: createWebHistory(process.env.BASE_URL),
   routes: [
     {
       path: '/',
@@ -20,6 +17,10 @@ export default new Router({
     {
       path: '/random',
       name: 'random',
+      beforeEnter() {
+        const randDrink = recipes.getRandom().replace('./', '').replace('.json', '');
+        return { name: 'recipe', params: { id: randDrink } };
+      },
       component: () => import('./views/Random.vue'),
     },
     {
@@ -64,7 +65,7 @@ export default new Router({
       component: () => import('./views/Favorites.vue'),
     },
     {
-      path: '*',
+      path: '/:pathMatch(.*)*',
       name: '404',
       component: () => import('./views/PageNotFound.vue'),
     },

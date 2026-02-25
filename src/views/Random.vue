@@ -1,6 +1,6 @@
 <template>
   <div class="home container">
-    <div class="float-right">
+    <div class="float-end">
       <b-button variant="primary" size="sm" @click="onNext">Next</b-button>
     </div>
     <Recipe v-bind:name="name" />
@@ -26,14 +26,14 @@ export default {
   },
   methods: {
     getRandom() {
-      const randDrink = recipes.getRandom();
-      this.name = randDrink;
+      const randDrink = recipes.getRandom().replace('./', '').replace('.json', '');
+      this.name = `${randDrink}.json`;
       this.$router.replace({
-        path: `recipe/${randDrink.replace('.json', '')}`,
+        path: `/recipe/${randDrink.replace('.json', '')}`,
       });
     },
     onNext() {
-      this.getRandom();
+      this.$router.push({ name: 'random' });
     },
   },
 };

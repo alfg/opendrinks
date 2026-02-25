@@ -11,12 +11,12 @@
         />
       </b-card-group>
       <b-button
-        block
+        class="w-100"
         variant="outline-primary"
         v-if="feature.items.length > featuredItemSize && feature.size < feature.items.length"
         v-on:click="loadMore(i)"
-        v-t="$t('featuredRecipes.loadMore')"
-      />
+        >{{ $t('featuredRecipes.loadMore') }}</b-button
+      >
 
       <hr v-if="featuredList.length !== i + 1" />
     </div>

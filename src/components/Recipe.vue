@@ -136,120 +136,6 @@ export default {
       });
     },
   },
-  metaInfo() {
-    const metaTitle = this.drink.metaTitle || this.drink.name || 'Open Drinks';
-    const metaDescription =
-      this.drink.metaDescription || this.drink.description || 'Open Source Drink Recipes';
-
-    const formatIngredient = ing => {
-      if (!ing) return '';
-      const quantity = ing.quantity ? String(ing.quantity).trim() : '';
-      const measure = ing.measure ? String(ing.measure).trim() : '';
-      const ingredient = ing.ingredient ? String(ing.ingredient).trim() : '';
-      return [quantity, measure, ingredient].filter(Boolean).join(' ');
-    };
-
-    const recipeIngredient = Array.isArray(this.drink.ingredients)
-      ? this.drink.ingredients.map(formatIngredient).filter(Boolean)
-      : [];
-
-    const recipeInstructions = Array.isArray(this.drink.directions)
-      ? this.drink.directions
-          .map(step => (step ? String(step).trim() : ''))
-          .filter(Boolean)
-          .map((text, i) => ({
-            '@type': 'HowToStep',
-            position: i + 1,
-            text,
-          }))
-      : [];
-    return {
-      title: metaTitle,
-      titleTemplate: '%s | Open Drinks',
-      htmlAttrs: {
-        lang: 'en',
-      },
-      meta: [
-        {
-          name: 'description',
-          content: metaDescription,
-          vmid: 'description',
-        },
-        {
-          property: 'og:title',
-          content: metaTitle,
-          vmid: 'og:title',
-        },
-        {
-          property: 'og:type',
-          content: 'article',
-          vmid: 'og:type',
-        },
-        {
-          property: 'og:site_name',
-          content: 'Open Drinks',
-          vmid: 'og:site_name',
-        },
-        {
-          property: 'og:url',
-          content: `https://opendrinks.io${window.location.pathname}`,
-          vmid: 'og:url',
-        },
-        {
-          property: 'og:description',
-          content: metaDescription,
-          vmid: 'og:description',
-        },
-        {
-          property: 'og:image',
-          content: `https://opendrinks.io${this.drink.img}`,
-          vmid: 'og:image',
-        },
-        {
-          property: 'og:image:alt',
-          content: this.drink.name,
-          vmid: 'og:image:alt',
-        },
-        {
-          itemprop: 'name',
-          content: this.drink.name,
-        },
-        {
-          itemprop: 'description',
-          content: metaDescription,
-        },
-        {
-          itemprop: 'image',
-          content: `https://opendrinks.io${this.drink.img}`,
-        },
-      ],
-      script: [
-        {
-          type: 'application/ld+json',
-          json: {
-            '@context': 'https://schema.org/',
-            '@type': 'Recipe',
-            name: this.drink.name,
-            url: `https://opendrinks.io${window.location.pathname}`,
-            description: metaDescription,
-            image: `https://opendrinks.io${this.drink.img}`,
-            recipeIngredient,
-            recipeInstructions,
-            keywords: Array.isArray(this.drink.keywords)
-              ? this.drink.keywords.join(', ')
-              : undefined,
-            author: this.drink.github
-              ? {
-                  '@type': 'Person',
-                  name: this.drink.github,
-                  url: `https://github.com/${this.drink.github}`,
-                }
-              : undefined,
-          },
-        },
-      ],
-    };
-  },
   data() {
     return {
       drink: {},
@@ -263,8 +149,6 @@ export default {
   },
   created() {
     this.getRecipe(this.name);
-    const metaTitle = this.drink.metaTitle || this.drink.name;
-    window.document.title = metaTitle ? `${metaTitle} | Open Drinks` : 'Open Drinks';
     this.getSimilarRecipes(this.name).then(data => {
       this.similarRecipes = data;
     });
@@ -289,6 +173,70 @@ export default {
     onShowImage(data) {
       this.showImage = data;
     },
+  },
+  head() {
+    const metaTitle = this.drink.metaTitle || this.drink.name || 'Open Drinks';
+    const metaDescription =
+      this.drink.metaDescription || this.drink.description || 'Open Source Drink Recipes';
+    const formatIngredient = ing => {
+      if (!ing) return '';
+      const quantity = ing.quantity ? String(ing.quantity).trim() : '';
+      const measure = ing.measure ? String(ing.measure).trim() : '';
+      const ingredient = ing.ingredient ? String(ing.ingredient).trim() : '';
+      return [quantity, measure, ingredient].filter(Boolean).join(' ');
+    };
+    const recipeIngredient = Array.isArray(this.drink.ingredients)
+      ? this.drink.ingredients.map(formatIngredient).filter(Boolean)
+      : [];
+    const recipeInstructions = Array.isArray(this.drink.directions)
+      ? this.drink.directions
+          .map(step => (step ? String(step).trim() : ''))
+          .filter(Boolean)
+          .map((text, i) => ({ '@type': 'HowToStep', position: i + 1, text }))
+      : [];
+    return {
+      title: metaTitle,
+      titleTemplate: title => `${title} | Open Drinks`,
+      htmlAttrs: { lang: 'en' },
+      meta: [
+        { name: 'description', content: metaDescription },
+        { property: 'og:title', content: metaTitle },
+        { property: 'og:type', content: 'article' },
+        { property: 'og:site_name', content: 'Open Drinks' },
+        { property: 'og:url', content: `https://opendrinks.io${window.location.pathname}` },
+        { property: 'og:description', content: metaDescription },
+        { property: 'og:image', content: `https://opendrinks.io${this.drink.img}` },
+        { property: 'og:image:alt', content: this.drink.name },
+        { itemprop: 'name', content: this.drink.name },
+        { itemprop: 'description', content: metaDescription },
+        { itemprop: 'image', content: `https://opendrinks.io${this.drink.img}` },
+      ],
+      script: [
+        {
+          type: 'application/ld+json',
+          innerHTML: JSON.stringify({
+            '@context': 'https://schema.org/',
+            '@type': 'Recipe',
+            name: this.drink.name,
+            url: `https://opendrinks.io${window.location.pathname}`,
+            description: metaDescription,
+            image: `https://opendrinks.io${this.drink.img}`,
+            recipeIngredient,
+            recipeInstructions,
+            keywords: Array.isArray(this.drink.keywords)
+              ? this.drink.keywords.join(', ')
+              : undefined,
+            author: this.drink.github
+              ? {
+                  '@type': 'Person',
+                  name: this.drink.github,
+                  url: `https://github.com/${this.drink.github}`,
+                }
+              : undefined,
+          }),
+        },
+      ],
+    };
   },
 };
 </script>

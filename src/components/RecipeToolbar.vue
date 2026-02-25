@@ -2,7 +2,7 @@
   <div class="d-flex align-items-center" v-bind:class="{ 'justify-content-end': isMobile }">
     <div class="show-image" v-if="isPrint">
       <b-form-checkbox
-        class="mr-3"
+        class="me-3"
         name="show-image-checkbox"
         :value="false"
         :unchecked-value="true"
@@ -13,10 +13,10 @@
     </div>
 
     <FavoriteStar
-      class="mr-3 fav-star"
+      class="me-3 fav-star"
       @favorite="favorited"
       :isFavorited="isFavorited"
-      v-b-tooltip.hover.nonInteractive="
+      v-b-tooltip.hover="
         !isFavorited ? $t('recipeToolbar.setFavorite') : $t('recipeToolbar.unsetFavorite')
       "
     ></FavoriteStar>
@@ -27,9 +27,9 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnFacebook')"
+      v-b-tooltip.hover="$t('recipeToolbar.shareOnFacebook')"
     >
-      <BIconFacebook font-scale="2"></BIconFacebook>
+      <i class="bi bi-facebook fs-4"></i>
     </ShareNetwork>
     <ShareNetwork
       network="twitter"
@@ -38,35 +38,36 @@
       :description="drink.description"
       :hashtags="drink.keywords.join()"
       class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnTwitter')"
+      v-b-tooltip.hover="$t('recipeToolbar.shareOnTwitter')"
     >
-      <BIconTwitter font-scale="2"></BIconTwitter>
+      <i class="bi bi-twitter-x fs-4"></i>
     </ShareNetwork>
-    <BIconFiles
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.copyURL')"
-      class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
-      font-scale="2"
+    <span
+      v-b-tooltip.hover="$t('recipeToolbar.copyURL')"
+      class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       @click="copyUrl"
     >
-    </BIconFiles>
+      <i class="bi bi-files fs-4"></i>
+    </span>
     <div
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.print')"
+      v-b-tooltip.hover="$t('recipeToolbar.print')"
       class="mx-1 theme-link-color cursor-pointer clickable-icon-hover"
       v-if="!isMobile"
     >
-      <BIconPrinter :fontScale="2" v-if="isPrint" @click="print()"></BIconPrinter>
+      <i class="bi bi-printer fs-4" v-if="isPrint" @click="print()"></i>
       <a v-else :href="`/recipe/${name}/print`" target="_blank">
-        <BIconPrinter :fontScale="2"></BIconPrinter>
+        <i class="bi bi-printer fs-4"></i>
       </a>
     </div>
-    <b-toast v-model="copyToast" :title="$t('recipeToolbar.urlCopied')" :auto-hide-delay="500">
-      {{ $t('recipeToolbar.urlCopiiedInClipboard') }}
-    </b-toast>
+    <transition name="fade">
+      <div v-if="copyToast" class="copy-toast badge bg-success ms-2">
+        {{ $t('recipeToolbar.urlCopiiedInClipboard') }}
+      </div>
+    </transition>
   </div>
 </template>
 
 <script>
-import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {
@@ -79,10 +80,6 @@ export default {
   },
   components: {
     FavoriteStar,
-    BIconTwitter,
-    BIconPrinter,
-    BIconFiles,
-    BIconFacebook,
   },
   data() {
     return {
@@ -132,6 +129,9 @@ export default {
       el.select();
       document.execCommand('copy');
       this.copyToast = true;
+      setTimeout(() => {
+        this.copyToast = false;
+      }, 1500);
       document.body.removeChild(el);
       if (selected) {
         document.getSelection().removeAllRanges();
@@ -149,5 +149,19 @@ export default {
 
 .clickable-icon-hover:hover {
   transform: scale(1.2);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.4s;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.copy-toast {
+  font-size: 0.8rem;
 }
 </style>

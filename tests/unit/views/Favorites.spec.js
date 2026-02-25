@@ -1,12 +1,8 @@
-import { createLocalVue, mount } from '@vue/test-utils';
-import BootstrapVue from 'bootstrap-vue';
+import { mount } from '@vue/test-utils';
 
 import router from '@/router';
 import i18n from '@/i18n';
 import Favorites from '@/views/Favorites.vue';
-
-const localVue = createLocalVue();
-localVue.use(BootstrapVue);
 
 describe('Favorites (Populated)', () => {
   let wrapper;
@@ -15,9 +11,9 @@ describe('Favorites (Populated)', () => {
     localStorage.setItem('favorites', JSON.stringify(['Aam Panna', 'Aperol Spritz']));
 
     wrapper = mount(Favorites, {
-      localVue,
-      router,
-      i18n,
+      global: {
+        plugins: [router, i18n],
+      },
     });
   });
 
@@ -42,19 +38,20 @@ describe('Favorites (Empty)', () => {
 
   beforeEach(() => {
     wrapper = mount(Favorites, {
-      localVue,
-      router,
-      i18n,
+      global: {
+        plugins: [router, i18n],
+      },
     });
   });
 
   test('show correct empty state', () => {
+    localStorage.clear();
     localStorage.setItem('favorites', JSON.stringify([]));
     wrapper = mount(Favorites, {
-      localVue,
-      router,
-      i18n,
+      global: {
+        plugins: [router, i18n],
+      },
     });
-    expect(wrapper.find('.alert-info').html()).toContain("You don't have any favorite drinks");
+    expect(wrapper.text()).toContain("You don't have any favorite drinks");
   });
 });
