@@ -12,7 +12,7 @@ const slotStub = {
 };
 
 const stubs = {};
-componentNames.forEach((name) => {
+componentNames.forEach(name => {
   stubs[name] = slotStub;
 });
 config.global.stubs = stubs;
@@ -21,7 +21,7 @@ config.global.stubs = stubs;
 // The real implementations reference internal components that fail in jest.
 const noopDirective = { mounted() {}, updated() {} };
 const directives = {};
-Object.keys(Directives).forEach((name) => {
+Object.keys(Directives).forEach(name => {
   // 'vBTooltip' → 'bTooltip'  (directive name used after 'v-')
   const directiveName = name.charAt(1).toLowerCase() + name.slice(2);
   directives[directiveName] = noopDirective;

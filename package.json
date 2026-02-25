@@ -3,7 +3,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build && npm run sitemap",
-    "test:unit": "vue-cli-service test:unit",
+    "test:unit": "NODE_OPTIONS=--no-deprecation vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
     "format": "prettier --config .prettierrc \"./**/*.{vue,js}\" --write",
     "function-build": "netlify-lambda build .netlify/functions-src -c .netlify/webpack.functions.js",
