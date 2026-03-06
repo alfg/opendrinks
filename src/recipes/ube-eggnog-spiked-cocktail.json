@@ -1,0 +1,38 @@
+{
+    "name": "<Ube Eggnog Spiked Cocktail>",
+    "description": "<A creamy, festive cocktail blending rich ube flavor with smooth eggnog and a warming splash of rum.>",
+    "github": "<seck1>",
+    "ingredients": [
+        {
+            "quantity": "<2>",
+            "measure": "<tablespoons>",
+            "ingredient": "<ube cookie butter>"
+        },
+        {
+            "quantity": "<1½>",
+            "measure": "<cups>",
+            "ingredient": "<eggnog>"
+        },
+        {
+            "quantity": "<2>",
+            "measure": "<oz>",
+            "ingredient": "<rum>"
+        },        
+        {
+            "quantity": "<3>",
+            "measure": "<tablespoons>",
+            "ingredient": "<crushed polvoron>"
+        },
+    ],
+    "directions": [
+        "<Spread 1 tbsp of ube cookie butter on a small plate. Run the rim of your glass through it, then dip the rim into crushed polvoron to coat.>",
+        "<Add 1 tbsp ube cookie butter and the eggnog to a blender. Blend until smooth, then strain into a pitcher or container.>",
+        "<Fill a shaker with ice. Add the rum and the ube eggnog mixture. Shake well until chilled.>",
+        "<Strain into the prepared glass and enjoy immediately.>"
+    ],
+    "image": "<ube-eggnog-spiked-cocktail.jpg>",
+    "keywords": [
+        "Ube",
+        "Festive"
+    ]
+}
