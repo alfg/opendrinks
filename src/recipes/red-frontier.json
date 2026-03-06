@@ -1,0 +1,47 @@
+{
+    "name": "Red Frontier",
+    "description": "A sweet, fruity whiskey-based cocktail with a rich crimson color and a fresh minty finish. A perfect twist for whiskey lovers who enjoy a cooler, more vibrant mix.",
+    "github": "CodingMike",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Whiskey"
+        },
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Cola"
+        },
+	    {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Crushed Ice"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Mint sprig (for garnish)"
+        }
+    ],
+    "directions": [
+        "Fill a tumbler glass with crushed ice.",
+        "Pour in whiskey, cranberry juice and cola.",
+        "Add grenadine gently to create a color gradient.",
+        "Stir lightly and garnish with a mint sprig."
+    ],
+    "image": "redfrontier.jpg",
+    "keywords":[
+        "alcoholic"
+    ]
+}
