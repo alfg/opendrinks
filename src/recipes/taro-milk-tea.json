@@ -1,0 +1,55 @@
+{
+    "name": "Taro Milk Tea",
+    "description": "A creamy and subtly sweet milk tea made with taro root powder, perfect served over ice with boba.",
+    "github": "ChuqiaoHuang",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "tablespoons",
+            "ingredient": "taro powder"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "milk or non-dairy milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "water"
+        },
+        {
+            "quantity": "1.5",
+            "measure": "tablespoons",
+            "ingredient": "sugar or sweetener"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "tapioca pearls (optional)"
+        },
+        {
+            "quantity": "200",
+            "measure": "ml",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Cook the tapioca pearls according to package instructions and set aside.",
+        "Bring the water to a boil and pour it into a cup or bowl.",
+        "Stir in taro powder and sugar until fully dissolved.",
+        "Add milk and mix until smooth.",
+        "Let the mixture cool slightly.",
+        "Add ice to a glass and pour the taro milk tea over the ice.",
+        "Add the tapioca pearls on top.",
+        "Enjoy with a wide straw!"
+    ],
+    "image": "taro-milk-tea.jpg",
+    "keywords": [
+        "milk tea",
+        "taro",
+        "boba",
+        "non-alcoholic",
+        "bubble tea"
+    ]
+}
