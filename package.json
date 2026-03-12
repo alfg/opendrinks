@@ -14,7 +14,7 @@
     "validate": "node scripts/validate_recipes.js"
   },
   "dependencies": {
-    "@unhead/vue": "^2.1.6",
+    "@unhead/vue": "^2.1.12",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "bootstrap-vue-next": "^0.26.4",
