@@ -108,6 +108,7 @@
 <script>
 import RecipeTile from '@/components/RecipeTile.vue';
 import RecipeToolbar from '@/components/RecipeToolbar.vue';
+import useIsMobile from '@/composables/useIsMobile';
 import recipes from '../recipes';
 
 const NUMBER_OF_SIMILAR_RECIPES = 3;
@@ -122,10 +123,14 @@ export default {
     RecipeTile,
     RecipeToolbar,
   },
+  setup() {
+    const isMobile = useIsMobile();
+
+    return {
+      isMobile,
+    };
+  },
   computed: {
-    isMobile() {
-      return typeof window !== 'undefined' && window.innerWidth < 576;
-    },
     recipeAbsoluteURL() {
       return `https://opendrinks.io${window.location.pathname}`;
     },

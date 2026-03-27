@@ -68,6 +68,7 @@
 </template>
 
 <script>
+import useIsMobile from '@/composables/useIsMobile';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {
@@ -81,6 +82,13 @@ export default {
   components: {
     FavoriteStar,
   },
+  setup() {
+    const isMobile = useIsMobile();
+
+    return {
+      isMobile,
+    };
+  },
   data() {
     return {
       favorites: [],
@@ -92,9 +100,6 @@ export default {
     this.getFavorites();
   },
   computed: {
-    isMobile() {
-      return typeof window !== 'undefined' && window.innerWidth < 576;
-    },
     isFavorited() {
       return this.favorites.indexOf(this.drink.name) !== -1;
     },

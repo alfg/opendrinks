@@ -42,6 +42,7 @@
 import GitHubCorner from '@/components/GitHubCorner.vue';
 import ThemeHandler from '@/components/ThemeHandler.vue';
 import Adspace from '@/components/Adspace.vue';
+import useIsMobile from '@/composables/useIsMobile';
 
 export default {
   name: 'App',
@@ -50,10 +51,14 @@ export default {
     ThemeHandler,
     Adspace,
   },
+  setup() {
+    const isMobile = useIsMobile();
+
+    return {
+      isMobile,
+    };
+  },
   computed: {
-    isMobile() {
-      return typeof window !== 'undefined' && window.innerWidth < 576;
-    },
     isPrintPage() {
       return this.$route && this.$route.path.includes('print');
     },
