@@ -1,0 +1,43 @@
+{
+  "name": "Ragi Ambli",
+  "description": "A traditional South Indian fermented drink made from ragi flour, known for its cooling and probiotic properties.",
+  "github": "Bhavesh716",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "measure": "tbsp",
+      "ingredient": "ragi flour"
+    },
+    {
+      "quantity": "1",
+      "measure": "cup",
+      "ingredient": "water"
+    },
+    {
+      "quantity": "1/2",
+      "measure": "cup",
+      "ingredient": "buttermilk"
+    },
+    {
+      "quantity": "1",
+      "measure": "pinch",
+      "ingredient": "salt"
+    }
+  ],
+  "directions": [
+    "Mix ragi flour with water to avoid lumps",
+    "Cook the mixture on low heat until it thickens",
+    "Let it cool completely",
+    "Add buttermilk and salt",
+    "Leave it to ferment for 6-8 hours",
+    "Stir well and serve chilled"
+  ],
+  "image": "ragi-ambli.jpg",
+  "keywords": [
+    "indian",
+    "healthy",
+    "fermented",
+    "ragi",
+    "traditional"
+  ]
+}
