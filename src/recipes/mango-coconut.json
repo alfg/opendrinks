@@ -1,0 +1,48 @@
+{
+    "name": "Mango coconut juice",
+    "description": "A summery drink which is tasty,refreshing and healthy",
+    "github": "blehh",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "cup",
+            "ingredient": "chopped mangoes"
+        },
+        {
+            "quantity": "300",
+            "measure": "ml",
+            "ingredient": "mango puree"
+        },
+        {
+            "quantity": "150",
+            "measure": "ml",
+            "ingredient": "tender coconut water"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "chia seeds"
+        },
+        {
+            "quantity": "5",
+            "measure": "cubes",
+            "ingredient": "ice"
+        }
+    ],
+    "directions": [
+        "Blend the chopped mangoes. Keep a few pieces aside for topping the drink.",
+        "into a glass add the prepared mango puree",
+        "add tender coconut water into the same glass",
+        "add few ice cubes",
+        "add soaked chia seeds","top with fresh mango pieces",
+        "mix everything well and enjoy!!!"
+    ],
+    "image": "mango-mastani.jpg",
+    "source": "https://www.vegrecipesofindia.com/mango-mastani-recipe",
+    "keywords": [
+        "fruit",
+        "non-alcoholic",
+        "sweet",
+        "refreshing"
+    ]
+}
