@@ -1,0 +1,72 @@
+{
+    "name": "Tender Coconut Payasam (Elaneer Payasam)",
+    "description": "A refreshing and creamy South Indian dessert drink made with tender coconut, milk, and cardamom. Lightly sweet with natural coconut flavors, best served chilled.",
+    "github": "M-DhanyaShree",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "whole milk"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "condensed milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "tbsp",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "2",
+            "measure": "units",
+            "ingredient": "tender coconut (flesh removed)"
+        },
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "grated coconut"
+        },
+        {
+            "quantity": "1/4",
+            "measure": "cup",
+            "ingredient": "tender coconut water"
+        },
+        {
+            "quantity": "4-5",
+            "measure": "pods",
+            "ingredient": "cardamom"
+        },
+        {
+            "quantity": "1",
+            "measure": "tsp",
+            "ingredient": "ghee"
+        },
+        {
+            "quantity": "10",
+            "measure": "pieces",
+            "ingredient": "cashews"
+        }
+    ],
+    "directions": [
+        "Scoop out the tender coconut flesh and chop into small pieces or blend partially for a creamy texture.",
+        "Blend grated coconut with tender coconut water and extract thick coconut milk.",
+        "Boil the whole milk in a pan and let it simmer until slightly reduced.",
+        "Add condensed milk and sugar, stirring continuously until dissolved and slightly thickened.",
+        "Add crushed cardamom pods for flavor.",
+        "Pour in the extracted coconut milk and mix gently.",
+        "Add tender coconut pieces and stir.",
+        "Heat ghee in a small pan and roast cashews until golden, then add to the payasam.",
+        "Cool to room temperature and refrigerate before serving chilled."
+    ],
+    "image": "tender-coconut-payasam.jpg",
+    "keywords": [
+        "indian",
+        "dessert",
+        "coconut",
+        "traditional",
+        "sweet",
+        "south indian"
+    ]
+}
